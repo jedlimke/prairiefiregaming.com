@@ -1,7 +1,7 @@
 // ============================================================================
 // FONTS
 // ============================================================================
-@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+@import "fonts";
 
 // ============================================================================
 // CSS VARIABLES
@@ -44,8 +44,8 @@
 	--border-width: 1px;
 
 	// Font stacks
-	--font-headers: "Figtree", serif;
-	--font-body: "Figtree", sans-serif;
+	--font-headers: "LT Tofino", "Lucida Grande", Helvetica, Arial, sans-serif;
+	--font-body: "LT Tofino", "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 // ============================================================================
@@ -194,6 +194,26 @@ em, i {
 
 strong {
 	font-weight: 900;
+}
+
+// Lists
+ul, ol {
+	font-size: 1.75em;
+	line-height: 1.6;
+	margin: 0 0 1em 0;
+	padding-left: 1.2em;
+	
+	@media screen and (max-width: 599px) {
+		font-size: 1.2em;
+	}
+	
+	li {
+		margin-bottom: 0.5em;
+		
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
 }
 
 // ============================================================================

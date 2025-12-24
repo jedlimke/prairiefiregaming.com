@@ -39,6 +39,7 @@ show_excerpts: true
 # Only show these pages in the top navigation
 header_pages:
   - about/index.md
+  - policies/index.md
   - news/index.md
 
 # =============================================================================

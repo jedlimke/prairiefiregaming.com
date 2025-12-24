@@ -1,0 +1,39 @@
+// ============================================================================
+// TOFINO FONT FACES
+// ============================================================================
+
+@font-face {
+	font-family: "LT Tofino";
+	src: url('../assets/fonts/tofino/regular/TofinoProPersonal-Book.woff2') format('woff2'),
+		 url('../assets/fonts/tofino/regular/Tofino-Book.woff') format('woff');
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "LT Tofino";
+	src: url('../assets/fonts/tofino/regular/TofinoProPersonal-BookItalic.woff2') format('woff2'),
+		 url('../assets/fonts/tofino/regular/Tofino-BookItalic.woff') format('woff');
+	font-style: italic;
+	font-weight: 300;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "LT Tofino";
+	src: url('../assets/fonts/tofino/regular/TofinoProPersonal-Semibold.woff2') format('woff2'),
+		 url('../assets/fonts/tofino/regular/Tofino-Semibold.woff') format('woff');
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "LT Tofino";
+	src: url('../assets/fonts/tofino/regular/TofinoProPersonal-Regular.woff2') format('woff2'),
+		 url('../assets/fonts/tofino/regular/Tofino-Regular.woff') format('woff');
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+}
