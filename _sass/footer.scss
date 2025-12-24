@@ -11,7 +11,6 @@
 	
 	display: grid;
 	gap: var(--spacing-unit);
-	grid-template-columns: 1fr;
 	grid-template-areas:
 		"footer-brand"
 		"footer-nav"
@@ -25,65 +24,45 @@
 			"footer-license footer-contact";
 	}
 
-	a:link,
-	a:visited {
+	a {
 		color: var(--brand-dark);
 		font-weight: bold;
-	}
-	
-	a:hover {
-		color: var(--brand-white);
+		
+		&:hover {
+			color: var(--brand-white);
+		}
 	}
 }
 
-// Footer brand area
 .footer-brand {
 	grid-area: footer-brand;
 
-	.footer-logo {
+	.footer-logo-mobile {
 		display: block;
-		
-		img {
-			width: auto;
-			height: auto;
-			max-width: 100%;
-		}
-		
-		// Mobile: show full horizontal logo, hide block logo
+		max-width: 100%;
+	}
+	
+	.footer-logo-desktop {
+		display: none;
+	}
+	
+	@media screen and (min-width: 800px) {
 		.footer-logo-mobile {
-			display: block;
-		}
-		
-		.footer-logo-desktop {
 			display: none;
 		}
 		
-		// Desktop: show block logo, hide horizontal logo
-		@media screen and (min-width: 800px) {
-			.footer-logo-mobile {
-				display: none;
-			}
-			
-			.footer-logo-desktop {
-				display: block;
-				height: 120px;
-				width: auto;
-			}
+		.footer-logo-desktop {
+			display: block;
+			height: 120px;
+			width: auto;
 		}
 	}
 }
 
-// Footer navigation
 .footer-nav {
 	grid-area: footer-nav;
 
-	@media screen and (min-width: 800px) {
-		justify-self: end;
-	}
-
 	ul {
-		text-align: left;
-		line-height: 1;
 		list-style: none;
 		margin: 0;
 		padding: 0;
@@ -92,19 +71,21 @@
 		gap: calc(var(--spacing-unit) / 2);
 		
 		@media screen and (min-width: 800px) {
-			text-align: right;
+			align-items: flex-end;
 		}
+	}
+	
+	li {
+		margin: 0;
 	}
 }
 
-// Copyright
 .footer-license {
 	grid-area: footer-license;
 	font-size: 0.5rem;
 	margin: 0;
 }
 
-// Contact info
 .footer-contact {
 	grid-area: footer-contact;
 	display: flex;
@@ -117,7 +98,6 @@
 		gap: 0;
 		justify-self: end;
 		
-		// Add bullets between items on desktop
 		a + a::before {
 			content: "•";
 			margin: 0 0.5em;
@@ -126,27 +106,8 @@
 	}
 }
 
-// Social icons (kept for potential future use)
+// Hidden for potential future use
 .footer-social-inline {
 	display: none;
-	
-	.social-media-list {
-		display: flex;
-		gap: var(--spacing-unit);
-		list-style: none;
-		margin: 0;
-		padding: 0;
-
-		.username {
-			position: absolute;
-			width: 1px;
-			height: 1px;
-			padding: 0;
-			margin: -1px;
-			overflow: hidden;
-			clip: rect(0, 0, 0, 0);
-			white-space: nowrap;
-			border-width: 0;
-		}
-	}
 }
+
