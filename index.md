@@ -1,6 +1,6 @@
 ---
 layout: home
-title: The Minnesota High School Fencing League (MNHSFL)
+title: Prairie Fire Gaming
 body_class: home
 ---
 

@@ -16,8 +16,6 @@ sass:
 # Exclude internal files from site
 exclude:
   - README.md
-  - _scripts/
-  - _tests/
   - Dockerfile
   - docker-compose.yml
   - DOCKER.md
@@ -41,9 +39,7 @@ show_excerpts: true
 # Only show these pages in the top navigation
 header_pages:
   - about/index.md
-  - competitors/index.md
   - news/index.md
-  - results/index.md
 
 # =============================================================================
 # Default frontmatter values

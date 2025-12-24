@@ -1,6 +1,6 @@
 # Running Website Locally with Docker
 
-This document explains how to run the MNHSFL website locally using Docker, which provides an environment that closely matches GitHub Pages.
+This document explains how to run the Prairie Fire Gaming website locally using Docker.
 
 ## Prerequisites
 
@@ -53,10 +53,6 @@ docker-compose logs -f
 - Edit files normally on your local machine
 - Changes are automatically detected and the site rebuilds
 - LiveReload is enabled - your browser will refresh automatically
-- Python scripts must be run manually if you add new results:
-  ```bash
-  python _scripts/convert_fencing_results.py
-  ```
 
 ### Cleaning Up
 
