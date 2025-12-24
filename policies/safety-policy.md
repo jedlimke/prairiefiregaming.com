@@ -7,7 +7,8 @@ permalink: /policies/safety-policy/
 # Safety Policy
 
 ## Purpose
-**Prairie Fire Gaming** is dedicated to providing a safe environment where everyone is treated with dignity and respect. Harassment or unwelcome conduct, whether verbal, physical, visual, or in any other form, is strictly prohibited. This policy applies to all persons involved in the operation or attendance of any venue or event in which Prairie Fire Gaming is involved. Prairie Fire Gaming will not tolerate harassment of anyone, by anyone, including participants, vendors, hosts, or staff.
+
+**Prairie Fire Gaming** is dedicated to providing a safe environment where everyone is treated with dignity and respect. Harassment or unwelcome conduct, whether verbal, physical, visual, or in any other form, is strictly prohibited. This policy applies to all persons involved in the operation or attendance of any venue or event in which Prairie Fire Gaming is involved. Prairie Fire Gaming will not tolerate harassment of anyone, by anyone, including participants, vendors, hosts, volunteers, or staff.
 
 ## Respectful Conflict
 The games we play often revolve around disagreement, and respectful conflict can lead to productive results; but these must be offered in good faith. Every participant's intention at all times should be a positive experience for all involved.
@@ -59,4 +60,4 @@ Prairie Fire Gaming may consider actions that occur outside its events when thos
 Some disagreements or interpersonal conflicts do not rise to harassment or abuse. Prairie Fire Gaming will not arbitrate such disputes—participants are asked to leave these conflicts at home.
 
 ## Continuous Improvement
-Prairie Fire Gaming strives to maintain a safe and welcoming environment. Suggestions for improvement may be sent to **[info@prairiefiregaming.com](mailto:info@prairiefiregaming.com)**.
+Prairie Fire Gaming strives to maintain a safe and welcoming environment. Suggestions for improvement may be sent to [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).

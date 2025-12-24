@@ -4,7 +4,7 @@ title: Policies
 permalink: /policies/
 ---
 
-# Prairie Fire Gaming Policies
+# Policies
 
 We are committed to providing safe, respectful, and enjoyable megagame experiences for all participants. Please review our policies:
 
