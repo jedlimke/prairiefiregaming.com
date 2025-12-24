@@ -1,21 +1,19 @@
 <footer class="layout-area--footer">
 
-	{%- comment -%} Logo and description {%- endcomment -%}
+	{%- comment -%} Logo {%- endcomment -%}
 	<div class="footer-brand">
 		<a href="{{ "/" | relative_url }}" class="footer-logo">
 			{%- if site.footer_logo -%}
-			<img src="{{ site.footer_logo | relative_url }}" alt="{{ site.title | escape }}">
-			{%- elsif site.logo -%}
-			<img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}">
-			{%- else -%}
-			{{ site.title | escape }}
+			<img src="{{ site.footer_logo | relative_url }}" alt="{{ site.title | escape }}" class="footer-logo-desktop">
+			{%- endif -%}
+			{%- if site.logo -%}
+			<img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" class="footer-logo-mobile">
 			{%- endif -%}
 		</a>
-		<p class="footer-description">{{ site.description | escape }}</p>
 	</div>
 
 	{%- comment -%} Navigation links {%- endcomment -%}
-	<div class="footer-nav">
+	<nav class="footer-nav">
 		{%- assign default_paths = site.pages | map: "path" -%}
 		{%- assign page_paths = site.header_pages | default: default_paths -%}
 		<ul>
@@ -26,14 +24,19 @@
 			{%- endif -%}
 			{%- endfor -%}
 		</ul>
+	</nav>
+
+	{%- comment -%} Contact info {%- endcomment -%}
+	<div class="footer-contact">
+		{%- if site.facebook_username -%}
+		<a href="https://www.facebook.com/{{ site.facebook_username | cgi_escape | escape }}">@{{ site.facebook_username | escape }}</a>
+		{%- endif -%}
+		{%- if site.email -%}
+		<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+		{%- endif -%}
 	</div>
 
 	{%- comment -%} Copyright {%- endcomment -%}
 	<p class="footer-license">&copy; {{ site.time | date: "%Y" }} {{ site.author | escape }} under the terms of the <a href="{{ '/LICENSE' | relative_url }}">MIT License</a>.</p>
-
-	{%- comment -%} Social icons {%- endcomment -%}
-	<div class="footer-social-inline">
-		{%- include social.html -%}
-	</div>
 
 </footer>
