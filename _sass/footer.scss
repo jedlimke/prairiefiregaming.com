@@ -5,7 +5,7 @@
  */
 
 .layout-area--footer {
-	background: var(--brand-orange);
+	background: linear-gradient(135deg, var(--brand-orange), var(--brand-pink));
 	color: var(--brand-white);
 	padding: var(--spacing-unit) max(var(--spacing-unit), calc((100vw - var(--content-max-width)) / 2));
 	
