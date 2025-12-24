@@ -5,8 +5,8 @@
  */
 
 .layout-area--footer {
-	background: var(--brand-blue);
-	color: var(--brand-gold);
+	background: var(--brand-orange);
+	color: var(--brand-white);
 	padding: var(--spacing-unit) max(var(--spacing-unit), calc((100vw - var(--content-max-width)) / 2));
 	display: grid;
 	grid-template-areas:
@@ -25,7 +25,12 @@
 
 	a:link,
 	a:visited {
-		color: var(--brand-gold);
+		color: var(--brand-dark);
+		font-weight: bold;
+	}
+	
+	a:hover {
+		color: var(--brand-white);
 	}
 }
 

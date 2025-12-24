@@ -20,19 +20,24 @@
 	--content-max-width: 1440px;
 	--reading-max-width: 800px;
 
-	// Brand colors
-	--brand-gold: #de9f43;
-	--brand-blue: #2b2c57;
+	// Brand colors (bold megagame palette)
+	--brand-dark: #222222;
 	--brand-white: #FFFFFF;
-	--brand-cream: #f0eade;
+	--brand-yellow: #FFCC00;
+	--brand-orange: #FF6600;
+	--brand-pink: #FF0066;
 
 	// Background colors
-	--bg-main: var(--brand-cream);
+	--bg-main: var(--brand-dark);
 	--bg-white: var(--brand-white);
+	--bg-yellow: var(--brand-yellow);
+	--bg-orange: var(--brand-orange);
+	--bg-pink: var(--brand-pink);
 
 	// Text colors
-	--text-color: #333;
-	--text-muted: #666;
+	--text-color: var(--brand-white);
+	--text-dark: var(--brand-dark);
+	--text-muted: #999;
 
 	// UX
 	--border-color: #00000022;
@@ -53,11 +58,21 @@
 }
 
 html {
-	font-size: 20px;
+	font-size: 16px;
+	overflow-x: hidden;
+	
+	@media screen and (min-width: 600px) {
+		font-size: 18px;
+	}
+	
+	@media screen and (min-width: 800px) {
+		font-size: 20px;
+	}
 }
 
 body {
 	background-color: var(--bg-main);
+	color: var(--text-color);
 	display: grid;
 	grid-template-areas:
 		"layout-area--header"
@@ -65,6 +80,16 @@ body {
 		"layout-area--footer";
 	grid-template-rows: auto 1fr auto;
 	min-height: 100vh;
+	overflow-x: hidden;
+	
+	// Better text rendering
+	text-rendering: optimizeLegibility;
+	-webkit-font-variant-ligatures: common-ligatures;
+	font-variant-ligatures: common-ligatures;
+	-webkit-font-feature-settings: "kern", "liga";
+	font-feature-settings: "kern", "liga";
+	-webkit-font-kerning: normal;
+	font-kerning: normal;
 }
 
 // ============================================================================
@@ -100,25 +125,75 @@ body {
 // ============================================================================
 h1, h2, h3, h4, h5, h6 {
 	font-family: var(--font-headers);
-	font-weight: 700;
-	color: var(--brand-gold);
-	line-height: 1;
+	font-weight: 900;
+	color: inherit;
+	line-height: 1.1;
+	margin: 0 0 0.5em 0;
+}
+
+h1 {
+	font-size: 3em;
+	
+	@media screen and (min-width: 600px) {
+		font-size: 4em;
+	}
+	
+	@media screen and (min-width: 800px) {
+		font-size: 5em;
+	}
+}
+
+h2 {
+	font-size: 2em;
+	
+	@media screen and (min-width: 600px) {
+		font-size: 2.5em;
+	}
 }
 
 body {
 	font-family: var(--font-body);
 	font-size: 1rem;
+	font-weight: 300;
 	color: var(--text-color);
 	line-height: 1.6;
 }
 
-a {
-	color: var(--brand-blue);
-	text-decoration: none;
-
-	&:hover {
-		text-decoration: underline;
+p {
+	font-size: 1.75em;
+	margin: 0 0 1em 0;
+	
+	@media screen and (max-width: 599px) {
+		font-size: 1.2em;
 	}
+}
+
+a {
+	color: var(--brand-yellow);
+	text-decoration: none;
+	font-weight: bold;
+	transition: all 100ms ease-out;
+	border-bottom: 2px solid transparent;
+	
+	&:hover {
+		color: var(--brand-pink);
+		text-decoration: none;
+	}
+}
+
+// Emphasis styling
+em, i {
+	font-style: normal;
+	font-weight: 900;
+	letter-spacing: 0.04em;
+	
+	@media screen and (max-width: 599px) {
+		letter-spacing: 0.02em;
+	}
+}
+
+strong {
+	font-weight: 900;
 }
 
 // ============================================================================

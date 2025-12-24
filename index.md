@@ -16,14 +16,6 @@ It's a 6+ hour, large-scale mix of role-playing, board gaming, diplomacy, and st
 
 Players are divided into teams of unique roles and responsibilities. Every role in the game has different responsibilities, ranging from handling international conflicts through military might to solving humanity's problems through careful planning and research. Each and every role is unique and every player will have a different experience on gameday, directly shaping the game itself through their actions.
 
-## Our History
-
-Prairie Fire Gaming has been creating memorable megagame experiences since 2017:
-
-- **Watch the Skies: Fargo** (December 2017) - A 54-player game about the arrival of aliens on Earth
-- **Sickle** (2019) - Our take on political intrigue and strategy
-- Multiple collaborations with the **Megagame Coalition (MGC)**, including events at Gen Con in Indianapolis
-
 ## Stay Connected
 
 Follow us on [Facebook @PrairieFireGaming](https://www.facebook.com/prairiefiregaming) for updates on upcoming events and megagame news.
