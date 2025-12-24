@@ -1,0 +1,146 @@
+/*
+ * Site header - CSS Grid layout
+ * Mobile/Tablet: logo left, hamburger right, collapsible menu expands and pushes content downward
+ * Desktop (800px+): logo left, nav items right
+ */
+
+.layout-area--header {
+	--stroke-width: 6px;
+
+    background: var(--brand-blue);
+	color: var(--brand-gold);
+    border-top: var(--stroke-width) solid var(--brand-white);
+    padding: var(--spacing-unit) max(var(--spacing-unit), calc((100vw - var(--content-max-width)) / 2));
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas:
+        "header-area--title  header-area--hamburger"
+        "header-area--nav    header-area--nav";
+	align-items: center;
+
+    @media screen and (min-width: 800px) {
+        grid-template-columns: auto 1fr;
+        grid-template-areas: "header-area--title  header-area--nav";
+    }
+}
+
+// Title / logo
+.header-area--title {
+    grid-area: header-area--title;
+    display: grid;
+
+    img {
+        display: block;
+        height: calc(1.5 * var(--spacing-unit));
+        width: auto;
+    }
+}
+
+// Hamburger menu trigger (mobile only)
+.hamburger {
+    grid-area: header-area--hamburger;
+    display: block;
+	opacity: 0;
+	position: absolute;
+	pointer-events: none;
+
+	@media screen and (min-width: 600px) {
+		display: none;
+	}
+}
+
+// Hamburger icon label
+label[for="hamburger"] {
+	grid-area: header-area--hamburger;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	cursor: pointer;
+
+	.menu-icon {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		svg {
+			display: block;
+			overflow: visible;
+			
+			.line {
+				stroke-width: calc(var(--stroke-width) * 100 / 30 / 2);
+				stroke-linecap: round;
+				stroke: var(--brand-blue);
+				transition: all 500ms;
+			}
+
+			.line--top {
+				transform-origin: 26px 40px;
+			}
+
+			.line--middle {
+				stroke-dasharray: 100 100;
+			}
+
+			.line--bottom {
+				transform-origin: 26px 60px;
+			}
+		}
+	}
+
+	@media screen and (min-width: 800px) {
+		display: none;
+	}
+}
+
+
+// When hamburger is checked, animate to X
+.hamburger:checked ~ label[for="hamburger"] .menu-icon svg {
+	.line--top {
+		transform: rotate(45deg);
+	}
+	
+	.line--middle {
+		stroke-dasharray: 1 100;
+		stroke-dashoffset: -50;
+	}
+	
+	.line--bottom {
+		transform: rotate(-45deg);
+	}
+}
+
+
+// When hamburger is checked, show the menu
+.hamburger:checked ~ .header-area--nav .trigger {
+	display: flex;
+}
+
+// Navigation area
+.header-area--nav {
+    grid-area: header-area--nav;
+
+    // The actual menu
+    .trigger {
+        display: none;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: var(--spacing-unit);
+        padding-top: var(--spacing-unit);
+
+        @media screen and (min-width: 800px) {
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-end;
+            padding-top: 0;
+        }
+    }
+
+    .page-link {
+        text-decoration: none;
+        color: var(--brand-gold);
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

@@ -1,0 +1,57 @@
+title: Prairie Fire Gaming
+description: Prairie Fire Gaming is dedicated to holding high-quality, immersive megagames in the Midwest.
+
+author: Prairie Fire Gaming
+
+# Site logos
+logo: /assets/prairiefiregaming.svg
+footer_logo: /assets/prairiefiregaming-block.svg
+
+# Sass configuration
+sass:
+  style: compressed
+  load_paths:
+    - assets
+
+# Exclude internal files from site
+exclude:
+  - README.md
+  - _scripts/
+  - _tests/
+  - Dockerfile
+  - docker-compose.yml
+  - DOCKER.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
+
+# =============================================================================
+# Social Links
+# Used by custom social.html include
+# =============================================================================
+facebook_username: prairiefiregaming
+
+# Contact email (shows in footer)
+email: info@prairiefiregaming.com
+
+# Show excerpts on home page
+show_excerpts: true
+
+# Only show these pages in the top navigation
+header_pages:
+  - about/index.md
+  - competitors/index.md
+  - news/index.md
+  - results/index.md
+
+# =============================================================================
+# Default frontmatter values
+# =============================================================================
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: post
+      categories: "news"

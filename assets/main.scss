@@ -1,0 +1,12 @@
+---
+---
+/* 
+ * Custom site - all styles defined in _sass/ directory.
+ */
+
+@import "base";      // CSS variables, reset, typography, global elements
+@import "header";    // Site header
+@import "footer";    // Site footer
+@import "home";      // Homepage
+@import "post";      // Blog posts
+

@@ -1,0 +1,99 @@
+/*
+ * Site footer - CSS Grid layout
+ * Mobile: stacked (logo, desc, links, social, copyright)
+ * Tablet/Desktop (800px+): ABOUT/LINKS grid, then COPYSOCIAL row
+ */
+
+.layout-area--footer {
+	background: var(--brand-blue);
+	color: var(--brand-gold);
+	padding: var(--spacing-unit) max(var(--spacing-unit), calc((100vw - var(--content-max-width)) / 2));
+	display: grid;
+	grid-template-areas:
+		"footer-area--brand"
+		"footer-area--links"
+		"footer-area--social"
+		"footer-area--copyright";
+	gap: var(--spacing-unit);
+
+	@media screen and (min-width: 800px) {
+		grid-template-columns: 2fr 1fr;
+		grid-template-areas:
+			"footer-area--brand footer-area--links"
+			"footer-area--copyright footer-area--social";
+	}
+
+	a:link,
+	a:visited {
+		color: var(--brand-gold);
+	}
+}
+
+// Footer brand area
+.footer-brand {
+	grid-area: footer-area--brand;
+
+	.footer-logo img {
+		height: 120px;
+		width: auto;
+	}
+}
+
+// Footer navigation
+.footer-nav {
+	grid-area: footer-area--links;
+
+	@media screen and (min-width: 800px) {
+		justify-self: end;
+	}
+
+	ul {
+		text-align: right;
+		line-height: 1;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: flex;
+		flex-direction: column;
+		gap: calc(var(--spacing-unit) / 2);
+	}
+}
+
+.footer-description {
+	font-size: 0.75rem;
+}
+
+// Copyright
+.footer-license {
+	grid-area: footer-area--copyright;
+	font-size: 0.5rem;
+}
+
+// Social icons
+.footer-social-inline {
+	grid-area: footer-area--social;
+
+	@media screen and (min-width: 800px) {
+		justify-self: end;
+	}
+
+	.social-media-list {
+		display: flex;
+		gap: var(--spacing-unit);
+		list-style: none;
+		margin: 0;
+		padding: 0;
+
+		.username {
+			position: absolute;
+			width: 1px;
+			height: 1px;
+			padding: 0;
+			margin: -1px;
+			overflow: hidden;
+			clip: rect(0, 0, 0, 0);
+			white-space: nowrap;
+			border-width: 0;
+		}
+	}
+}

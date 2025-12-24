@@ -1,0 +1,45 @@
+<header class="layout-area--header" role="banner">
+
+	{%- comment -%}
+		site.pages is automatically populated by Jekyll with all standalone HTML and Markdown files in the project that are not posts, drafts, or special files (like those in _posts, _includes, _layouts, sass, etc.).
+
+		It includes all .html and .md files in the root and subdirectories (except for those in special folders), making each file a Page object accessible via site.pages.
+	{%- endcomment -%}
+
+	{%- assign default_paths = site.pages | map: "path" -%}
+	{%- assign page_paths = site.header_pages | default: default_paths -%}
+
+	<a class="header-area--title" rel="author" href="{{ "/" | relative_url }}">
+		{%- if site.logo -%}
+		<img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}">
+		{%- else -%}
+		{{ site.title | escape }}
+		{%- endif -%}
+	</a>
+
+	<input type="checkbox" id="hamburger" class="hamburger" />
+	<label for="hamburger">
+		<span class="menu-icon">
+			<svg width="30" height="30" viewBox="0 0 100 100">
+				<path class="line line--top"    d="M 0,30 H 100"/>
+				<path class="line line--middle" d="M 0,50 H 100" />
+				<path class="line line--bottom" d="M 0,70 H 100"/>
+			</svg>
+		</span>
+	</label>
+
+	{%- if page_paths -%}
+	<nav class="header-area--nav">
+
+		<div class="trigger">
+			{%- for path in page_paths -%}
+			{%- assign my_page = site.pages | where: "path", path | first -%}
+			{%- if my_page.title -%}
+			<a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+			{%- endif -%}
+			{%- endfor -%}
+		</div>
+	</nav>
+	{%- endif -%}
+
+</header>
