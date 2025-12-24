@@ -1,12 +1,22 @@
 ---
-title: "Example Post"
+title: "Welcome to Prairie Fire Gaming"
 date: 2025-12-23
-image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwayofthesword.org%2Fwp-content%2Fuploads%2F2022%2F08%2F302424524_10229779930349072_6856038814919373044_n.jpeg&f=1&nofb=1&ipt=573d6da0ac548a9a5c0867a861d2e9c1cb3cb6f2ca73e5e62dc961fa602164fd
-excerpt: "ASDF"
+excerpt: "We're excited to announce the relaunch of Prairie Fire Gaming and our plans for 2026."
 ---
 
-Type whatever you want.
+After a few years away, Prairie Fire Gaming is back and ready to bring epic megagame experiences to the Midwest once again.
 
-## Heading of some sort
+## What's Coming
 
-Want something **bold** or _italic_ or ~~struckthrough~~?
+We're in the planning stages for our next major event. Stay tuned to this space and follow us on [Facebook](https://www.facebook.com/prairiefiregaming) for announcements about:
+
+- Game dates and locations
+- Ticket sales
+- What roles and scenarios we'll be running
+- Opportunities to get involved as organizers or facilitators
+
+## Join the Community
+
+Whether you've played with us before or you're curious about what a megagame even is, we'd love to hear from you. Drop us a line at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com) or connect with us on social media.
+
+Let's make 2026 legendary.
