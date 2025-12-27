@@ -352,19 +352,20 @@ table {
 .post-header,
 .post-content,
 .page-header,
-.page-content,
 .post-summary {
 	display: flex;
 	flex-direction: column;
 	gap: var(--spacing-unit);
 }
 
+// Page content gets double gap for better separation of sections/articles
+.page-content {
+	display: flex;
+	flex-direction: column;
+	gap: calc(var(--spacing-unit) * 2);
+}
+
 .post-meta {
 	font-size: 0.75rem;
 	color: var(--text-muted);
-}
-
-// Spacing between successive post summaries (events landing page)
-.post-summary + .post-summary {
-	margin-top: calc(var(--spacing-unit) * 2);
 }

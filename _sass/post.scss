@@ -2,9 +2,14 @@
  * Post page styles
  */
 
- article {
+article {
 	margin: calc(var(--spacing-unit) * 2) 0;
- }
+}
+
+// Remove margins from articles within page-content (e.g., events list)
+.page-content article {
+	margin: 0;
+}
 
 .post-hero {
 	width: 100vw;
