@@ -2,6 +2,10 @@
  * Post page styles
  */
 
+ article {
+	margin: calc(var(--spacing-unit) * 2) 0;
+ }
+
 .post-hero {
 	width: 100vw;
 	margin-left: calc(-50vw + 50%);
@@ -9,6 +13,8 @@
 	background-size: cover;
 	background-position: center;
 	position: relative;
+	margin-top: calc(-1 * var(--spacing-unit) * 2);
+	margin-bottom: calc(var(--spacing-unit) * 2);
 
 	// @media screen and (min-width: 1200px) {
 	// 	min-height: 80vmin;

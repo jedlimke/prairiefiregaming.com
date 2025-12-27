@@ -126,9 +126,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-family: var(--font-headers);
 	font-weight: 900;
-	color: inherit;
 	line-height: 1.1;
-	margin: 0 0 0.5em 0;
+	margin: 0;
+	color: inherit;
 }
 
 h1 {
@@ -171,16 +171,6 @@ h6 {
 	font-size: 1.1em;
 }
 
-// Headers after horizontal rules need top spacing
-hr + h1,
-hr + h2,
-hr + h3,
-hr + h4,
-hr + h5,
-hr + h6 {
-	margin-top: 1.5rem;
-}
-
 body {
 	font-family: var(--font-body);
 	font-size: 1rem;
@@ -189,9 +179,13 @@ body {
 	line-height: 1.6;
 }
 
+hr {
+	margin: calc(2 * var(--spacing-unit)) 0;
+}
+
 p {
 	font-size: 1.5em;
-	margin: 0 0 1em 0;
+	margin: 0;
 	
 	@media screen and (max-width: 599px) {
 		font-size: 1.2em;
@@ -341,7 +335,7 @@ table {
 	header, .post-content {
 		display: flex;
 		flex-direction: column;
-		gap: calc(var(--spacing-unit) / 3);
+		gap: var(--spacing-unit);
 	}
 
 	.post-meta {
