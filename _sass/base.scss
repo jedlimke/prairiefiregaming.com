@@ -151,6 +151,36 @@ h2 {
 	}
 }
 
+h3 {
+	font-size: 1.75em;
+	
+	@media screen and (min-width: 600px) {
+		font-size: 2em;
+	}
+}
+
+h4 {
+	font-size: 1.5em;
+}
+
+h5 {
+	font-size: 1.25em;
+}
+
+h6 {
+	font-size: 1.1em;
+}
+
+// Headers after horizontal rules need top spacing
+hr + h1,
+hr + h2,
+hr + h3,
+hr + h4,
+hr + h5,
+hr + h6 {
+	margin-top: 1.5rem;
+}
+
 body {
 	font-family: var(--font-body);
 	font-size: 1rem;
@@ -160,7 +190,7 @@ body {
 }
 
 p {
-	font-size: 1.75em;
+	font-size: 1.5em;
 	margin: 0 0 1em 0;
 	
 	@media screen and (max-width: 599px) {
@@ -193,7 +223,7 @@ strong {
 
 // Lists
 ul, ol {
-	font-size: 1.75em;
+	font-size: 1.5em;
 	line-height: 1.6;
 	margin: 0 0 1em 0;
 	padding-left: 1.2em;
