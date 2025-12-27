@@ -43,6 +43,10 @@
 	opacity: 0;
 	position: absolute;
 	pointer-events: none;
+	
+	&:focus {
+		outline: none;
+	}
 
 	@media screen and (min-width: 600px) {
 		display: none;
@@ -56,6 +60,11 @@ label[for="hamburger"] {
 	align-items: center;
 	justify-content: flex-end;
 	cursor: pointer;
+	-webkit-tap-highlight-color: transparent;
+	
+	&:focus {
+		outline: none;
+	}
 
 	.menu-icon {
 		display: flex;
@@ -69,7 +78,7 @@ label[for="hamburger"] {
 			.line {
 				stroke-width: calc(var(--stroke-width) * 100 / 30 / 2);
 				stroke-linecap: round;
-				stroke: var(--brand-blue);
+				stroke: var(--brand-white);
 				transition: all 500ms;
 			}
 
