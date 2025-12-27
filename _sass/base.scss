@@ -58,7 +58,7 @@
 }
 
 html {
-	font-size: 16px;
+	font-size: 15px;
 	overflow-x: hidden;
 	
 	@media screen and (min-width: 600px) {
@@ -183,13 +183,8 @@ a {
 
 // Emphasis styling
 em, i {
-	font-style: normal;
-	font-weight: 900;
-	letter-spacing: 0.04em;
-	
-	@media screen and (max-width: 599px) {
-		letter-spacing: 0.02em;
-	}
+	font-style: italic;
+	font-weight: 300;
 }
 
 strong {

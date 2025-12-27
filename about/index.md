@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About Prairie Fire Gaming
+# About
 
 Prairie Fire Gaming creates and hosts immersive megagame experiences in the Midwest.
 

@@ -40,7 +40,7 @@ show_excerpts: true
 header_pages:
   - about/index.md
   - policies/index.md
-  - news/index.md
+  - events/index.md
 
 # =============================================================================
 # Default frontmatter values

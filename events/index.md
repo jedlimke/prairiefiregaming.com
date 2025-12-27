@@ -1,12 +1,10 @@
 ---
 layout: page
-title: News
-permalink: /news/
+title: Events
+permalink: /events/
 ---
 
-# News
-
-{% assign result_posts = site.categories.news %}
+{% assign result_posts = site.posts %}
 
 {% for post in result_posts %}
   <article class="post-summary">
@@ -23,5 +21,5 @@ permalink: /news/
 {% endfor %}
 
 {% if result_posts.size == 0 %}
-  <p>No news yet. Check back soon!</p>
+  <p>No events yet. Check back soon!</p>
 {% endif %}
