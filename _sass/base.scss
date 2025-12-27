@@ -332,13 +332,8 @@ table {
 	flex-direction: column;
 	gap: var(--spacing-unit);
 
-	header, .post-content {
-		display: flex;
-		flex-direction: column;
-		gap: var(--spacing-unit);
-	}
-
-	.post-content {
+	.post-content,
+	.page-content {
 		p + h1, p + h2, p + h3, p + h4, p + h5, p + h6 {
 			margin-top: var(--spacing-unit);
 
@@ -348,22 +343,28 @@ table {
 		}
 	}
 
-	.post-meta {
-		font-size: 0.75rem;
-		color: var(--text-muted);
-	}
-
 	&.post--with-hero {
 		padding-top: 0;
 	}
 }
 
+// Shared grid structure for post/page headers, content, and summaries
+.post-header,
+.post-content,
+.page-header,
+.page-content,
 .post-summary {
 	display: flex;
 	flex-direction: column;
-	gap: calc(var(--spacing-unit) / 3);
+	gap: var(--spacing-unit);
 }
 
-.page {
-	padding: var(--spacing-unit);
+.post-meta {
+	font-size: 0.75rem;
+	color: var(--text-muted);
+}
+
+// Spacing between successive post summaries (events landing page)
+.post-summary + .post-summary {
+	margin-top: calc(var(--spacing-unit) * 2);
 }

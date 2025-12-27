@@ -4,6 +4,8 @@ title: Events
 permalink: /events/
 ---
 
+<h1>Events</h1>
+
 {% assign result_posts = site.posts %}
 
 {% for post in result_posts %}
