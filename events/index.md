@@ -15,7 +15,7 @@ permalink: /events/
 		</p>
 	</header>
     {% if post.excerpt %}
-      <p>{{ post.excerpt | truncate: 100 }}</p>
+      <p>{{ post.excerpt | strip_html }}</p>
     {% endif %}
   </article>
 {% endfor %}

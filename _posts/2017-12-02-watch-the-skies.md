@@ -3,6 +3,7 @@ layout: post
 title: "Watch the Skies"
 date: 2017-12-02
 image: /assets/megagames/wts-hero.png
+excerpt: "Prairie Fire Gaming's inaugural megagame brought 90 players together for an unforgettable experience of international diplomacy, alien encounters, and global crisis management."
 ---
 
 Prairie Fire Gaming's inaugural megagame brought 90 players together for an unforgettable experience of international diplomacy, alien encounters, and global crisis management.

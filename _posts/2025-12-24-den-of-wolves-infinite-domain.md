@@ -2,6 +2,7 @@
 layout: post
 title: "Den of Wolves: Infinite Domain — March 7, 2026"
 date: 2025-12-24
+excerpt: "60 players! 6 hours! 100% fun! Inspired by the pilot of Battlestar Galactica, Den of Wolves is a cooperative megagame that combines elements of board games and diplomacy."
 # image: /assets/megagames/den-of-wolves-hero.jpg
 ---
 
