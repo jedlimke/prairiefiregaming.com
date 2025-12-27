@@ -19,11 +19,15 @@ _As it should be._
 
 ---
 
-## After-Action Report: First Contact in Fargo
+## After-Action Report
 
 When the aliens arrived, it was a fascinating case study in reactions. An amazing display of human stubbornness to continue to pursue previous ends, as if a game-changer had not occurred—as if they saw the visitation of aliens as merely a profitable distraction by which they could catch the rest of the world unawares.
 
-The three media organizations—Eclipse News, HypnoWars, and National News Network (NNN)—documented every twist and turn. What follows is their story.
+The three media organizations—Eclipse News, HypnoWars, and National News Network (NNN)—documented every twist and turn.
+
+_What follows is their story._
+
+![Media reporters covering the alien crisis](/assets/megagames/wts-hypnowars-reporters.jpg)
 
 ### The Beginning: First Contact and Early Tensions
 
@@ -35,11 +39,13 @@ The world would never be the same.
 
 As alien artifacts began appearing across the globe—in South America, Africa, and beyond—nations scrambled to secure them. Brazil discovered relics in the Amazon that were confirmed to be "not made on planet Earth." Japan made parallel discoveries in Venezuela. The global research community pivoted from South America to Asia and Africa as new sites were identified.
 
+![Delegates debating the crisis](/assets/megagames/wts-random-pointing.jpg)
+
 But the artifacts brought consequences. A mysterious illness—initially thought to be Alzheimer's-like—began spreading. Reports from Saudi Arabia described officials developing strange behaviors and blue complexions. YouTube videos raised questions of extraterrestrial involvement. The Saudi monarchy mobilized forces, closed borders, and allegedly implemented mandatory genetic testing.
 
-### The Middle: Capgras Delusion and Fractured Alliances
+### The Middle: _The Capgras Delusion_ and Fractured Alliances
 
-The illness had a name: **Capgras Delusion**. Victims believed their loved ones, friends, and coworkers had been replaced by impostors. The United States had undisclosed information about the outbreak. Japan confirmed it originated in Russia and announced they were "increasingly afraid that this disease has affected the Russian Government."
+The illness had a name: _The Capgras Delusion_. Victims believed their loved ones, friends, and coworkers had been replaced by impostors. The United States had undisclosed information about the outbreak. Japan confirmed it originated in Russia and announced they were "increasingly afraid that this disease has affected the Russian Government."
 
 Brazil became a flashpoint. After a Brazilian spy was caught in the UK, tensions exploded. Brazil was accused of attempting to steal nuclear technology and ordering the assassination of Burma's Head of State to frame China. The UK formally condemned Brazil, though Japan attempted to normalize relations between the feuding powers.
 
@@ -85,22 +91,25 @@ In a desperate final move, the UN consolidated control of all nuclear arsenals u
 
 When it was over, humanity had survived first contact—barely.
 
+![The final moments of Watch the Skies](/assets/megagames/wts-end-of-game.jpg)
+
 Some highlights from the chaos:
-- HypnoWars maintained throughout that they were more rational than the world's governments, ending their coverage with the headline: "Well, We Tried: How HypnoWars Was Saner Than World Governments"
-- Brazil offered "40 acres and a mule" to displaced Venezuelans
-- A Chinese ambassador was reportedly "having a fling with the aliens"
+- An ambassador was reportedly "having a fling with the aliens"
 - Russia launched an artifact-laden missile into the sun for reasons that remained unclear
-- That Chinese ambassador actually _was_ "having a fling with the aliens"
+- That ambassador actually _was_ "having a fling with the aliens"
 - Someone nuked the Moon because they were "bored"
 - NDSU beat San Diego 38-3
 - The UK played the entire game without tea _(a travesty)_
 - Eclipse News confirmed they'd been in possession of advanced satellite technology all along
 - NNN never found Waldo
+- HypnoWars maintained throughout that they were more rational than the world's governments, ending their coverage with the headline: "Well, We Tried: How HypnoWars Was Saner Than World Governments"
 
-Three alien factions remained: one hive collective claiming to have defended Earth for 2 million years, and two "evil alien factions" that the hive was protecting humanity from. The Capgras Delusion, it turned out, was caused by dangerous alien artifacts—the very ones the aliens wanted removed.
+![HypnoWars' final assessment](/assets/megagames/wts-hypnowars-accurate.png)
+
+Three alien factions remained: one hive collective claiming to have defended Earth for 2 million years, and two "evil alien factions" that the hive was protecting humanity from. _The Capgras Delusion_, it turned out, was caused by dangerous alien artifacts—the very ones the aliens wanted removed.
 
 Russia had unearthed powerful alien weapon technology in Siberia. Several nations ended the game bankrupt. The UK and Japan remained militantly anti-alien. France's loyalty was questioned by everyone. And the aliens' terraforming operations—an attempt to turn Earth into "a giant battery"—had been disrupted, at least temporarily.
 
 Humanity was divided, paranoid, and armed with nuclear weapons and partially-understood alien technology.
 
-But alive.
+_But alive._
