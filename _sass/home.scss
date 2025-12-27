@@ -10,6 +10,13 @@
 	align-items: center;
 	justify-content: center;
 	text-align: center;
+	border: none;
+	text-decoration: none;
+	transition: opacity 200ms ease-out;
+
+	&:hover {
+		opacity: 0.9;
+	}
 
 	@media screen and (min-width: 800px) {
 		padding: calc(var(--spacing-unit) * 3) var(--spacing-unit);

@@ -1,8 +1,23 @@
 ---
 layout: base
 ---
-<article class="page content-wrapper" itemscope itemtype="http://schema.org/WebPage">
+<article class="page{% if page.image %} page--with-hero{% endif %}" itemscope itemtype="http://schema.org/WebPage">
 
-	{{ content | responsive_tables }}
+	{%- comment -%} Hero image if present {%- endcomment -%}
+	{%- if page.image -%}
+	<div class="page-hero" style="background-image: url('{{ page.image }}')">
+		<div class="page-hero-overlay"></div>
+	</div>
+	{%- endif -%}
+
+	{%- comment -%} Page header {%- endcomment -%}
+	<header class="page-header content-wrapper">
+		<h1 class="page-title" itemprop="headline">{{ page.title | escape }}</h1>
+	</header>
+
+	{%- comment -%} Page content {%- endcomment -%}
+	<div class="page-content content-wrapper" itemprop="mainContentOfPage">
+		{{ content | responsive_tables }}
+	</div>
 
 </article>
