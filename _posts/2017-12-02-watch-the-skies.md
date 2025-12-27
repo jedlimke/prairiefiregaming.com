@@ -87,11 +87,12 @@ When it was over, humanity had survived first contact—barely.
 
 Some highlights from the chaos:
 - HypnoWars maintained throughout that they were more rational than the world's governments, ending their coverage with the headline: "Well, We Tried: How HypnoWars Was Saner Than World Governments"
-- The NDSU Bison won 38-3 _(someone had the game feed running)_
 - Brazil offered "40 acres and a mule" to displaced Venezuelans
-- One Chinese ambassador was reportedly "having a fling with the aliens"
+- A Chinese ambassador was reportedly "having a fling with the aliens"
 - Russia launched an artifact-laden missile into the sun for reasons that remained unclear
+- That Chinese ambassador actually _was_ "having a fling with the aliens"
 - Someone nuked the Moon because they were "bored"
+- NDSU beat San Diego 38-3
 - The UK played the entire game without tea _(a travesty)_
 - Eclipse News confirmed they'd been in possession of advanced satellite technology all along
 - NNN never found Waldo

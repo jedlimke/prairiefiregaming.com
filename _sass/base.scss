@@ -103,7 +103,7 @@ body {
 	grid-area: layout-area--content;
 
 	display: grid;
-	gap: var(--spacing-unit);
+	// gap: var(--spacing-unit);
 }
 
 .layout-area--footer {
@@ -336,6 +336,16 @@ table {
 		display: flex;
 		flex-direction: column;
 		gap: var(--spacing-unit);
+	}
+
+	.post-content {
+		p + h1, p + h2, p + h3, p + h4, p + h5, p + h6 {
+			margin-top: var(--spacing-unit);
+
+			&:first-child {
+				margin-top: 0;
+			}
+		}
 	}
 
 	.post-meta {
