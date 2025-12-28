@@ -373,10 +373,16 @@ table {
 	border-right: dashed 0.5em var(--brand-yellow);
 	padding-right: var(--spacing-unit);
 	position: relative;
+	box-sizing: border-box;
 
 	display: flex;
 	flex-direction: column;
 	gap: calc(var(--spacing-unit) / 2);
+	
+	// Hide dashed border on iOS Safari (where it doesn't render properly)
+	@supports (-webkit-touch-callout: none) {
+		border-right: none;
+	}
 	
 	// Label positioned outside the box (uses data-label attribute or defaults to "SUMMARY")
 	&::before {
@@ -390,8 +396,14 @@ table {
 		color: inherit;
 		white-space: nowrap;
 		text-transform: uppercase;
+		z-index: 1;
 
 		font-size: 1em;
+		
+		// Adjust position on iOS Safari (no dashed border to account for)
+		@supports (-webkit-touch-callout: none) {
+			right: 0;
+		}
 	}
 	
 	// Default to "SUMMARY" if no data-label attribute
@@ -410,6 +422,16 @@ table {
 
 	* {
 		margin: 0;
+	}
+	
+	// When the entire callout is a link
+	&:is(a) {
+		text-decoration: none;
+		transition: all 0.2s ease;
+		
+		&:hover {
+			transform: translateX(0.5em);
+		}
 	}
 	
 	// ========================================

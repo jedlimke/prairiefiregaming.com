@@ -33,4 +33,10 @@ Beware! There may be secret traitorous roles among us!
 - Cosplay welcomed and praised but entirely optional.
 - Age Limit: 16+ with adult escort, otherwise 18+.
 
+{::nomarkdown}
+<a href="https://www.eventbrite.com" class="callout cta" data-label="Register Now">
+<strong>Tickets are $40</strong> and available through Eventbrite. Registration opens January 15th, 2026!
+</a>
+{:/nomarkdown}
+
 Have questions or concerns? Please reach out at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com)

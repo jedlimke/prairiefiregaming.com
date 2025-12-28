@@ -4,7 +4,7 @@ title: Accessibility & Accommodations
 permalink: /policies/accessibility/
 ---
 
-# Accessibility & Accommodations
+# Accessibility
 
 <div class="callout" markdown="1">
 We want our events to be accessible to as many people as possible. If you need accommodations, contact us at least **two weeks before the event** and we'll do our best to help. That said, we're a small volunteer organization with limited resources—we can't guarantee we'll be able to meet every need.
