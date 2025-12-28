@@ -370,6 +370,8 @@ table {
 	padding: var(--spacing-unit) 0;
 	border-top: solid 0.5em var(--brand-yellow);
 	border-bottom: solid 0.5em var(--brand-yellow);
+	border-right: dashed 0.5em var(--brand-yellow);
+	padding-right: var(--spacing-unit);
 	position: relative;
 
 	display: flex;
@@ -381,7 +383,7 @@ table {
 		content: attr(data-label);
 		position: absolute;
 		bottom: -1.5em;
-		right: 0;
+		right: -0.5em;
 		transform-origin: bottom right;
 		font-weight: 900;
 		line-height: 0;
