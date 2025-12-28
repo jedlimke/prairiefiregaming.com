@@ -5,7 +5,7 @@ permalink: /megagames/den-of-wolves/
 image: /assets/megagames/den-of-wolves-hero.jpg
 ---
 
-60 players! 6 hours! 100% fun! Inspired by the pilot of Battlestar Galactica, Den of Wolves is a cooperative megagame that combines elements of board games and diplomacy. Players cooperate to allocate resources while fending off waves of attacks from the vile "wolves". Beware! These wolves are tricky, and a traitor may roam amongst us.
+60 players! 6 hours! 100% fun! Inspired by the pilot of _Battlestar Galactica_, **Den of Wolves** is a cooperative megagame that combines elements of board games and diplomacy. Players cooperate to allocate resources while fending off waves of attacks from the vile "wolves". Beware! These wolves are tricky, and a traitor may roam amongst us.
 
 # Den of Wolves: Infinite Domain
 
