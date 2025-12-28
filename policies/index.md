@@ -10,3 +10,4 @@ We are committed to providing safe, respectful, and enjoyable megagame experienc
 
 - [Safety Policy](safety-policy/) - Our commitment to a harassment-free environment
 - [Media Policy](media-policy/) - How we handle photography, video, and recordings at events
+- [Refund & Cancellation Policy](refund-policy/) - What to expect if plans change
