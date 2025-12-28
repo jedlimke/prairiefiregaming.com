@@ -366,10 +366,8 @@ table {
 // CALLOUT BOX
 // ============================================================================
 .callout {
-	// background-color: var(--brand-yellow);
 	color: var(--brand-yellow);
 	padding: var(--spacing-unit) 0;
-	// border-radius: calc(var(--spacing-unit) / 2);
 	border-top: solid 0.5em var(--brand-yellow);
 	border-bottom: solid 0.5em var(--brand-yellow);
 	position: relative;
@@ -378,24 +376,30 @@ table {
 	flex-direction: column;
 	gap: calc(var(--spacing-unit) / 2);
 	
-	// "SUMMARY" label positioned outside the box
+	// Label positioned outside the box (uses data-label attribute or defaults to "SUMMARY")
 	&::before {
-		content: "SUMMARY";
+		content: attr(data-label);
 		position: absolute;
 		bottom: -1.5em;
 		right: 0;
 		transform-origin: bottom right;
 		font-weight: 900;
 		line-height: 0;
-		color: var(--brand-yellow);
+		color: inherit;
 		white-space: nowrap;
+		text-transform: uppercase;
 
 		font-size: 1em;
 	}
 	
-	// Override link colors for better contrast on yellow
+	// Default to "SUMMARY" if no data-label attribute
+	&:not([data-label])::before {
+		content: "SUMMARY";
+	}
+	
+	// Override link colors
 	a {
-		color: var(--brand-yellow);
+		color: inherit;
 		
 		&:hover {
 			color: var(--brand-pink);
@@ -404,5 +408,37 @@ table {
 
 	* {
 		margin: 0;
+	}
+	
+	// ========================================
+	// Callout variants
+	// ========================================
+	
+	// Info (blue) - neutral information
+	&.info {
+		--callout-color: #40e0d0;
+		color: var(--callout-color);
+		border-color: var(--callout-color);
+	}
+	
+	// Success (green) - positive confirmation
+	&.success {
+		--callout-color: #7ED321;
+		color: var(--callout-color);
+		border-color: var(--callout-color);
+	}
+	
+	// Warning (yellow/orange) - caution, default
+	&.warning {
+		--callout-color: var(--brand-yellow);
+		color: var(--callout-color);
+		border-color: var(--callout-color);
+	}
+	
+	// Danger (red) - critical, error
+	&.danger {
+		--callout-color: #E23E57;
+		color: var(--callout-color);
+		border-color: var(--callout-color);
 	}
 }

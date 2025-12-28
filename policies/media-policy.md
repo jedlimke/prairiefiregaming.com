@@ -10,8 +10,9 @@ permalink: /policies/media-policy/
 By attending our events, you consent to being photographed and recorded (audio/video) without compensation. We'll use this media for Prairie Fire Gaming purposes—websites, social media, news, advertising, and anything else related to Prairie Fire Gaming. If you're not comfortable with that, please don't attend.
 </div>
 
-## Definition
-For the purposes of this policy, "likeness" refers to a person's image, voice, and name as captured in photography, audio, or video recordings. "Media" refers to any content created from event participation, including a participant's likeness, direct recordings, and/or content generated or enhanced by computer algorithms, software, or artificial intelligence (AI) tools.
+<div class="callout info" markdown="1" data-label="Definition">
+"Likeness" refers to a person's image, voice, and name as captured in photography, audio, or video recordings. "Media" refers to any content created from event participation, including a participant's likeness, direct recordings, and/or content generated or enhanced by computer algorithms, software, or artificial intelligence (AI) tools.
+</div>
 
 ## Purpose
 To ensure all participants, volunteers, and staff at **Prairie Fire Gaming** events understand how photography, audio, and video recordings may be used, and to respect privacy and safety concerns.
