@@ -5,33 +5,19 @@ permalink: /megagames/den-of-wolves/
 image: /assets/megagames/den-of-wolves-hero.jpg
 ---
 
-60 players! 6 hours! 100% fun! Inspired by the pilot of _Battlestar Galactica_, **Den of Wolves** is a cooperative megagame that combines elements of board games and diplomacy. Players cooperate to allocate resources while fending off waves of attacks from the vile "wolves". Beware! These wolves are tricky, and a traitor may roam amongst us.
+# Den of Wolves
 
-# Den of Wolves: Infinite Domain
+**March 7, 2026 · Fargo · 6 Hours · 60 Players**
 
-**Den of Wolves: Infinite Domain** is an expansion to the original Den of Wolves which increases the player count and incorporates new ships as well as several bonus roles.
+Humanity is on the run.
 
-## March 7, 2026 at West Acres
+A catastrophic attack has left you with one warship and a handful of civilian vessels fleeing into deep space. The enemy—the "wolves"—are relentless, closing in from behind. Resources are scarce. Trust is scarcer. And somewhere among your crew... there might be a traitor.
 
-Prairie Fire Gaming is proud to present Den of Wolves - the modern megagame classic by the UK upstart designer, John Mizon of [SW Megagames](https://www.swmegagames.co.uk/den-of-wolves).
+**Den of Wolves** is a cooperative megagame about survival under pressure. You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive. Think _Battlestar Galactica_ meets high-stakes board gaming meets live-action chaos.
 
-Den of Wolves is one of the most-played megagames of all time, sporting strong themes common in military sci-fi (like the Alien series or The Expanse) and satisfying resource management mechanics. Folks familiar with the pilot of Battlestar Galactica will find very similar themes and setting.
+You might be a ship captain coordinating with engineers to keep the lights on. You might be a politician arguing over who gets the last supply of fuel. You might be military personnel tracking enemy movements. Or you might be the wolf—sabotaging everything from within.
 
-## The Setting
-
-A small fleet of interstellar vessels tries to balance survival, politics and military challenges as they attempt to stay one step ahead of their pursuers.
-
-It is the 27th Century. After a catastrophic attack on humanity, one battleship and a few civilian vessels must fight to survive, govern themselves and maintain order, as they flee from their pursuers. Den of Wolves is a game about difficult political, military and survival choices in a long-term crisis scenario. Players will take on the roles of starship captains, officers, and engineers, as well as politicians and military personnel. The game has a focus on managing resources, as well as various units and assets – however, talking and negotiating with other players will be crucial in order to achieve success. The game also seeks to represent political and military systems, and their decisions, and so players should expect some political simulation.
-
-**Wolves**
-
-Beware! There may be secret traitorous roles among us!
-
-## The Deetz!
-
-- Rules and roles will be distributed via email before the event. The rules will also be gone over at the start of the game for those who didn't have time to read the rules.
-- Cosplay welcomed and praised but entirely optional.
-- Age Limit: 16+ with adult escort, otherwise 18+.
+One of the most-played megagames of all time. Designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/den-of-wolves).
 
 {::nomarkdown}
 <a href="https://www.eventbrite.com" class="callout cta" data-label="Register Now">
@@ -39,4 +25,26 @@ Beware! There may be secret traitorous roles among us!
 </a>
 {:/nomarkdown}
 
-Have questions or concerns? Please reach out at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com)
+## What You'll Do
+
+**Manage Resources** — Fuel, ammunition, food, medicine. Every decision matters when supplies are limited and the fleet keeps moving.
+
+**Make Political Decisions** — Who gets rescued? Where do we jump next? Do we trust the intel? You'll debate, negotiate, and vote on the fleet's survival.
+
+**Fight or Flight** — Military teams coordinate defense. Engineering teams keep ships operational. Medical teams treat casualties. Everyone has a job. Not everyone survives.
+
+**Trust No One** — Traitors exist. They're hidden. They're working against you. Or maybe they're not. Paranoia is part of the experience.
+
+## What You Need to Know
+
+- **No experience required** — Rules will be sent via email and taught at the start. You'll learn as you play.
+- **Cosplay encouraged** — Come as a ship captain, a politician, a refugee. Or just wear comfortable clothes. Either works.
+- **Age limit: 16+ with adult, otherwise 18+** — This is a long, intense game with mature themes.
+
+{::nomarkdown}
+<a href="https://www.eventbrite.com" class="callout cta" data-label="Register Now">
+<strong>Tickets are $40</strong> and available through Eventbrite. Registration opens January 15th, 2026!
+</a>
+{:/nomarkdown}
+
+Questions? Email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com)
