@@ -7,11 +7,15 @@ permalink: /policies/media-policy/
 # Media Policy
 
 <div class="callout" markdown="1">
-By attending our events, you consent to being photographed and recorded (audio/video) without compensation. We'll use this media for Prairie Fire Gaming purposes—websites, social media, news, advertising, and anything else related to Prairie Fire Gaming. If you're not comfortable with that, please don't attend.
+By attending our events, you consent to being photographed and recorded (audio/video) without compensation. We'll use this media for Prairie Fire Gaming purposes—websites, social media, news, advertising, and anything else related to Prairie Fire Gaming. If you're not comfortable with that, **please don't attend.**
 </div>
 
 <div class="callout info" markdown="1" data-label="Definition">
-"Likeness" refers to a person's image, voice, and name as captured in photography, audio, or video recordings. "Media" refers to any content created from event participation, including a participant's likeness, direct recordings, and/or content generated or enhanced by computer algorithms, software, or artificial intelligence (AI) tools.
+**Likeness** refers to a person's image, voice, and name as captured in photography, audio, or video recordings.
+</div>
+
+<div class="callout info" markdown="1" data-label="Definition">
+**Media** refers to any content created from event participation, including a participant's likeness, direct recordings, and/or content generated or enhanced by computer algorithms, software, or artificial intelligence (AI) tools.
 </div>
 
 ## Purpose
@@ -21,7 +25,7 @@ To ensure all participants, volunteers, and staff at **Prairie Fire Gaming** eve
 By attending or participating in a Prairie Fire Gaming event, you acknowledge that photography, audio, and video recording may occur. Your presence constitutes consent and grants Prairie Fire Gaming a worldwide, royalty-free, perpetual license to use, reproduce, and distribute your likeness in media related to Prairie Fire Gaming activities, including websites, social media, news, and advertising. This includes media that is processed, enhanced, or generated in whole or in part by computer algorithms, software, or artificial intelligence (AI) tools.
 
 <div class="callout important" markdown="1" data-label="Important">
-The policies of a hosting organization, venue, or site may supersede, limit, or expand Prairie Fire Gaming's potential use of your likeness. Prairie Fire Gaming will make reasonable efforts to inform participants of any such additional policies if necessary, but we encourage you to review the host's media policy if you have concerns.
+The policies of a hosting organization, venue, or site may supersede, limit, or expand Prairie Fire Gaming's potential use of your likeness. Prairie Fire Gaming will make reasonable efforts to inform participants of any such additional policies if necessary, but we encourage you to review the host's media policy on your own.
 </div>
 
 <div class="callout important" markdown="1" data-label="Important">

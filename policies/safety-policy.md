@@ -7,7 +7,7 @@ permalink: /policies/safety-policy/
 # Safety Policy
 
 <div class="callout" markdown="1">
-Don't be a dick.
+**Don't be a dick.**
 
 Megagames can get tense—assume good faith and call people in, not out. That said, we have zero tolerance for harassment. Everyone is welcome and everyone is accountable. If you experience or witness harassment, find a gamerunner immediately or email [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com). We'll take swift action, including removal and bans if needed.
 </div>
@@ -15,6 +15,10 @@ Megagames can get tense—assume good faith and call people in, not out. That sa
 ## Purpose
 
 **Prairie Fire Gaming** is dedicated to providing a safe, inclusive environment where everyone is treated with dignity and respect. We welcome people of all backgrounds, including LGBTQ+ and trans folks—you belong here. Harassment or unwelcome conduct, whether verbal, physical, visual, or in any other form, is strictly prohibited. This policy applies to all persons involved in the operation or attendance of any venue or event in which Prairie Fire Gaming is involved. Prairie Fire Gaming will not tolerate harassment of anyone, by anyone, including participants, vendors, hosts, volunteers, or staff.
+
+<div class="callout important" markdown="1" data-label="Important">
+Venue and host organization policies may supersede or expand upon this policy. Prairie Fire Gaming will make reasonable efforts to inform participants of any additional policies, but participants are encouraged to review venue-specific policies independently.
+</div>
 
 ## Respectful Conflict
 
@@ -44,7 +48,7 @@ Advocating for or encouraging any of the above is also considered harassment.
 No one should tolerate conduct of this type. If you experience or witness harassment, you may:
 - If safe, ask the offender to stop.
 - Leave the area.
-- Ask a Prairie Fire Gaming staff member for help.
+- Ask a Prairie Fire Gaming gamerunner for help.
 - Contact the police or other authorities.
 
 You may also make a confidential report by emailing **[info@prairiefiregaming.com](mailto:info@prairiefiregaming.com)** or speaking to an Event Lead. Reports will be handled confidentially and without retaliation against good faith complainants.
@@ -58,7 +62,7 @@ Prairie Fire Gaming reserves the right to take immediate and appropriate action,
 - Contacting law enforcement.
 
 ## Code of Conduct
-Prairie Fire Gaming's policies apply in all physical and online spaces within Prairie Fire Gaming's control, including event venues, social media, Discord servers, and online events. Venue or host organization policies may also apply and, in some cases, take precedence.
+Prairie Fire Gaming's policies apply in all physical and online spaces within Prairie Fire Gaming's control, including event venues, social media, Discord servers, and online events.
 
 ## Out-of-Scope Behavior
 Prairie Fire Gaming may consider actions that occur outside its events when those actions pose a risk to participant safety or could contribute to a hostile environment at Prairie Fire Gaming activities. Examples include:
@@ -67,6 +71,9 @@ Prairie Fire Gaming may consider actions that occur outside its events when thos
 
 ## Interpersonal Conflicts
 Some disagreements or interpersonal conflicts do not rise to harassment or abuse. Prairie Fire Gaming will not arbitrate such disputes—participants are asked to leave these conflicts at home.
+
+## Limitations of Liability
+Prairie Fire Gaming is not responsible for the actions of participants toward one another. We will take appropriate action when violations of this policy are reported, but we cannot guarantee participant safety or prevent all incidents. Participants attend events at their own risk and are responsible for their own safety and well-being.
 
 ## Continuous Improvement
 Prairie Fire Gaming strives to maintain a safe and welcoming environment. Suggestions for improvement may be sent to [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
