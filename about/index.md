@@ -32,5 +32,5 @@ Prairie Fire Gaming has been creating memorable megagame experiences since 2017:
 Interested in playing? Want to help organize or run a game? Reach out to us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com) or follow us on [Facebook](https://www.facebook.com/prairiefiregaming).
 </div>
 
-We are committed to providing safe, respectful, and enjoyable events. Please review our [Safety Policy](/policies/safety-policy/) and [Media Policy](/policies/media-policy/).
+We are committed to providing fun, safe, respectful, and enjoyable events. To that end, please review our [Policies](/policies/).
 
