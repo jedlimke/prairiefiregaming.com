@@ -428,9 +428,24 @@ table {
 	&:is(a) {
 		text-decoration: none;
 		transition: all 0.2s ease;
+		font-size: 1.5em;
+		line-height: 1.6;
+		display: block;
+		
+		@media screen and (max-width: 599px) {
+			font-size: 1.2em;
+		}
 		
 		&:hover {
 			transform: translateX(0.5em);
+		}
+		
+		// Make strong tags truly inline
+		strong {
+			font-weight: 900;
+			display: inline;
+			font-size: inherit;
+			line-height: inherit;
 		}
 	}
 	
