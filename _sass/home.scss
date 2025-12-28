@@ -62,14 +62,6 @@
 		@media screen and (min-width: 800px) {
 			padding: calc(var(--spacing-unit) * 3) var(--spacing-unit);
 		}
-
-		p + h1, p + h2, p + h3, p + h4, p + h5, p + h6 {
-			margin-top: var(--spacing-unit);
-
-			&:first-child {
-				margin-top: 0;
-			}
-		}
 	}
 }
 

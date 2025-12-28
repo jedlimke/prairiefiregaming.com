@@ -6,12 +6,21 @@ permalink: /policies/safety-policy/
 
 # Safety Policy
 
+<div class="callout" markdown="1">
+Don't be a dick.
+
+Megagames can get tense—assume good faith and call people in, not out. That said, we have zero tolerance for harassment. Everyone is welcome and everyone is accountable. If you experience or witness harassment, find a gamerunner immediately or email [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com). We'll take swift action, including removal and bans if needed.
+</div>
+
 ## Purpose
 
-**Prairie Fire Gaming** is dedicated to providing a safe environment where everyone is treated with dignity and respect. Harassment or unwelcome conduct, whether verbal, physical, visual, or in any other form, is strictly prohibited. This policy applies to all persons involved in the operation or attendance of any venue or event in which Prairie Fire Gaming is involved. Prairie Fire Gaming will not tolerate harassment of anyone, by anyone, including participants, vendors, hosts, volunteers, or staff.
+**Prairie Fire Gaming** is dedicated to providing a safe, inclusive environment where everyone is treated with dignity and respect. We welcome people of all backgrounds, including LGBTQ+ and trans folks—you belong here. Harassment or unwelcome conduct, whether verbal, physical, visual, or in any other form, is strictly prohibited. This policy applies to all persons involved in the operation or attendance of any venue or event in which Prairie Fire Gaming is involved. Prairie Fire Gaming will not tolerate harassment of anyone, by anyone, including participants, vendors, hosts, volunteers, or staff.
 
 ## Respectful Conflict
-The games we play often revolve around disagreement, and respectful conflict can lead to productive results; but these must be offered in good faith. Every participant's intention at all times should be a positive experience for all involved.
+
+The games we play often revolve around disagreement and can get tense—that's part of what makes them exciting. Respectful conflict can lead to productive results, but it must be offered in good faith. 
+
+We have a call-in culture, not a call-out one. Assume good faith. Separate identity from behavior. Harm can occur without malice, and when it does, we address it with understanding and accountability. Inclusion means everyone is welcome _and_ everyone is accountable. Every participant's intention should be a positive experience for all involved.
 
 ## Definition of Harassment
 Prairie Fire Gaming defines harassment as any behavior that threatens a person or group or produces an unsafe or non-inclusive environment. Harassment includes, but is not limited to, offensive verbal comments or non-verbal expressions related to gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, ethnicity, age, or religious beliefs.
