@@ -181,6 +181,14 @@ body {
 	font-weight: 300;
 	color: var(--text-color);
 	line-height: 1.6;
+	
+	@media screen and (min-width: 600px) {
+		font-size: 1.125rem;
+	}
+	
+	@media screen and (min-width: 800px) {
+		font-size: 1.25rem;
+	}
 }
 
 hr {
@@ -188,12 +196,7 @@ hr {
 }
 
 p {
-	font-size: 1.5em;
 	margin: 0;
-	
-	@media screen and (max-width: 599px) {
-		font-size: 1.2em;
-	}
 }
 
 a {
@@ -221,16 +224,11 @@ strong {
 
 // Lists
 ul, ol {
-	font-size: 1.5em;
 	line-height: 1.6;
 	padding-left: 1.2em;
 	display: flex;
 	flex-direction: column;
 	gap: 0.5em;
-	
-	@media screen and (max-width: 599px) {
-		font-size: 1.2em;
-	}
 	
 	li {		
 		&:last-child {
@@ -428,13 +426,7 @@ table {
 	&:is(a) {
 		text-decoration: none;
 		transition: all 0.2s ease;
-		font-size: 1.5em;
-		line-height: 1.6;
 		display: block;
-		
-		@media screen and (max-width: 599px) {
-			font-size: 1.2em;
-		}
 		
 		&:hover {
 			transform: translateX(0.5em);
@@ -444,8 +436,6 @@ table {
 		strong {
 			font-weight: 900;
 			display: inline;
-			font-size: inherit;
-			line-height: inherit;
 		}
 	}
 	

@@ -17,8 +17,6 @@ A catastrophic attack has left you with one warship and a handful of civilian ve
 
 You might be a ship captain coordinating with engineers to keep the lights on. You might be a politician arguing over who gets the last supply of fuel. You might be military personnel tracking enemy movements. Or you might be the wolf—sabotaging everything from within.
 
-One of the most-played megagames of all time. Designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/den-of-wolves).
-
 {::nomarkdown}
 <a href="https://www.eventbrite.com" class="callout cta" data-label="Register Now">
 <strong>Tickets are $40</strong> and available through Eventbrite. Registration opens January 15th, 2026!
@@ -48,3 +46,5 @@ One of the most-played megagames of all time. Designed by John Mizon of [SW Mega
 {:/nomarkdown}
 
 Questions? Email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com)
+
+_**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/den-of-wolves). **Den of Wolves: Infinte Domain** is an expansion and re-work of the original **Den of Wolves** rules and was designed by Chris Perry of [Portland Megagames](https://discord.gg/eH8Z68eC7v)_
