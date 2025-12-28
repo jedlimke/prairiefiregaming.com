@@ -20,9 +20,13 @@ To ensure all participants, volunteers, and staff at **Prairie Fire Gaming** eve
 ## Policy Statement
 By attending or participating in a Prairie Fire Gaming event, you acknowledge that photography, audio, and video recording may occur. Your presence constitutes consent and grants Prairie Fire Gaming a worldwide, royalty-free, perpetual license to use, reproduce, and distribute your likeness in media related to Prairie Fire Gaming activities, including websites, social media, news, and advertising. This includes media that is processed, enhanced, or generated in whole or in part by computer algorithms, software, or artificial intelligence (AI) tools.
 
-*Please note: The policies of a hosting organization, venue, or site may supersede, limit, or expand Prairie Fire Gaming's potential use of your likeness. Prairie Fire Gaming will make reasonable efforts to inform participants of any such additional policies if necessary, but we encourage you to review the host's media policy if you have concerns.*
+<div class="callout important" markdown="1" data-label="Important">
+The policies of a hosting organization, venue, or site may supersede, limit, or expand Prairie Fire Gaming's potential use of your likeness. Prairie Fire Gaming will make reasonable efforts to inform participants of any such additional policies if necessary, but we encourage you to review the host's media policy if you have concerns.
+</div>
 
-*For participants under the age of 18: A parent or legal guardian must consent to this policy in writing before participation.*
+<div class="callout important" markdown="1" data-label="Important">
+For participants under the age of 18, a parent or legal guardian must consent to this policy in writing before participation.
+</div>
 
 ## Respectful Use
 All media will be used respectfully and in accordance with Prairie Fire Gaming's mission. No compensation will be provided for use of media created from your presence at Prairie Fire Gaming events. Prairie Fire Gaming will make reasonable effort to not use media in any way that is defamatory, misleading, or otherwise harmful to participants.

@@ -416,30 +416,23 @@ table {
 	// Callout variants
 	// ========================================
 	
-	// Info (blue) - neutral information
+	// Info (turquoise) - neutral information, definitions
 	&.info {
 		--callout-color: #40e0d0;
 		color: var(--callout-color);
 		border-color: var(--callout-color);
 	}
 	
-	// Success (green) - positive confirmation
-	&.success {
+	// CTA (green) - call to action, get involved
+	&.cta {
 		--callout-color: #7ED321;
 		color: var(--callout-color);
 		border-color: var(--callout-color);
 	}
 	
-	// Warning (yellow/orange) - caution, default
-	&.warning {
-		--callout-color: var(--brand-yellow);
-		color: var(--callout-color);
-		border-color: var(--callout-color);
-	}
-	
-	// Danger (red) - critical, error
-	&.danger {
-		--callout-color: #E23E57;
+	// Important (orange/pink) - critical information, pay attention
+	&.important {
+		--callout-color: var(--brand-orange);
 		color: var(--callout-color);
 		border-color: var(--callout-color);
 	}

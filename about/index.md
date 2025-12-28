@@ -6,21 +6,19 @@ permalink: /about/
 
 # About
 
-Prairie Fire Gaming creates and hosts immersive megagame experiences in the Midwest.
+<div class="callout" markdown="1">
+Prairie Fire Gaming creates and hosts immersive megagame experiences in the Midwest. We bring people together for large-scale, collaborative gaming experiences that blend strategy, roleplay, and social interaction.
+</div>
 
-## What We Do
+Our megagames are day-long events where dozens of players take on unique roles, working together and competing to shape the outcome of epic scenarios. Whether you're playing as a head of state, a military commander, a scientist, a journalist, or even an alien invader, every role is crucial to the experience.
 
-We bring people together for large-scale, collaborative gaming experiences that blend strategy, roleplay, and social interaction. Our megagames are day-long events where dozens of players take on unique roles, working together and competing to shape the outcome of epic scenarios.
-
-## Our Approach
-
-Whether you're playing as a head of state, a military commander, a scientist, a journalist, or even an alien invader, every role in our megagames is crucial to the experience. We design our events to be:
+<div class="callout info" markdown="1" data-label="Our Values">
+We design our events to be:
 
 - **Inclusive**: No experience necessary—we welcome both veteran gamers and newcomers
 - **Engaging**: Multiple gameplay styles ensure there's something for everyone
 - **Memorable**: These aren't just games; they're shared stories you'll talk about for years
-
-## Our History
+</div>
 
 Prairie Fire Gaming has been creating memorable megagame experiences since 2017:
 
@@ -30,11 +28,9 @@ Prairie Fire Gaming has been creating memorable megagame experiences since 2017:
 
 **Megagame Coalition Collaborations** - Multiple collaborations with the Megagame Coalition (MGC) across the continent, notably at GEN CON in Indianapolis for the better part of a decade.
 
-## Get Involved
-
+<div class="callout cta" markdown="1" data-label="Get Involved">
 Interested in playing? Want to help organize or run a game? Reach out to us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com) or follow us on [Facebook](https://www.facebook.com/prairiefiregaming).
-
-## Policies
+</div>
 
 We are committed to providing safe, respectful, and enjoyable events. Please review our [Safety Policy](/policies/safety-policy/) and [Media Policy](/policies/media-policy/).
 
