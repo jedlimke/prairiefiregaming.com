@@ -36,7 +36,7 @@ If you need accommodations, please:
 - Modify core game mechanics or principles
 - Redesign venues or game spaces we don't control
 - Guarantee allergen-free environments (we can't control what other participants bring)
-- Provide personal assistants or one-on-one support beyond the usual for anyone participating in the game in question
+- Provide personal assistants or one-on-one support beyond the usual for anyone playing the game in question
 - Accommodate requests made less than two weeks out
 
 <div class="callout important" markdown="1" data-label="Important">
@@ -45,7 +45,7 @@ All of our events are held in third-party venues. We don't control building acce
 
 ## Our Commitment
 
-We'll always listen, consider your needs, and do what we reasonably can within our resources and constraints. If we can't accommodate you, we'll tell you honestly and as early as possible so you can make an informed decision about participation.
+We'll always listen, consider your needs, and do what we reasonably can within our resources and constraints. If we can't accommodate you, we'll tell you honestly and as early as possible so you can make an informed decision about playing.
 
 ## Questions?
 
