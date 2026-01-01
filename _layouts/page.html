@@ -5,7 +5,7 @@ layout: base
 
 	{%- comment -%} Hero image if present {%- endcomment -%}
 	{%- if page.image -%}
-	<div class="page-hero" style="background-image: url('{{ page.image }}')">
+	<div class="page-hero" style="background-image: url('{{ page.image | relative_url }}')">
 		<div class="page-hero-overlay"></div>
 	</div>
 	{%- endif -%}

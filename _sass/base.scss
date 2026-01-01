@@ -387,6 +387,11 @@ table {
 		margin-top: var(--spacing-unit);
 	}
 	
+	// Add spacing after callouts (for elements that follow)
+	& + * {
+		margin-top: var(--spacing-unit);
+	}
+	
 	// Remove spacing if first child
 	&:first-child {
 		margin-top: 0;
