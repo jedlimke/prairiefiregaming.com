@@ -85,17 +85,6 @@ body {
 	font-kerning: normal;
 }
 
-// Headings after
-p {
-	+ h1, + h2, + h3, + h4, + h5, + h6 {
-		margin-top: var(--spacing-unit);
-
-		&:first-child {
-			margin-top: 0;
-		}
-	}
-}
-
 // ============================================================================
 // MAIN LAYOUT AREAS
 // ============================================================================
@@ -133,6 +122,16 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.1;
 	margin: 0;
 	color: inherit;
+	
+	// Add spacing when preceded by any element (except hr, which has its own margin)
+	*:not(hr) + & {
+		margin-top: var(--spacing-unit);
+	}
+	
+	// Remove spacing if first child
+	&:first-child {
+		margin-top: 0;
+	}
 }
 
 h1 {
@@ -349,17 +348,23 @@ table {
 	gap: var(--spacing-unit);
 }
 
-// Page content gets double gap for better separation of sections/articles
+// Page content uses same gap as post content for consistency
 .page-content {
 	display: flex;
 	flex-direction: column;
-	gap: calc(var(--spacing-unit) * 2);
+	gap: var(--spacing-unit);
+	
+	// Add extra spacing between consecutive articles (e.g., events listing)
+	article + article {
+		margin-top: var(--spacing-unit);
+	}
 }
 
 .post-meta {
 	font-size: 0.75rem;
 	color: var(--text-muted);
 }
+
 // ============================================================================
 // CALLOUT BOX
 // ============================================================================
@@ -376,6 +381,16 @@ table {
 	display: flex;
 	flex-direction: column;
 	gap: calc(var(--spacing-unit) / 2);
+	
+	// Add spacing when preceded by any element
+	* + & {
+		margin-top: var(--spacing-unit);
+	}
+	
+	// Remove spacing if first child
+	&:first-child {
+		margin-top: 0;
+	}
 	
 	// Hide dashed border on iOS Safari (where it doesn't render properly)
 	@supports (-webkit-touch-callout: none) {
