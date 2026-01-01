@@ -14,7 +14,7 @@ Megagames can get tense—assume good faith and call people in, not out. That sa
 
 ## Purpose
 
-**Prairie Fire Gaming** is dedicated to providing a safe, inclusive environment where everyone is treated with dignity and respect. We welcome people of all backgrounds, including LGBTQ+ and trans folks—you belong here. Harassment or unwelcome conduct, whether verbal, physical, visual, or in any other form, is strictly prohibited. This policy applies to all persons involved in the operation or attendance of any venue or event in which Prairie Fire Gaming is involved. Prairie Fire Gaming will not tolerate harassment of anyone, by anyone, including participants, vendors, hosts, volunteers, or staff.
+**Prairie Fire Gaming** is dedicated to providing a safe, inclusive environment where everyone is treated with dignity and respect. We welcome people of all backgrounds, including LGBTQ+ folks and especially trans people—you belong here, full stop. Harassment or unwelcome conduct, whether verbal, physical, visual, or in any other form, is strictly prohibited. This policy applies to all persons involved in the operation or attendance of any venue or event in which Prairie Fire Gaming is involved. Prairie Fire Gaming will not tolerate harassment of anyone, by anyone, including participants, vendors, hosts, volunteers, or staff.
 
 <div class="callout important" markdown="1" data-label="Important">
 Venue and host organization policies may supersede or expand upon this policy. Prairie Fire Gaming will make reasonable efforts to inform participants of any additional policies, but participants are encouraged to review venue-specific policies independently.
@@ -41,8 +41,21 @@ Harassment includes, but is not limited to:
 - Display or discussion of offensive written or graphic material
 - Repeatedly standing too close to or brushing against a person
 - Giving gifts of an unwanted or sexual nature
+- Cultural appropriation, including costumes or "characters" that mock or stereotype cultures, ethnicities, or nationalities
 
 Advocating for or encouraging any of the above is also considered harassment.
+
+## Cosplay, Costumes, and Cultural Sensitivity
+
+We love when players get into character. Dress up. Have fun. Bring props. But:
+
+**Do not use costumes or "characters" to mock, stereotype, or appropriate marginalized cultures, ethnicities, or nationalities.** Ask yourself: are you playing a character thoughtfully, or are you reducing someone's culture to a joke or caricature? Context and power dynamics matter here—what reads as playful when you're engaging with your own culture can be harmful when it's someone else's.
+
+This includes (but is not limited to) costumes or performances that rely on racial or ethnic stereotypes: sombreros and bandoliers for Latin American settings, "geisha" costumes for Japanese settings, headdresses or war paint for Indigenous settings, turbans and fake beards for Middle Eastern settings.
+
+If your costume or character concept makes you think "Is this okay?"—it's probably not. When in doubt, ask a gamerunner before the event. If we have to ask you to change or leave, you will.
+
+You absolutely could be playing characters or roles that represent cultures different from your own. We ask that you **play characters from different cultures respectfully.** Wear clothing appropriate to the setting if you want. But if you're treating someone's heritage as a costume or joke, you're out.
 
 ## Reporting and Response
 No one should tolerate conduct of this type. If you experience or witness harassment, you may:
