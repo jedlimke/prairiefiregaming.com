@@ -47,7 +47,15 @@ Advocating for or encouraging any of the above is also considered harassment.
 
 ## Cosplay, Costumes, and Cultural Sensitivity
 
-We love when players get into character. Dress up. Have fun. Bring props. But:
+We love when players get into character.
+
+Dress up.
+
+Have fun.
+
+Bring props.
+
+_But:_
 
 **Do not use costumes or "characters" to mock, stereotype, or appropriate marginalized cultures, ethnicities, or nationalities.** Ask yourself: are you playing a character thoughtfully, or are you reducing someone's culture to a joke or caricature? Context and power dynamics matter here—what reads as playful when you're engaging with your own culture can be harmful when it's someone else's.
 
@@ -55,7 +63,11 @@ This includes (but is not limited to) costumes or performances that rely on raci
 
 If your costume or character concept makes you think "Is this okay?"—it's probably not. When in doubt, ask a gamerunner before the event. If we have to ask you to change or leave, you will.
 
-You absolutely could be playing characters or roles that represent cultures different from your own. We ask that you **play characters from different cultures respectfully.** Wear clothing appropriate to the setting if you want. But if you're treating someone's heritage as a costume or joke, you're out.
+Almost every megagame asks players to be characters or inhabit roles that represent positions and cultures different from your own. We ask that you **play characters from different cultures respectfully.** Wear clothing appropriate to the setting if you want and act like you belong, but if you're treating someone's heritage as a costume or joke, you're out.
+
+<div class="callout important" markdown="1" data-label="Important">
+Context and power dynamics matter here—in general, punch up, not down—what reads as playful when you're engaging with your own culture can be harmful when it's someone else's.
+</div>
 
 ## Reporting and Response
 No one should tolerate conduct of this type. If you experience or witness harassment, you may:
