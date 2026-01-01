@@ -29,7 +29,9 @@ Prairie Fire Gaming has been creating memorable megagame experiences since 2017:
 **Megagame Coalition Collaborations** - Multiple collaborations with the Megagame Coalition (MGC) across the continent, notably at GEN CON in Indianapolis for the better part of a decade.
 
 <div class="callout cta" markdown="1" data-label="Get Involved">
-Interested in playing? Want to help organize or run a game? Reach out to us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com) or follow us on [Facebook](https://www.facebook.com/prairiefiregaming).
+Interested in playing?
+
+Want to help organize or run a game? Reach out to us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com) or follow us on [Facebook](https://www.facebook.com/prairiefiregaming).
 </div>
 
 We are committed to providing fun, safe, respectful, and enjoyable events. To that end, please review our [Policies](/policies/).
