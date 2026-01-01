@@ -65,7 +65,7 @@ If your costume or character concept makes you think "Is this okay?"—it's prob
 
 Almost every megagame asks players to be characters or inhabit roles that represent positions and cultures different from your own. We ask that you **play characters from different cultures respectfully.** Wear clothing appropriate to the setting if you want and act like you belong, but if you're treating someone's heritage as a costume or joke, you're out.
 
-<div class="callout important" markdown="1" data-label="Important">
+<div class="callout important" markdown="1" data-label="Bottom Line">
 Context and power dynamics matter here—in general, punch up, not down—what reads as playful when you're engaging with your own culture can be harmful when it's someone else's.
 </div>
 

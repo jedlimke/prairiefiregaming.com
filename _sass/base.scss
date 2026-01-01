@@ -427,6 +427,7 @@ table {
 	// Override link colors
 	a {
 		color: inherit;
+		text-decoration: underline;
 		
 		&:hover {
 			color: var(--brand-pink);
