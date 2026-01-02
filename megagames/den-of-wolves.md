@@ -38,6 +38,8 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 - **No experience required** — Rules will be sent via email and taught at the start. You'll learn as you play.
 - **Cosplay encouraged** — Come as a ship captain, a politician, a refugee. Or just wear comfortable clothes. Either works.
 - **Age limit: 16+ with adult, otherwise 18+** — This is a long, intense game with mature themes.
+- **There'll be a lunch break** — Megagames require sustenance! We'll be at _West Acres_ so snacks and meals will be available from the food court if desired. You can also pack your own or have something delivered! __Just no booze!__
+- **Player elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, sure, but **you** get to keep playing. _Take a chance now and then._
 
 {::nomarkdown}
 <a href="https://www.eventbrite.com" class="callout cta" data-label="Register Now">

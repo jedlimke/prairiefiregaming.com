@@ -57,7 +57,9 @@ Bring props.
 
 _But:_
 
-**Do not use costumes or "characters" to mock, stereotype, or appropriate marginalized cultures, ethnicities, or nationalities.** Ask yourself: are you playing a character thoughtfully, or are you reducing someone's culture to a joke or caricature? Context and power dynamics matter here—what reads as playful when you're engaging with your own culture can be harmful when it's someone else's.
+**Do not use costumes or "characters" to mock, stereotype, or appropriate marginalized cultures, ethnicities, or nationalities.**
+
+Ask yourself: _are you playing a character thoughtfully, or are you reducing someone's culture to a joke or caricature?_ Context and power dynamics matter here—what reads as playful when you're engaging with your own culture can be harmful when it's someone else's.
 
 This includes (but is not limited to) costumes or performances that rely on racial or ethnic stereotypes: sombreros and bandoliers for Latin American settings, "geisha" costumes for Japanese settings, headdresses or war paint for Indigenous settings, turbans and fake beards for Middle Eastern settings.
 
