@@ -38,6 +38,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 - **No experience required** — Rules will be sent via email and taught at the start. You'll learn as you play.
 - **Cosplay encouraged** — Come as a ship captain, a politician, a refugee. Or just wear comfortable clothes. Either works.
 - **Age limit: 16+ with adult, otherwise 18+** — This is a long, intense game with mature themes.
+- **There'll be a lunch break** — Megagames require sustenance! We'll be at West Acres Mall so the food court and delivery services will be available—or pack your own! (Just no booze!)
 
 {::nomarkdown}
 <a href="https://www.eventbrite.com" class="callout cta" data-label="Register Now">
