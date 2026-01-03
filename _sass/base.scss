@@ -49,6 +49,28 @@
 }
 
 // ============================================================================
+// ACCESSIBILITY
+// ============================================================================
+// Skip to main content link (visible on focus for keyboard users)
+.skip-link {
+	position: absolute;
+	top: -100px;
+	left: 0;
+	background: var(--brand-yellow);
+	color: var(--brand-dark);
+	padding: 8px 16px;
+	text-decoration: none;
+	font-weight: bold;
+	z-index: 100;
+	clip: rect(0, 0, 0, 0);
+	
+	&:focus {
+		top: 0;
+		clip: auto;
+	}
+}
+
+// ============================================================================
 // RESET
 // ============================================================================
 *, *::before, *::after {
@@ -209,6 +231,12 @@ a {
 	&:hover {
 		color: var(--brand-pink);
 		text-decoration: none;
+	}
+	
+	&:focus-visible {
+		outline: 2px solid var(--brand-yellow);
+		outline-offset: 2px;
+		border-radius: 2px;
 	}
 	
 	// Apply transition to all nested elements so they smoothly inherit color changes
@@ -409,6 +437,25 @@ table {
 				color: var(--brand-yellow);
 			}
 		}
+		
+		&:focus-visible {
+			outline: 2px solid var(--brand-yellow);
+			outline-offset: 2px;
+			border-radius: 4px;
+		}
+		
+		// Disable transitions and transforms for users who prefer reduced motion
+		@media (prefers-reduced-motion: reduce) {
+			transition: none;
+			
+			.post-summary-image img {
+				transition: none;
+			}
+			
+			&:hover .post-summary-image img {
+				transform: none;
+			}
+		}
 	}
 	
 	.post-summary-image {
@@ -540,6 +587,20 @@ table {
 			transform: translateX(0.5em);
 		}
 		
+		&:focus-visible {
+			outline: 2px solid currentColor;
+			outline-offset: 4px;
+		}
+		
+		// Disable transitions and transforms for users who prefer reduced motion
+		@media (prefers-reduced-motion: reduce) {
+			transition: none;
+			
+			&:hover {
+				transform: none;
+			}
+		}
+		
 		// Make strong tags truly inline
 		strong {
 			font-weight: 900;
@@ -603,6 +664,11 @@ table {
 			filter: hue-rotate(0deg);
 			-webkit-filter: hue-rotate(0deg);
 		}
+	}
+	
+	// Disable animation for users who prefer reduced motion
+	@media (prefers-reduced-motion: reduce) {
+		animation: none;
 	}
 
 	&:hover {

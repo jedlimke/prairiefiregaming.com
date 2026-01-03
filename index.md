@@ -23,7 +23,7 @@ Megagames can explore nearly anything—from history to science fiction, politic
 If you're still curious about what makes megagames so special, check out this video from Shut Up & Sit Down, where they played the legendary megagame _Watch The Skies_:
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/hN71v9H_gg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/hN71v9H_gg8" title="Shut Up & Sit Down plays Watch The Skies megagame" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 For more insights, we recommend:
