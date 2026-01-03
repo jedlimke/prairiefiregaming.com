@@ -20,3 +20,23 @@
 .page.page--with-hero {
 	margin-top: 0;
 }
+
+// ============================================================================
+// EVENTS INDEX PAGE SPECIFIC STYLES
+// ============================================================================
+
+// Override default link styles for post summary cards on events page
+.post-summary-link {
+	font-weight: normal;
+	border-bottom: none;
+	
+	// But keep the h2 titles bold as they should be
+	h2 {
+		font-weight: bold;
+	}
+	
+	// Override hover state too
+	&:hover {
+		border-bottom: none;
+	}
+}
