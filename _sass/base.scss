@@ -85,6 +85,10 @@ body {
 	font-kerning: normal;
 }
 
+a {
+	cursor: pointer;
+}
+
 // ============================================================================
 // MAIN LAYOUT AREAS
 // ============================================================================
@@ -484,5 +488,43 @@ table {
 		--callout-color: var(--brand-orange);
 		color: var(--callout-color);
 		border-color: var(--callout-color);
+	}
+}
+
+// ============================================================================
+// FANCY EXTRAS
+// ============================================================================
+
+
+
+.fancy-text {
+	background-image: linear-gradient(92deg, var(--brand-orange), var(--brand-yellow));
+	background-clip: text;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	color: transparent;
+	-webkit-text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
+	animation: hue 10s infinite linear;
+
+	@keyframes hue {
+		0% {
+			filter: hue-rotate(0deg);
+			-webkit-filter: hue-rotate(0deg);
+		}
+		50% {
+			filter: hue-rotate(-180deg);
+			-webkit-filter: hue-rotate(-180deg);
+		}
+		100% {
+			filter: hue-rotate(0deg);
+			-webkit-filter: hue-rotate(0deg);
+		}
+	}
+
+	&:hover {
+		filter: hue-rotate(0deg);
+		-webkit-filter: hue-rotate(0deg);
+		animation-iteration-count: 0;
 	}
 }

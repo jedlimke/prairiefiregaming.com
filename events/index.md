@@ -9,7 +9,7 @@ permalink: /events/
 <!-- Featured: Den of Wolves megagame page -->
 <article class="post-summary">
   <header class="post-header">
-    <h2><a href="{{ site.baseurl }}/megagames/den-of-wolves/">Den of Wolves: Infinite Domain</a></h2>
+    <h2><a class="fancy-text" href="{{ site.baseurl }}/events/den-of-wolves-2026/">Den of Wolves: Infinite Domain</a></h2>
     <p class="post-meta">
       <time datetime="2026-03-07" style="font-size: 1.5em;">Coming <strong>March 7, 2026</strong></time>
     </p>
