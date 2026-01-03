@@ -18,6 +18,18 @@ All of the players are playing the same scenario, but each from different perspe
 
 Megagames can explore nearly anything—from history to science fiction, politics to fantasy, and everything in between.
 
+## Want to Learn More?
+
+If you're still curious about what makes megagames so special, check out this video from Shut Up & Sit Down, where they played the legendary megagame _Watch The Skies_:
+
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/hN71v9H_gg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+For more insights, we recommend:
+- [7 Habits of Highly Effective Megagamers](https://www.beckybeckyblogs.com/geek-culture/7-habits-highly-effective-megagamers/) by BeckyBecky Campbell-Ladley—great tips for getting the most out of your first (or fiftieth) megagame
+- [Megagame Coalition](https://megagamecoalition.com/)—we're proud members of this community dedicated to growing and supporting megagames worldwide
+
 ## Stay Connected
 
 Follow us on [Facebook @PrairieFireGaming](https://www.facebook.com/prairiefiregaming) for updates on upcoming events and megagame news.
