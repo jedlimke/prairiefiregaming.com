@@ -203,7 +203,7 @@ a {
 	color: var(--brand-yellow);
 	text-decoration: none;
 	font-weight: bold;
-	transition: all 100ms ease-in-out;
+	transition: color 100ms ease-in-out;
 	border-bottom: 2px solid transparent;
 	
 	&:hover {
@@ -213,7 +213,7 @@ a {
 	
 	// Apply transition to all nested elements so they smoothly inherit color changes
 	* {
-		transition: all 100ms ease-in-out;
+		transition: color 100ms ease-in-out;
 	}
 }
 
