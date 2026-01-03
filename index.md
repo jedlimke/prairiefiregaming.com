@@ -4,17 +4,31 @@ title: Prairie Fire Gaming
 body_class: home
 ---
 
-## A Mega-What?
+## Welcome to Prairie Fire Gaming
 
-A **megagame** is a large multiplayer game involving teams of players. The subject matter can range from politics to economics—from history to science fiction. Much of what goes on could be described as roleplaying, though there's a large element of board gaming, problem solving, strategy, negotiation, and, of course, humor. Don't miss your chance to play in this unique, global phenomenon.
+We host and create **megagames**—massive, immersive events where dozens (and sometimes hundreds) of players come together for hours of strategy, diplomacy, and unforgettable chaos. If you've never heard of a megagame before, don't worry—most people haven't. Here's what you need to know:
 
 ## What is a Megagame?
 
-It's a 6+ hour, large-scale mix of role-playing, board gaming, diplomacy, and strategy. Most players will be on a team with other high-ranking members of a real-world country as they navigate not only their own aims, but those of the other countries and outside forces. All of the players are playing the same scenario, but each from different perspectives and roles. In this day-long event, you will carve a strategy with other players, play sub-games based on your role, and react to situations as they arise.
+It's a large-scale mix of role-playing, board gaming, diplomacy, and strategy—typically running several hours. Players are divided into teams or factions, each with their own goals and challenges. 
 
-## How will I fit in?
+You might be on a team representing a real-world country, a clan of Dwarves working to secure its legacy, or a clandestine group of agents plotting to overthrow corporate overlords in a futuristic dystopia. Whatever the scenario, you'll be working with others to navigate not only your own aims, but those of the other factions and outside forces.
 
-Players are divided into teams of unique roles and responsibilities. Every role in the game has different responsibilities, ranging from handling international conflicts through military might to solving humanity's problems through careful planning and research. Each and every role is unique and every player will have a different experience on gameday, directly shaping the game itself through their actions.
+All of the players are playing the same scenario, but each from different perspectives and roles. You'll carve strategy with other players, play sub-games based on your role, and react to situations as they arise. Every role is unique, and every player will have a different experience on gameday, directly shaping the game itself through their actions.
+
+Megagames can explore nearly anything—from history to science fiction, politics to fantasy, and everything in between.
+
+## Want to Learn More?
+
+If you're still curious about what makes megagames so special, check out this video from Shut Up & Sit Down, where they played the legendary megagame _Watch The Skies_:
+
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/hN71v9H_gg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+For more insights, we recommend:
+- [7 Habits of Highly Effective Megagamers](https://www.beckybeckyblogs.com/geek-culture/7-habits-highly-effective-megagamers/) by BeckyBecky Campbell-Ladley—great tips for getting the most out of your first (or fiftieth) megagame
+- [Megagame Coalition](https://megagamecoalition.com/)—we're proud members of this community dedicated to growing and supporting megagames worldwide
 
 ## Stay Connected
 

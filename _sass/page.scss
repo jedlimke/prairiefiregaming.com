@@ -20,3 +20,48 @@
 .page.page--with-hero {
 	margin-top: 0;
 }
+
+// ============================================================================
+// EVENTS INDEX PAGE SPECIFIC STYLES
+// ============================================================================
+
+// Featured event - full column width image stacked on top
+.post-summary--featured {
+	.post-summary-link {
+		// Stack image and content vertically, full width
+		grid-template-columns: 1fr;
+		grid-template-areas:
+			"image"
+			"content";
+	}
+	
+	.post-summary-image {
+		// Make image taller and more dramatic
+		aspect-ratio: 21 / 9;
+		
+		@media screen and (max-width: 799px) {
+			aspect-ratio: 16 / 9;
+		}
+	}
+	
+	.post-summary-content {
+		// Extra spacing for featured event
+		padding-top: calc(var(--spacing-unit) / 2);
+	}
+}
+
+// Override default link styles for post summary cards on events page
+.post-summary-link {
+	font-weight: normal;
+	border-bottom: none;
+	
+	// But keep the h2 titles bold as they should be
+	h2 {
+		font-weight: bold;
+	}
+	
+	// Override hover state too
+	&:hover {
+		border-bottom: none;
+	}
+}

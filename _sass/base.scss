@@ -199,15 +199,21 @@ p {
 }
 
 a {
+	cursor: pointer;
 	color: var(--brand-yellow);
 	text-decoration: none;
 	font-weight: bold;
-	transition: all 100ms ease-out;
+	transition: color 100ms ease-in-out;
 	border-bottom: 2px solid transparent;
 	
 	&:hover {
 		color: var(--brand-pink);
 		text-decoration: none;
+	}
+	
+	// Apply transition to all nested elements so they smoothly inherit color changes
+	* {
+		transition: color 100ms ease-in-out;
 	}
 }
 
@@ -242,6 +248,25 @@ ul, ol {
 img {
 	max-width: 100%;
 	height: auto;
+}
+
+// Responsive video embed container
+.video-embed {
+	position: relative;
+	padding-bottom: 56.25%; // 16:9 aspect ratio
+	height: 0;
+	overflow: hidden;
+	max-width: 100%;
+	margin: var(--spacing-unit) 0;
+	border-radius: 4px;
+	
+	iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
 }
 
 table {
@@ -348,6 +373,68 @@ table {
 	gap: var(--spacing-unit);
 }
 
+// Post summary with optional image
+.post-summary {
+	// When post has an image, make the whole thing a clickable card
+	&.post-summary--with-image {
+		gap: 0; // Remove gap since link handles spacing
+	}
+	
+	.post-summary-link {
+		display: grid;
+		gap: var(--spacing-unit);
+		text-decoration: none;
+		color: inherit;
+		transition: all 200ms ease-out;
+		
+		// Mobile: image on top, content below
+		grid-template-columns: 1fr;
+		grid-template-areas:
+			"image"
+			"content";
+		
+		// Desktop: image left, content right
+		@media screen and (min-width: 800px) {
+			grid-template-columns: 300px 1fr;
+			grid-template-areas: "image content";
+			align-items: start;
+		}
+		
+		&:hover {
+			.post-summary-image img {
+				transform: scale(1.02);
+			}
+			
+			h2 {
+				color: var(--brand-yellow);
+			}
+		}
+	}
+	
+	.post-summary-image {
+		grid-area: image;
+		overflow: hidden;
+		border-radius: 4px;
+		aspect-ratio: 16 / 9;
+		background: var(--brand-dark);
+		
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			display: block;
+			transition: transform 300ms ease-out;
+		}
+	}
+	
+	.post-summary-content {
+		grid-area: content;
+		display: flex;
+		flex-direction: column;
+		gap: var(--spacing-unit);
+	}
+}
+
 // Page content uses same gap as post content for consistency
 .page-content {
 	display: flex;
@@ -356,7 +443,7 @@ table {
 	
 	// Add extra spacing between consecutive articles (e.g., events listing)
 	article + article {
-		margin-top: var(--spacing-unit);
+		margin-top: calc(var(--spacing-unit) * 2);
 	}
 }
 
@@ -484,5 +571,43 @@ table {
 		--callout-color: var(--brand-orange);
 		color: var(--callout-color);
 		border-color: var(--callout-color);
+	}
+}
+
+// ============================================================================
+// FANCY EXTRAS
+// ============================================================================
+
+
+
+.fancy-text {
+	background-image: linear-gradient(92deg, var(--brand-orange), var(--brand-yellow));
+	background-clip: text;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	color: transparent;
+	-webkit-text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
+	animation: hue 10s infinite linear;
+
+	@keyframes hue {
+		0% {
+			filter: hue-rotate(0deg);
+			-webkit-filter: hue-rotate(0deg);
+		}
+		50% {
+			filter: hue-rotate(-180deg);
+			-webkit-filter: hue-rotate(-180deg);
+		}
+		100% {
+			filter: hue-rotate(0deg);
+			-webkit-filter: hue-rotate(0deg);
+		}
+	}
+
+	&:hover {
+		filter: hue-rotate(0deg);
+		-webkit-filter: hue-rotate(0deg);
+		animation-iteration-count: 0;
 	}
 }
