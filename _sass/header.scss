@@ -49,6 +49,17 @@
 	padding: 8px;
 	-webkit-tap-highlight-color: transparent;
 	
+	// Safari fallback
+	&:focus {
+		outline: 2px solid var(--brand-yellow);
+		outline-offset: 2px;
+	}
+	
+	// Modern browsers - only keyboard focus
+	&:focus:not(:focus-visible) {
+		outline: none;
+	}
+	
 	&:focus-visible {
 		outline: 2px solid var(--brand-yellow);
 		outline-offset: 2px;
@@ -140,6 +151,17 @@
         &:focus {
             color: var(--brand-yellow);
             text-decoration: none;
+        }
+        
+        // Safari fallback
+        &:focus {
+            outline: 2px solid var(--brand-yellow);
+            outline-offset: 2px;
+        }
+        
+        // Modern browsers - only keyboard focus
+        &:focus:not(:focus-visible) {
+            outline: none;
         }
         
         &:focus-visible {

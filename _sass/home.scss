@@ -18,6 +18,17 @@
 		opacity: 0.9;
 	}
 	
+	// Safari fallback
+	&:focus {
+		outline: 3px solid var(--brand-yellow);
+		outline-offset: 3px;
+	}
+	
+	// Modern browsers - only keyboard focus
+	&:focus:not(:focus-visible) {
+		outline: none;
+	}
+	
 	&:focus-visible {
 		outline: 3px solid var(--brand-yellow);
 		outline-offset: 3px;
@@ -150,6 +161,17 @@
 	&:hover {
 		background-color: var(--brand-pink);
 		color: var(--brand-white);
+	}
+	
+	// Safari fallback
+	&:focus {
+		outline: 3px solid var(--brand-yellow);
+		outline-offset: -3px;
+	}
+	
+	// Modern browsers - only keyboard focus
+	&:focus:not(:focus-visible) {
+		outline: none;
 	}
 	
 	&:focus-visible {

@@ -32,6 +32,18 @@
 			color: var(--brand-dark);
 		}
 		
+		// Safari fallback
+		&:focus {
+			outline: 2px solid var(--brand-white);
+			outline-offset: 2px;
+			border-radius: 2px;
+		}
+		
+		// Modern browsers - only keyboard focus
+		&:focus:not(:focus-visible) {
+			outline: none;
+		}
+		
 		&:focus-visible {
 			outline: 2px solid var(--brand-white);
 			outline-offset: 2px;

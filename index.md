@@ -14,7 +14,7 @@ It's a large-scale mix of role-playing, board gaming, diplomacy, and strategy—
 
 You might be on a team representing a real-world country, a clan of Dwarves working to secure its legacy, or a clandestine group of agents plotting to overthrow corporate overlords in a futuristic dystopia. Whatever the scenario, you'll be working with others to navigate not only your own aims, but those of the other factions and outside forces.
 
-All of the players are playing the same scenario, but each from different perspectives and roles. You'll carve strategy with other players, play sub-games based on your role, and react to situations as they arise. Every role is unique, and every player will have a different experience on gameday, directly shaping the game itself through their actions.
+All of the players are playing the same scenario, but each from different perspectives and roles. You'll develop strategy with other players, play sub-games based on your role, and react to situations as they arise. Every role is unique, and every player will have a different experience on gameday, directly shaping the game itself through their actions.
 
 Megagames can explore nearly anything—from history to science fiction, politics to fantasy, and everything in between.
 

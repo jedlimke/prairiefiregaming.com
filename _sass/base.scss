@@ -233,6 +233,18 @@ a {
 		text-decoration: none;
 	}
 	
+	// Safari fallback - show outline on all focus
+	&:focus {
+		outline: 2px solid var(--brand-yellow);
+		outline-offset: 2px;
+		border-radius: 2px;
+	}
+	
+	// Modern browsers - only show outline on keyboard focus
+	&:focus:not(:focus-visible) {
+		outline: none;
+	}
+	
 	&:focus-visible {
 		outline: 2px solid var(--brand-yellow);
 		outline-offset: 2px;
@@ -438,6 +450,18 @@ table {
 			}
 		}
 		
+		// Safari fallback
+		&:focus {
+			outline: 2px solid var(--brand-yellow);
+			outline-offset: 2px;
+			border-radius: 4px;
+		}
+		
+		// Modern browsers - only keyboard focus
+		&:focus:not(:focus-visible) {
+			outline: none;
+		}
+		
 		&:focus-visible {
 			outline: 2px solid var(--brand-yellow);
 			outline-offset: 2px;
@@ -585,6 +609,17 @@ table {
 		
 		&:hover {
 			transform: translateX(0.5em);
+		}
+		
+		// Safari fallback
+		&:focus {
+			outline: 2px solid currentColor;
+			outline-offset: 4px;
+		}
+		
+		// Modern browsers - only keyboard focus
+		&:focus:not(:focus-visible) {
+			outline: none;
 		}
 		
 		&:focus-visible {
