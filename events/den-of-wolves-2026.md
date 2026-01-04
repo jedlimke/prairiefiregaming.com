@@ -20,9 +20,7 @@ A catastrophic attack has left you with one warship and a handful of civilian ve
 You might be a ship captain coordinating with engineers to keep the lights on. You might be a politician arguing over who gets the last supply of fuel. You might be military personnel tracking enemy movements. Or you might be the wolf—sabotaging everything from within.
 
 {::nomarkdown}
-<a href="https://www.eventbrite.com" class="callout cta" data-label="Register Now">
-<strong>Tickets are $40</strong> and available through Eventbrite. Registration opens January 15th, 2026!
-</a>
+{%- include den-of-wolves-2026-cta.html -%}
 {:/nomarkdown}
 
 ## What You'll Do
@@ -44,9 +42,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 - **Player elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
 
 {::nomarkdown}
-<a href="https://www.eventbrite.com" class="callout cta" data-label="Register Now">
-<strong>Tickets are $40</strong> and available through Eventbrite. Registration opens January 15th, 2026!
-</a>
+{%- include den-of-wolves-2026-cta.html -%}
 {:/nomarkdown}
 
 Questions? Email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
