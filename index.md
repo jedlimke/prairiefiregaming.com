@@ -14,7 +14,7 @@ It's a large-scale mix of role-playing, board gaming, diplomacy, and strategy—
 
 You might be on a team representing a real-world country, a clan of Dwarves working to secure its legacy, or a clandestine group of agents plotting to overthrow corporate overlords in a futuristic dystopia. Whatever the scenario, you'll be working with others to navigate not only your own aims, but those of the other factions and outside forces.
 
-All of the players are playing the same scenario, but each from different perspectives and roles. You'll carve strategy with other players, play sub-games based on your role, and react to situations as they arise. Every role is unique, and every player will have a different experience on gameday, directly shaping the game itself through their actions.
+All of the players are playing the same scenario, but each from different perspectives and roles. You'll develop strategy with other players, play sub-games based on your role, and react to situations as they arise. Every role is unique, and every player will have a different experience on gameday, directly shaping the game itself through their actions.
 
 Megagames can explore nearly anything—from history to science fiction, politics to fantasy, and everything in between.
 
@@ -23,7 +23,7 @@ Megagames can explore nearly anything—from history to science fiction, politic
 If you're still curious about what makes megagames so special, check out this video from Shut Up & Sit Down, where they played the legendary megagame _Watch The Skies_:
 
 <div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/hN71v9H_gg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/hN71v9H_gg8" title="Shut Up & Sit Down plays Watch The Skies megagame" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 For more insights, we recommend:

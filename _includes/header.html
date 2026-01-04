@@ -17,19 +17,18 @@
 		{%- endif -%}
 	</a>
 
-	<input type="checkbox" id="hamburger" class="hamburger" />
-	<label for="hamburger">
+	<button type="button" class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false">
 		<span class="menu-icon">
-			<svg width="30" height="30" viewBox="0 0 100 100">
+			<svg width="30" height="30" viewBox="0 0 100 100" aria-hidden="true">
 				<path class="line line--top"    d="M 0,30 H 100"/>
 				<path class="line line--middle" d="M 0,50 H 100"/>
 				<path class="line line--bottom" d="M 0,70 H 100"/>
 			</svg>
 		</span>
-	</label>
+	</button>
 
 	{%- if page_paths -%}
-	<nav class="header-area--nav">
+	<nav class="header-area--nav" aria-label="Main navigation">
 
 		<div class="trigger">
 			{%- for path in page_paths -%}

@@ -17,6 +17,27 @@
 	&:hover {
 		opacity: 0.9;
 	}
+	
+	// Safari fallback
+	&:focus {
+		outline: 3px solid var(--brand-yellow);
+		outline-offset: 3px;
+	}
+	
+	// Modern browsers - only keyboard focus
+	&:focus:not(:focus-visible) {
+		outline: none;
+	}
+	
+	&:focus-visible {
+		outline: 3px solid var(--brand-yellow);
+		outline-offset: 3px;
+	}
+	
+	// Disable transitions for users who prefer reduced motion
+	@media (prefers-reduced-motion: reduce) {
+		transition: none;
+	}
 
 	@media screen and (min-width: 800px) {
 		padding: calc(var(--spacing-unit) * 3) var(--spacing-unit);
@@ -140,6 +161,27 @@
 	&:hover {
 		background-color: var(--brand-pink);
 		color: var(--brand-white);
+	}
+	
+	// Safari fallback
+	&:focus {
+		outline: 3px solid var(--brand-yellow);
+		outline-offset: -3px;
+	}
+	
+	// Modern browsers - only keyboard focus
+	&:focus:not(:focus-visible) {
+		outline: none;
+	}
+	
+	&:focus-visible {
+		outline: 3px solid var(--brand-yellow);
+		outline-offset: -3px;
+	}
+	
+	// Disable transitions for users who prefer reduced motion
+	@media (prefers-reduced-motion: reduce) {
+		transition: none;
 	}
 
 	// Dark overlay for images
