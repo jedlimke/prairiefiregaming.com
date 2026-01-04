@@ -3,7 +3,7 @@ layout: page
 classes: "fancy-text"
 link_title: "Den of Wolves"
 title: "Den of Wolves: Infinite Domain :: March 7th, 2026"
-permalink: /events/den-of-wolves-2026/
+permalink: /megagames/den-of-wolves-2026/
 image: /assets/megagames/den-of-wolves-hero.jpg
 ---
 

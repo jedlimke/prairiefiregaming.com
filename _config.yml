@@ -42,8 +42,8 @@ show_excerpts: true
 
 # Only show these pages in the top navigation
 header_pages:
-  - events/den-of-wolves-2026.md
-  - events/index.md
+  - megagames/den-of-wolves-2026.md
+  - megagames/index.md
   - policies/index.md
   - about/index.md
 

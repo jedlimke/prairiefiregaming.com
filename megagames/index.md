@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Events
-permalink: /events/
+title: Megagames
+permalink: /megagames/
 ---
 
-<h1>Events</h1>
+<h1>Megagames</h1>
 
 <!-- Featured: Den of Wolves megagame page -->
 <article class="post-summary post-summary--with-image post-summary--featured">
-  <a href="{{ site.baseurl }}/events/den-of-wolves-2026/" class="post-summary-link">
+  <a href="{{ site.baseurl }}/megagames/den-of-wolves-2026/" class="post-summary-link">
     <div class="post-summary-image">
       <img src="/assets/megagames/den-of-wolves-hero.jpg" alt="Den of Wolves: Infinite Domain" loading="eager">
     </div>
