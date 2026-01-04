@@ -1,0 +1,12 @@
+{%- comment -%}
+Den of Wolves 2026 - Call to Action / Ticket Link
+Update ticket price, URL, and registration date here
+{%- endcomment -%}
+
+{%- assign ticket_price = "50" -%}
+{%- assign ticket_url = "https://www.eventbrite.com" -%}
+{%- assign registration_opens = "January 15th, 2026" -%}
+
+<a href="{{ ticket_url }}" class="callout cta" data-label="Register Now">
+<strong>Tickets are ${{ ticket_price }}</strong> and available through Eventbrite. Registration opens {{ registration_opens }}!
+</a>
