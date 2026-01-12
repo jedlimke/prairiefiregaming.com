@@ -49,7 +49,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 - **Age limit: 16+ with adult, otherwise 18+** — This is a long, intense game with mature themes and a lot of stress (the fun kind).
 - **There'll be a lunch break** — Megagames require sustenance! We'll be at _West Acres_ so snacks and meals will be available from the food court if desired. You can also pack your own or have something delivered! __Just no booze!__
 - **Player elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
-- **We're aiming for a full 60 players** — Our past games have sold out, but we never take that for granted. If you know someone who'd love this, bring them along!
+- **We're aiming for 60 players** — Our past games have sold out, but we never take that for granted. If you know someone who'd love this, bring them along!
 
 {::nomarkdown}
 {%- include den-of-wolves-2026-cta.html -%}
@@ -65,8 +65,14 @@ Our net profits are going to be donated to several worthy causes:
 
 ![Donation Recipients](/assets/megagames/dow--donation-recipients.svg)
 
-Questions? Email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
+We're thrilled to support these organizations that make our community stronger. Thank you for helping us give back!
 
-_**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/){:target="_blank"}. **Den of Wolves: Infinte Domain** is an expansion and re-work of the original **Den of Wolves** rules and was designed by Chris Perry of [Portland Megagames](https://discord.gg/eH8Z68eC7v){:target="_blank"}_.
+## Questions or Concerns?
 
-<small>_The Extra Life, ACLU of Minnesota, River Keepers, and Prairie Public logos are used for informational purposes only and are not meant to imply endorsement of this event by these organizations._</small>
+We're here to help! If you have any questions about the event, accessibility needs, or anything else, reach out to us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
+
+---
+
+_**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/){:target="_blank"}. **Den of Wolves: Infinite Domain** is an expansion and re-work of the original **Den of Wolves** rules and was designed by Chris Perry of [Portland Megagames](https://discord.gg/eH8Z68eC7v){:target="_blank"}_.
+
+<small>_The Extra Life, ACLU of Minnesota, River Keepers, and Prairie Public logos are used for informational purposes only and do not imply endorsement of this event by these organizations._</small>
