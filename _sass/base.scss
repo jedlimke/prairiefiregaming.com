@@ -684,6 +684,56 @@ table {
 		color: var(--callout-color);
 		border-color: var(--callout-color);
 	}
+	
+	// Calendar widget - yellow, no right/top borders, grid layout
+	&.calendar {
+		--callout-color: var(--brand-yellow);
+		color: var(--callout-color);
+		border-color: var(--callout-color);
+		padding-right: 0;
+		
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		
+		.calendar-link {
+			color: inherit;
+			text-decoration: underline;
+			text-align: center;
+			
+			&:hover {
+				color: var(--brand-pink);
+			}
+		}
+		
+		@media screen and (max-width: 600px) {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+	
+	// Share widget - orange, no right/top borders, grid layout
+	&.share {
+		--callout-color: var(--brand-orange);
+		color: var(--callout-color);
+		border-color: var(--callout-color);
+		padding-right: 0;
+		
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		
+		.share-link {
+			color: inherit;
+			text-decoration: underline;
+			text-align: center;
+			
+			&:hover {
+				color: var(--brand-pink);
+			}
+		}
+		
+		@media screen and (max-width: 600px) {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
 }
 
 // ============================================================================

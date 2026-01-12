@@ -101,10 +101,9 @@ END:VCALENDAR
 
 {%- assign ical_encoded = ical_data | uri_escape -%}
 
-<div class="add-to-calendar">
-  <strong>Add to Calendar:</strong>
-  <a href="{{ google_cal_url | strip }}" target="_blank" rel="noopener" class="calendar-link">Google</a>
+<div class="callout calendar" data-label="ADD MEGAGAME TO CALENDAR">
   <a href="data:text/calendar;charset=utf-8,{{ ical_encoded }}" download="{{ include.title | slugify }}.ics" class="calendar-link">Apple</a>
+  <a href="{{ google_cal_url | strip }}" target="_blank" rel="noopener" class="calendar-link">Google</a>
   <a href="data:text/calendar;charset=utf-8,{{ ical_encoded }}" download="{{ include.title | slugify }}.ics" class="calendar-link">Outlook</a>
-  <a href="data:text/calendar;charset=utf-8,{{ ical_encoded }}" download="{{ include.title | slugify }}.ics" class="calendar-link">Other (.ics)</a>
+  <a href="data:text/calendar;charset=utf-8,{{ ical_encoded }}" download="{{ include.title | slugify }}.ics" class="calendar-link">Other</a>
 </div>
