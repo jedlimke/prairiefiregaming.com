@@ -63,6 +63,10 @@ Our net profits are going to be donated to several worthy causes:
 - The [ACLU of Minnesota](https://www.aclu-mn.org/){:target="_blank"}, a non-partisan advocacy organization dedicated to protecting and expanding civil liberties in Minnesota and across the country.
 - [Prairie Public Broadcasting](https://www.prairiepublic.org/){:target="_blank"}, our local public media station which provides quality radio and television services that educate, involve, and inspire the people of the prairie region.
 
+![Donation Recipients](/assets/megagames/dow--donation-recipients.svg)
+
 Questions? Email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
 
 _**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/){:target="_blank"}. **Den of Wolves: Infinte Domain** is an expansion and re-work of the original **Den of Wolves** rules and was designed by Chris Perry of [Portland Megagames](https://discord.gg/eH8Z68eC7v){:target="_blank"}_.
+
+<small>_The Extra Life, ACLU of Minnesota, River Keepers, and Prairie Public logos are used for informational purposes only and are not meant to imply endorsement of this event by these organizations._</small>
