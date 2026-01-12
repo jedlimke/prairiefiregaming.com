@@ -15,7 +15,7 @@ Your ticket purchase is confirmed, and you should receive a confirmation email f
 
 ### Check Your Email
 - **Order confirmation** from Ticket Tailor (check spam if you don't see it!)
-- **Game materials & rules** will be sent ~1-2 weeks~ before the event
+- **Game materials & rules** will be sent 1-2 weeks before the game
 - **Role assignment** will arrive a few days before March 7th
 
 ### Mark Your Calendar
@@ -34,9 +34,7 @@ Doors open at 9:00 AM · Game starts at 9:30 AM
 %}
 {:/nomarkdown}
 
-<div style="margin: var(--spacing-unit) 0;">
-  <img src="/assets/megagames/dow--west-acres-event-location.png" alt="Map showing event location at West Acres" style="width: 100%; max-width: 600px; border-radius: var(--border-radius); border: var(--border-width) solid var(--border-color);">
-</div>
+![Map showing event location at West Acres](/assets/megagames/dow--west-acres-event-location.png)
 
 ### Get Ready
 - **No experience required** — We'll teach you everything you need to know

@@ -292,6 +292,20 @@ img {
 	height: auto;
 }
 
+// Images within post content
+.post-content img,
+.page-content img {
+	width: 100%;
+	height: auto;
+	display: block;
+
+	border-radius: var(--border-radius);
+
+	// Gentle manual tweaking because of the interplay
+	// of line heights and the gaps between paragraphs
+	margin: 0.50em 0;
+}
+
 // Responsive video embed container
 .video-embed {
 	position: relative;
