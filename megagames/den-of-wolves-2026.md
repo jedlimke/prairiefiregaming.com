@@ -5,6 +5,7 @@ link_title: "Den of Wolves"
 title: "Den of Wolves: Infinite Domain :: March 7th, 2026"
 permalink: /megagames/den-of-wolves-2026/
 image: /assets/megagames/den-of-wolves-hero.jpg
+social_image: /assets/megagames/dow--social-share.png
 ---
 
 # Den of Wolves: Infinite Domain
@@ -50,17 +51,18 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 - **Player elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
 - **We're aiming for a full 60 players** — Our past games have sold out, but we never take that for granted. If you know someone who'd love this, bring them along!
 
+{::nomarkdown}
+{%- include den-of-wolves-2026-cta.html -%}
+{:/nomarkdown}
+
 ## What We're Doing with the Profits
 Our net profits are going to be donated to several worthy causes:
 
 - [Extra Life](https://www.extra-life.org/){:target="_blank"}, a program of Children’s Miracle Network Hospitals, unites gamers to play games and change kids’ health and futures. Funds raised through our event will be directed specifically to Sanford Children’s Hospital in Fargo, ND.
 - [River Keepers](https://www.riverkeepers.org/){:target="_blank"}, a volunteer-led Fargo–Moorhead organization, which works to protect, restore, and connect people to the Red River of the North through river cleanups, water quality initiatives, and community programs that keep the river healthy, accessible, and safe for future generations.
 - The [ACLU of Minnesota](https://www.aclu-mn.org/){:target="_blank"}, a non-partisan advocacy organization dedicated to protecting and expanding civil liberties in Minnesota and across the country.
-
-{::nomarkdown}
-{%- include den-of-wolves-2026-cta.html -%}
-{:/nomarkdown}
+- [Prairie Public Broadcasting](https://www.prairiepublic.org/){:target="_blank"}, our local public media station which provides quality radio and television services that educate, involve, and inspire the people of the prairie region.
 
 Questions? Email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
 
-_**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/den-of-wolves). **Den of Wolves: Infinte Domain** is an expansion and re-work of the original **Den of Wolves** rules and was designed by Chris Perry of [Portland Megagames](https://discord.gg/eH8Z68eC7v)_.
+_**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/){:target="_blank"}. **Den of Wolves: Infinte Domain** is an expansion and re-work of the original **Den of Wolves** rules and was designed by Chris Perry of [Portland Megagames](https://discord.gg/eH8Z68eC7v){:target="_blank"}_.

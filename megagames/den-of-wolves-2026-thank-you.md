@@ -6,6 +6,7 @@ permalink: /megagames/den-of-wolves-2026/thank-you/
 ---
 
 # Welcome to the Fleet!
+{: .fancy-text}
 
 **Thank you for registering for Den of Wolves: Infinite Domain!**
 
@@ -55,10 +56,7 @@ Megagames are always best when they're full to capacity with people you love gam
 - **No alcohol** — Keep a clear head for the chaos ahead
 
 ### Important Policies
-Before the event, please review:
-- [Safety Policy](/policies/safety-policy/) — Everyone is welcome, everyone is accountable
-- [Refund Policy](/policies/refund-policy/) — Know your options
-- [Accessibility Statement](/policies/accessibility/) — We're here to help
+Before the event, please review our [policies](/policies).
 
 ## Need to Make Changes?
 
