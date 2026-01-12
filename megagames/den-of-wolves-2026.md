@@ -6,6 +6,7 @@ title: "Den of Wolves: Infinite Domain :: March 7th, 2026"
 permalink: /megagames/den-of-wolves-2026/
 image: /assets/megagames/dow--hero-banner-4.png
 social_image: /assets/megagames/dow--social-share.png
+excerpt: "A cooperative megagame about survival under pressure. Humanity is on the run. The wolves are closing in. And somewhere among your crew... there might be a traitor. March 7th, 2026 in Fargo, ND."
 ---
 
 # Den of Wolves: Infinite Domain
@@ -24,7 +25,7 @@ Humanity is on the run.
 
 A catastrophic attack has left you with one warship and a handful of civilian vessels fleeing into deep space. The enemy—the "wolves"—are relentless, closing in from behind. Resources are scarce. Trust is scarcer. And somewhere among your crew... there might be a traitor.
 
-**Den of Wolves** is a cooperative megagame about survival under pressure. You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive. Think _Battlestar Galactica_ meets high-stakes board gaming meets live-action chaos.
+**Den of Wolves** is a cooperative megagame about survival under pressure. You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive. Think _Battlestar Galactica_ meets diplomacy meets roleplaying meets high-stakes board gaming meets live-action chaos.
 
 You might be a ship captain coordinating with engineers to keep the lights on. You might be a politician arguing over who gets the last supply of fuel. You might be military personnel tracking enemy movements. Or you might be the wolf—sabotaging everything from within.
 
