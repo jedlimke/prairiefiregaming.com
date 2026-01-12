@@ -65,8 +65,6 @@ Before the event, please review our [Policies](/policies).
 
 **Can't make it?** Check our [Refund Policy](/policies/refund-policy/) for options.
 
-**Have questions?** Email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com)
-
 ## Join the Community
 
 Want to stay connected before the event?
