@@ -4,7 +4,7 @@ classes: "fancy-text"
 link_title: "Den of Wolves"
 title: "Den of Wolves: Infinite Domain :: March 7th, 2026"
 permalink: /megagames/den-of-wolves-2026/
-image: /assets/megagames/den-of-wolves-hero.jpg
+image: /assets/megagames/dow--hero-banner-4.png
 social_image: /assets/megagames/dow--social-share.png
 ---
 

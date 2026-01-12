@@ -30,15 +30,58 @@ Example usage:
 {%- assign start_parts = include.start_time | split: ":" -%}
 {%- assign end_parts = include.end_time | split: ":" -%}
 
-{%- assign start_datetime = date_parts[0] | append: date_parts[1] | append: date_parts[2] | append: "T" | append: start_parts[0] | append: start_parts[1] | append: "00" -%}
-{%- assign end_datetime = date_parts[0] | append: date_parts[1] | append: date_parts[2] | append: "T" | append: end_parts[0] | append: end_parts[1] | append: "00" -%}
+{%- comment -%} Convert Central Time to UTC (add 5 hours for CST, 6 for CDT - using 5 for simplicity) {%- endcomment -%}
+{%- assign start_hour = start_parts[0] | plus: 5 -%}
+{%- assign end_hour = end_parts[0] | plus: 5 -%}
+
+{%- comment -%} Handle day rollover if hour >= 24 {%- endcomment -%}
+{%- assign start_day = date_parts[2] | plus: 0 -%}
+{%- assign end_day = date_parts[2] | plus: 0 -%}
+{%- assign twenty_four = 24 -%}
+{%- assign ten = 10 -%}
+
+{%- if start_hour >= twenty_four -%}
+  {%- assign start_hour = start_hour | minus: 24 -%}
+  {%- assign start_day = start_day | plus: 1 -%}
+{%- endif -%}
+{%- if end_hour >= twenty_four -%}
+  {%- assign end_hour = end_hour | minus: 24 -%}
+  {%- assign end_day = end_day | plus: 1 -%}
+{%- endif -%}
+
+{%- comment -%} Format hour with leading zero if needed {%- endcomment -%}
+{%- if start_hour < ten -%}
+  {%- assign start_hour_str = "0" | append: start_hour -%}
+{%- else -%}
+  {%- assign start_hour_str = start_hour | append: "" -%}
+{%- endif -%}
+{%- if end_hour < ten -%}
+  {%- assign end_hour_str = "0" | append: end_hour -%}
+{%- else -%}
+  {%- assign end_hour_str = end_hour | append: "" -%}
+{%- endif -%}
+
+{%- comment -%} Format day with leading zero if needed {%- endcomment -%}
+{%- if start_day < ten -%}
+  {%- assign start_day_str = "0" | append: start_day -%}
+{%- else -%}
+  {%- assign start_day_str = start_day | append: "" -%}
+{%- endif -%}
+{%- if end_day < ten -%}
+  {%- assign end_day_str = "0" | append: end_day -%}
+{%- else -%}
+  {%- assign end_day_str = end_day | append: "" -%}
+{%- endif -%}
+
+{%- assign start_datetime = date_parts[0] | append: date_parts[1] | append: start_day_str | append: "T" | append: start_hour_str | append: start_parts[1] | append: "00Z" -%}
+{%- assign end_datetime = date_parts[0] | append: date_parts[1] | append: end_day_str | append: "T" | append: end_hour_str | append: end_parts[1] | append: "00Z" -%}
 
 {%- comment -%} Build Google Calendar URL {%- endcomment -%}
 {%- capture google_cal_url -%}
 https://calendar.google.com/calendar/render?action=TEMPLATE&text={{ event_title }}&dates={{ start_datetime }}/{{ end_datetime }}&details={{ event_description }}&location={{ event_location }}&ctz=America/Chicago
 {%- endcapture -%}
 
-{%- comment -%} Build iCal data {%- endcomment -%}
+{%- comment -%} Build iCal data - using UTC times with Z suffix for compatibility {%- endcomment -%}
 {%- capture ical_data -%}
 BEGIN:VCALENDAR
 VERSION:2.0
@@ -46,8 +89,8 @@ PRODID:-//Prairie Fire Gaming//NONSGML Event//EN
 BEGIN:VEVENT
 UID:{{ include.date }}-{{ include.title | slugify }}@prairiefiregaming.com
 DTSTAMP:{{ "now" | date: "%Y%m%dT%H%M%SZ" }}
-DTSTART;TZID=America/Chicago:{{ start_datetime }}
-DTEND;TZID=America/Chicago:{{ end_datetime }}
+DTSTART:{{ start_datetime }}
+DTEND:{{ end_datetime }}
 SUMMARY:{{ include.title }}
 DESCRIPTION:{{ include.description }}
 LOCATION:{{ include.location }}

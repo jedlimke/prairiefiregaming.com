@@ -722,10 +722,8 @@ table {
 		animation: none;
 	}
 
-	&:hover {
-		filter: hue-rotate(0deg);
-		-webkit-filter: hue-rotate(0deg);
-		animation-iteration-count: 0;
+	&:hover:is(a) {
+		animation-duration: 1s;
 	}
 }
 // ============================================================================

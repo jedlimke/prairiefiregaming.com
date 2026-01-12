@@ -35,16 +35,3 @@ article {
 // 	inset: 0;
 // 	background: linear-gradient(to top, rgba(0, 0, 0, 0.6) 0%, transparent 100%);
 // }
-
-// Images within post content
-.post-content img {
-	width: 100%;
-	height: auto;
-	display: block;
-
-	border-radius: calc(var(--spacing-unit) / 2);
-
-	// Gentle manual tweaking because of the interplay
-	// of line heights and the gaps between paragraphs
-	margin: 0.50em 0;
-}

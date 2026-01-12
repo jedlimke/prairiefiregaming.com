@@ -18,6 +18,10 @@ All of the players are playing the same scenario, but each from different perspe
 
 Megagames can explore nearly anything—from history to science fiction, politics to fantasy, and everything in between.
 
+## Ready to Play?
+
+We've got a game just around the corner! Grab a ticket and come join us to play [Den of Wolves](/megagames/den-of-wolves-2026){: .fancy-text} on March 7th!
+
 ## Want to Learn More?
 
 If you're still curious about what makes megagames so special, check out this video from Shut Up & Sit Down, where they played the legendary megagame _Watch The Skies_:
