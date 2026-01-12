@@ -1,6 +1,6 @@
 {%- comment -%}
 Add to Calendar Link Include
-Creates links to add event to Google Calendar or download .ics file
+Creates links to Google Calendar or download .ics file
 
 Parameters:
 - title: Event title (required)
@@ -60,7 +60,8 @@ END:VCALENDAR
 
 <div class="add-to-calendar">
   <strong>Add to Calendar:</strong>
-  <a href="{{ google_cal_url | strip }}" target="_blank" rel="noopener" class="calendar-link">Google Calendar</a>
-  <span class="calendar-separator">|</span>
-  <a href="data:text/calendar;charset=utf-8,{{ ical_encoded }}" download="{{ include.title | slugify }}.ics" class="calendar-link">iCal/Outlook</a>
+  <a href="{{ google_cal_url | strip }}" target="_blank" rel="noopener" class="calendar-link">Google</a>
+  <a href="data:text/calendar;charset=utf-8,{{ ical_encoded }}" download="{{ include.title | slugify }}.ics" class="calendar-link">Apple</a>
+  <a href="data:text/calendar;charset=utf-8,{{ ical_encoded }}" download="{{ include.title | slugify }}.ics" class="calendar-link">Outlook</a>
+  <a href="data:text/calendar;charset=utf-8,{{ ical_encoded }}" download="{{ include.title | slugify }}.ics" class="calendar-link">Other (.ics)</a>
 </div>

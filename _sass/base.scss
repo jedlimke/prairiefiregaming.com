@@ -734,24 +734,45 @@ table {
 .add-to-calendar {
 	display: inline-flex;
 	align-items: center;
-	gap: calc(var(--spacing-unit) / 3);
+	gap: calc(var(--spacing-unit) / 2);
 	padding: calc(var(--spacing-unit) / 2);
 	background: var(--brand-yellow);
 	border-radius: var(--border-radius);
 	color: var(--brand-dark);
 	font-weight: bold;
+	flex-wrap: wrap;
 	
 	.calendar-link {
 		color: var(--brand-dark);
 		text-decoration: underline;
+		white-space: nowrap;
+		
+		// Add middot separator between items (same as event-meta)
+		&:not(:last-child)::after {
+			content: "·";
+			margin-left: calc(var(--spacing-unit) / 2);
+			opacity: 0.6;
+			text-decoration: none;
+			display: inline-block;
+			color: var(--brand-dark);
+		}
 		
 		&:hover {
 			color: var(--brand-orange);
 		}
 	}
 	
-	.calendar-separator {
-		color: var(--brand-dark);
-		opacity: 0.5;
+	// On mobile, stack items vertically and remove separators
+	@media screen and (max-width: 600px) {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 4px;
+		
+		.calendar-link {
+			&:not(:last-child)::after {
+				content: none;
+				margin-left: 0;
+			}
+		}
 	}
 }
