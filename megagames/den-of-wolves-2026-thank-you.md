@@ -36,6 +36,18 @@ Doors open at 9:00 AM · Game starts at 9:30 AM
 
 ![Map showing event location at West Acres](/assets/megagames/dow--west-acres-event-location.png)
 
+### Share the Megagame With Friends
+
+Megagames are always best when they're full to capacity with people you love gaming with!
+
+{::nomarkdown}
+{% include share-event.html 
+   url="https://prairiefiregaming.com/megagames/den-of-wolves-2026/"
+   title="Join me at Den of Wolves: Infinite Domain on March 7th!"
+   description="6 hours of immersive sci-fi megagame gameplay in Fargo"
+%}
+{:/nomarkdown}
+
 ### Get Ready
 - **No experience required** — We'll teach you everything you need to know
 - **Cosplay encouraged** — Ship captain? Politician? Refugee? Dress the part!
