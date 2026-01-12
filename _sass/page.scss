@@ -13,7 +13,7 @@
 	margin-bottom: var(--spacing-unit);
 
 	@media screen and (min-width: 800px) {
-		min-height: 500px;
+		min-height: 750px;
 	}
 }
 
@@ -63,5 +63,42 @@
 	// Override hover state too
 	&:hover {
 		border-bottom: none;
+	}
+}
+// ============================================================================
+// EVENT META (Date, Location, Duration, Player Count)
+// ============================================================================
+.event-meta {
+	font-weight: bold;
+	font-size: 1.1em;
+	margin: calc(var(--spacing-unit) / 2) 0;
+	display: flex;
+	flex-wrap: wrap;
+	gap: calc(var(--spacing-unit) / 2);
+	align-items: center;
+	
+	.event-meta-item {
+		white-space: nowrap;
+		
+		// Add middot separator between items on desktop
+		&:not(:last-child)::after {
+			content: "·";
+			margin-left: calc(var(--spacing-unit) / 2);
+			opacity: 0.6;
+		}
+	}
+	
+	// On mobile, stack items vertically and remove separators
+	@media screen and (max-width: 600px) {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 4px;
+		
+		.event-meta-item {
+			&:not(:last-child)::after {
+				content: none;
+				margin-left: 0;
+			}
+		}
 	}
 }

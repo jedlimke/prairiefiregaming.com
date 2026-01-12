@@ -1,0 +1,67 @@
+{%- comment -%}
+Add to Calendar Link Include
+Creates links to Google Calendar or download .ics file
+
+Parameters:
+- title: Event title (required)
+- date: Event date in YYYY-MM-DD format (required)
+- start_time: Start time in HH:MM format, 24-hour (required)
+- end_time: End time in HH:MM format, 24-hour (required)
+- location: Event location/address (optional)
+- description: Event description (optional)
+
+Example usage:
+{% include add-to-calendar.html 
+   title="Den of Wolves: Infinite Domain"
+   date="2026-03-07"
+   start_time="09:30"
+   end_time="16:30"
+   location="West Acres, 3902 13th Ave S, Unit 3717, Fargo, ND 58103"
+   description="6 hours of immersive megagame gameplay"
+%}
+{%- endcomment -%}
+
+{%- assign event_title = include.title | url_encode -%}
+{%- assign event_location = include.location | url_encode -%}
+{%- assign event_description = include.description | url_encode -%}
+
+{%- comment -%} Format dates for Google Calendar (YYYYMMDDTHHmmSS) {%- endcomment -%}
+{%- assign date_parts = include.date | split: "-" -%}
+{%- assign start_parts = include.start_time | split: ":" -%}
+{%- assign end_parts = include.end_time | split: ":" -%}
+
+{%- assign start_datetime = date_parts[0] | append: date_parts[1] | append: date_parts[2] | append: "T" | append: start_parts[0] | append: start_parts[1] | append: "00" -%}
+{%- assign end_datetime = date_parts[0] | append: date_parts[1] | append: date_parts[2] | append: "T" | append: end_parts[0] | append: end_parts[1] | append: "00" -%}
+
+{%- comment -%} Build Google Calendar URL {%- endcomment -%}
+{%- capture google_cal_url -%}
+https://calendar.google.com/calendar/render?action=TEMPLATE&text={{ event_title }}&dates={{ start_datetime }}/{{ end_datetime }}&details={{ event_description }}&location={{ event_location }}&ctz=America/Chicago
+{%- endcapture -%}
+
+{%- comment -%} Build iCal data {%- endcomment -%}
+{%- capture ical_data -%}
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Prairie Fire Gaming//NONSGML Event//EN
+BEGIN:VEVENT
+UID:{{ include.date }}-{{ include.title | slugify }}@prairiefiregaming.com
+DTSTAMP:{{ "now" | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;TZID=America/Chicago:{{ start_datetime }}
+DTEND;TZID=America/Chicago:{{ end_datetime }}
+SUMMARY:{{ include.title }}
+DESCRIPTION:{{ include.description }}
+LOCATION:{{ include.location }}
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
+{%- endcapture -%}
+
+{%- assign ical_encoded = ical_data | uri_escape -%}
+
+<div class="add-to-calendar">
+  <strong>Add to Calendar:</strong>
+  <a href="{{ google_cal_url | strip }}" target="_blank" rel="noopener" class="calendar-link">Google</a>
+  <a href="data:text/calendar;charset=utf-8,{{ ical_encoded }}" download="{{ include.title | slugify }}.ics" class="calendar-link">Apple</a>
+  <a href="data:text/calendar;charset=utf-8,{{ ical_encoded }}" download="{{ include.title | slugify }}.ics" class="calendar-link">Outlook</a>
+  <a href="data:text/calendar;charset=utf-8,{{ ical_encoded }}" download="{{ include.title | slugify }}.ics" class="calendar-link">Other (.ics)</a>
+</div>

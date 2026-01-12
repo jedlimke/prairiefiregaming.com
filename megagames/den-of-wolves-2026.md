@@ -7,9 +7,17 @@ permalink: /megagames/den-of-wolves-2026/
 image: /assets/megagames/den-of-wolves-hero.jpg
 ---
 
-# Den of Wolves
+# Den of Wolves: Infinite Domain
+{: .fancy-text}
 
-**Saturday, March 7th, 2026 · Fargo · 6 Hours · 60 Players**
+{::nomarkdown}
+<p class="event-meta">
+  <span class="event-meta-item">Saturday, March 7th</span>
+  <span class="event-meta-item">Fargo, ND</span>
+  <span class="event-meta-item">6 Hours</span>
+  <span class="event-meta-item">60 Players</span>
+</p>
+{:/nomarkdown}
 
 Humanity is on the run.
 
@@ -39,10 +47,11 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 - **Cosplay encouraged** — Come as a ship captain, a politician, a refugee. Or just wear comfortable clothes. Either works.
 - **Age limit: 16+ with adult, otherwise 18+** — This is a long, intense game with mature themes and a lot of stress (the fun kind).
 - **There'll be a lunch break** — Megagames require sustenance! We'll be at _West Acres_ so snacks and meals will be available from the food court if desired. You can also pack your own or have something delivered! __Just no booze!__
-- **_Player_ elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
+- **Player elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
+- **We're aiming for a full 60 players** — Our past games have sold out, but we never take that for granted. If you know someone who'd love this, bring them along!
 
-## What are you doing with the profits?
-Our net profits, after covering expenses, are going to be donated to several worthy causes:
+## What We're Doing with the Profits
+Our net profits are going to be donated to several worthy causes:
 
 - [Extra Life](https://www.extra-life.org/){:target="_blank"}, a program of Children’s Miracle Network Hospitals, unites gamers to play games and change kids’ health and futures. Funds raised through our event will be directed specifically to Sanford Children’s Hospital in Fargo, ND.
 - [River Keepers](https://www.riverkeepers.org/){:target="_blank"}, a volunteer-led Fargo–Moorhead organization, which works to protect, restore, and connect people to the Red River of the North through river cleanups, water quality initiatives, and community programs that keep the river healthy, accessible, and safe for future generations.
