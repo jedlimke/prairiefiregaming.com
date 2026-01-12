@@ -56,7 +56,7 @@ Megagames are always best when they're full to capacity with people you love gam
 - **No alcohol** — Keep a clear head for the chaos ahead
 
 ### Important Policies
-Before the event, please review our [policies](/policies).
+Before the event, please review our [Policies](/policies).
 
 ## Need to Make Changes?
 
@@ -71,7 +71,7 @@ Before the event, please review our [policies](/policies).
 Want to stay connected before the event?
 
 - **Follow us on [Facebook @prairiefiregaming](https://www.facebook.com/PrairieFireGaming/)** for updates
-- **Check our [events page](/megagames/)** for future megagames
+- **Check our [Megagames](/megagames/)** page to learn about past and upcoming megagames.
 
 ## See You in March!
 
