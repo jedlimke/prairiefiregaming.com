@@ -12,8 +12,8 @@ image: /assets/megagames/den-of-wolves-hero.jpg
 
 {::nomarkdown}
 <p class="event-meta">
-  <span class="event-meta-item">Saturday, March 7th, 2026</span>
-  <span class="event-meta-item">Fargo</span>
+  <span class="event-meta-item">Saturday, March 7th</span>
+  <span class="event-meta-item">Fargo, ND</span>
   <span class="event-meta-item">6 Hours</span>
   <span class="event-meta-item">60 Players</span>
 </p>
