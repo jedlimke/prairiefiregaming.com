@@ -722,10 +722,8 @@ table {
 		animation: none;
 	}
 
-	&:hover {
-		filter: hue-rotate(0deg);
-		-webkit-filter: hue-rotate(0deg);
-		animation-iteration-count: 0;
+	&:hover:is(a) {
+		animation-duration: 1s;
 	}
 }
 // ============================================================================
@@ -769,6 +767,59 @@ table {
 		gap: 4px;
 		
 		.calendar-link {
+			&:not(:last-child)::after {
+				content: none;
+				margin-left: 0;
+			}
+		}
+	}
+}
+
+// ============================================================================
+// SHARE EVENT LINKS
+// ============================================================================
+.share-event {
+	display: inline-flex;
+	align-items: center;
+	gap: calc(var(--spacing-unit) / 2);
+	padding: calc(var(--spacing-unit) / 2);
+	background: var(--brand-orange);
+	border-radius: var(--border-radius);
+	color: var(--brand-white);
+	font-weight: bold;
+	flex-wrap: wrap;
+	
+	strong {
+		color: var(--brand-white);
+	}
+	
+	.share-link {
+		color: var(--brand-white);
+		text-decoration: underline;
+		white-space: nowrap;
+		
+		// Add middot separator between items
+		&:not(:last-child)::after {
+			content: "·";
+			margin-left: calc(var(--spacing-unit) / 2);
+			opacity: 0.6;
+			text-decoration: none;
+			display: inline-block;
+			color: var(--brand-white);
+		}
+		
+		&:hover {
+			color: var(--brand-yellow);
+		}
+	}
+	
+	// On mobile, stack items vertically and remove separators
+	@media screen and (max-width: 600px) {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 4px;
+		
+		.share-link {
 			&:not(:last-child)::after {
 				content: none;
 				margin-left: 0;

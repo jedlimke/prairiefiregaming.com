@@ -10,7 +10,7 @@ permalink: /megagames/
 <article class="post-summary post-summary--with-image post-summary--featured">
   <a href="{{ site.baseurl }}/megagames/den-of-wolves-2026/" class="post-summary-link">
     <div class="post-summary-image">
-      <img src="/assets/megagames/den-of-wolves-hero.jpg" alt="Den of Wolves: Infinite Domain" loading="eager">
+      <img src="/assets/megagames/dow--hero-banner.png" alt="Den of Wolves: Infinite Domain" loading="eager">
     </div>
     <div class="post-summary-content">
       <header class="post-header">

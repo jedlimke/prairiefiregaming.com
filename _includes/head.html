@@ -13,8 +13,31 @@
 		content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 	<meta name="author" content="{{ site.author | escape }}">
 
-	{%- if site.logo -%}
+	{%- comment -%} Open Graph / Facebook {%- endcomment -%}
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{{ page.url | absolute_url }}">
+	<meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+	<meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+	{%- if page.social_image -%}
+	<meta property="og:image" content="{{ page.social_image | absolute_url }}">
+	{%- elsif page.image -%}
+	<meta property="og:image" content="{{ page.image | absolute_url }}">
+	{%- elsif site.logo -%}
 	<meta property="og:image" content="{{ site.logo | absolute_url }}">
+	{%- endif -%}
+	<meta property="og:site_name" content="{{ site.title | escape }}">
+
+	{%- comment -%} Twitter Card {%- endcomment -%}
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:url" content="{{ page.url | absolute_url }}">
+	<meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
+	<meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+	{%- if page.social_image -%}
+	<meta name="twitter:image" content="{{ page.social_image | absolute_url }}">
+	{%- elsif page.image -%}
+	<meta name="twitter:image" content="{{ page.image | absolute_url }}">
+	{%- elsif site.logo -%}
+	<meta name="twitter:image" content="{{ site.logo | absolute_url }}">
 	{%- endif -%}
 
 	<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">

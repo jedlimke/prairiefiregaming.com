@@ -4,7 +4,8 @@ classes: "fancy-text"
 link_title: "Den of Wolves"
 title: "Den of Wolves: Infinite Domain :: March 7th, 2026"
 permalink: /megagames/den-of-wolves-2026/
-image: /assets/megagames/den-of-wolves-hero.jpg
+image: /assets/megagames/dow--hero-banner-4.png
+social_image: /assets/megagames/dow--social-share.png
 ---
 
 # Den of Wolves: Infinite Domain
@@ -48,7 +49,11 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 - **Age limit: 16+ with adult, otherwise 18+** — This is a long, intense game with mature themes and a lot of stress (the fun kind).
 - **There'll be a lunch break** — Megagames require sustenance! We'll be at _West Acres_ so snacks and meals will be available from the food court if desired. You can also pack your own or have something delivered! __Just no booze!__
 - **Player elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
-- **We're aiming for a full 60 players** — Our past games have sold out, but we never take that for granted. If you know someone who'd love this, bring them along!
+- **We're aiming for 60 players** — Our past games have sold out, but we never take that for granted. If you know someone who'd love this, bring them along!
+
+{::nomarkdown}
+{%- include den-of-wolves-2026-cta.html -%}
+{:/nomarkdown}
 
 ## What We're Doing with the Profits
 Our net profits are going to be donated to several worthy causes:
@@ -56,11 +61,18 @@ Our net profits are going to be donated to several worthy causes:
 - [Extra Life](https://www.extra-life.org/){:target="_blank"}, a program of Children’s Miracle Network Hospitals, unites gamers to play games and change kids’ health and futures. Funds raised through our event will be directed specifically to Sanford Children’s Hospital in Fargo, ND.
 - [River Keepers](https://www.riverkeepers.org/){:target="_blank"}, a volunteer-led Fargo–Moorhead organization, which works to protect, restore, and connect people to the Red River of the North through river cleanups, water quality initiatives, and community programs that keep the river healthy, accessible, and safe for future generations.
 - The [ACLU of Minnesota](https://www.aclu-mn.org/){:target="_blank"}, a non-partisan advocacy organization dedicated to protecting and expanding civil liberties in Minnesota and across the country.
+- [Prairie Public Broadcasting](https://www.prairiepublic.org/){:target="_blank"}, our local public media station which provides quality radio and television services that educate, involve, and inspire the people of the prairie region.
 
-{::nomarkdown}
-{%- include den-of-wolves-2026-cta.html -%}
-{:/nomarkdown}
+![Donation Recipients](/assets/megagames/dow--donation-recipients.svg)
 
-Questions? Email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
+We're thrilled to support these organizations that make our community stronger. Thank you for helping us give back!
 
-_**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/den-of-wolves). **Den of Wolves: Infinte Domain** is an expansion and re-work of the original **Den of Wolves** rules and was designed by Chris Perry of [Portland Megagames](https://discord.gg/eH8Z68eC7v)_.
+## Questions or Concerns?
+
+We're here to help! If you have any questions about the event, accessibility needs, or anything else, reach out to us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
+
+---
+
+_**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/){:target="_blank"}. **Den of Wolves: Infinite Domain** is an expansion and re-work of the original **Den of Wolves** rules and was designed by Chris Perry of [Portland Megagames](https://discord.gg/eH8Z68eC7v){:target="_blank"}_.
+
+<small>_The Extra Life, ACLU of Minnesota, River Keepers, and Prairie Public logos are used for informational purposes only and do not imply endorsement of this event by these organizations._</small>

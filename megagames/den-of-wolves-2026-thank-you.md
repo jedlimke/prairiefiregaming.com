@@ -6,6 +6,7 @@ permalink: /megagames/den-of-wolves-2026/thank-you/
 ---
 
 # Welcome to the Fleet!
+{: .fancy-text}
 
 **Thank you for registering for Den of Wolves: Infinite Domain!**
 
@@ -36,6 +37,18 @@ Doors open at 9:00 AM · Game starts at 9:30 AM
 
 ![Map showing event location at West Acres](/assets/megagames/dow--west-acres-event-location.png)
 
+### Share the Megagame With Friends
+
+Megagames are always best when they're full to capacity with people you love gaming with!
+
+{::nomarkdown}
+{% include share-event.html 
+   url="https://prairiefiregaming.com/megagames/den-of-wolves-2026/"
+   title="Join me at Den of Wolves: Infinite Domain on March 7th!"
+   description="6 hours of immersive sci-fi megagame gameplay in Fargo"
+%}
+{:/nomarkdown}
+
 ### Get Ready
 - **No experience required** — We'll teach you everything you need to know
 - **Cosplay encouraged** — Ship captain? Politician? Refugee? Dress the part!
@@ -43,10 +56,7 @@ Doors open at 9:00 AM · Game starts at 9:30 AM
 - **No alcohol** — Keep a clear head for the chaos ahead
 
 ### Important Policies
-Before the event, please review:
-- [Safety Policy](/policies/safety-policy/) — Everyone is welcome, everyone is accountable
-- [Refund Policy](/policies/refund-policy/) — Know your options
-- [Accessibility Statement](/policies/accessibility/) — We're here to help
+Before the event, please review our [Policies](/policies).
 
 ## Need to Make Changes?
 
@@ -61,7 +71,7 @@ Before the event, please review:
 Want to stay connected before the event?
 
 - **Follow us on [Facebook @prairiefiregaming](https://www.facebook.com/PrairieFireGaming/)** for updates
-- **Check our [events page](/megagames/)** for future megagames
+- **Check our [Megagames](/megagames/)** page to learn about past and upcoming megagames.
 
 ## See You in March!
 
