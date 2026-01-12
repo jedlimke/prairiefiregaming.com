@@ -20,9 +20,6 @@ Your ticket purchase is confirmed, and you should receive a confirmation email f
 - **Role assignment** will arrive a few days before March 7th
 
 ### Mark Your Calendar
-**Saturday, March 7th, 2026**  
-West Acres, 3902 13th Ave S, Unit 3717, Fargo, ND 58103  
-Doors open at 9:00 AM · Game starts at 9:30 AM
 
 {::nomarkdown}
 {% include add-to-calendar.html 
@@ -34,12 +31,13 @@ Doors open at 9:00 AM · Game starts at 9:30 AM
    description="6 hours of immersive megagame gameplay. Humanity is on the run - join the fleet and fight for survival! Learn more at https://prairiefiregaming.com/megagames/den-of-wolves-2026/"
 %}
 {:/nomarkdown}
+**Saturday, March 7th, 2026**  
+West Acres, 3902 13th Ave S, Unit 3717, Fargo, ND 58103  
+Doors open at 9:00 AM · Game starts at 9:30 AM
 
 ![Map showing event location at West Acres](/assets/megagames/dow--west-acres-event-location.png)
 
 ### Share the Megagame With Friends
-
-Megagames are always best when they're full to capacity with people you love gaming with!
 
 {::nomarkdown}
 {% include share-event.html 
@@ -48,6 +46,9 @@ Megagames are always best when they're full to capacity with people you love gam
    description="6 hours of immersive sci-fi megagame gameplay in Fargo"
 %}
 {:/nomarkdown}
+
+Megagames are always best when they're full to capacity with people you love gaming with!
+
 
 ### Get Ready
 - **No experience required** — We'll teach you everything you need to know
@@ -63,8 +64,6 @@ Before the event, please review our [Policies](/policies).
 **Manage your order** through your Ticket Tailor confirmation email.
 
 **Can't make it?** Check our [Refund Policy](/policies/refund-policy/) for options.
-
-**Have questions?** Email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com)
 
 ## Join the Community
 
