@@ -7,7 +7,7 @@ permalink: /megagames/den-of-wolves-2026/
 image: /assets/megagames/den-of-wolves-hero.jpg
 ---
 
-# Den of Wolves
+# Den of Wolves: Infinite Domain
 
 **Saturday, March 7th, 2026 · Fargo · 6 Hours · 60 Players**
 

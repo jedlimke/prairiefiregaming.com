@@ -714,3 +714,30 @@ table {
 		animation-iteration-count: 0;
 	}
 }
+// ============================================================================
+// ADD TO CALENDAR LINKS
+// ============================================================================
+.add-to-calendar {
+	display: inline-flex;
+	align-items: center;
+	gap: calc(var(--spacing-unit) / 3);
+	padding: calc(var(--spacing-unit) / 2);
+	background: var(--brand-yellow);
+	border-radius: var(--border-radius);
+	color: var(--brand-dark);
+	font-weight: bold;
+	
+	.calendar-link {
+		color: var(--brand-dark);
+		text-decoration: underline;
+		
+		&:hover {
+			color: var(--brand-orange);
+		}
+	}
+	
+	.calendar-separator {
+		color: var(--brand-dark);
+		opacity: 0.5;
+	}
+}

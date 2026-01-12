@@ -11,8 +11,6 @@ permalink: /megagames/den-of-wolves-2026/thank-you/
 
 Your ticket purchase is confirmed, and you should receive a confirmation email from Ticket Tailor shortly with your e-ticket and order details.
 
----
-
 ## What Happens Next?
 
 ### Check Your Email
@@ -22,8 +20,23 @@ Your ticket purchase is confirmed, and you should receive a confirmation email f
 
 ### Mark Your Calendar
 **Saturday, March 7th, 2026**  
-West Acres, Fargo  
+West Acres, 3902 13th Ave S, Unit 3717, Fargo, ND 58103  
 Doors open at 9:00 AM · Game starts at 9:30 AM
+
+{::nomarkdown}
+{% include add-to-calendar.html 
+   title="Den of Wolves: Infinite Domain MEGAGAME"
+   date="2026-03-07"
+   start_time="09:00"
+   end_time="16:30"
+   location="West Acres, 3902 13th Ave S, Unit 3717, Fargo, ND 58103"
+   description="6 hours of immersive megagame gameplay. Humanity is on the run - join the fleet and fight for survival! Learn more at https://prairiefiregaming.com/megagames/den-of-wolves-2026/"
+%}
+{:/nomarkdown}
+
+<div style="margin: var(--spacing-unit) 0;">
+  <img src="/assets/megagames/dow--west-acres-event-location.png" alt="Map showing event location at West Acres" style="width: 100%; max-width: 600px; border-radius: var(--border-radius); border: var(--border-width) solid var(--border-color);">
+</div>
 
 ### Get Ready
 - **No experience required** — We'll teach you everything you need to know
@@ -31,13 +44,11 @@ Doors open at 9:00 AM · Game starts at 9:30 AM
 - **Bring snacks/lunch** — There's a food court at West Acres, or pack your own
 - **No alcohol** — Keep a clear head for the chaos ahead
 
-### 📋 Important Policies
+### Important Policies
 Before the event, please review:
 - [Safety Policy](/policies/safety-policy/) — Everyone is welcome, everyone is accountable
 - [Refund Policy](/policies/refund-policy/) — Know your options
 - [Accessibility Statement](/policies/accessibility/) — We're here to help
-
----
 
 ## Need to Make Changes?
 
@@ -47,41 +58,15 @@ Before the event, please review:
 
 **Have questions?** Email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com)
 
----
-
 ## Join the Community
 
 Want to stay connected before the event?
 
-- **Subscribe to our newsletter** (coming soon!)
-- **Follow us on social media** for updates
+- **Follow us on [Facebook @prairiefiregaming](https://www.facebook.com/PrairieFireGaming/)** for updates
 - **Check our [events page](/megagames/)** for future megagames
-
-{::nomarkdown}
-<div class="callout" markdown="1">
-**Pro Tip:** Start thinking about your character now. Are you a hardened military officer? A desperate politician? A pragmatic engineer? The wolves are coming, and the fleet needs you at your best.
-</div>
-{:/nomarkdown}
-
----
-
-## Event Details Reminder
-
-**Den of Wolves: Infinite Domain**  
-March 7, 2026 · Fargo · 6 Hours · 60 Players
-
-Humanity is on the run. A catastrophic attack has left you with one warship and a handful of civilian vessels fleeing into deep space. Resources are scarce. Trust is scarcer. And somewhere among your crew... there might be a traitor.
-
-[Read the full event description](/megagames/den-of-wolves-2026/)
-
----
 
 ## See You in March!
 
 Thank you for supporting Prairie Fire Gaming and helping us bring world-class megagames to the Midwest. We can't wait to see you at the game!
 
 **Questions?** Email [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com)
-
-{::nomarkdown}
-{% include social.html %}
-{:/nomarkdown}
