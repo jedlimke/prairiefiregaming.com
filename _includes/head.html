@@ -22,8 +22,8 @@
 	<meta property="og:image" content="{{ page.social_image | absolute_url }}">
 	{%- elsif page.image -%}
 	<meta property="og:image" content="{{ page.image | absolute_url }}">
-	{%- elsif site.logo -%}
-	<meta property="og:image" content="{{ site.logo | absolute_url }}">
+	{%- elsif site.logo_png -%}
+	<meta property="og:image" content="{{ site.logo_png | absolute_url }}">
 	{%- endif -%}
 	<meta property="og:site_name" content="{{ site.title | escape }}">
 
@@ -36,8 +36,8 @@
 	<meta name="twitter:image" content="{{ page.social_image | absolute_url }}">
 	{%- elsif page.image -%}
 	<meta name="twitter:image" content="{{ page.image | absolute_url }}">
-	{%- elsif site.logo -%}
-	<meta name="twitter:image" content="{{ site.logo | absolute_url }}">
+	{%- elsif site.logo_png -%}
+	<meta name="twitter:image" content="{{ site.logo_png | absolute_url }}">
 	{%- endif -%}
 
 	<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">

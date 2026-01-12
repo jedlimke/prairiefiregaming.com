@@ -8,7 +8,8 @@ url: "https://prairiefiregaming.com"
 author: Prairie Fire Gaming
 
 # Site logos
-logo: /assets/prairiefiregaming.png
+logo: /assets/prairiefiregaming.svg
+logo_png: /assets/prairiefiregaming.png
 footer_logo: /assets/prairiefiregaming-block.svg
 
 # Sass configuration
