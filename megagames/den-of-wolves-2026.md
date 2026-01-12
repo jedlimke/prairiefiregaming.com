@@ -41,8 +41,8 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 - **There'll be a lunch break** — Megagames require sustenance! We'll be at _West Acres_ so snacks and meals will be available from the food court if desired. You can also pack your own or have something delivered! __Just no booze!__
 - **_Player_ elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
 
-## What are you doing with the profits?
-Our net profits, after covering expenses, are going to be donated to several worthy causes:
+## What We're Doing with the Profits
+Our net profits are going to be donated to several worthy causes:
 
 - [Extra Life](https://www.extra-life.org/){:target="_blank"}, a program of Children’s Miracle Network Hospitals, unites gamers to play games and change kids’ health and futures. Funds raised through our event will be directed specifically to Sanford Children’s Hospital in Fargo, ND.
 - [River Keepers](https://www.riverkeepers.org/){:target="_blank"}, a volunteer-led Fargo–Moorhead organization, which works to protect, restore, and connect people to the Red River of the North through river cleanups, water quality initiatives, and community programs that keep the river healthy, accessible, and safe for future generations.
