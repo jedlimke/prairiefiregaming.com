@@ -18,7 +18,35 @@ It was chaos.
 
 _As it should be._
 
----
+<div class="pull-quote">
+  <p>This is seriously burned into my psyche; one of the most intense but fun and low-risk experiences I've had since high school 20+ years ago. Reminded me of the best summer camps and immersion experiences. I imagine preparing for and running the game were everything I loved about being a camp counselor that one summer. I just loved it.</p>
+  <cite>HypnoWars Correspondent</cite>
+</div>
+
+<div class="pull-quote">
+  <p>Please do this again. When I got home I was exhausted, I had started to get a migraine, my dog had gotten out of her kennel and there was a crazy mess to clean up as a result. I didn't care. I was in too good of a mood from having so much fun. <em>Do</em> quit your day jobs. This is what you were meant to do.</p>
+  <cite>U.S. Ambassador to the United Nations</cite>
+</div>
+
+<div class="pull-quote">
+	<p>Thank you very much for doing this in our area and helping make Fargo an even more fun place for the nerdy set.</p>
+	<cite>Premier of China</cite>
+</div>
+
+<div class="pull-quote">
+	<p>10/10. Would share fish with aliens again!</p>
+	<cite>German Chancellor</cite>
+</div>
+
+<div class="pull-quote">
+	<p>I want to do it again. Like next week, or as often as possible.</p>
+	<cite>Australian Secretary of Defense</cite>
+</div>
+
+<div class="pull-quote">
+	<p>I just want to thank you again for the amount of enjoyment I got out of this experience. I will for sure do it again next time.</p>
+	<cite>French Prime Minister</cite>
+</div>
 
 ## After-Action Report
 
@@ -35,6 +63,11 @@ _What follows is their story._
 The game opened with familiar geopolitical maneuvering. China and Russia affirmed their alliance while a new European Union formed between Germany and France, leaving the UK conspicuously excluded. Brazil, already feeling kicked around by wealthier nations, found itself at odds with the UK and others over scientific consultant bidding.
 
 Then came the confirmation everyone had been waiting for: **Russia downed a flying saucer over Mozambique.**
+
+<div class="pull-quote in-game-quote">
+	<p>I CAN'T BELIEVE THIS IS REAL: Russians Down Flying Saucer in Mozambique</p>
+	<cite>National News Network<span class="game-title">Maputo</span></cite>
+</div>
 
 The world would never be the same.
 
@@ -54,11 +87,21 @@ Meanwhile, Germany and France announced free utilities—including internet acce
 
 But beneath the veneer of progress, paranoia festered. **Thailand extremists bombed Russian barracks at the Olympic Village.** Markets crashed across the globe. Civil unrest erupted—riots in Brazil, protests in Canada. Someone was pulling strings, and fingers pointed in every direction.
 
+<div class="pull-quote in-game-quote">
+	<p>MARKETS CRASHING ACROSS THE GLOBE!!!</p>
+	<cite>HypnoWars</cite>
+</div>
+
 The aliens, it turned out, had their own factions. Saudi Arabia was confirmed to have been infiltrated—the king overthrown and led away by aliens, rambling about a library. A government assistant reported that aliens had embedded themselves throughout the Saudi government.
 
 ### Escalation: Space Bases and Declarations
 
 Japan's advanced telescopes confirmed what many suspected: **alien bases existed on both the Moon and Mars.**
+
+<div class="pull-quote in-game-quote">
+	<p>Japan spots alien bases on Mars and the moon</p>
+	<cite>Eclipse Quarterly</cite>
+</div>
 
 The news triggered a diplomatic crisis. Russia announced it would allow aliens to build a base on its soil, supported by a global coalition of China, Germany, and France. But not everyone was on board. Japan and the UK grew increasingly militant, viewing any alien presence on Earth as an invasion force.
 
@@ -66,11 +109,23 @@ NNN reported that Russia was colluding with aliens. Eclipse News revealed an int
 
 The UN attempted to respond. A joint press conference revealed **three alien factions**: one hostile, one neutral, and one attempting to collaborate. The aliens made demands: draw down nuclear arms, unite under one Earth banner, and allow them to remove "harmful artifacts" from the planet. In exchange, they promised to resume communications.
 
-France led the charge for a Global Space Agency. India proposed a planetary defense shield. But trust was nonexistent.
+France led the charge for a Global Space Agency. India proposed a planetary defense shield.
+
+<div class="pull-quote in-game-quote">
+	<p>India proposes global defense shield to protect Earth from hostile aliens</p>
+	<cite>HypnoWars <span class="game-title">New Delhi</span></cite>
+</div>
+
+But trust was nonexistent.
 
 ### The Breaking Point: Siberia and Nuclear War
 
 Everything came to a head over **the Siberian excavation.**
+
+<div class="pull-quote in-game-quote">
+	<p>Mad scramble for Siberia excavation, world powers at odds</p>
+	<cite>Eclipse Quarterly <span class="game-title">Sevastopol</span></cite>
+</div>
 
 Beneath the permafrost lay a structure larger than any human-made building—"a sprawling fortress packed with alien technology" that had been there for centuries. This was why the aliens had come. Russia moved to excavate it. A coalition of nations, led by the UK and US, tried to stop them.
 
@@ -79,6 +134,11 @@ The excavation succeeded. Russia launched the recovered device into orbit.
 But the geopolitical situation was spiraling out of control. The UK attempted to infiltrate the alien base in Antarctica and steal technology. France, supposedly allied with the aliens, launched an assault on that same base. **The aliens declared war.**
 
 In response to perceived alien aggression—and French betrayal—Japan and the UK made their move. Claiming the aliens were "inherently manipulative and invasive," they launched nuclear weapons at the Moon and Mars bases.
+
+<div class="pull-quote in-game-quote">
+	<p>LAUNCHES CONFIRMED: NUKES LAUNCHED TOWARD MOON; MARS</p>
+	<cite>National News Network</cite>
+</div>
 
 The US, working with corporate allies, had attempted to scramble French and British launch codes to prevent exactly this outcome. They succeeded in disabling the UK's missiles. France claimed to have lost their launch codes entirely.
 
