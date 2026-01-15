@@ -18,10 +18,6 @@ It was chaos.
 
 _As it should be._
 
----
-
-## What Players Said
-
 <div class="testimonial">
   <p>This is seriously burned into my psyche; one of the most intense but fun and low-risk experiences I've had since high school 20+ years ago. Reminded me of the best summer camps and immersion experiences. I imagine preparing for and running the game were everything I loved about being a camp counselor that one summer. I just loved it.</p>
   <cite>HypnoWars Correspondent</cite>
@@ -51,8 +47,6 @@ _As it should be._
 	<p>I just want to thank you again for the amount of enjoyment I got out of this experience. I will for sure do it again next time.</p>
 	<cite>French Prime Minister</cite>
 </div>
-
----
 
 ## After-Action Report
 

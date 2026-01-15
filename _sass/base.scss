@@ -41,8 +41,8 @@
 
 	// UX
 	--border-color: #00000022;
-	--border-width: 1px;
-	--stroke-width: 6px;
+	--border-width-minor: 1px;
+	--stroke-width: 9px;
 	--border-radius: 4px;
 
 	// Font stacks
@@ -337,7 +337,7 @@ table {
 	th, td {
 		padding: 0.5rem;
 		text-align: left;
-		border-bottom: var(--border-width) solid var(--border-color);
+		border-bottom: var(--border-width-minor) solid var(--border-color);
 	}
 
 	th {
@@ -364,7 +364,7 @@ table {
 		tbody tr {
 			display: block;
 			margin-bottom: calc(var(--spacing-unit) / 2);
-			border: var(--border-width) solid var(--border-color);
+			border: var(--border-width-minor) solid var(--border-color);
 			
 			// Zebra striping for cards
 			&:nth-child(even) {
@@ -545,9 +545,9 @@ table {
 .callout {
 	color: var(--brand-yellow);
 	padding: var(--spacing-unit) 0;
-	border-top: solid 0.5em var(--brand-yellow);
-	border-bottom: solid 0.5em var(--brand-yellow);
-	border-right: dashed 0.5em var(--brand-yellow);
+	border-top: solid var(--stroke-width) var(--brand-yellow);
+	border-bottom: solid var(--stroke-width) var(--brand-yellow);
+	border-right: dashed var(--stroke-width) var(--brand-yellow);
 	padding-right: var(--spacing-unit);
 	position: relative;
 	box-sizing: border-box;
@@ -887,7 +887,6 @@ table {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	gap: var(--spacing-unit);
-	margin: calc(var(--spacing-unit) * 2) 0;
 	
 	@media screen and (max-width: 600px) {
 		grid-template-columns: 1fr;
@@ -896,13 +895,11 @@ table {
 
 // Individual testimonial styling
 .testimonial {
-	background: var(--bg-yellow);
-	padding: var(--spacing-unit);
-	border-radius: var(--border-radius);
-	border-left: var(--stroke-width) solid var(--brand-orange);
+	padding-left: var(--spacing-unit);
+	border-left: var(--stroke-width) solid var(--brand-yellow);
 	
 	p {
-		color: var(--text-dark);
+		color: var(--text-color);
 		font-size: 1.1em;
 		line-height: 1.6;
 		margin: 0 0 calc(var(--spacing-unit) / 2) 0;
@@ -915,16 +912,11 @@ table {
 	
 	cite {
 		display: block;
-		color: var(--brand-orange);
+		color: var(--brand-yellow);
 		font-weight: bold;
 		font-size: 0.9em;
 		font-style: normal;
-		text-align: right;
 		margin-top: calc(var(--spacing-unit) / 2);
-		
-		&::before {
-			content: "— ";
-		}
 		
 		.game-title {
 			display: block;
@@ -936,3 +928,14 @@ table {
 	}
 }
 
+// *:not(.testimonials-grid) > .testimonial:nth-child(2n-1) {
+// 	text-align: right;
+// 	padding-left: unset;
+// 	padding-right: var(--spacing-unit);
+// 	border-left: unset;
+// 	border-right: var(--stroke-width) solid var(--brand-yellow);
+// }
+
+*:not(.testimonials-grid) > .testimonial {
+	margin-top: var(--spacing-unit);
+}
