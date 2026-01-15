@@ -26,6 +26,7 @@
 	--brand-yellow: #FFCC00;
 	--brand-orange: #FF6600;
 	--brand-pink: #FF0066;
+	--brand-grey: #777777;
 
 	// Background colors
 	--bg-main: var(--brand-dark);
@@ -33,6 +34,7 @@
 	--bg-yellow: var(--brand-yellow);
 	--bg-orange: var(--brand-orange);
 	--bg-pink: var(--brand-pink);
+	--bg-grey: var(--brand-grey);
 
 	// Text colors
 	--text-color: var(--brand-white);
@@ -879,11 +881,11 @@ table {
 }
 
 // ============================================================================
-// TESTIMONIALS
+// pull-quoteS
 // ============================================================================
 
 // Grid layout for homepage
-.testimonials-grid {
+.pull-quotes-grid {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	gap: var(--spacing-unit);
@@ -893,8 +895,8 @@ table {
 	}
 }
 
-// Individual testimonial styling
-.testimonial {
+// Individual pull-quote styling
+.pull-quote {
 	padding-left: var(--spacing-unit);
 	border-left: var(--stroke-width) solid var(--brand-yellow);
 	
@@ -928,7 +930,7 @@ table {
 	}
 }
 
-// *:not(.testimonials-grid) > .testimonial:nth-child(2n-1) {
+// *:not(.pull-quotes-grid) > .pull-quote:nth-child(2n-1) {
 // 	text-align: right;
 // 	padding-left: unset;
 // 	padding-right: var(--spacing-unit);
@@ -936,6 +938,18 @@ table {
 // 	border-right: var(--stroke-width) solid var(--brand-yellow);
 // }
 
-*:not(.testimonials-grid) > .testimonial {
+.pull-quote.in-game-quote {
+	border-color: var(--brand-grey);
+
+	p {
+		font-size: 1em;
+	}
+
+	cite {
+		color: var(--brand-grey);
+	}
+}
+
+*:not(.pull-quotes-grid) > .pull-quote:not(.in-game-quote) {
 	margin-top: var(--spacing-unit);
 }
