@@ -8,6 +8,20 @@ body_class: home
 
 We host and create **megagames**—massive, immersive events where dozens (and sometimes hundreds) of players come together for hours of strategy, diplomacy, and unforgettable chaos. If you've never heard of a megagame before, don't worry—most people haven't. Here's what you need to know:
 
+---
+
+## What Our Players Say
+
+<p class="testimonial">This is seriously burned into my psyche; one of the most intense but fun and low-risk experiences I've had since high school 20+ years ago. Reminded me of the best summer camps and immersion experiences.</p>
+
+<p class="testimonial"><em>Do</em> quit your day jobs. This is what you were meant to do.</p>
+
+<p class="testimonial">My favorite part of the game was seeing my plans come into fruition.</p>
+
+<p class="testimonial">The social interaction amongst all of the players was awesome!</p>
+
+---
+
 ## What is a Megagame?
 
 It's a large-scale mix of role-playing, board gaming, diplomacy, and strategy—typically running several hours. Players are divided into teams or factions, each with their own goals and challenges. 
