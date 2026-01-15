@@ -877,3 +877,62 @@ table {
 		}
 	}
 }
+
+// ============================================================================
+// TESTIMONIALS
+// ============================================================================
+
+// Grid layout for homepage
+.testimonials-grid {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: var(--spacing-unit);
+	margin: calc(var(--spacing-unit) * 2) 0;
+	
+	@media screen and (max-width: 600px) {
+		grid-template-columns: 1fr;
+	}
+}
+
+// Individual testimonial styling
+.testimonial {
+	background: var(--bg-yellow);
+	padding: var(--spacing-unit);
+	border-radius: var(--border-radius);
+	border-left: var(--stroke-width) solid var(--brand-orange);
+	
+	p {
+		color: var(--text-dark);
+		font-size: 1.1em;
+		line-height: 1.6;
+		margin: 0 0 calc(var(--spacing-unit) / 2) 0;
+		font-style: italic;
+		
+		&:last-of-type {
+			margin-bottom: calc(var(--spacing-unit) / 2);
+		}
+	}
+	
+	cite {
+		display: block;
+		color: var(--brand-orange);
+		font-weight: bold;
+		font-size: 0.9em;
+		font-style: normal;
+		text-align: right;
+		margin-top: calc(var(--spacing-unit) / 2);
+		
+		&::before {
+			content: "— ";
+		}
+		
+		.game-title {
+			display: block;
+			font-size: 0.85em;
+			font-weight: normal;
+			opacity: 0.8;
+			margin-top: 4px;
+		}
+	}
+}
+

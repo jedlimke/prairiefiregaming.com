@@ -8,19 +8,24 @@ body_class: home
 
 We host and create **megagames**—massive, immersive events where dozens (and sometimes hundreds) of players come together for hours of strategy, diplomacy, and unforgettable chaos. If you've never heard of a megagame before, don't worry—most people haven't. Here's what you need to know:
 
----
-
-## What Our Players Say
-
-<p class="testimonial">This is seriously burned into my psyche; one of the most intense but fun and low-risk experiences I've had since high school 20+ years ago. Reminded me of the best summer camps and immersion experiences.</p>
-
-<p class="testimonial"><em>Do</em> quit your day jobs. This is what you were meant to do.</p>
-
-<p class="testimonial">My favorite part of the game was seeing my plans come into fruition.</p>
-
-<p class="testimonial">The social interaction amongst all of the players was awesome!</p>
-
----
+<div class="testimonials-grid">
+  <div class="testimonial">
+    <p>This is seriously burned into my psyche; one of the most intense but fun and low-risk experiences I've had since high school 20+ years ago. Reminded me of the best summer camps and immersion experiences.</p>
+    <cite>HypnoWars Correspondent<span class="game-title">Watch the Skies</span></cite>
+  </div>
+  <div class="testimonial">
+    <p><em>Do</em> quit your day jobs. This is what you were meant to do.</p>
+    <cite>U.S. Ambassador to the United Nations<span class="game-title">Watch the Skies</span></cite>
+  </div>
+  <div class="testimonial">
+    <p>My favorite part of the game was seeing my plans come into fruition.</p>
+    <cite>Rusviet Prime Minister<span class="game-title">Sickle</span></cite>
+  </div>
+  <div class="testimonial">
+    <p>The social interaction amongst all of the players was awesome!</p>
+    <cite>French Secretary of Defense<span class="game-title">Watch the Skies</span></cite>
+  </div>
+</div>
 
 ## What is a Megagame?
 

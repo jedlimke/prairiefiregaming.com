@@ -22,17 +22,35 @@ _As it should be._
 
 ## What Players Said
 
-<p class="testimonial">This is seriously burned into my psyche; one of the most intense but fun and low-risk experiences I've had since high school 20+ years ago. Reminded me of the best summer camps and immersion experiences. I imagine preparing for and running the game were everything I loved about being a camp counselor that one summer. I just loved it.</p>
+<div class="testimonial">
+  <p>This is seriously burned into my psyche; one of the most intense but fun and low-risk experiences I've had since high school 20+ years ago. Reminded me of the best summer camps and immersion experiences. I imagine preparing for and running the game were everything I loved about being a camp counselor that one summer. I just loved it.</p>
+  <cite>HypnoWars Correspondent</cite>
+</div>
 
-<p class="testimonial">Please do this again. When I got home I was exhausted, I had started to get a migraine, my dog had gotten out of her kennel and there was a crazy mess to clean up as a result. I didn't care. I was in too good of a mood from having so much fun. <em>Do</em> quit your day jobs. This is what you were meant to do.</p>
+<div class="testimonial">
+  <p>Please do this again. When I got home I was exhausted, I had started to get a migraine, my dog had gotten out of her kennel and there was a crazy mess to clean up as a result. I didn't care. I was in too good of a mood from having so much fun. <em>Do</em> quit your day jobs. This is what you were meant to do.</p>
+  <cite>U.S. Ambassador to the United Nations</cite>
+</div>
 
-<p class="testimonial">Thank you very much for doing this in our area and helping make Fargo an even more fun place for the nerdy set.</p>
+<div class="testimonial">
+  <p>Thank you very much for doing this in our area and helping make Fargo an even more fun place for the nerdy set.</p>
+  <cite>Premier of China</cite>
+</div>
 
-<p class="testimonial">10/10. Would share fish with aliens again!</p>
+<div class="testimonial">
+  <p>10/10. Would share fish with aliens again!</p>
+  <cite>German Chancellor</cite>
+</div>
 
-<p class="testimonial">I want to do it again. Like next week, or as often as possible.</p>
+<div class="testimonial">
+  <p>I want to do it again. Like next week, or as often as possible.</p>
+  <cite>Australian Secretary of Defense</cite>
+</div>
 
-<p class="testimonial">I just want to thank you again for the amount of enjoyment I got out of this experience. I will for sure do it again next time.</p>
+<div class="testimonial">
+  <p>I just want to thank you again for the amount of enjoyment I got out of this experience. I will for sure do it again next time.</p>
+  <cite>French Prime Minister</cite>
+</div>
 
 ---
 
