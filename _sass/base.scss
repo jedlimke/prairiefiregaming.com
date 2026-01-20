@@ -897,6 +897,7 @@ table {
 
 // Individual pull-quote styling
 .pull-quote {
+	border-bottom: unset;
 	padding-left: var(--spacing-unit);
 	border-left: var(--stroke-width) solid var(--brand-yellow);
 	

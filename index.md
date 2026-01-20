@@ -9,22 +9,22 @@ body_class: home
 We host and create **megagames**—massive, immersive events where dozens (and sometimes hundreds) of players come together for hours of strategy, diplomacy, and unforgettable chaos. If you've never heard of a megagame before, don't worry—most people haven't. Here's what you need to know:
 
 <div class="pull-quotes-grid">
-	<div class="pull-quote">
+	<a class="pull-quote" href="/news/2017/12/02/watch-the-skies">
+  		<p>Please do this again. When I got home I was exhausted, I had started to get a migraine, my dog had gotten out of her kennel, and there was a crazy mess to clean up as a result. I didn't care. I was in too good of a mood from having so much fun.</p>
+		<cite>U.S. Ambassador to the United Nations<span class="game-title">Watch the Skies</span></cite>
+	</a>
+	<a class="pull-quote" href="/news/2019/06/08/sickle">
+		<p>There was never a dull moment and we always had things to do&mdash;I loved seeing my plans come to fruition.</p>
+		<cite>Polanian President<span class="game-title">Sickle</span></cite>
+	</a>
+	<a class="pull-quote" href="/news/2017/12/02/watch-the-skies">
+		<p>Your hard work made the game a lot of fun and the controllers were all fun to work with. We found out that you designed all the digital headlines and such specifically for the game in Fargo - which was a large part of the game and friggin’ awesome. Thank you!</p>
+		<cite>French Deputy Prime Minister<span class="game-title">Watch the Skies</span></cite>
+	</a>
+	<a class="pull-quote" href="/news/2017/12/02/watch-the-skies">
 		<p>This is seriously burned into my psyche; one of the most intense but fun and low-risk experiences I've had since high school 20+ years ago. Reminded me of the best summer camps and immersion experiences.</p>
 		<cite>HypnoWars Correspondent<span class="game-title">Watch the Skies</span></cite>
-	</div>
-	<div class="pull-quote">
-		<p><em>Do</em> quit your day jobs. This is what you were meant to do.</p>
-		<cite>U.S. Ambassador to the United Nations<span class="game-title">Watch the Skies</span></cite>
-	</div>
-	<div class="pull-quote">
-		<p>My favorite part of the game was seeing my plans come into fruition.</p>
-		<cite>Rusviet Prime Minister<span class="game-title">Sickle</span></cite>
-	</div>
-	<div class="pull-quote">
-		<p>The social interaction amongst all of the players was awesome!</p>
-		<cite>French Secretary of Defense<span class="game-title">Watch the Skies</span></cite>
-	</div>
+	</a>
 </div>
 
 ## What is a Megagame?
