@@ -24,7 +24,7 @@ _As it should be._
 </div>
 
 <div class="pull-quote">
-  <p>Please do this again. When I got home I was exhausted, I had started to get a migraine, my dog had gotten out of her kennel and there was a crazy mess to clean up as a result. I didn't care. I was in too good of a mood from having so much fun. <em>Do</em> quit your day jobs. This is what you were meant to do.</p>
+  	<p>Please do this again. When I got home I was exhausted, I had started to get a migraine, my dog had gotten out of her kennel, and there was a crazy mess to clean up as a result. I didn't care. I was in too good of a mood from having so much fun. <em>Do</em> quit your day jobs. This is what you were meant to do.</p>
   <cite>U.S. Ambassador to the United Nations</cite>
 </div>
 

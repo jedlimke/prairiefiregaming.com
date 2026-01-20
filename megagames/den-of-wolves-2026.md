@@ -35,13 +35,33 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 
 ## What You'll Do
 
-**Manage Resources** — Fuel, water, food, medicine. Every decision matters when supplies are limited and the fleet keeps moving. _You can't thrive if you don't survive._{: .fancy-text}
-
-**Make Political Decisions** — Who gets rescued? Where do we jump next? Do we trust the intel? You'll debate, negotiate, and vote on the fleet's survival. _Your actions matter._{: .fancy-text}
-
-**Fight or Flight** — Military teams coordinate defense. Engineering teams keep ships operational. Medical teams treat casualties. Everyone has a job. _Not everyone is happy about it._{: .fancy-text}
-
-**Trust No One** — Traitors exist. They're hidden. They're working against you. Or maybe they're not. _Paranoia is part of the experience._{: .fancy-text}
+{::nomarkdown}
+<div class="gameplay-pillars">
+  <div class="pillar-card">
+    <h3>Manage Resources</h3>
+    <p>Fuel, water, food, medicine. Every decision matters when supplies are limited and the fleet keeps moving.</p>
+    <p class="pillar-tagline fancy-text">You can't thrive if you don't survive.</p>
+  </div>
+  
+  <div class="pillar-card">
+    <h3>Make Political Decisions</h3>
+    <p>Who gets rescued? Where do we jump next? Do we trust the intel? You'll debate, negotiate, and vote on the fleet's survival.</p>
+    <p class="pillar-tagline fancy-text">Your actions matter.</p>
+  </div>
+  
+  <div class="pillar-card">
+    <h3>Fight or Flight</h3>
+    <p>Military teams coordinate defense. Engineering teams keep ships operational. Medical teams treat casualties. Everyone has a job.</p>
+    <p class="pillar-tagline fancy-text">Not everyone is happy about it.</p>
+  </div>
+  
+  <div class="pillar-card">
+    <h3>Trust No One</h3>
+    <p>Traitors exist. They're hidden. They're working against you. Or maybe they're not.</p>
+    <p class="pillar-tagline fancy-text">Paranoia is part of the experience.</p>
+  </div>
+</div>
+{:/nomarkdown}
 
 ## What You Need to Know
 
