@@ -5,7 +5,7 @@
 .page-hero {
 	width: 100vw;
 	margin-left: calc(-50vw + 50%);
-	min-height: 400px;
+	min-height: 300px;
 	background-size: cover;
 	background-position: center;
 	position: relative;
@@ -130,5 +130,37 @@
 		margin-top: calc(var(--spacing-unit) / 2);
 		margin-bottom: 0;
 		opacity: 0.85;
+	}
+}
+
+// ============================================================================
+// FIXED MOBILE CTA BUTTON FOR DEN OF WOLVES
+// ============================================================================
+.dow-fixed-cta-mobile {
+	display: none;
+	@media screen and (max-width: 768px) {
+		display: flex;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		width: 100vw;
+		height: min(10vh, 3em);
+		background: var(--brand-green);
+		color: var(--brand-dark);
+		font-size: min(5vh, 2em);
+		line-height: 1em;
+		font-weight: 900;
+		text-decoration: none;
+		z-index: 1000;
+		align-items: center;
+		justify-content: center;
+		padding: 0;
+		transition: background-color 0.2s ease;
+
+		&:hover,
+		&:active {
+			background: #6BC11E;
+			text-decoration: none;
+		}
 	}
 }
