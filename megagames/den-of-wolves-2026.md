@@ -97,3 +97,5 @@ We're here to help! If you have any questions about the event, accessibility nee
 _**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/){:target="_blank"}. **Den of Wolves: Infinite Domain** is an expansion and re-work of the original **Den of Wolves** rules and was designed by Chris Perry of [Portland Megagames](https://discord.gg/eH8Z68eC7v){:target="_blank"}_.
 
 <small>_The Extra Life, ACLU of Minnesota, River Keepers, and Prairie Public logos are used for informational purposes only and do not imply endorsement of this event by these organizations._</small>
+
+<a href="https://app.tickettailor.com/events/prairiefiregaming/2006278" class="dow-fixed-cta-mobile" aria-label="Get tickets now">GET TICKETS NOW</a>
