@@ -107,13 +107,17 @@
 // GAMEPLAY PILLARS CARDS (What You'll Do section)
 // ============================================================================
 .gameplay-pillars {
-	margin: var(--spacing-unit) 0;
+	// margin: var(--spacing-unit) 0;
 }
 
 .pillar-card {
 	border-left: var(--stroke-width) solid var(--brand-pink);
 	padding-left: calc(var(--spacing-unit) / 1.5);
 	margin-bottom: var(--spacing-unit);
+
+	&:last-child {
+		margin-bottom: 0;
+	}
 	
 	h3 {
 		margin-top: 0;
@@ -155,16 +159,16 @@
 		align-items: center;
 		justify-content: center;
 		padding: 0;
-		transition: background-color 0.2s ease;
+		transition: all 200ms ease-in-out;
 
 		&:hover,
 		&:active {
-			background: #6BC11E;
+			background-color: var(--brand-pink);
+			color: var(--brand-dark);
 			text-decoration: none;
 		}
 	}
 }
-
 
 @media screen and (max-width: 768px) {
 	.callout.cta {

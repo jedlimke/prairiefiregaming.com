@@ -25,7 +25,7 @@ Humanity is on the run.
 
 A catastrophic attack has left you with one warship and a handful of civilian vessels fleeing into deep space. The enemy—the "wolves"—are relentless, closing in from behind. Resources are scarce. Trust is scarcer. And somewhere among your crew... there might be a traitor.
 
-**Den of Wolves** is a cooperative megagame about survival under pressure. You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive. Think _Battlestar Galactica_ meets diplomacy meets roleplaying meets high-stakes board gaming meets live-action chaos.
+**Den of Wolves** is a 60-player MEGAGAME that places you among the decision-makers of a desperate, fractured fleet as it flees into deep space after a devastating attack. You're not a lone hero, but one voice among many, forced to coordinate, compromise, and act under pressure as the enemies close in from behind You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive. Think _Battlestar Galactica_ meets diplomacy meets roleplaying meets high-stakes board gaming meets live-action chaos.
 
 You might be a ship captain coordinating with engineers to keep the lights on. You might be a politician arguing over who gets the last supply of fuel. You might be military personnel tracking enemy movements. Or you might be the wolf—sabotaging everything from within.
 
@@ -35,7 +35,6 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 
 ## What You'll Do
 
-{::nomarkdown}
 <div class="gameplay-pillars">
   <div class="pillar-card">
     <h3>Manage Resources</h3>
@@ -61,7 +60,6 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
     <p class="pillar-tagline fancy-text">Paranoia is part of the experience.</p>
   </div>
 </div>
-{:/nomarkdown}
 
 ## What You Need to Know
 
@@ -71,10 +69,6 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 - **There'll be a lunch break** — Megagames require sustenance! We'll be at _West Acres_ so snacks and meals will be available from the food court if desired. You can also pack your own or have something delivered! __Just no booze!__
 - **Player elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
 - **We're aiming for 60 players** — Our past games have sold out, but we never take that for granted. If you know someone who'd love this, bring them along!
-
-{::nomarkdown}
-{%- include den-of-wolves-2026-cta.html -%}
-{:/nomarkdown}
 
 ## What We're Doing with the Profits
 Our net profits are going to be donated to several worthy causes:
