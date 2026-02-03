@@ -6,7 +6,7 @@ body_class: home
 
 ## Welcome to Prairie Fire Gaming
 
-We host and create **megagames**—massive, immersive events where dozens (and sometimes hundreds) of players come together for hours of strategy, diplomacy, and unforgettable chaos. If you've never heard of a megagame before, don't worry—most people haven't. Here's what you need to know:
+We host and create **megagames**—massive, immersive events where dozens (and sometimes hundreds) of players come together for hours of strategy, diplomacy, and unforgettable chaos. Most people haven't heard of megagames before, but once you experience one, you'll never forget it.
 
 <div class="pull-quotes-grid">
 	<a class="pull-quote" href="/news/2017/12/02/watch-the-skies">
