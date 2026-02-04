@@ -70,6 +70,10 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 - **Player elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
 - **We're aiming for 60 players** — Our past games have sold out, but we never take that for granted. If you know someone who'd love this, bring them along!
 
+{::nomarkdown}
+{%- include den-of-wolves-2026-cta.html -%}
+{:/nomarkdown}
+
 ## What We're Doing with the Profits
 Our net profits are going to be donated to several worthy causes:
 
