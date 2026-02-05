@@ -688,6 +688,7 @@ table {
 		background-size: contain;
 		background-repeat: no-repeat;
 		background-position: right 5% center;
+		margin-top: var(--spacing-unit);
 	}
 	
 	// Important (orange/pink) - critical information, pay attention
@@ -746,6 +747,38 @@ table {
 		
 		@media screen and (max-width: 600px) {
 			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+	
+	// Video callout - pink border, centered video embed
+	&.video {
+		--callout-color: var(--brand-pink);
+		color: var(--callout-color);
+		border-color: var(--callout-color);
+		
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		
+		// Control video width with --video-width custom property
+		// Default to 50% but can be overridden inline or with additional class
+		.dow-video-embed {
+			width: var(--video-width, 50%);
+			position: relative;
+			padding-bottom: calc(var(--video-width, 50%) * 1.7778); // 9:16 aspect ratio
+			
+			@media screen and (max-width: 768px) {
+				width: 100%;
+				padding-bottom: 177.78%; // 9:16 aspect ratio for mobile
+			}
+			
+			iframe {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+			}
 		}
 	}
 }

@@ -23,7 +23,19 @@ excerpt: "A cooperative megagame about survival under pressure. Humanity is on t
 
 Humanity is on the run.
 
-A catastrophic attack has left you with one warship and a handful of civilian vessels fleeing into deep space. The enemy—the "wolves"—are relentless, closing in from behind. Resources are scarce. Trust is scarcer. And somewhere among your crew... there might be a traitor.
+A catastrophic attack has left you with one warship and a handful of civilian vessels fleeing into deep space. The enemy—the "wolves"—are relentless, closing in from behind. Resources are scarce. Trust is scarcer. And somewhere among your crew... **there might be a traitor.**
+
+<div class="callout video" data-label="Actual Gameplay">
+    <div class="dow-video-embed">
+        <iframe 
+            src="https://www.youtube.com/embed/JUldCPjlzEA" 
+            title="Den of Wolves gameplay preview" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen>
+        </iframe>
+    </div>
+</div>
 
 **Den of Wolves** is a 60-player MEGAGAME that places you among the decision-makers of a desperate, fractured fleet as it flees into deep space after a devastating attack. You're not a lone hero, but one voice among many, forced to coordinate, compromise, and act under pressure as the enemies close in from behind You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive. Think _Battlestar Galactica_ meets diplomacy meets roleplaying meets high-stakes board gaming meets live-action chaos.
 
