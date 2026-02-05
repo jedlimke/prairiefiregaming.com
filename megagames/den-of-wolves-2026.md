@@ -37,7 +37,7 @@ A catastrophic attack has left you with one warship and a handful of civilian ve
     </div>
 </div>
 
-**Den of Wolves** is a 60-player MEGAGAME that places you among the decision-makers of a desperate, fractured fleet as it flees into deep space after a devastating attack. You're not a lone hero, but one voice among many, forced to coordinate, compromise, and act under pressure as the enemies close in from behind You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive. Think _Battlestar Galactica_ meets diplomacy meets roleplaying meets high-stakes board gaming meets live-action chaos.
+**Den of Wolves** is a 60-player MEGAGAME that places you among the decision-makers of a desperate, fractured fleet as it flees into deep space after a devastating attack. You're not a lone hero, but one voice among many, forced to coordinate, compromise, and act under pressure as the enemies close in from behind. You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive. Think _Battlestar Galactica_ meets diplomacy meets roleplaying meets high-stakes board gaming meets live-action chaos.
 
 You might be a ship captain coordinating with engineers to keep the lights on. You might be a politician arguing over who gets the last supply of fuel. You might be military personnel tracking enemy movements. Or you might be the wolf—sabotaging everything from within.
 
@@ -77,6 +77,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 
 - **No experience required** — Rules will be sent via email and taught at the start. You'll learn as you play.
 - **Cosplay encouraged** — Come as a ship captain, a politician, a refugee. Or just wear comfortable clothes. Either works.
+- **There might be traitors in the fleet** — There's intrigue within the game where some crew members might secretly be wolves in human suits! We know not everyone enjoys the stress of being so duplicitous, however, so you can absolutely opt out without worry if you're ever asked.
 - **Age limit: 16+ with adult, otherwise 18+** — This is a long, intense game with mature themes and a lot of stress (the fun kind).
 - **There'll be a lunch break** — Megagames require sustenance! We'll be at _West Acres_ so snacks and meals will be available from the food court if desired. You can also pack your own or have something delivered! __Just no booze!__
 - **Player elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
