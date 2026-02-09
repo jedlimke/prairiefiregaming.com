@@ -767,17 +767,25 @@ table {
 			position: relative;
 			padding-bottom: calc(var(--video-width, 50%) * 1.7778); // 9:16 aspect ratio
 			
-			@media screen and (max-width: 768px) {
-				width: 100%;
-				padding-bottom: 177.78%; // 9:16 aspect ratio for mobile
-			}
-			
 			iframe {
 				position: absolute;
 				top: 0;
 				left: 0;
 				width: 100%;
 				height: 100%;
+			}
+		}
+
+		@media screen and (max-width: 768px) {
+			border-right: none;
+			padding-right: unset;
+
+			.dow-video-embed {
+				width: 100%;
+				padding-bottom: 177.78%; // 9:16 aspect ratio for mobile
+			}
+			&::before {
+				right: 0;
 			}
 		}
 	}
