@@ -76,11 +76,12 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 ## What You Need to Know
 
 - **No experience required** — Rules will be sent via email and taught at the start. You'll learn as you play.
-- **Cosplay encouraged** — Come as a ship captain, a politician, a refugee. Or just wear comfortable clothes. Either works.
-- **There might be traitors in the fleet** — There's intrigue within the game where some crew members might secretly be wolves in human suits! We know not everyone enjoys the stress of being so duplicitous, however, so you can absolutely opt out without worry if you're ever asked.
+- **Cosplay encouraged** — Come dressed as your character if you want! Military uniform? Civilian refugee? Ship captain? Engineer's coveralls? It's all up to you and your shipmates' creativity. Or just wear comfortable clothes—either works.
+- **Role selection** — You'll know which ship you're assigned to before gameday, but your specific role within that crew is up to you and your shipmates to decide together. Most ships have a Captain, First Officer, Chief Engineer, and Council Member, plus ship-specific roles like Chief Scientist or Head Surgeon. Negotiate, volunteer, or let the group decide—just like real humans under pressure.
+- **There might be traitors in the fleet** — There's intrigue within the game where some crew members might secretly be wolves in human suits! We know not everyone enjoys the stress of being so duplicitous, however, so you can absolutely opt out without worry if you're asked.
 - **Age limit: 16+ with adult, otherwise 18+** — This is a long, intense game with mature themes and a lot of stress (the fun kind).
 - **There'll be a lunch break** — Megagames require sustenance! We'll be at _West Acres_ so snacks and meals will be available from the food court if desired. You can also pack your own or have something delivered! __Just no booze!__
-- **Player elimination is NOT a thing** — Character death is real. Player elimination is not. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
+- **Player elimination is NOT a thing** — Character death is real—a ship may get destroyed or a political rival may be assassinated—but _player_ elimination is not something to worry about. You'll get a new role or be reshuffled somehow if your _character_ bites it, but **you** get to keep playing. _Take a chance now and then._
 - **We're aiming for 60 players** — Our past games have sold out, but we never take that for granted. If you know someone who'd love this, bring them along!
 
 {::nomarkdown}
