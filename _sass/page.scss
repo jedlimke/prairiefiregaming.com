@@ -175,3 +175,71 @@
 		display: none;
 	}
 }
+
+// ============================================================================
+// FLEET GRIDS FOR DEN OF WOLVES 2026
+// ============================================================================
+.fleet-nations,
+.fleet-vessels {
+	margin: var(--spacing-unit) 0;
+}
+
+.fleet-nation,
+.fleet-vessel {
+	margin-bottom: var(--spacing-unit);
+
+	&:last-child {
+		margin-bottom: 0;
+	}
+	
+	img {
+		width: 100%;
+		max-width: 100%;
+		height: auto;
+		display: block;
+		object-fit: contain;
+		margin-bottom: calc(var(--spacing-unit) / 3);
+		margin-top: unset;
+	}
+	
+	.fleet-content {
+		h4 {
+			margin-top: 0;
+			margin-bottom: calc(var(--spacing-unit) / 3);
+			font-size: 1.3em;
+		}
+		
+		p {
+			margin-bottom: calc(var(--spacing-unit) / 3);
+			line-height: 1.6;
+			
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+
+		img {
+			margin: 0;
+			padding: 0;
+			width: unset;
+			max-width: unset;
+			margin-bottom: 0.2em;
+		}
+	}
+	
+	@media screen and (min-width: 769px) {
+		display: flex;
+		gap: calc(var(--spacing-unit) / 1.5);
+		
+		img {
+			flex-shrink: 0;
+			max-width: 150px;
+			width: 150px;
+			margin-bottom: 0;
+		}
+		
+		.fleet-content {
+			flex: 1;
+		}
+	}
+}
