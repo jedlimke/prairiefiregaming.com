@@ -115,7 +115,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--fas.png" alt="FAS flag" class="nation--fas">
 		<div class="fleet-content">
 		<h4>Federated Atlantic Syndicate (FAS)</h4>
-		<p>Born from the old financial capitals of Earth—New York, London, Brussels—the FAS built their power on trade agreements and currency markets. Though their supremacy is now only a memory, they still wield considerable financial and diplomatic influence in the Council.</p>
+		<p>Covering most of North America and Europe, the FAS has historically focused on financial power and demonstrating its own superiority wherever possible. Though its supremacy is now only a memory, it still wields considerable financial and diplomatic influence in the Council.</p>
 		</div>
 	</div>  
   
@@ -133,7 +133,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--cpa.png" alt="CPA flag" class="nation--cpa">
 		<div class="fleet-content">
 		<h4>Confederated Peoples of Asia (CPA)</h4>
-		<p>The great industrial heart of Earth—billions of people, centuries of shared struggle. They built the ships, refined the fuel, and crewed the colonies. Now they demand recognition for it. The CPA have long been political enemies of the Wolves—even before the current crisis—as <em>Wolf 1061</em> was a mostly CPA-held system when the Wolves took it by force.</p>
+		<p>Covering most of East Asia, the CPA maintains control of its massive population through a strong focus on national identity and working toward the good of the nation. The CPA have long been political enemies of the Wolves—even before the current crisis—as <em>Wolf 1061</em> was a mostly CPA-held system when Wolf independence forces took control with little mercy shown to pro-CPA soldiers and citizens.</p>
 		</div>
 	</div>
   
@@ -159,7 +159,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--san.png" alt="SAN flag" class="nation--san">
 		<div class="fleet-content">
 		<h4>South American Nations (SAN)</h4>
-		<p>From the Amazon to Patagonia, they've spent generations fighting to control their own resources and future. The old powers called them 'developing.' They called themselves survivors.</p>
+		<p>Covering Central and South America, the SAN have historically been political allies of the CPA, especially when the FAS proved a common enemy. As the New Nations emerged and shifted the balance of interstellar power, the SAN became more concerned with being fairly represented compared to its louder, more influential Old Nations counterparts.</p>
 		</div>
 	</div>
   
@@ -185,7 +185,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal flag" class="nation--rosal">
 		<div class="fleet-content">
 		<h4>Rosal</h4>
-		<p>Founded by idealists and refugees who wanted to build something new, Rosal was one of the earliest planets to see large-scale colonization, and—after a violent war against the FAS—became the first to gain independence from the Old Nations.</p>
+		<p>One of the earliest planets to see large-scale colonization, Rosal was the first to successfully gain independence from the Old Nations, beginning with a violent war against FAS rule before eventually signing treaties with the CPA and SAN. Holding a mutual grudge against the FAS, Rosal is often outspoken in the Council, unafraid to speak out against all powers—Old and New—who take actions they disagree with.</p>
 		</div>
 	</div>
   
@@ -211,7 +211,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima flag" class="nation--proxima">
 		<div class="fleet-content">
 		<h4>Proxima</h4>
-		<p>Frontier colonists from Proxima B who carved out a life in the harshest corners of space. They don't ask permission, don't apologize, and sure as hell don't back down.</p>
+		<p>Settlement on Proxima B started around the same time as Rosal, though independence came much later with relatively little violence—primarily a sweeping political change. The independence movement benefited from sympathetic local garrisons who saw themselves more as residents of Proxima than servants of the Old Nations. This individualistic streak runs deep and can create tension with more diplomatically minded nations.</p>
 		</div>
 	</div>
   
@@ -237,7 +237,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese flag" class="nation--gliese">
 		<div class="fleet-content">
 		<h4>Gliese</h4>
-		<p>Rich mining operations in the Gliese system made them the wealthiest colony almost overnight. They've got the resources everyone needs and they know exactly what that's worth. They gained their independence through a mix of violence and industrial action.</p>
+		<p>The planet of Gliese 832C was quickly recognized as a source of many rare and valuable minerals, and even today is one of the biggest providers of strytium ore. Gliese gained its independence through a mix of violence and industrial action, eventually gaining control of its own mining operations and becoming a major Council influence due to its wealth in resources.</p>
 		</div>
 	</div>
   
@@ -255,7 +255,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii flag" class="nation--helvetii">
 		<div class="fleet-content">
 		<h4>Helvetii</h4>
-		<p>The newest colony, barely a generation old, founded by refugees seeking neutral ground—which they found when settling in an asteroid cluster. They positioned themselves as honest brokers and somehow everyone agreed to let them try.</p>
+		<p>The youngest of the New Nations, founded after the wars of independence by apolitical refugees who had fled the conflicts. These vagabonds wandered for decades before discovering a previously unknown asteroid cluster with several planetoid-sized bodies and plentiful rare elements. Their constitution swears them to neutrality, and they are often called upon to act as impartial arbiters when international negotiations reach an impasse.</p>
 		</div>
 	</div>
   
