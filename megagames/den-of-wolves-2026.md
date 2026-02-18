@@ -78,11 +78,20 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 Fifteen ships. Seven nations. <span class="fancy-text">One chance for humanity to survive.</span>
 
 <div class="fleet-nations">
+  
+  <div class="fleet-nation">
+    <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council flag" class="nation--isc">
+    <div class="fleet-content">
+      <h4>Interstellar Council (ISC)</h4>
+      <p>The government that represents all nations of humanity, both the Old and the New, stretching across multiple star systems.</p>
+    </div>
+  </div>
+  
   <div class="fleet-nation">
     <img src="/assets/megagames/dow--nation--fas.png" alt="FAS flag" class="nation--fas">
     <div class="fleet-content">
       <h4>Federated Atlantic Syndicate (FAS)</h4>
-      <p>Financial power brokers who still wield considerable diplomatic influence.</p>
+      <p>Born from the old financial capitals of Earth—New York, London, Brussels—the FAS built their power on trade agreements and currency markets. Even in deep space, they're still playing the long game.</p>
     </div>
   </div>
   
@@ -90,7 +99,7 @@ Fifteen ships. Seven nations. <span class="fancy-text">One chance for humanity t
     <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA flag" class="nation--cpa">
     <div class="fleet-content">
       <h4>Confederated Peoples of Asia (CPA)</h4>
-      <p>Focused on collective good and national identity above individual interests.</p>
+      <p>The great industrial heart of Earth—billions of people, centuries of shared struggle. They built the ships, refined the fuel, and crewed the colonies. Now they demand recognition for it.</p>
     </div>
   </div>
   
@@ -98,7 +107,7 @@ Fifteen ships. Seven nations. <span class="fancy-text">One chance for humanity t
     <img src="/assets/megagames/dow--nation--san.png" alt="SAN flag" class="nation--san">
     <div class="fleet-content">
       <h4>South American Nations (SAN)</h4>
-      <p>Fighting to be heard and fairly represented among louder powers.</p>
+      <p>From the Amazon to Patagonia, they've spent generations fighting to control their own resources and future. The old powers called them 'developing.' They called themselves survivors.</p>
     </div>
   </div>
   
@@ -106,7 +115,7 @@ Fifteen ships. Seven nations. <span class="fancy-text">One chance for humanity t
     <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal flag" class="nation--rosal">
     <div class="fleet-content">
       <h4>Rosal</h4>
-      <p>Outspoken idealists who speak truth to power, no matter the cost.</p>
+      <p>The first independent colony, founded by idealists and refugees who wanted to build something new. They wrote their constitution in asteroid tunnels and meant every word of it.</p>
     </div>
   </div>
   
@@ -114,7 +123,7 @@ Fifteen ships. Seven nations. <span class="fancy-text">One chance for humanity t
     <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima flag" class="nation--proxima">
     <div class="fleet-content">
       <h4>Proxima</h4>
-      <p>Fiercely individualistic and unafraid to break with diplomatic norms.</p>
+      <p>Frontier colonists from Proxima Centauri who carved out a life in the harshest corners of space. They don't ask permission, don't apologize, and sure as hell don't back down.</p>
     </div>
   </div>
   
@@ -122,7 +131,7 @@ Fifteen ships. Seven nations. <span class="fancy-text">One chance for humanity t
     <img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese flag" class="nation--gliese">
     <div class="fleet-content">
       <h4>Gliese</h4>
-      <p>Resource-rich mining power with wealth that buys influence.</p>
+      <p>Rich mining operations in the Gliese system made them the wealthiest colony almost overnight. They've got the resources everyone needs and they know exactly what that's worth.</p>
     </div>
   </div>
   
@@ -130,15 +139,7 @@ Fifteen ships. Seven nations. <span class="fancy-text">One chance for humanity t
     <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii flag" class="nation--helvetii">
     <div class="fleet-content">
       <h4>Helvetii</h4>
-      <p>Young, resource-rich asteroid colonists, sworn to impartiality in all disputes.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-nation">
-    <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council flag" class="nation--isc">
-    <div class="fleet-content">
-      <h4>Interstellar Council</h4>
-      <p>The government that represents all nations of humanity, both the Old and the New, stretching across multiple star systems.</p>
+      <p>The newest colony, barely a generation old, founded by refugees seeking neutral ground—which they found when settling in an asteroid cluster. They positioned themselves as honest brokers and somehow everyone agreed to let them try.</p>
     </div>
   </div>
 </div>
