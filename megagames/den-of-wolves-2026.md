@@ -75,194 +75,205 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 
 ## The Survivor Fleet
 
-Fifteen ships. Seven nations. <span class="fancy-text">One chance for humanity to survive.</span>
-
-<div class="fleet-nations">
-  
-  <div class="fleet-nation">
-    <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council flag" class="nation--isc">
-    <div class="fleet-content">
-      <h4>Interstellar Council (ISC)</h4>
-      <p>The government that represents all nations of humanity, both the Old and the New, stretching across multiple star systems.</p>
-    </div>
+<div class="fleet-groups">  
+  <div class="fleet-group">
+	<div class="fleet-nation">
+		<img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council flag" class="nation--isc">
+		<div class="fleet-content">
+		<h4>Interstellar Council (ISC)</h4>
+		<p>The government that represents all nations of humanity, both the Old and the New, stretching across multiple star systems.</p>
+		</div>
+	</div>
+	
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--star-alpha.png" alt="Star Alpha" class="ship--star-alpha">
+		<div class="fleet-content">
+		<h4>Star Alpha <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
+		<p>The President's residence. A small luxury vessel that now serves as the seat of emergency government.</p>
+		</div>
+	</div>
+	
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--aegis.png" alt="ICSS Aegis" class="ship--aegis">
+		<div class="fleet-content">
+		<h4>ICSS Aegis <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
+		<p>The fleet's only battleship. Military command, fighter squadrons, Marines, and the responsibility of protecting everyone.</p>
+		</div>
+	</div>
+	
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--javelin.png" alt="ICSS Javelin" class="ship--javelin">
+		<div class="fleet-content">
+		<h4>ICSS Javelin <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
+		<p>A missile boat with powerful but unpredictable prototype weapons. Green crew, eager for payback.</p>
+		</div>
+	</div>
   </div>
   
-  <div class="fleet-nation">
-    <img src="/assets/megagames/dow--nation--fas.png" alt="FAS flag" class="nation--fas">
-    <div class="fleet-content">
-      <h4>Federated Atlantic Syndicate (FAS)</h4>
-      <p>Born from the old financial capitals of Earth—New York, London, Brussels—the FAS built their power on trade agreements and currency markets. Even in deep space, they're still playing the long game.</p>
-    </div>
+  <div class="fleet-group">
+	<div class="fleet-nation">
+		<img src="/assets/megagames/dow--nation--fas.png" alt="FAS flag" class="nation--fas">
+		<div class="fleet-content">
+		<h4>Federated Atlantic Syndicate (FAS)</h4>
+		<p>Born from the old financial capitals of Earth—New York, London, Brussels—the FAS built their power on trade agreements and currency markets. Though their supremacy is now only a memory, they still wield considerable financial and diplomatic influence in the Council.</p>
+		</div>
+	</div>  
+  
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--dione.png" alt="Dione" class="ship--dione">
+		<div class="fleet-content">
+		<h4>Dione <img src="/assets/megagames/dow--nation--fas.png" alt="FAS" class="inline-flag"></h4>
+		<p>Massive luxury cruiser now housing the Interstellar Council and FAS civilians, truly a state-of-the-art vessel with high-end facilities.</p>
+		</div>
+	</div>
   </div>
   
-  <div class="fleet-nation">
-    <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA flag" class="nation--cpa">
-    <div class="fleet-content">
-      <h4>Confederated Peoples of Asia (CPA)</h4>
-      <p>The great industrial heart of Earth—billions of people, centuries of shared struggle. They built the ships, refined the fuel, and crewed the colonies. Now they demand recognition for it.</p>
-    </div>
+  <div class="fleet-group">
+	<div class="fleet-nation">
+		<img src="/assets/megagames/dow--nation--cpa.png" alt="CPA flag" class="nation--cpa">
+		<div class="fleet-content">
+		<h4>Confederated Peoples of Asia (CPA)</h4>
+		<p>The great industrial heart of Earth—billions of people, centuries of shared struggle. They built the ships, refined the fuel, and crewed the colonies. Now they demand recognition for it. The CPA have long been political enemies of the Wolves—even before the current crisis—as <em>Wolf 1061</em> was a mostly CPA-held system when the Wolves took it by force.</p>
+		</div>
+	</div>
+  
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--icebreaker.png" alt="Icebreaker" class="ship--icebreaker">
+		<div class="fleet-content">
+		<h4>Icebreaker <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"></h4>
+		<p>Mining vessel harvesting strytium ore and materials from asteroids. Essential. Labor-intensive. Home to CPA civilians.</p>
+		</div>
+	</div>
+	
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--fuerza-leon.png" alt="Fuerza Leon" class="ship--fuerza-leon">
+		<div class="fleet-content">
+		<h4>Fuerza Leon <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"></h4>
+		<p>Bulk hauler with immense cargo bays and highly skilled specialists who happened to be aboard during The Attack.</p>
+		</div>
+	</div>
   </div>
   
-  <div class="fleet-nation">
-    <img src="/assets/megagames/dow--nation--san.png" alt="SAN flag" class="nation--san">
-    <div class="fleet-content">
-      <h4>South American Nations (SAN)</h4>
-      <p>From the Amazon to Patagonia, they've spent generations fighting to control their own resources and future. The old powers called them 'developing.' They called themselves survivors.</p>
-    </div>
+  <div class="fleet-group">
+	<div class="fleet-nation">
+		<img src="/assets/megagames/dow--nation--san.png" alt="SAN flag" class="nation--san">
+		<div class="fleet-content">
+		<h4>South American Nations (SAN)</h4>
+		<p>From the Amazon to Patagonia, they've spent generations fighting to control their own resources and future. The old powers called them 'developing.' They called themselves survivors.</p>
+		</div>
+	</div>
+  
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--lucas.png" alt="Lucas" class="ship--lucas">
+		<div class="fleet-content">
+		<h4>Lucas <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"></h4>
+		<p>Water supply ship with excellent engineering minds. Keeps the fleet hydrated and the systems running.</p>
+		</div>
+	</div>
+	
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--salvador.png" alt="Salvador" class="ship--salvador">
+		<div class="fleet-content">
+		<h4>Salvador <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"></h4>
+		<p>Hospital ship with the fleet's only doctors, nurses, and first-aid specialists. Hope you don't need them.</p>
+		</div>
+	</div>
   </div>
   
-  <div class="fleet-nation">
-    <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal flag" class="nation--rosal">
-    <div class="fleet-content">
-      <h4>Rosal</h4>
-      <p>The first independent colony, founded by idealists and refugees who wanted to build something new. They wrote their constitution in asteroid tunnels and meant every word of it.</p>
-    </div>
+  <div class="fleet-group">
+	<div class="fleet-nation">
+		<img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal flag" class="nation--rosal">
+		<div class="fleet-content">
+		<h4>Rosal</h4>
+		<p>Founded by idealists and refugees who wanted to build something new, Rosal was one of the earliest planets to see large-scale colonization, and—after a violent war against the FAS—became the first to gain independence from the Old Nations.</p>
+		</div>
+	</div>
+  
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--shepherd.png" alt="Shepherd" class="ship--shepherd">
+		<div class="fleet-content">
+		<h4>Shepherd <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"></h4>
+		<p>Food production vessel growing crops in deep space. If this ship fails, the fleet starves.</p>
+		</div>
+	</div>
+	
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--endeavour.png" alt="Endeavour" class="ship--endeavour">
+		<div class="fleet-content">
+		<h4>Endeavour <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"></h4>
+		<p>Research vessel developing improvements and upgrades for the fleet. Academic firepower.</p>
+		</div>
+	</div>
   </div>
   
-  <div class="fleet-nation">
-    <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima flag" class="nation--proxima">
-    <div class="fleet-content">
-      <h4>Proxima</h4>
-      <p>Frontier colonists from Proxima Centauri who carved out a life in the harshest corners of space. They don't ask permission, don't apologize, and sure as hell don't back down.</p>
-    </div>
+  <div class="fleet-group">
+	<div class="fleet-nation">
+		<img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima flag" class="nation--proxima">
+		<div class="fleet-content">
+		<h4>Proxima</h4>
+		<p>Frontier colonists from Proxima B who carved out a life in the harshest corners of space. They don't ask permission, don't apologize, and sure as hell don't back down.</p>
+		</div>
+	</div>
+  
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--quellon.png" alt="Quellon" class="ship--quellon">
+		<div class="fleet-content">
+		<h4>Quellon <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"></h4>
+		<p>General operations vessel with water production and its own fighter squadron. Versatile and essential.</p>
+		</div>
+	</div>
+	
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--vulcan.png" alt="Vulcan" class="ship--vulcan">
+		<div class="fleet-content">
+		<h4>Vulcan <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"></h4>
+		<p>Prison transport with weapon batteries and labor force. Controversial addition. Proven its worth.</p>
+		</div>
+	</div>
   </div>
   
-  <div class="fleet-nation">
-    <img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese flag" class="nation--gliese">
-    <div class="fleet-content">
-      <h4>Gliese</h4>
-      <p>Rich mining operations in the Gliese system made them the wealthiest colony almost overnight. They've got the resources everyone needs and they know exactly what that's worth.</p>
-    </div>
+  <div class="fleet-group">
+	<div class="fleet-nation">
+		<img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese flag" class="nation--gliese">
+		<div class="fleet-content">
+		<h4>Gliese</h4>
+		<p>Rich mining operations in the Gliese system made them the wealthiest colony almost overnight. They've got the resources everyone needs and they know exactly what that's worth. They gained their independence through a mix of violence and industrial action.</p>
+		</div>
+	</div>
+  
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--refinery-124.png" alt="Refinery 124" class="ship--refinery-124">
+		<div class="fleet-content">
+		<h4>Refinery 124 <img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese" class="inline-flag"></h4>
+		<p>Refinery providing the fleet's only source of strytium fuel, keeping them one step ahead of pursuing Wolf forces.</p>
+		</div>
+	</div>
   </div>
   
-  <div class="fleet-nation">
-    <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii flag" class="nation--helvetii">
-    <div class="fleet-content">
-      <h4>Helvetii</h4>
-      <p>The newest colony, barely a generation old, founded by refugees seeking neutral ground—which they found when settling in an asteroid cluster. They positioned themselves as honest brokers and somehow everyone agreed to let them try.</p>
-    </div>
-  </div>
-</div>
-
-<div class="fleet-vessels">
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--star-alpha.png" alt="Star Alpha" class="ship--star-alpha">
-    <div class="fleet-content">
-      <h4>Star Alpha <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
-      <p>The President's residence. A small luxury vessel that now serves as the seat of emergency government.</p>
-    </div>
-  </div>
+  <div class="fleet-group">
+	<div class="fleet-nation">
+		<img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii flag" class="nation--helvetii">
+		<div class="fleet-content">
+		<h4>Helvetii</h4>
+		<p>The newest colony, barely a generation old, founded by refugees seeking neutral ground—which they found when settling in an asteroid cluster. They positioned themselves as honest brokers and somehow everyone agreed to let them try.</p>
+		</div>
+	</div>
   
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--aegis.png" alt="ICSS Aegis" class="ship--aegis">
-    <div class="fleet-content">
-      <h4>ICSS Aegis <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
-      <p>The fleet's only battleship. Military command, fighter squadrons, Marines, and the responsibility of protecting everyone.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--javelin.png" alt="ICSS Javelin" class="ship--javelin">
-    <div class="fleet-content">
-      <h4>ICSS Javelin <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
-      <p>A missile boat with powerful but unpredictable prototype weapons. Green crew, eager for payback.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--dione.png" alt="Dione" class="ship--dione">
-    <div class="fleet-content">
-      <h4>Dione <img src="/assets/megagames/dow--nation--fas.png" alt="FAS" class="inline-flag"></h4>
-      <p>Massive luxury cruiser now housing the Interstellar Council and FAS civilians. Still has those high-end facilities.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--icebreaker.png" alt="Icebreaker" class="ship--icebreaker">
-    <div class="fleet-content">
-      <h4>Icebreaker <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"></h4>
-      <p>Mining vessel harvesting strytium ore and materials from asteroids. Essential. Labor-intensive. Home to CPA civilians.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--fuerza-leon.png" alt="Fuerza Leon" class="ship--fuerza-leon">
-    <div class="fleet-content">
-      <h4>Fuerza Leon <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"></h4>
-      <p>Bulk hauler with immense cargo bays and highly skilled specialists who happened to be aboard during The Attack.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--lucas.png" alt="Lucas" class="ship--lucas">
-    <div class="fleet-content">
-      <h4>Lucas <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"></h4>
-      <p>Water supply ship with excellent engineering minds. Keeps the fleet hydrated and the systems running.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--salvador.png" alt="Salvador" class="ship--salvador">
-    <div class="fleet-content">
-      <h4>Salvador <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"></h4>
-      <p>Hospital ship with the fleet's only doctor, nurses, and first-aid specialists. Hope you don't need them.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--shepherd.png" alt="Shepherd" class="ship--shepherd">
-    <div class="fleet-content">
-      <h4>Shepherd <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"></h4>
-      <p>Food production vessel growing crops in deep space. If this ship fails, the fleet starves.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--endeavour.png" alt="Endeavour" class="ship--endeavour">
-    <div class="fleet-content">
-      <h4>Endeavour <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"></h4>
-      <p>Research vessel developing improvements and upgrades for the fleet. Academic firepower.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--quellon.png" alt="Quellon" class="ship--quellon">
-    <div class="fleet-content">
-      <h4>Quellon <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"></h4>
-      <p>General operations vessel with water production and its own fighter squadron. Versatile and essential.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--vulcan.png" alt="Vulcan" class="ship--vulcan">
-    <div class="fleet-content">
-      <h4>Vulcan <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"></h4>
-      <p>Prison transport with weapon batteries and labor force. Controversial addition. Proven its worth.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--refinery-124.png" alt="Refinery 124" class="ship--refinery-124">
-    <div class="fleet-content">
-      <h4>Refinery 124 <img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese" class="inline-flag"></h4>
-      <p>Refinery providing the strytium fuel keeping the fleet one step ahead of pursuing Wolf forces.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--hephaestus.png" alt="Hephaestus" class="ship--hephaestus">
-    <div class="fleet-content">
-      <h4>Hephaestus <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"></h4>
-      <p>Makeshift repair facilities, prospecting lasers, slapdash refinery. Jack-of-all-trades industrial vessel.</p>
-    </div>
-  </div>
-  
-  <div class="fleet-vessel">
-    <img src="/assets/megagames/dow--ship--baltar.png" alt="Baltar" class="ship--baltar">
-    <div class="fleet-content">
-      <h4>Baltar <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"></h4>
-      <p>Cutting-edge research and long-range scanning. Finding resources and threats before they find you.</p>
-    </div>
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--hephaestus.png" alt="Hephaestus" class="ship--hephaestus">
+		<div class="fleet-content">
+		<h4>Hephaestus <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"></h4>
+		<p>Makeshift repair facilities, prospecting lasers, slapdash refinery. Jack-of-all-trades industrial vessel.</p>
+		</div>
+	</div>
+	
+	<div class="fleet-vessel">
+		<img src="/assets/megagames/dow--ship--baltar.png" alt="Baltar" class="ship--baltar">
+		<div class="fleet-content">
+		<h4>Baltar <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"></h4>
+		<p>Cutting-edge research and long-range scanning. Finding resources and threats before they find you.</p>
+		</div>
+	</div>
   </div>
 </div>
 
