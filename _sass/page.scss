@@ -218,12 +218,16 @@
 			}
 		}
 
-		img {
+		.inline-flag {
 			margin: 0;
 			padding: 0;
 			width: unset;
 			max-width: unset;
-			margin-bottom: 0.2em;
+			height: 1em;
+			position: relative;
+			display: inline;
+			bottom: -0.05em;
+			left: 0.25em
 		}
 	}
 	
