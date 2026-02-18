@@ -179,26 +179,30 @@
 // ============================================================================
 // FLEET GRIDS FOR DEN OF WOLVES 2026
 // ============================================================================
-.fleet-nations,
-.fleet-vessels {
-	margin: var(--spacing-unit) 0;
+
+.fleet-group {
+	margin-bottom: calc(var(--spacing-unit)  * 2);
+}
+
+.fleet-group + .fleet-group {
+	border-top: var(--stroke-width) solid var(--brand-grey);
+	padding-top: calc(var(--spacing-unit) * 2);
 }
 
 .fleet-nation,
 .fleet-vessel {
-	margin-bottom: var(--spacing-unit);
+	margin-bottom: calc(var(--spacing-unit));
 
 	&:last-child {
 		margin-bottom: 0;
 	}
 	
 	img {
-		width: 100%;
 		max-width: 100%;
 		height: auto;
 		display: block;
-		object-fit: contain;
-		margin-bottom: calc(var(--spacing-unit) / 3);
+		margin-bottom: var(--spacing-unit);
+		border-radius: var(--border-radius);
 		margin-top: unset;
 	}
 	
@@ -218,18 +222,23 @@
 			}
 		}
 
-		img {
+		.inline-flag {
 			margin: 0;
 			padding: 0;
 			width: unset;
 			max-width: unset;
-			margin-bottom: 0.2em;
+			height: 1em;
+			position: relative;
+			display: inline;
+			bottom: -0.05em;
+			left: 0.25em
 		}
 	}
 	
 	@media screen and (min-width: 769px) {
 		display: flex;
-		gap: calc(var(--spacing-unit) / 1.5);
+		gap: var(--spacing-unit);
+		align-items: flex-start;
 		
 		img {
 			flex-shrink: 0;
@@ -242,4 +251,9 @@
 			flex: 1;
 		}
 	}
+}
+
+// Add a top margin for the nations so the flags align more nicely with the headers.
+.fleet-nations img {
+	margin-top: 0.15em;
 }
