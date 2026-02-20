@@ -46,6 +46,8 @@ show_excerpts: true
 header_pages:
   - megagames/den-of-wolves-2026.md
   - megagames/index.md
+  - about/for-players.md
+  - about/faq.md
   - policies/index.md
   - about/index.md
 

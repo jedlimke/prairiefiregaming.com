@@ -19,7 +19,7 @@ permalink: /megagames/
           <time datetime="2026-03-07" style="font-size: 1.5em;">Coming <strong>March 7, 2026</strong></time>
         </p>
       </header>
-      <p>60 players! 6 hours! 100% fun! Inspired by the pilot of <em>Battlestar Galactica</em>, <strong>Den of Wolves</strong> is a cooperative megagame that combines elements of board games and diplomacy. Players cooperate to allocate resources while fending off waves of attacks from the vile "wolves". Beware! These wolves are tricky, and a traitor may roam amongst us.</p>
+      <p>60 players! 6 hours! 100% fun! Inspired by the pilot of <em>Battlestar Galactica</em>, <strong>Den of Wolves</strong> is a cooperative megagame that combines elements of board games and diplomacy. Players cooperate to allocate resources while fending off waves of attacks from the vile robot-in-a-skin-suit "wolves". Beware! These wolves are tricky, and a traitor may roam amongst us.</p>
     </div>
   </a>
 </article>

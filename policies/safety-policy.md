@@ -68,8 +68,11 @@ If your costume or character concept makes you think "Is this okay?"—it's prob
 Almost every megagame asks players to be characters or inhabit roles that represent positions and cultures different from your own. We ask that you **play characters from different cultures respectfully.** Wear clothing appropriate to the setting if you want and act like you belong, but if you're treating someone's heritage as a costume or joke, you're out.
 
 <div class="callout important" markdown="1" data-label="Bottom Line">
-Context and power dynamics matter here—in general, punch up, not down—what reads as playful when you're engaging with your own culture can be harmful when it's someone else's.
+Context and power dynamics matter here—in general, punch up, not down. What reads as playful when you're engaging with one culture can be harmful with another—even if the actions feel the same.
 </div>
+
+## Respectful Memories
+To participate in one of our events, participants must have agreed to our [Media Policy](media-policy) but err on the safe side with the other players—if you want to take a photo or video of someone, be respectful and ask them first. 
 
 ## Reporting and Response
 No one should tolerate conduct of this type. If you experience or witness harassment, you may:

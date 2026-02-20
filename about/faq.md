@@ -1,0 +1,67 @@
+---
+layout: page
+classes: "faq"
+title: FAQ
+link_title: FAQ
+permalink: /about/faq/
+---
+
+# Frequently Asked Questions
+
+## What is a megagame?
+
+A megagame is a large-scale social game that blends elements of role-playing, strategy, and board game mechanics. These immersive events are day-long experiences where dozens of players take on unique roles, working together and competing to shape the outcome of epic scenarios. Whether you're playing as a head of state, a military commander, a scientist, a journalist, or even an alien invader, every role is crucial to the experience.
+
+Megagames typically run for 4-8 hours and can accommodate anywhere from 30 to 200 players. Think of it as a hybrid between a tabletop game, a LARP, and a Model UN simulation—but way more fun.
+
+## Who can play a megagame?
+
+Anyone! No experience necessary—we welcome both veteran gamers and newcomers. Most of our games are appropriate for ages 14 and up, though some games may have different age requirements. We design our events with multiple gameplay styles to ensure there's something for everyone.
+
+## Are you sure megagmes aren't just for nerds & weirdos?
+
+Absolutely sure. Players who play in Megagames run the gamut from die-hard _I-play-Warhammer-weekly_ gamer types to _I-haven't-touched-a-playing-card-since-that-last-game-of-Candy-Land-in-first-grade_ non-gamers. All kinds of people play Megagames because they're for all kinds of people. There's something for everyone.
+
+## What should I bring to a megagame?
+
+Check out our [For Players](/about/for-players/) page for a comprehensive guide!
+
+The basics: yourself, an open mind, and something to eat and drink. We'll provide everything else you need to play.
+
+## When is your next game?
+
+Check out our [Megagames page](../megagames/) for upcoming events! We announce new games via email, our social media channels, and on this website.
+
+## I missed out on a game, will you run the same one again?
+
+We do our best to accommodate the maximum number of players at our games. If there's enough interest and demand, we'll absolutely consider running the same game multiple times. Sign up for our email list to be notified when we announce repeat runs.
+
+## Do I have to have a group of friends to play a megagame?
+
+Not at all! While some games have team-based structures, we always do our best to accommodate solo players. Many of our players come alone and make friends during the event. Part of the megagame magic is meeting new people who share your love of epic storytelling and strategic gameplay.
+
+## What information can I expect about the game?
+
+When you register for a game, you'll receive a confirmation email with initial details. Roughly 2-3 weeks before the event, you'll be emailed your role assignment, a copy of the rules, and any other resources you need to prepare. Some games require minimal prep, while others benefit from some advance reading—we'll always be clear about expectations.
+
+## How can I get involved in helping run games?
+
+We love passionate volunteers! The best way to get involved is to play a game first, then chat with us afterward about your interest in crewing or game running.
+
+You can also reach out directly at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
+
+## I want to design a game, can you help?
+
+Yes! We're always interested in supporting new designers. Whether you need playtesting, production support, or just advice, get in touch. We can discuss how Prairie Fire Gaming might be able to help bring your megagame vision to life.
+
+## I wrote a megagame, will you run it?
+
+Probably yes! We love new megagames. Please get in touch at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com) and we can discuss our process for reviewing and potentially producing new games.
+
+## I don't see my accessibility needs catered for, but I still want to play. What should I do?
+
+Please let us know! We're passionate about bringing megagames to as wide an audience as possible, and we're always willing to work on solutions. Review our [Accessibility policy](../policies/accessibility/) and reach out to us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com) to discuss your specific needs.
+
+## Do you have any official policies regarding safety, media, refunds, etc.?
+
+You can read all of those policies and more at [Policies](../policies/).
