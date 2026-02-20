@@ -52,7 +52,7 @@ Costumes are highly encouraged at megagames, and often very popular... but defin
 
 Some games come with a costume or fashion guide, but ultimately you should wear whatever is most comfortable.
 
-You **never** _have_ to cosplay for a megagme.
+You **never** _have_ to cosplay for a megagame.
 
 If you _want_ to, though, we hope you will.
 
@@ -101,8 +101,8 @@ Try to work it out in-character first, but if it becomes a real problem, talk to
 ### Can I leave early?
 Life happens. If you need to leave before the game ends, let your team and a gamerunner know.
 
-### What if someone is making me uncomfortable?**
-Tell a gamerunner immediately. Review our [Safety Policy](policies/safety-policy/) for more details on how we handle these situations.
+### What if someone is making me uncomfortable?
+Tell a gamerunner immediately. Review our [Safety Policy](/policies/safety-policy/) for more details on how we handle these situations.
 
 ### Do I need to be good at acting/strategy/negotiation?
 Nope! Megagames welcome all skill levels. You'll get better with experience, but enthusiasm is the only requirement.
