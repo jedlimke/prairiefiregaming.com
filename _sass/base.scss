@@ -683,12 +683,14 @@ table {
 		color: var(--callout-color);
 		border-color: var(--callout-color);
 		font-size: 1.25em;
-
-		background-image: url('/assets/ticket-image-background.svg');
-		background-size: contain;
-		background-repeat: no-repeat;
-		background-position: right 5% center;
 		margin-top: var(--spacing-unit);
+		
+		&.tickets {
+			background-image: url('/assets/ticket-image-background.svg');
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: right 5% center;
+		}
 	}
 	
 	// Important (orange/pink) - critical information, pay attention
