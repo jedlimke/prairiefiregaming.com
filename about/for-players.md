@@ -2,7 +2,7 @@
 layout: page
 title: For Players
 link_title: For Players
-permalink: /for-players/
+permalink: /about/for-players/
 ---
 
 # Megagame Survival Guide
@@ -56,7 +56,11 @@ You **never** _have_ to cosplay for a megagme.
 
 If you _want_ to, though, we hope you will.
 
-Fheck our [Safety Policy](/policies/safety-policy/) to learn more about general costume guidelines.
+Check our [Safety Policy](/policies/safety-policy/) to learn more about general costume guidelines.
+
+<div class="callout important" markdown="1" data-label="Bottom Line">
+Wear comfortable shoes. Dress however you like. Costumes are fun but never required.
+</div>
 
 ## During the Game
 
@@ -103,10 +107,14 @@ Tell a gamerunner immediately. Review our [Safety Policy](policies/safety-policy
 ### Do I need to be good at acting/strategy/negotiation?
 Nope! Megagames welcome all skill levels. You'll get better with experience, but enthusiasm is the only requirement.
 
+<div class="callout important" markdown="1" data-label="Bottom Line">
+When in doubt, ask a gamerunner. We're here to help you have a great time.
+</div>
+
 ## Questions?
 
 <div class="callout cta" markdown="1" data-label="Need More Info?">
-Still have questions? Check out our [FAQ](/faq/) or email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
+Still have questions? Check out our [FAQ](/about/faq/) or email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
 
 See you at the megagame!
 </div>

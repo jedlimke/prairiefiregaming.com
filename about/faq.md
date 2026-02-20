@@ -3,7 +3,7 @@ layout: page
 classes: "faq"
 title: FAQ
 link_title: FAQ
-permalink: /faq/
+permalink: /about/faq/
 ---
 
 # Frequently Asked Questions
@@ -24,7 +24,7 @@ Absolutely sure. Players who play in Megagames run the gamut from die-hard _I-pl
 
 ## What should I bring to a megagame?
 
-Check out our [For Players](../for-players/) page for a comprehensive guide!
+Check out our [For Players](/about/for-players/) page for a comprehensive guide!
 
 The basics: yourself, an open mind, and something to eat and drink. We'll provide everything else you need to play.
 
