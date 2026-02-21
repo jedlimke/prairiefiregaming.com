@@ -7,7 +7,7 @@ permalink: /about/for-players/
 
 # Megagame Survival Guide
 
-<div class="callout" markdown="1" data-label="First Timer?">
+<div class="callout" markdown="1" data-label="New Here?">
 ### Don't Worry About "Doing It Right"
 There's no single correct way to play a megagame. Your role is to engage with the game world and make interesting choices.
 
@@ -52,7 +52,7 @@ Costumes are highly encouraged at megagames, and often very popular... but defin
 
 Some games come with a costume or fashion guide, but ultimately you should wear whatever is most comfortable.
 
-You **never** _have_ to cosplay for a megagme.
+You **never** _have_ to cosplay for a megagame.
 
 If you _want_ to, though, we hope you will.
 
@@ -101,8 +101,8 @@ Try to work it out in-character first, but if it becomes a real problem, talk to
 ### Can I leave early?
 Life happens. If you need to leave before the game ends, let your team and a gamerunner know.
 
-### What if someone is making me uncomfortable?**
-Tell a gamerunner immediately. Review our [Safety Policy](policies/safety-policy/) for more details on how we handle these situations.
+### What if someone is making me uncomfortable?
+Tell a gamerunner immediately. Review our [Safety Policy](/policies/safety-policy/) for more details on how we handle these situations.
 
 ### Do I need to be good at acting/strategy/negotiation?
 Nope! Megagames welcome all skill levels. You'll get better with experience, but enthusiasm is the only requirement.
@@ -113,7 +113,7 @@ When in doubt, ask a gamerunner. We're here to help you have a great time.
 
 ## Questions?
 
-<div class="callout cta" markdown="1" data-label="Need More Info?">
+<div class="callout cta" markdown="1" data-label="Questions?">
 Still have questions? Check out our [FAQ](/about/faq/) or email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
 
 See you at the megagame!
