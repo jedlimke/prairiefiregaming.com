@@ -7,7 +7,7 @@ permalink: /about/for-players/
 
 # Megagame Survival Guide
 
-<div class="callout" markdown="1" data-label="First Timer?">
+<div class="callout" markdown="1" data-label="New Here?">
 ### Don't Worry About "Doing It Right"
 There's no single correct way to play a megagame. Your role is to engage with the game world and make interesting choices.
 
@@ -113,7 +113,7 @@ When in doubt, ask a gamerunner. We're here to help you have a great time.
 
 ## Questions?
 
-<div class="callout cta" markdown="1" data-label="Need More Info?">
+<div class="callout cta" markdown="1" data-label="Questions?">
 Still have questions? Check out our [FAQ](/about/faq/) or email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
 
 See you at the megagame!
