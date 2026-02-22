@@ -18,7 +18,7 @@ We host and create **megagames**—massive, immersive events where dozens (and s
 		<cite>Polanian President<span class="game-title">Sickle</span></cite>
 	</a>
 	<a class="pull-quote" href="/news/2017/12/02/watch-the-skies">
-		<p>Your hard work made the game a lot of fun and the controllers were all fun to work with. We found out that you designed all the digital headlines and such specifically for the game in Fargo - which was a large part of the game and friggin’ awesome. Thank you!</p>
+		<p>Your hard work made the game a lot of fun and the controllers were all fun to work with. We found out that you designed all the digital headlines and such specifically for the game in Fargo - which was a large part of the game and friggin' awesome. Thank you!</p>
 		<cite>French Deputy Prime Minister<span class="game-title">Watch the Skies</span></cite>
 	</a>
 	<a class="pull-quote" href="/news/2017/12/02/watch-the-skies">

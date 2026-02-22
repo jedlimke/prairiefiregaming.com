@@ -295,7 +295,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 ## What We're Doing with the Profits
 Our net profits are going to be donated to several worthy causes:
 
-- [Extra Life](https://www.extra-life.org/){:target="_blank"}, a program of Children’s Miracle Network Hospitals, unites gamers to play games and change kids’ health and futures. Funds raised through our event will be directed specifically to Sanford Children’s Hospital in Fargo, ND.
+- [Extra Life](https://www.extra-life.org/){:target="_blank"}, a program of Children's Miracle Network Hospitals, unites gamers to play games and change kids' health and futures. Funds raised through our event will be directed specifically to Sanford Children's Hospital in Fargo, ND.
 - [River Keepers](https://www.riverkeepers.org/){:target="_blank"}, a volunteer-led Fargo–Moorhead organization, which works to protect, restore, and connect people to the Red River of the North through river cleanups, water quality initiatives, and community programs that keep the river healthy, accessible, and safe for future generations.
 - The [ACLU of Minnesota](https://www.aclu-mn.org/){:target="_blank"}, a non-partisan advocacy organization dedicated to protecting and expanding civil liberties in Minnesota and across the country.
 - [Prairie Public Broadcasting](https://www.prairiepublic.org/){:target="_blank"}, our local public media station which provides quality radio and television services that educate, involve, and inspire the people of the prairie region.
