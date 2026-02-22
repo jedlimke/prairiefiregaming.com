@@ -24,40 +24,48 @@ You're going to be spending hours with these people. Introduce yourself, be frie
 Things will go wrong. Plans will fall apart. Alliances will betray you. That's not a bug—it's a feature. Roll with it and enjoy the ride.
 </div>
 
+
 ## Before the Game
 
-- **Gather Your Friends and Register Early** - Games can fill up fast! Sign up as soon as tickets are available to secure your spot, and **be sure to invite your friends along, too!**
+- **Gather Your Friends and Register Early** – Games can fill up fast! Sign up as soon as tickets are available to secure your spot, and **be sure to invite your friends along, too!**
 
-- **Check Your Email** - We will email you everything you need to know before the game! Make sure you check your email frequently and reach out if you're not sure.
+- **Check Your Email** – We will email you everything you need to know before the game! Make sure you check your email frequently and reach out if you're not sure.
 
-- **Read Your Materials** - You'll typically receive your role and rules about a week before the game, but earlier if the game sells out earlier. Take time to read through everything—you don't need to memorize it all, but familiarity helps you hit the ground running.
+- **Read Your Materials** – You'll typically receive your role and rules about a week before the game, but earlier if the game sells out earlier. Take time to read through everything—you don't need to memorize it all, but familiarity helps you hit the ground running.
+
 
 ## What to Bring
 
-- **Yourself** - The most important component
-- **An open mind** - Be ready to adapt and improvise
-- **A water bottle** - Stay hydrated during the long day
-- **Food** - We recommend bringing something substantial to eat, as well as snacks to get you through the day. We often host games at venues that have nearby food, so check that out ahead of time and make a plan. Just don't megagame hangry.
-- **Any required materials** - We'll let you know if you need to bring anything specific
+- **Yourself** – The most important component
+- **An open mind** – Be ready to adapt and improvise
+- **A water bottle** – Stay hydrated during the long day
+- **Food** – We recommend bringing something substantial to eat, as well as snacks to get you through the day. We often host games at venues that have nearby food, so check that out ahead of time and make a plan–just **don't megagame hangry.**
+- **Any required materials** – We'll let you know if you need to bring anything specific
 
 
-### Leave at Home
-- **Expectations of "winning"** - Megagames are about the journey, the story, and the connections you make
-- **Your phone** (figuratively) - While not banned, stay present in the game
+## What to Leave at Home
+- **Expectations of "winning"** – Megagames are about the journey, the story, and the connections you make
+- **Your phone** (figuratively) – While not banned, stay present in the game
+
 
 ## What to Wear
 
-You **never** _have_ to cosplay for a megagame. If you _want_ to, though, we hope you will.
-
-Costumes are highly encouraged at megagames to help with immersion and getting into character... but definitely, _definitely_ **wear comfortable shoes.**
+Costumes are highly encouraged at megagames to help with immersion and getting into character, but no matter what you wear, definitely... _definitely_ **wear comfortable shoes.**
 
 Check our [Safety Policy](/policies/safety-policy/) to learn more about general costume guidelines.
 
+<div class="callout info" markdown="1" data-label="COSPLAY IS ALWAYS OPTIONAL">
+You **never** _have_ to cosplay for a megagame.
+
+If you _want_ to, however, we hope you will.
+</div>
+
+
 ## During the Game
 
-- **Arrive Early** - Get there 15-30 minutes before start time. This gives you time to check in, find your table, meet your team, and settle in before the chaos begins.
+- **Arrive Early** – Get there 15–30 minutes before start time. This gives you time to check in, find your table, meet your team, and settle in before the chaos begins.
 
-- **Listen to the Briefing** - Gamerunners will explain the rules, answer questions, and set the scene. Pay attention—this is crucial information.
+- **Listen to the Briefing** – Gamerunners will explain the rules, answer questions, and set the scene. Pay attention—this is crucial information.
 
 - **Engage with Others** - Talk to people! Make deals, form alliances, negotiate treaties. Social interaction is the heart of a megagame.
 
