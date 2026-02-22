@@ -37,7 +37,9 @@ A catastrophic attack has left you with one warship and a handful of civilian ve
     </div>
 </div>
 
-**Den of Wolves** is a 60-player MEGAGAME that places you among the decision-makers of a desperate, fractured fleet as it flees into deep space after a devastating attack. You're not a lone hero, but one voice among many, forced to coordinate, compromise, and act under pressure as the enemies close in from behind. You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive. Think _Battlestar Galactica_ meets diplomacy meets roleplaying meets high-stakes board gaming meets live-action chaos.
+**Den of Wolves** is a 60-player MEGAGAME that places you among the decision-makers of a desperate, fractured fleet as it flees into deep space after a devastating attack. You're not a lone hero, but one voice among many, forced to coordinate, compromise, and act under pressure as the enemies close in from behind. You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive.
+
+Think _Battlestar Galactica_ meets diplomacy meets roleplaying meets high-stakes board gaming meets live-action chaos.
 
 You might be a ship captain coordinating with engineers to keep the lights on. You might be a politician arguing over who gets the last supply of fuel. You might be military personnel tracking enemy movements. Or you might be the wolf—sabotaging everything from within.
 
@@ -296,8 +298,8 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 Our net profits are going to be donated to several worthy causes:
 
 - [Extra Life](https://www.extra-life.org/){:target="_blank"}, a program of Children's Miracle Network Hospitals, unites gamers to play games and change kids' health and futures. Funds raised through our event will be directed specifically to Sanford Children's Hospital in Fargo, ND.
-- [River Keepers](https://www.riverkeepers.org/){:target="_blank"}, a volunteer-led Fargo–Moorhead organization, which works to protect, restore, and connect people to the Red River of the North through river cleanups, water quality initiatives, and community programs that keep the river healthy, accessible, and safe for future generations.
 - The [ACLU of Minnesota](https://www.aclu-mn.org/){:target="_blank"}, a non-partisan advocacy organization dedicated to protecting and expanding civil liberties in Minnesota and across the country.
+- [River Keepers](https://www.riverkeepers.org/){:target="_blank"}, a volunteer-led Fargo–Moorhead organization, which works to protect, restore, and connect people to the Red River of the North through river cleanups, water quality initiatives, and community programs that keep the river healthy, accessible, and safe for future generations.
 - [Prairie Public Broadcasting](https://www.prairiepublic.org/){:target="_blank"}, our local public media station which provides quality radio and television services that educate, involve, and inspire the people of the prairie region.
 
 ![Donation Recipients](/assets/megagames/dow--donation-recipients.svg)
@@ -310,7 +312,9 @@ We're here to help! If you have any questions about the event, accessibility nee
 
 ---
 
-_**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/){:target="_blank"}. **Den of Wolves: Infinite Domain** is an expansion and re-work of the original **Den of Wolves** rules and was designed by Chris Perry of [Portland Megagames](https://discord.gg/eH8Z68eC7v){:target="_blank"}_.
+_**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/){:target="_blank"}._
+
+_**Den of Wolves: Infinite Domain** is an expansion and re-work of the original rules and was designed by Chris Perry and Clé Diggins of [Portland Megagames](https://discord.gg/eH8Z68eC7v){:target="_blank"}_.
 
 <small>_The Extra Life, ACLU of Minnesota, River Keepers, and Prairie Public logos are used for informational purposes only and do not imply endorsement of this event by these organizations._</small>
 
