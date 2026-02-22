@@ -14,8 +14,8 @@ There's no single correct way to play a megagame. Your task is to engage with th
 ### It's Okay to Be Confused
 Megagames can be overwhelming at first. Take a breath, ask questions, and trust that clarity will come as you play.
 
-### Focus on Your Immediate Goals
-Don't try to understand everything at once. Look through the game materials, talk to your teammates, and ask them what to try next.
+### Trust the Design
+The game is built so players need each other—what you have, someone needs; what you need, someone has. Talk to people, pursue your goals, and the game will reveal itself.
 
 ### Make Friends
 You're going to be spending hours with these people. Introduce yourself, be friendly, and remember: everyone else is figuring it out too.
@@ -42,9 +42,8 @@ Things will go wrong. Plans will fall apart. Alliances will betray you. That's n
 
 
 ### Leave at Home
-- **Expectations of "winning"** - Megagames are about the journey and the story
+- **Expectations of "winning"** - Megagames are about the journey, the story, and the connections you make
 - **Your phone** (figuratively) - While not banned, stay present in the game
-- **Competitive stress** - This is collaborative storytelling, not a zero-sum competition
 
 ## What to Wear
 
@@ -56,7 +55,7 @@ You **never** _have_ to cosplay for a megagame.
 
 If you _want_ to, though, we hope you will.
 
-Check our [Safety Policy](/policies/safety-policy/) to learn more about general costume guidelines. -->
+Check our [Safety Policy](/policies/safety-policy/) to learn more about general costume guidelines.
 
 <div class="callout important" markdown="1" data-label="Bottom Line">
 Wear comfortable shoes. Dress however you like. Costumes are fun but never required.
@@ -70,7 +69,7 @@ Wear comfortable shoes. Dress however you like. Costumes are fun but never requi
 
 - **Engage with Others** - Talk to people! Make deals, form alliances, negotiate treaties. Social interaction is the heart of a megagame.
 
-- **Follow Your Role's Interests** - Megagmes are designed so that what you need, someone else has—and what you have, someone else needs. You'll often find natural allies and adversaries throughout the game. If you're not sure what to do next, pursue your role's goals and see what connections form.
+- **Follow Your Role's Interests** - Megagames are designed so that what you need, someone else has—and what you have, someone else needs. You'll find natural allies and adversaries throughout the game. If you're not sure what to do next, pursue your role's goals and see what connections form.
 
 - **Ask Questions** - Confused about a rule? Not sure what you should be doing? Find a gamerunner. We're here to help.
 
