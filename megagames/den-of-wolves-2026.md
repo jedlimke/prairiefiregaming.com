@@ -17,7 +17,7 @@ excerpt: "A cooperative megagame about survival under pressure. Humanity is on t
   <span class="event-meta-item">Saturday, March 7th</span>
   <span class="event-meta-item">Fargo, ND</span>
   <span class="event-meta-item">6 Hours</span>
-  <span class="event-meta-item">60 Players</span>
+  <span class="event-meta-item">Up to 60 Players</span>
 </p>
 {:/nomarkdown}
 
@@ -280,7 +280,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 ## What You Need to Know
 
 - **No experience required** — Rules will be sent via email and taught at the start. You'll learn as you play.
-- **Cosplay encouraged** — Come dressed as your character if you want! Military uniform? Civilian refugee? Ship captain? Engineer's coveralls? It's all up to you and your shipmates' creativity. Or just wear comfortable clothes—either works.
+- **Cosplay encouraged but not required** — Come dressed as your character if you want! Military uniform? Civilian refugee? Ship captain? Engineer's coveralls? It's all up to you and your shipmates' creativity. Or just wear comfortable clothes—either works.
 - **Role selection** — You'll know which ship you're assigned to before gameday, but your specific role within that crew is up to you and your shipmates to decide together. Most ships have a Captain, First Officer, Chief Engineer, and Council Member, plus ship-specific roles like Chief Scientist or Head Surgeon. Negotiate, volunteer, or let the group decide—just like real humans under pressure.
 - **There might be traitors in the fleet** — There's intrigue within the game where some crew members might secretly be wolves in human suits! We know not everyone enjoys the stress of being so duplicitous, however, so you can absolutely opt out without worry if you're asked.
 - **Age limit: 14+ with adult, otherwise 18+** — This is a long, intense game with mature themes and a lot of stress (the fun kind).
