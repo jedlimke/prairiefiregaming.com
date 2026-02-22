@@ -37,7 +37,9 @@ A catastrophic attack has left you with one warship and a handful of civilian ve
     </div>
 </div>
 
-**Den of Wolves** is a 60-player MEGAGAME that places you among the decision-makers of a desperate, fractured fleet as it flees into deep space after a devastating attack. You're not a lone hero, but one voice among many, forced to coordinate, compromise, and act under pressure as the enemies close in from behind. You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive. Think _Battlestar Galactica_ meets diplomacy meets roleplaying meets high-stakes board gaming meets live-action chaos.
+**Den of Wolves** is a 60-player MEGAGAME that places you among the decision-makers of a desperate, fractured fleet as it flees into deep space after a devastating attack. You're not a lone hero, but one voice among many, forced to coordinate, compromise, and act under pressure as the enemies close in from behind. You'll manage resources, make impossible political decisions, and negotiate with other players to keep the fleet alive.
+
+Think _Battlestar Galactica_ meets diplomacy meets roleplaying meets high-stakes board gaming meets live-action chaos.
 
 You might be a ship captain coordinating with engineers to keep the lights on. You might be a politician arguing over who gets the last supply of fuel. You might be military personnel tracking enemy movements. Or you might be the wolf—sabotaging everything from within.
 
