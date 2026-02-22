@@ -47,19 +47,11 @@ Things will go wrong. Plans will fall apart. Alliances will betray you. That's n
 
 ## What to Wear
 
-Costumes are highly encouraged at megagames, and often very popular... but definitely, _definitely_ wear comfortable shoes.
+You **never** _have_ to cosplay for a megagame. If you _want_ to, though, we hope you will.
 
-Some games come with a costume or fashion guide, but ultimately you should wear whatever is most comfortable.
-
-You **never** _have_ to cosplay for a megagame.
-
-If you _want_ to, though, we hope you will.
+Costumes are highly encouraged at megagames to help with immersion and getting into character... but definitely, _definitely_ **wear comfortable shoes.**
 
 Check our [Safety Policy](/policies/safety-policy/) to learn more about general costume guidelines.
-
-<div class="callout important" markdown="1" data-label="Bottom Line">
-Wear comfortable shoes. Dress however you like. Costumes are fun but never required.
-</div>
 
 ## During the Game
 
@@ -91,31 +83,6 @@ Wear comfortable shoes. Dress however you like. Costumes are fun but never requi
 
 - **Stay Connected** - Join our social media channels, sign up for our email list, and mark your calendar for the next game.
 
-## Common Questions
-
-### What if I don't understand my role?
-Ask a gamerunner during setup or early in the game. We'll help clarify.
-
-### What if my team isn't getting along?
-Try to work it out in-character first, but if it becomes a real problem, talk to a gamerunner.
-
-### Can I leave early?
-Life happens. If you need to leave before the game ends, let your team and a gamerunner know.
-
-### What if someone is making me uncomfortable?
-Tell a gamerunner immediately. Review our [Safety Policy](/policies/safety-policy/) for more details on how we handle these situations.
-
-### Do I need to be good at _&lt;insert-skill-here&gt;_ to have fun?
-Nope! Megagames welcome all skill levels. You'll get better with experience, but enthusiasm is the only requirement.
-
 <div class="callout important" markdown="1" data-label="Bottom Line">
-When in doubt, ask a gamerunner. We're here to help you have a great time.
-</div>
-
-## Questions?
-
-<div class="callout cta" markdown="1" data-label="Questions?">
-Still have questions? Check out our [FAQ](/about/faq/) or email us at [info@prairiefiregaming.com](mailto:info@prairiefiregaming.com).
-
-See you at the megagame!
+When in doubt, ask questions. We're here to help you have a great time.
 </div>

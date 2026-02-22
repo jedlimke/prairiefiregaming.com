@@ -30,10 +30,6 @@ Check out our [For Players](/about/for-players/) page for a comprehensive guide!
 
 The basics: yourself, an open mind, and something to eat and drink. We'll provide everything else you need to play.
 
-## When is your next game?
-
-Check out our [Megagames page](../megagames/) for upcoming events! We announce new games via email, our social media channels, and on this website.
-
 ## Do I have to have a group of friends to play a megagame?
 
 Not at all! While some games have team-based structures internally-and we try to group friends together if desired-many of our players are solo and make friends during the event. Part of the megagame magic is meeting new people who share your love of epic storytelling and total chaos.
@@ -47,6 +43,13 @@ When you register for a game, you'll receive a confirmation email with initial d
 Megagame rules often vary depending on the role a player is assigned. Because roles (and sometimes even entire in-game factions, teams, nations, ships, you-name-it) change based on final player count, we wait until ticket sales are largely settled before sending out the full ruleset.
 
 This lets us tailor the rules to the actual structure of the game you'll be playing, avoids confusion from last-minute changes, and ensures everyone receives information that's accurate and relevant to their role.
+
+## Do I need to be good at _&lt;insert-skill-here&gt;_ to have fun?
+Nope! Megagames welcome all skill levels--enthusiasm is the only requirement.
+
+## When is your next game?
+
+Check out our [Megagames page](../megagames/) for upcoming events! We announce new games via email, our social media channels, and on this website.
 
 ## How can I get involved in helping run games?
 
