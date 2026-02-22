@@ -9,7 +9,7 @@ permalink: /about/for-players/
 
 <div class="callout" markdown="1" data-label="New Here?">
 ### Don't Worry About "Doing It Right"
-There's no single correct way to play a megagame. Your role is to engage with the game world and make interesting choices.
+There's no single correct way to play a megagame. Your task is to engage with the game world and have fun. That's it!
 
 ### It's Okay to Be Confused
 Megagames can be overwhelming at first. Take a breath, ask questions, and trust that clarity will come as you play.
@@ -26,7 +26,7 @@ Things will go wrong. Plans will fall apart. Alliances will betray you. That's n
 
 ## Before the Game
 
-- **Register Early** - Games can fill up fast! Sign up as soon as tickets are available to secure your spot, and **be sure to invite your friends along, too!**
+- **Gather Your Friends and Register Early** - Games can fill up fast! Sign up as soon as tickets are available to secure your spot, and **be sure to invite your friends along, too!**
 
 - **Check Your Email** - We will email you everything you need to know before the game! Make sure you check your email frequently and reach out if you're not sure.
 
@@ -56,7 +56,7 @@ You **never** _have_ to cosplay for a megagame.
 
 If you _want_ to, though, we hope you will.
 
-Check our [Safety Policy](/policies/safety-policy/) to learn more about general costume guidelines.
+Check our [Safety Policy](/policies/safety-policy/) to learn more about general costume guidelines. -->
 
 <div class="callout important" markdown="1" data-label="Bottom Line">
 Wear comfortable shoes. Dress however you like. Costumes are fun but never required.
@@ -69,6 +69,8 @@ Wear comfortable shoes. Dress however you like. Costumes are fun but never requi
 - **Listen to the Briefing** - Gamerunners will explain the rules, answer questions, and set the scene. Pay attention—this is crucial information.
 
 - **Engage with Others** - Talk to people! Make deals, form alliances, negotiate treaties. Social interaction is the heart of a megagame.
+
+- **Follow Your Role's Interests** - Megagmes are designed so that what you need, someone else has—and what you have, someone else needs. You'll often find natural allies and adversaries throughout the game. If you're not sure what to do next, pursue your role's goals and see what connections form.
 
 - **Ask Questions** - Confused about a rule? Not sure what you should be doing? Find a gamerunner. We're here to help.
 
@@ -104,7 +106,7 @@ Life happens. If you need to leave before the game ends, let your team and a gam
 ### What if someone is making me uncomfortable?
 Tell a gamerunner immediately. Review our [Safety Policy](/policies/safety-policy/) for more details on how we handle these situations.
 
-### Do I need to be good at acting/strategy/negotiation?
+### Do I need to be good at _&lt;insert-skill-here&gt;_ to have fun?
 Nope! Megagames welcome all skill levels. You'll get better with experience, but enthusiasm is the only requirement.
 
 <div class="callout important" markdown="1" data-label="Bottom Line">
