@@ -1,0 +1,84 @@
+/*
+ * Rules section — "site within a site"
+ *
+ * Applied when <body class="rules-site">, which is set automatically for all
+ * pages under rules/ via _config.yml defaults. Overrides the header and footer
+ * to a yellow-on-black treatment so the rules section is visually distinct from
+ * the main site while still sharing every other style.
+ */
+
+.rules-site {
+
+	// -------------------------------------------------------------------------
+	// Header: dark background → yellow, white text/icons → black
+	// -------------------------------------------------------------------------
+
+	.layout-area--header {
+		background: #ffcc00;
+		color: #000;
+		border-top-color: #000;
+	}
+
+	.header-area--title {
+		color: #000;
+	}
+
+	.hamburger {
+		color: #000;
+	}
+
+	.menu-icon svg .line {
+		stroke: #000;
+	}
+
+	.header-area--nav .page-link {
+		color: #000;
+
+		&.is-active {
+			text-decoration: underline;
+		}
+
+		&:hover,
+		&:focus {
+			color: #000;
+			text-decoration: underline;
+		}
+
+		&:focus,
+		&:focus-visible {
+			outline-color: #000;
+		}
+
+		&:focus:not(:focus-visible) {
+			outline: none;
+		}
+	}
+
+	// -------------------------------------------------------------------------
+	// Footer: gradient → yellow, white text/links → black
+	// -------------------------------------------------------------------------
+
+	.layout-area--footer {
+		background: #ffcc00;
+		color: #000;
+
+		a {
+			color: #000;
+
+			&:hover {
+				color: #000;
+				opacity: 0.6;
+			}
+
+			&:focus,
+			&:focus-visible {
+				outline-color: #000;
+			}
+
+			&:focus:not(:focus-visible) {
+				outline: none;
+			}
+		}
+	}
+
+}

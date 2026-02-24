@@ -9,9 +9,10 @@
 	{%- assign default_paths = site.pages | map: "path" -%}
 	{%- assign page_paths = site.header_pages | default: default_paths -%}
 
+	{%- assign _logo = page.logo | default: site.logo -%}
 	<a class="header-area--title" rel="author" href="{{ "/" | relative_url }}">
-		{%- if site.logo -%}
-		<img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}">
+		{%- if _logo -%}
+		<img src="{{ _logo | relative_url }}" alt="{{ site.title | escape }}">
 		{%- else -%}
 		{{ site.title | escape }}
 		{%- endif -%}
@@ -27,15 +28,23 @@
 		</span>
 	</button>
 
-	{%- if page_paths -%}
+	{%- if page.rules_nav -%}
+	{%- assign rules_pages = site.pages | where: "rules_nav", page.rules_nav | sort: "nav_order" -%}
+	<nav class="header-area--nav" aria-label="Rules navigation">
+		<div class="trigger">
+			{%- for rules_page in rules_pages -%}
+			<a class="page-link{% if rules_page.url == page.url %} is-active{% endif %}" href="{{ rules_page.url | relative_url }}">{{- rules_page.link_title | default: rules_page.title | escape -}}</a>
+			{%- endfor -%}
+		</div>
+	</nav>
+	{%- elsif page_paths -%}
 	<nav class="header-area--nav" aria-label="Main navigation">
-
 		<div class="trigger">
 			{%- for path in page_paths -%}
 			{%- assign my_page = site.pages | where: "path", path | first -%}
 			{%- if my_page.link_title -%}
 			<a class="page-link {{ my_page.classes }}" href="{{ my_page.url | relative_url }}">{{ my_page.link_title | escape }}</a>
-			{%- else if my_page.title -%}
+			{%- elsif my_page.title -%}
 			<a class="page-link {{ my_page.classes }}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
 			{%- endif -%}
 			{%- endfor -%}
