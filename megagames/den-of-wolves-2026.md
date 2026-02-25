@@ -280,9 +280,9 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
   
   <div class="fleet-group">
 	<div class="fleet-nation">
-		<img src="/assets/megagames/dow--news--inc.svg" alt="Interstellar News Corporation brand identity" class="news--inc">
+		<img src="/assets/megagames/dow--news--inc.svg" alt="Interstellar News Corp. brand identity" class="news--inc">
 		<div class="fleet-content">
-		<h4>Interstellar News Corporation <small>Team of 5</small></h4>
+		<h4>Interstellar News Corp. <small>Team of 5</small></h4>
 		<p>INC is the only independent press outlet in the Survivor Fleet—and they intend to keep it that way. Granted a mandate by the Council to operate free of political interference, INC reporters constantly move around the fleet to chase down leads and report on the truth. Whether anyone in power actually <em>likes</em> what they report is another matter entirely.</p>
 		</div>
 	</div>
