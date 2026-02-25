@@ -234,3 +234,16 @@
 		}
 	}
 }
+
+.home .hero .countdown {
+	width: 100%;
+	margin-bottom: var(--spacing-unit);
+	color: black;
+
+	.countdown-unit {
+		color: white;
+	}
+	.countdown-label {
+		color: black;
+	}
+}
