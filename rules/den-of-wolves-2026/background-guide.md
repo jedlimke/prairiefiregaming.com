@@ -9,97 +9,9 @@ nav_order: 2
 
 It is the 27th Century and thanks to Faster Than Light (FTL) technology, humanity has spread to multiple star systems. Research missions became colonies, colonies became self-sufficient societies, and before too long, these societies became powerful, independent interstellar nations in and of themselves. Many battles were fought over the centuries. Most scars healed with time—though not all—and eventually humanity settled into a state of relative peace, as the Old Nations on Earth began to share more power and influence with the New Nations across the void of space.
 
-And so it was that the Interstellar Council was formed–a government that represented the Old Nations and the New.
+And so it was that the Interstellar Council was formed—a government that represented the Old Nations and the New.
 
-## The Old Nations
-
-On Earth, the birthplace of humanity, there exist three Nations that have been in power for centuries. Long before the formation of the Council, these factions were unparalleled in power and influence, and between them they controlled the colonies that would eventually become the New Nations.
-
-{::nomarkdown}
-<div class="fleet-groups">
-  <div class="fleet-group">
-    <div class="fleet-nation">
-      <img src="/assets/megagames/dow--nation--fas.png" alt="Federated Atlantic Syndicate flag" class="nation--fas">
-      <div class="fleet-content">
-        <h4>Federated Atlantic Syndicate (FAS)</h4>
-        <p>The FAS covers most of the North American and European landmasses, and has historically been a nation focused on financial power and demonstrating its own superiority wherever possible. Though its supremacy is now only a memory, they still wield considerable financial and diplomatic influence in the council. Some within the FAS hold a generations-old grudge against the Nation of Rosal, as they were the first colony to successfully win their independence several hundred years ago.</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="fleet-group">
-    <div class="fleet-nation">
-      <img src="/assets/megagames/dow--nation--cpa.png" alt="Confederated Peoples of Asia flag" class="nation--cpa">
-      <div class="fleet-content">
-        <h4>Confederated Peoples of Asia (CPA)</h4>
-        <p>The CPA covers most of the East Asian landmass, and maintains control of its massive population through a strong focus on national identity and working towards the good of the nation. Whilst they are technically old rivals of the FAS, as the centuries went on, they have found they have more and more in common with them, considering the rise of the New Nations. The CPA have long been the most outspoken enemies of the Wolves–even before the current crisis–as Wolf 1061 was a mostly CPA-held system when Wolf independence forces took control of it, showing little mercy to the CPA soldiers and citizens there. Though the war would eventually draw in all nations, the CPA paid the steepest price, and that debt has never been forgotten.</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="fleet-group">
-    <div class="fleet-nation">
-      <img src="/assets/megagames/dow--nation--san.png" alt="South American Nations flag" class="nation--san">
-      <div class="fleet-content">
-        <h4>South American Nations (SAN)</h4>
-        <p>Covering the landmasses of Central and South America, the SAN have historically been political allies of the CPA, especially when the FAS had proved a common enemy. These days are now long gone as the emergence of the New Nations shifted the balance of interstellar power considerably. The SAN is now more commonly concerned with being fairly represented compared to its louder, more influential Old Nations counterparts.</p>
-      </div>
-    </div>
-  </div>
-</div>
-{:/nomarkdown}
-
-## The New Nations
-
-As the colonised planets in far off systems gained their independence, their relative disadvantages in technology and resources began to diminish as they took advantage of their room to expand and a flexibility in establishing their own political and economic systems.
-
-{::nomarkdown}
-<div class="fleet-groups">
-  <div class="fleet-group">
-    <div class="fleet-nation">
-      <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal flag" class="nation--rosal">
-      <div class="fleet-content">
-        <h4>Rosal</h4>
-        <p>One of the earliest planets to see large-scale colonisation, Rosal was also the first to successfully gain independence from the Old Nations, beginning with a violent war against FAS rule, before eventually signing treaties with the CPA and SAN to renounce control of their territory in exchange for certain economic and political benefits. As well as holding a mutual grudge against the FAS, Rosal is often outspoken in the Council, being unafraid to speak out against all powers–Old and New, who take actions that they do not agree with.</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="fleet-group">
-    <div class="fleet-nation">
-      <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima flag" class="nation--proxima">
-      <div class="fleet-content">
-        <h4>Proxima</h4>
-        <p>Settlement on Proxima B started about the same time as on Rosal, though it did not gain its own independence until much later. As a large planet with heavily spread out urban centres, rebellion was difficult to get in motion. Proxima's independence came much later, with relatively little violence–primarily being a sweeping political change. The independence movement benefited from sympathetic local garrisons that saw themselves more as residents of Proxima than servants of the Old Nations they represented. This individualistic streak runs deep and can create tension with the more diplomatically minded nations.</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="fleet-group">
-    <div class="fleet-nation">
-      <img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese flag" class="nation--gliese">
-      <div class="fleet-content">
-        <h4>Gliese</h4>
-        <p>Gliese's history has been dominated by the mining operations conducted across its surface. The planet of Gliese 832C was quickly recognised by early scouts as a source of many rare and valuable minerals, and even today it is one of the biggest providers of strytium ore. Gliese gained its independence through a mix of violence and industrial action, eventually gaining control of its own mining operations, and thus becoming a major influence on the Council due to its wealth in resources.</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="fleet-group">
-    <div class="fleet-nation">
-      <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii flag" class="nation--helvetii">
-      <div class="fleet-content">
-        <h4>Helvetii</h4>
-        <p>The nation of Helvetii is a young one, the youngest of the New Nations in fact. They were founded after the wars of independence by apolitical refugees that had fled the conflicts. These vagabonds wandered for decades before discovering a previously unknown asteroid cluster with several planetoid-sized bodies and plentiful rare elements, which quickly gained the attention of the other nations. Their constitution swears them to neutrality and they were often called upon to act as an impartial arbiter when international negotiations reached an impasse.</p>
-      </div>
-    </div>
-  </div>  
-</div>
-{:/nomarkdown}
-
-Of all the wars of independence that shaped the interstellar order, one refused to be settled so neatly.
-
-## The Wolves
+Not every world fell peacefully into that order.
 
 ![Wolf 1061c](/assets/megagames/dow--wolf-1061c.jpg)
 
@@ -113,7 +25,7 @@ For the next fifty years, humanity heard _nothing_ from the Wolves.
 
 _Absolutely nothing._
 
-## The Attack
+## The Interim
 
 Though the Council was always fraught with heated debate and aggressive negotiation, it played its part in giving all of humanity's nations a place to debate their problems face-to-face rather than waste resources and lives in costly wars. However, the Interstellar Council still felt the need to create and maintain a military force, as pirates and small rebellions needed to be kept in check.
 
@@ -121,9 +33,13 @@ As such, the fifty-year silence from the Wolves had long since faded into backgr
 
 *"The Attack", as it came to be known, took everyone by surprise.*
 
-Announcing their intention to enact the total obliteration of all other nations, the Wolf Navy launched a combined attack on the ICSN and planetary defenses across inhabited space. Advanced cyber-attacks managed to knock out automated defense protocols and cut off Command & Control networks. Carefully placed strytium-yield bombs detonated in major munition stockpiles and aboard larger military vessels, and meticulously placed sleeper agents simultaneously performed uncountable assassinations, sabotage and sending of falsified information.
+## The Attack
 
-The entire event was chaos. No-one knows how many lives were lost or how many vessels were destroyed, but the results were catastrophic. Major urban centers were bombarded and any surviving vessels the Wolf Navy found were destroyed without the option of surrender. Except for Wolf, the combined planets of humanity were lost.
+Without warning, the Wolf Navy launched a combined attack on the ICSS and planetary defenses across inhabited space. Advanced cyber-attacks managed to knock out automated defense protocols and cut off command & control networks. Carefully placed strytium-yield bombs detonated in major munition stockpiles and aboard larger military vessels, and meticulously placed sleeper agents simultaneously performed uncountable assassinations, sabotage and sending of falsified information.
+
+The entire event was chaos. No-one knows how many lives were lost or how many vessels were destroyed, but the results were catastrophic. Major urban centers were bombarded and any surviving vessels the Wolf Navy found were destroyed without the option of surrender. 
+
+_The combined planets of humanity were lost._
 
 ## The Survivor Fleet
 
@@ -136,6 +52,94 @@ In the days following The Attack, a number of vessels of varying sizes found the
 An emergency government was created in the form of a new Interstellar Council. The original Council's members had been lost to The Attack, and so representatives of each nation were appointed from the survivors. The previous council's Member for Transportation inherited the title of President, being the next in succession of all known surviving Executive Council Members.
 
 Though there were some, especially aboard the Aegis, who wanted to turn back and fight the Wolf forces, it was decided that the Survivor Fleet would instead attempt to get as far away from the Wolves as possible in order to preserve the lives of those already present.
+
+## The Old Nations
+
+The Old Nations of Earth were once the unrivaled centers of power—the governments that built the first ships, funded the first colonies, and fought the first wars of independence. Their cities are gone. Their infrastructure is ash. What remains of them is here, aboard a handful of ships, navigating a new political reality in the Council chambers of the Dione.
+
+{::nomarkdown}
+<div class="fleet-groups">
+  <div class="fleet-group">
+    <div class="fleet-nation">
+      <img src="/assets/megagames/dow--nation--fas.png" alt="Federated Atlantic Syndicate flag" class="nation--fas">
+      <div class="fleet-content">
+        <h4>Federated Atlantic Syndicate (FAS)</h4>
+        <p>The FAS long defined itself by financial power and a relentless need to demonstrate its own superiority. Whatever financial infrastructure backed that power is now ash. But the FAS's talent for diplomacy and political maneuvering—honed over centuries—translates readily to the new Council chambers aboard the Dione, which is itself a former FAS vessel now repurposed as the seat of government. Old habits die hard, and old grudges die harder: the FAS resentment toward Rosal, the first colony to break free, hasn't faded just because the world has ended.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="fleet-group">
+    <div class="fleet-nation">
+      <img src="/assets/megagames/dow--nation--cpa.png" alt="Confederated Peoples of Asia flag" class="nation--cpa">
+      <div class="fleet-content">
+        <h4>Confederated Peoples of Asia (CPA)</h4>
+        <p>The CPA governed most of the East Asian landmass through a strong emphasis on national identity and collective purpose. Long rivals of the FAS, the centuries had pulled the two into an uneasy alignment as the New Nations rose. But the CPA's defining wound predates all of that: Wolf 1061 was a mostly CPA-held system when Wolf independence forces took control of it, showing little mercy to the soldiers and citizens there. Though the war eventually drew in every nation, the CPA paid the steepest price. The Attack has ripped that old scar wide open. For the CPA survivors now aboard the Icebreaker and Fuerza Leon, grief and fury are never far from the surface.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="fleet-group">
+    <div class="fleet-nation">
+      <img src="/assets/megagames/dow--nation--san.png" alt="South American Nations flag" class="nation--san">
+      <div class="fleet-content">
+        <h4>South American Nations (SAN)</h4>
+        <p>The SAN governed Central and South America and were long-standing political allies of the CPA, bound together by a common wariness of the FAS. As the New Nations rose, that old solidarity faded, and the SAN found itself more focused on simply having a voice among louder, more powerful neighbors. In the Survivor Fleet, SAN civilians are concentrated aboard the Lucas and the Salvador—a water-supply vessel and a hospital ship. Quieter than the others in the old politics, the SAN now finds its people doing some of the most essential work in the fleet.</p>
+      </div>
+    </div>
+  </div>
+</div>
+{:/nomarkdown}
+
+## The New Nations
+
+The independent worlds that broke from Old Earth over the past centuries each bring their own character, history, and capabilities to the Survivor Fleet. Their old advantages—room to expand, flexible economies, distance from Earth's politics—are gone. What remains is who they are.
+
+{::nomarkdown}
+<div class="fleet-groups">
+  <div class="fleet-group">
+    <div class="fleet-nation">
+      <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal flag" class="nation--rosal">
+      <div class="fleet-content">
+        <h4>Rosal</h4>
+        <p>One of the earliest planets to be colonized, Rosal was also the first to win independence—through a violent war against FAS rule, followed by treaties with the CPA and SAN that formalized their sovereignty in exchange for economic concessions. They've never let anyone forget it. Rosal is loud in the Council, unafraid to challenge Old or New Nations alike when they believe a wrong is being done. In the Survivor Fleet, Rosal's civilians are concentrated aboard the Shepherd and the Endeavour. That independent streak—the one that started a war of liberation centuries ago—is still very much alive.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="fleet-group">
+    <div class="fleet-nation">
+      <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima flag" class="nation--proxima">
+      <div class="fleet-content">
+        <h4>Proxima</h4>
+        <p>Settlement on Proxima B began around the same time as Rosal, but independence came much later and with far less bloodshed—primarily a sweeping political change driven by garrison forces who saw themselves as Proximans first. That individualistic streak runs deep and has always created friction with more diplomatically minded nations. In the Survivor Fleet, Proxima's people are aboard the Quellon and the Vulcan—the latter a prison transport whose arrival caused no shortage of controversy. Proxima's self-reliance can be an asset in a crisis. Whether it translates to cooperation is another question.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="fleet-group">
+    <div class="fleet-nation">
+      <img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese flag" class="nation--gliese">
+      <div class="fleet-content">
+        <h4>Gliese</h4>
+        <p>Gliese's history has always been defined by what lies beneath its surface. The planet of Gliese 832C was quickly recognized by early scouts as a rich source of rare minerals, and it became one of the largest providers of strytium ore in known space. Independence came through a combination of violence and industrial action—Gliese didn't just fight for sovereignty, it fought for control of its own mines. In the Survivor Fleet, that expertise is existential: Refinery 124, crewed by Gliese workers, is the fleet's primary source of the strytium fuel that keeps it ahead of the Wolf Navy. Without Gliese, the fleet stops moving.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="fleet-group">
+    <div class="fleet-nation">
+      <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii flag" class="nation--helvetii">
+      <div class="fleet-content">
+        <h4>Helvetii</h4>
+        <p>The youngest of the New Nations, Helvetii was founded not through rebellion but through wandering—apolitical refugees from the wars of independence who drifted for decades before discovering an uncharted asteroid cluster rich in rare elements. Their constitution is built around neutrality, and they were regularly called upon to mediate when Council negotiations reached an impasse. In the Survivor Fleet, Helvetii's people crew the Hephaestus and the Baltar. Their neutrality is now the most complicated position in the fleet: when everything and everyone has been attacked, what does it mean to take no side?</p>
+      </div>
+    </div>
+  </div>
+</div>
+{:/nomarkdown}
+
+## The Fleet
 
 {::nomarkdown}
 <div class="fleet-groups">
