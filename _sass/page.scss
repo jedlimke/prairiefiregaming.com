@@ -188,6 +188,13 @@
 .fleet-vessel {
 	margin-bottom: calc(var(--spacing-unit));
 
+	h4 small {
+		margin-left: 0.6rem;
+		font-size: 0.6em;
+		color: var(--brand-grey);
+		text-transform: uppercase;
+	}
+
 	&:last-child {
 		margin-bottom: 0;
 	}

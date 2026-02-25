@@ -475,13 +475,13 @@ Each Wolf round, each Boarding unit deals 1 damage to the ship they are on. You 
 
 ❌
 
+## Combat
+
 <div class="callout important" markdown="1" data-label="Important">
 **Damaged Units** can still fight, but damaged Crew cannot be used until they are healed at a Sickbay or through other means.
 </div>
 
 Damage to a unit is indicated by drawing a red stripe across it. Red dry erase markers will be provided by Control for this purpose.
-
-## Combat
 
 ### Notes on Units
 

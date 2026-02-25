@@ -83,14 +83,14 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council flag" class="nation--isc">
 		<div class="fleet-content">
 		<h4>Interstellar Council (ISC)</h4>
-		<p>The government that represents all nations of humanity, both the Old and the New, stretching across multiple star systems.</p>
+		<p>The governing body of humanity—or what's left of it. The Council convenes aboard the <em>Dione</em> to debate policy, pass legislation, and argue over who is to blame for everything. Old Nations and New Nations share the table but rarely share a vision. The President holds the chair. Whether they hold the room is up to them.</p>
 		</div>
 	</div>
 	
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--star-alpha.png" alt="Star Alpha" class="ship--star-alpha">
 		<div class="fleet-content">
-		<h4>Star Alpha <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
+		<h4>Star Alpha <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
 		<p>The President's residence. A small luxury vessel that now serves as the seat of emergency government.</p>
 		</div>
 	</div>
@@ -98,7 +98,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--aegis.png" alt="ICSS Aegis" class="ship--aegis">
 		<div class="fleet-content">
-		<h4>ICSS Aegis <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
+		<h4>ICSS Aegis <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 6</small></h4>
 		<p>The fleet's only battleship. Military command, fighter squadrons, Marines, and the responsibility of protecting everyone.</p>
 		</div>
 	</div>
@@ -106,7 +106,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--javelin.png" alt="ICSS Javelin" class="ship--javelin">
 		<div class="fleet-content">
-		<h4>ICSS Javelin <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
+		<h4>ICSS Javelin <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
 		<p>A missile boat with powerful but unpredictable prototype weapons. Green crew, eager for payback.</p>
 		</div>
 	</div>
@@ -117,14 +117,14 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--fas.png" alt="FAS flag" class="nation--fas">
 		<div class="fleet-content">
 		<h4>Federated Atlantic Syndicate (FAS)</h4>
-		<p>Covering most of North America and Europe, the FAS has historically focused on financial power and demonstrating its own superiority wherever possible. Though its supremacy is now only a memory, it still wields considerable financial and diplomatic influence in the Council.</p>
+        <p>The FAS long defined itself by financial power and a relentless need to demonstrate its own superiority. Whatever financial infrastructure backed that power is now ash. But the FAS's talent for diplomacy and political maneuvering—honed over centuries—translates readily to the new Council chambers aboard the <em>Dione</em>, which is itself a former FAS vessel now repurposed as the seat of government. Old habits die hard, and old grudges die harder: the FAS resentment toward Rosal, the first colony to break free, hasn't faded just because the world has ended.</p>
 		</div>
 	</div>  
   
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--dione.png" alt="Dione" class="ship--dione">
 		<div class="fleet-content">
-		<h4>Dione <img src="/assets/megagames/dow--nation--fas.png" alt="FAS" class="inline-flag"></h4>
+		<h4>Dione <img src="/assets/megagames/dow--nation--fas.png" alt="FAS" class="inline-flag"> <small>Crew of 4</small></h4>
 		<p>Massive luxury cruiser now housing the Interstellar Council and FAS civilians, truly a state-of-the-art vessel with high-end facilities.</p>
 		</div>
 	</div>
@@ -135,14 +135,14 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--cpa.png" alt="CPA flag" class="nation--cpa">
 		<div class="fleet-content">
 		<h4>Confederated Peoples of Asia (CPA)</h4>
-		<p>Covering most of East Asia, the CPA maintains control of its massive population through a strong focus on national identity and working toward the good of the nation. The CPA have long been political enemies of the Wolves—even before the current crisis—as <em>Wolf 1061</em> was a mostly CPA-held system when Wolf independence forces took control with little mercy shown to pro-CPA soldiers and citizens.</p>
+        <p>The CPA was the government of most of the East Asian landmass, built on a strong emphasis on national identity and collective purpose. Long rivals of the FAS, the centuries had pulled the two into an uneasy alignment as the New Nations rose. But the CPA's defining wound predates all of that: Wolf 1061 was a mostly CPA-held system when the Wolf War of Independence broke out—and the Wolves showed little mercy to her soldiers and citizens there. Though WWI eventually drew in every nation, the CPA paid the steepest price... and the Attack has ripped that old scar wide open. For the CPA survivors now aboard the <em>Icebreaker</em> and <em>Fuerza Leon</em>, grief and fury are never far from the surface.</p>
 		</div>
 	</div>
   
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--icebreaker.png" alt="Icebreaker" class="ship--icebreaker">
 		<div class="fleet-content">
-		<h4>Icebreaker <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"></h4>
+		<h4>Icebreaker <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"> <small>Crew of 4</small></h4>
 		<p>Mining vessel harvesting strytium ore and materials from asteroids. Essential. Labor-intensive. Home to CPA civilians.</p>
 		</div>
 	</div>
@@ -150,7 +150,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--fuerza-leon.png" alt="Fuerza Leon" class="ship--fuerza-leon">
 		<div class="fleet-content">
-		<h4>Fuerza Leon <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"></h4>
+		<h4>Fuerza Leon <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"> <small>Crew of 2</small></h4>
 		<p>Bulk hauler with immense cargo bays and highly skilled specialists who happened to be aboard during The Attack.</p>
 		</div>
 	</div>
@@ -161,14 +161,14 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--san.png" alt="SAN flag" class="nation--san">
 		<div class="fleet-content">
 		<h4>South American Nations (SAN)</h4>
-		<p>Covering Central and South America, the SAN have historically been political allies of the CPA, especially when the FAS proved a common enemy. As the New Nations emerged and shifted the balance of interstellar power, the SAN became more concerned with being fairly represented compared to its louder, more influential Old Nations counterparts.</p>
+        <p>The historic nations of Central and South America combined to form the SAN, and were long-standing political allies of the CPA, bound together by a common wariness of the FAS. As the New Nations rose, that old solidarity faded, and the SAN found itself more focused on simply having a voice among louder, more powerful neighbors. In the Survivor Fleet, SAN civilians are concentrated aboard the <em>Lucas</em> and the <em>Salvador</em>—a water-supply vessel and a hospital ship. Quieter than the others in the old politics, the SAN now finds its people doing some of the most essential work in the fleet.</p>
 		</div>
 	</div>
   
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--lucas.png" alt="Lucas" class="ship--lucas">
 		<div class="fleet-content">
-		<h4>Lucas <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"></h4>
+		<h4>Lucas <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"> <small>Crew of 4</small></h4>
 		<p>Water supply ship with excellent engineering minds. Keeps the fleet hydrated and the systems running.</p>
 		</div>
 	</div>
@@ -176,7 +176,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--salvador.png" alt="Salvador" class="ship--salvador">
 		<div class="fleet-content">
-		<h4>Salvador <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"></h4>
+		<h4>Salvador <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"> <small>Crew of 2</small></h4>
 		<p>Hospital ship with the fleet's only doctors, nurses, and first-aid specialists. Hope you don't need them.</p>
 		</div>
 	</div>
@@ -187,14 +187,14 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal flag" class="nation--rosal">
 		<div class="fleet-content">
 		<h4>Rosal</h4>
-		<p>One of the earliest planets to see large-scale colonization, Rosal was the first to successfully gain independence from the Old Nations, beginning with a violent war against FAS rule before eventually signing treaties with the CPA and SAN. Holding a mutual grudge against the FAS, Rosal is often outspoken in the Council, unafraid to speak out against all powers—Old and New—who take actions they disagree with.</p>
+        <p>One of the earliest planets to be colonized, Rosal was also the first to win independence—through a violent war against FAS rule, followed by treaties with the CPA and SAN that formalized their sovereignty in exchange for economic concessions. They've never let anyone forget it. Rosal is loud in the Council, unafraid to challenge Old or New Nations alike when they believe a wrong is being done. In the Survivor Fleet, Rosal's civilians are concentrated aboard the <em>Shepherd</em> and the <em>Endeavour</em>. That independent streak—the one that started a war of liberation centuries ago—is still very much alive.</p>
 		</div>
 	</div>
   
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--shepherd.png" alt="Shepherd" class="ship--shepherd">
 		<div class="fleet-content">
-		<h4>Shepherd <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"></h4>
+		<h4>Shepherd <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"> <small>Crew of 4</small></h4>
 		<p>Food production vessel growing crops in deep space. If this ship fails, the fleet starves.</p>
 		</div>
 	</div>
@@ -202,7 +202,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--endeavour.png" alt="Endeavour" class="ship--endeavour">
 		<div class="fleet-content">
-		<h4>Endeavour <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"></h4>
+		<h4>Endeavour <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"> <small>Crew of 2</small></h4>
 		<p>Research vessel developing improvements and upgrades for the fleet. Academic firepower.</p>
 		</div>
 	</div>
@@ -213,14 +213,14 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima flag" class="nation--proxima">
 		<div class="fleet-content">
 		<h4>Proxima</h4>
-		<p>Settlement on Proxima B started around the same time as Rosal, though independence came much later with relatively little violence—primarily a sweeping political change. The independence movement benefited from sympathetic local garrisons who saw themselves more as residents of Proxima than servants of the Old Nations. This individualistic streak runs deep and can create tension with more diplomatically minded nations.</p>
+        <p>Settlement on Proxima B began around the same time as Rosal, but independence came much later and with far less bloodshed—primarily a sweeping political change driven by garrison forces who saw themselves as Proximans first. That individualistic streak runs deep and has always created friction with more diplomatically minded nations. In the Survivor Fleet, Proxima's people are aboard the <em>Quellon</em> and the <em>Vulcan</em>—the latter a prison transport whose arrival caused no shortage of controversy. Proxima's self-reliance can be an asset in a crisis. Whether it translates to cooperation is another question.</p>
 		</div>
 	</div>
   
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--quellon.png" alt="Quellon" class="ship--quellon">
 		<div class="fleet-content">
-		<h4>Quellon <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"></h4>
+		<h4>Quellon <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"> <small>Crew of 4</small></h4>
 		<p>General operations vessel with water production and its own fighter squadron. Versatile and essential.</p>
 		</div>
 	</div>
@@ -228,7 +228,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--vulcan.png" alt="Vulcan" class="ship--vulcan">
 		<div class="fleet-content">
-		<h4>Vulcan <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"></h4>
+		<h4>Vulcan <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"> <small>Crew of 2</small></h4>
 		<p>Prison transport with weapon batteries and labor force. Controversial addition. Proven its worth.</p>
 		</div>
 	</div>
@@ -239,14 +239,14 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese flag" class="nation--gliese">
 		<div class="fleet-content">
 		<h4>Gliese</h4>
-		<p>The planet of Gliese 832C was quickly recognized as a source of many rare and valuable minerals, and even today is one of the biggest providers of strytium ore. Gliese gained its independence through a mix of violence and industrial action, eventually gaining control of its own mining operations and becoming a major Council influence due to its wealth in resources.</p>
+        <p>Gliese's history has always been defined by what lies beneath its surface. The planet of Gliese 832C was quickly recognized by early scouts as a rich source of rare minerals, and it became one of the largest providers of strytium ore in known space. Independence came through a combination of violence and industrial action—Gliese didn't just fight for sovereignty, it fought for control of its own mines. In the Survivor Fleet, that expertise is existential: <em>Refinery 124</em>, crewed by Gliese workers, is the fleet's primary source of the strytium fuel that keeps it ahead of the Wolf Navy. Without Gliese, the fleet stops moving.</p>
 		</div>
 	</div>
   
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--refinery-124.png" alt="Refinery 124" class="ship--refinery-124">
 		<div class="fleet-content">
-		<h4>Refinery 124 <img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese" class="inline-flag"></h4>
+		<h4>Refinery 124 <img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese" class="inline-flag"> <small>Crew of 4</small></h4>
 		<p>Refinery providing the fleet's only source of strytium fuel, keeping them one step ahead of pursuing Wolf forces.</p>
 		</div>
 	</div>
@@ -257,14 +257,14 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 		<img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii flag" class="nation--helvetii">
 		<div class="fleet-content">
 		<h4>Helvetii</h4>
-		<p>The youngest of the New Nations, founded after the wars of independence by apolitical refugees who had fled the conflicts. These vagabonds wandered for decades before discovering a previously unknown asteroid cluster with several planetoid-sized bodies and plentiful rare elements. Their constitution swears them to neutrality, and they are often called upon to act as impartial arbiters when international negotiations reach an impasse.</p>
+        <p>The youngest of the New Nations, Helvetii was founded not through rebellion but through wandering—apolitical refugees from the wars of independence who drifted for decades before discovering an uncharted asteroid cluster rich in rare elements. Their constitution is built around neutrality, and they were regularly called upon to mediate when Council negotiations reached an impasse. In the Survivor Fleet, Helvetii's people crew the <em>Hephaestus</em> and the <em>Baltar</em>. Their neutrality is now the most complicated position in the fleet: when everything and everyone has been attacked, what does it mean to take no side?</p>
 		</div>
 	</div>
   
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--hephaestus.png" alt="Hephaestus" class="ship--hephaestus">
 		<div class="fleet-content">
-		<h4>Hephaestus <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"></h4>
+		<h4>Hephaestus <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"> <small>Crew of 4</small></h4>
 		<p>Makeshift repair facilities, prospecting lasers, slapdash refinery. Jack-of-all-trades industrial vessel.</p>
 		</div>
 	</div>
@@ -272,8 +272,18 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--baltar.png" alt="Baltar" class="ship--baltar">
 		<div class="fleet-content">
-		<h4>Baltar <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"></h4>
+		<h4>Baltar <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"> <small>Crew of 2</small></h4>
 		<p>Cutting-edge research and long-range scanning. Finding resources and threats before they find you.</p>
+		</div>
+	</div>
+  </div>
+  
+  <div class="fleet-group">
+	<div class="fleet-nation">
+		<img src="/assets/megagames/dow--news--inc.svg" alt="Interstellar News Corporation brand identity" class="news--inc">
+		<div class="fleet-content">
+		<h4>Interstellar News Corporation <small>Team of 5</small></h4>
+		<p>INC is the only independent press outlet in the Survivor Fleet—and they intend to keep it that way. Granted a mandate by the Council to operate free of political interference, INC reporters constantly move around the fleet to chase down leads and report on the truth. Whether anyone in power actually <em>likes</em> what they report is another matter entirely.</p>
 		</div>
 	</div>
   </div>
