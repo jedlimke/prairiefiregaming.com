@@ -145,14 +145,14 @@ The independent worlds that broke from Old Earth over the past centuries each br
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--star-alpha.png" alt="Star Alpha" class="ship--star-alpha">
       <div class="fleet-content">
-        <h4>Star Alpha <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
+        <h4>Star Alpha <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
         <p>The <em>Star Alpha</em> is the name given to the vessel transporting the President of the Council–in the Survivor Fleet, this is also functionally the President's permanent residence. This is a repurposed luxury vessel, and very small compared to the other vessels in the Fleet.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--aegis.png" alt="ICSS Aegis" class="ship--aegis">
       <div class="fleet-content">
-        <h4>ICSS Aegis <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
+        <h4>ICSS Aegis <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 6</small></h4>
         <p>The <em>Aegis</em> is a medium-sized military vessel, functioning as both battleship and carrier. As well as having some weapon batteries, it carries a healthy complement of both fighter squadrons and marines.</p>
         <p><strong>Fighters</strong> – Fighters are small, one-person craft typically used in close engagements between larger vessels. They are designed to be fast and highly maneuver, but in order to achieve this, they compromise on defense, leaving them very lightly armored. They are commonly equipped with light, rapid-firing weaponry for dogfighting with other Fighters, but also often have a small complement of high-power ordnance so that they can cause significant damage to larger vessels with a well-aimed strike.</p>
       </div>
@@ -160,91 +160,91 @@ The independent worlds that broke from Old Earth over the past centuries each br
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--javelin.png" alt="ICSS Javelin" class="ship--javelin">
       <div class="fleet-content">
-        <h4>ICSS Javelin <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
+        <h4>ICSS Javelin <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
         <p>The <em>Javelin</em> is one of the newest generation of missile boats commissioned and built for the ICS. It was on a shakedown trip when the Attack happened, and its crew is green but eager for payback against the Wolves. Its guided anti-ship missiles are powerful but costly to produce, and as prototypes, can be unpredictable. It also has cannon batteries and a shuttle. As a smaller vessel, the <em>Javelin</em> is reliant on resupply for its crew's needs; there are no onboard food or water synthesizers.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--dione.png" alt="The Dione" class="ship--dione">
       <div class="fleet-content">
-        <h4>The Dione <img src="/assets/megagames/dow--nation--fas.png" alt="FAS" class="inline-flag"></h4>
+        <h4>The Dione <img src="/assets/megagames/dow--nation--fas.png" alt="FAS" class="inline-flag"> <small>Crew of 4</small></h4>
         <p>The <em>Dione</em> is a huge luxury cruiser designed for long-term recreation. In the Survivor fleet it has been repurposed as the home of the new Interstellar Council, as well as housing the vast majority of the fleet's previously FAS-resident civilians. The Dione still has high-end luxury facilities on board, as well as a small complement of fighter squadrons for personal security.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--icebreaker.png" alt="The Icebreaker" class="ship--icebreaker">
       <div class="fleet-content">
-        <h4>The Icebreaker <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"></h4>
+        <h4>The Icebreaker <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"> <small>Crew of 4</small></h4>
         <p>The <em>Icebreaker</em> is a large mining vessel, providing an essential function for the Fleet by harvesting important materials and strytium ore from nearby asteroids. The mining drones are very effective but require a lot of manpower to maintain and operate. Having originated in a CPA orbital shipyard, the <em>Icebreaker</em> is mostly populated by the Fleet's CPA-resident civilians. Like the <em>Dione</em>, it also has a small complement of fighter squadrons for security.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--fuerza-leon.png" alt="The Fuerza Leon" class="ship--fuerza-leon">
       <div class="fleet-content">
-        <h4>The Fuerza Leon <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"></h4>
+        <h4>The Fuerza Leon <img src="/assets/megagames/dow--nation--cpa.png" alt="CPA" class="inline-flag"> <small>Crew of 2</small></h4>
         <p>The <em>Fuerza Leon</em> ("Lion Force" in a long-dead language) is a bulk hauler under the CPA flag, designed for deep space cargo transport. It has several immense cargo bays that could be put to use for any number of purposes, and has several highly skilled specialists who were traveling along with the crew en route to their destination on Rosal when the Attack happened.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--lucas.png" alt="The Lucas" class="ship--lucas">
       <div class="fleet-content">
-        <h4>The Lucas <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"></h4>
+        <h4>The Lucas <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"> <small>Crew of 4</small></h4>
         <p>The <em>Lucas</em> is a SAN-built vessel designed to re-supply research stations with water in the event of unforeseen issues or emergencies. In the Survivor Fleet it provides a great deal of the Fleet's much needed water supplies, as well as being a place of technical prowess, with some excellent engineering minds on board. The <em>Lucas</em> is mostly populated by the Fleet's SAN resident civilians.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--salvador.png" alt="The Salvador" class="ship--salvador">
       <div class="fleet-content">
-        <h4>The Salvador <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"></h4>
+        <h4>The Salvador <img src="/assets/megagames/dow--nation--san.png" alt="SAN" class="inline-flag"> <small>Crew of 2</small></h4>
         <p>The <em>Salvador</em> is a small, SAN-built hospital ship that provides important medical services to the Survivor Fleet. The Chief Surgeon is the only actual medical doctor remaining in the fleet, although there are a number of specialists trained in first aid and numerous nurses to help.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--shepherd.png" alt="The Shepherd" class="ship--shepherd">
       <div class="fleet-content">
-        <h4>The Shepherd <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"></h4>
+        <h4>The Shepherd <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"> <small>Crew of 4</small></h4>
         <p>The <em>Shepherd</em> is a very large food production vessel, designed to grow food in deep space or orbit for various interstellar missions or surface-based emergencies. In the Survivor Fleet it provides most of the Fleet's food supplies. The <em>Shepherd</em> is also where most of the Fleet's Rosal-resident civilians now live.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--endeavour.png" alt="The Endeavour" class="ship--endeavour">
       <div class="fleet-content">
-        <h4>The Endeavour <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"></h4>
+        <h4>The Endeavour <img src="/assets/megagames/dow--nation--rosal.png" alt="Rosal" class="inline-flag"> <small>Crew of 2</small></h4>
         <p>The <em>Endeavour</em> is a small, Rosal-built research vessel. In the Survivor Fleet, it puts its crew's academic skills to use to try and develop improvements and upgrades for the various vessels in the fleet.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--quellon.png" alt="The Quellon" class="ship--quellon">
       <div class="fleet-content">
-        <h4>The Quellon <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"></h4>
+        <h4>The Quellon <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"> <small>Crew of 4</small></h4>
         <p>The <em>Quellon</em> is a general purpose operations vessel designed to provide support for missions or emergencies for Proxima. It has facilities for producing large quantities of water, as well as its own fighter squadron complement.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--vulcan.png" alt="The Vulcan" class="ship--vulcan">
       <div class="fleet-content">
-        <h4>The Vulcan <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"></h4>
+        <h4>The Vulcan <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"> <small>Crew of 2</small></h4>
         <p>The <em>Vulcan</em> is a long-distance transport for prisoners, originally traveling from Proxima. Though it originally caused some contention when it joined the Survivor Fleet, it eventually proved its worth, thanks to it being the only vessel other than the <em>Aegis</em> to have weapons batteries, as well as being able to provide a wealth of additional labor.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--refinery-124.png" alt="Refinery 124" class="ship--refinery-124">
       <div class="fleet-content">
-        <h4>Refinery 124 <img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese" class="inline-flag"></h4>
+        <h4>Refinery 124 <img src="/assets/megagames/dow--nation--gliese.png" alt="Gliese" class="inline-flag"> <small>Crew of 4</small></h4>
         <p>One of Gliese's many refinery vessels, <em>Refinery 124</em> has taken on many Gliese civilians, but a great deal of its crew are still workers in the refinery stations—working hard to provide the Survivor Fleet with the strytium fuel it needs to stay ahead of the Wolf Navy.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--hephaestus.png" alt="The Hephaestus" class="ship--hephaestus">
       <div class="fleet-content">
-        <h4>The Hephaestus <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"></h4>
+        <h4>The Hephaestus <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"> <small>Crew of 4</small></h4>
         <p>The <em>Hephaestus</em> is a Helvetii vessel of questionable origin and age. Some say it was originally a retired ICS heavy cruiser, other sources claim it was built by the CPA as a prospecting vessel. Regardless, it's changed hands and been modified so many times now that its designers would not recognize it. Its makeshift repair facilities, high tech prospecting lasers, and slapdash refinery unit make it as close to a jack-of-all-trades industrial vessel as there is in the fleet.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--baltar.png" alt="The Baltar" class="ship--baltar">
       <div class="fleet-content">
-        <h4>The Baltar <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"></h4>
+        <h4>The Baltar <img src="/assets/megagames/dow--nation--helvetii.png" alt="Helvetii" class="inline-flag"> <small>Crew of 2</small></h4>
         <p>The <em>Baltar</em> is a cutting edge research vessel commissioned, designed, and built for the recently established Helvetii navy. Its focus is on long range observation and scanning, with the intent of finding remote asteroids and other celestial bodies for Helvetii ships to exploit. It also contains general research labs specializing in the physical and material sciences, as befits a nation focused on industrial and economic dominance.</p>
       </div>
     </div>
