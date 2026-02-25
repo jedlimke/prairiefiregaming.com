@@ -1,0 +1,84 @@
+/*
+ * Rules section — "site within a site"
+ *
+ * Applied when <body class="rules-site">, which is set automatically for all
+ * pages under rules/ via _config.yml defaults. Overrides the header and footer
+ * treatment so the rules section is visually distinct from
+ * the main site while still sharing every other style.
+ */
+
+.rules-site {
+
+	--rules-bg: var(--brand-yellow);
+	--rules-table-bg: var(--brand-white);
+	--rules-fg: #000000;
+	--rules-nav-border: solid 2px var(--rules-fg);
+
+	.layout-area--header {
+		background: var(--rules-bg);
+		color: var(--rules-fg);
+		border-top-color: var(--rules-fg);
+	}
+
+	.header-area--title {
+		color: var(--rules-fg);
+	}
+
+	.hamburger {
+		color: var(--rules-fg);
+	}
+
+	.menu-icon svg .line {
+		stroke: var(--rules-fg);
+	}
+
+	.header-area--nav .page-link {
+		color: var(--rules-fg);
+
+		&.is-active {
+			border-bottom: var(--rules-nav-border);
+		}
+
+		&:hover,
+		&:focus {
+			color: var(--rules-fg);
+			border-bottom: var(--rules-nav-border);
+		}
+
+		&:focus,
+		&:focus-visible {
+			outline-color: var(--rules-fg);
+		}
+
+		&:focus:not(:focus-visible) {
+			outline: none;
+		}
+	}
+
+	.layout-area--footer {
+		background: var(--rules-bg);
+		color: var(--rules-fg);
+
+		a {
+			color: var(--rules-fg);
+
+			&:hover {
+				color: var(--rules-fg);
+				opacity: 0.6;
+			}
+
+			&:focus,
+			&:focus-visible {
+				outline-color: var(--rules-fg);
+			}
+
+			&:focus:not(:focus-visible) {
+				outline: none;
+			}
+		}
+
+		.footer-license {
+			color: var(--rules-fg);
+		}
+	}
+}

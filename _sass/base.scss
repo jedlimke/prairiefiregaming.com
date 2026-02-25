@@ -330,13 +330,13 @@ img {
 }
 
 table {
-	width: calc(100vw - 2 * var(--spacing-unit));
 	border-collapse: collapse;
-	background: var(--bg-white);
+	border-radius: var(--border-radius);
 
-	// Break out of content wrapper to full viewport width (minus spacing on both sides)
-	margin-left: calc(50% - 50vw + var(--spacing-unit));
-	margin-right: calc(50% - 50vw + var(--spacing-unit));
+	background: var(--brand-white);
+	color: var(--brand-dark);
+
+	width: 100%;
 
 	th, td {
 		padding: 0.5rem;
@@ -355,50 +355,6 @@ table {
 
 	th:last-child, td:last-child {
 		padding-right: var(--spacing-unit);
-	}
-
-	// Mobile: Card-style layout
-	@media screen and (max-width: 800px) {
-		// Hide table headers
-		thead {
-			display: none;
-		}
-
-		// Make each row a card
-		tbody tr {
-			display: block;
-			margin-bottom: calc(var(--spacing-unit) / 2);
-			border: var(--border-width-minor) solid var(--border-color);
-			
-			// Zebra striping for cards
-			&:nth-child(even) {
-				background: var(--bg-main);
-			}
-		}
-
-		// Stack cells vertically within each row
-		tbody td {
-			display: block;
-			text-align: left;
-			padding: calc(var(--spacing-unit) / 3) var(--spacing-unit);
-			border-bottom: none;
-			
-			// Add data labels from table headers
-			&:before {
-				content: attr(data-label);
-				display: block;
-				font-weight: 700;
-				font-size: 0.65rem;
-				color: var(--text-muted);
-				text-transform: uppercase;
-				margin-bottom: 0.25rem;
-			}
-
-			// Remove border from last cell
-			&:last-child {
-				border-bottom: none;
-			}
-		}
 	}
 }
 

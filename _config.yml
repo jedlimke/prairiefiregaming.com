@@ -61,3 +61,18 @@ defaults:
     values:
       layout: post
       categories: "news"
+
+  # All pages under rules/ get the rules layout, yellow/black theme, and black logos
+  - scope:
+      path: "rules"
+    values:
+      layout: rules
+      body_class: rules-site
+      logo: /assets/prairiefiregaming-hero--black.svg
+      footer_logo: /assets/prairiefiregaming-block--black.svg
+
+  # Den of Wolves 2026 rules — group key for the section nav
+  - scope:
+      path: "rules/den-of-wolves-2026"
+    values:
+      rules_nav: dow-2026

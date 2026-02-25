@@ -1,13 +1,15 @@
 <footer class="layout-area--footer">
 
+	{%- assign _logo = page.logo | default: site.logo -%}
+	{%- assign _footer_logo = page.footer_logo | default: site.footer_logo -%}
 	{%- comment -%} Logo {%- endcomment -%}
 	<div class="footer-brand">
 		<a href="{{ "/" | relative_url }}" class="footer-logo">
-			{%- if site.footer_logo -%}
-			<img src="{{ site.footer_logo | relative_url }}" alt="{{ site.title | escape }}" class="footer-logo-desktop">
+			{%- if _footer_logo -%}
+			<img src="{{ _footer_logo | relative_url }}" alt="{{ site.title | escape }}" class="footer-logo-desktop">
 			{%- endif -%}
-			{%- if site.logo -%}
-			<img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" class="footer-logo-mobile">
+			{%- if _logo -%}
+			<img src="{{ _logo | relative_url }}" alt="{{ site.title | escape }}" class="footer-logo-mobile">
 			{%- endif -%}
 		</a>
 	</div>
