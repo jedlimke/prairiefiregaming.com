@@ -331,6 +331,7 @@ img {
 
 table {
 	border-collapse: collapse;
+	border-radius: var(--border-radius);
 
 	background: var(--brand-white);
 	color: var(--brand-dark);

@@ -31,45 +31,61 @@ nav_order: 3
 
 ### Introduction
 
-Den of Wolves is a game about the interactions between politics and survival during a time of crisis. Players represent the ships in the “Survivor Fleet” – a group of surviving ships fleeing from a catastrophic attack by a ruthless enemy. These ships are trying to survive in the midst of a crisis. Some players are civilians whilst others are representing government and military elements of the fleet. This game is about interactions between all of these different entities as they attempt to survive.
+Den of Wolves is a game about the interactions between politics and survival during a time of crisis. Players represent the ships in the "Survivor Fleet" – a group of surviving ships fleeing from a catastrophic attack by a ruthless enemy. These ships are trying to survive in the midst of a crisis. Some players are civilians whilst others are representing government and military elements of the fleet. This game is about interactions between all of these different entities as they attempt to survive.
 
-The game blends both ‘Political’ (talking and negotiating) and ‘Operational’ (decisions, units and resources) gameplay. Some roles are exclusively Political, while others have a much greater focus on Operational matters. In general, players should expect a significant amount of resource management and player-to-player negotiation and discussion, with a small amount of unit positioning and combat.
+The game blends both 'Political' (talking and negotiating) and 'Operational' (decisions, units and resources) gameplay. Some roles are exclusively Political, while others have a much greater focus on Operational matters. In general, players should expect a significant amount of resource management and player-to-player negotiation and discussion, with a small amount of unit positioning and combat.
 
 ### Rules
 
 As with many megagames, in Den of Wolves, there are some relatively simple rules that give the game some framework and give players some universal expectations about the nature of the gameplay – but these are not the totality of the game. As part of the simulation, players have freedom to suggest actions to Control not covered by the game rules. If reasonable, Control will typically give you the opportunity to do/try it at some cost and/or risk of failure.
 
-Keep in mind, however, that while there is this flexibility in how you play the game – Den of Wolves is not a game where ‘anything goes’. Random acts, doing things ‘just for laughs’ or ‘just because you can’, will have the same impact that such behaviour would have in the real world. So be careful – every action has reactions and unintended consequences.
+Keep in mind, however, that while there is this flexibility in how you play the game – Den of Wolves is not a game where 'anything goes'. Random acts, doing things 'just for laughs' or 'just because you can', will have the same impact that such behaviour would have in the real world. So be careful – every action has reactions and unintended consequences.
 
 ### Setting
 
-This game is set several hundred years in the future. Space cruisers and advanced technologies are relatively commonplace. But the Sci-Fi setting does not mean that solutions will come from fantastical technological developments. Don’t expect a new type of time-travel laser to come along and solve all of your problems.
+This game is set several hundred years in the future. Space cruisers and advanced technologies are relatively commonplace. But the Sci-Fi setting does not mean that solutions will come from fantastical technological developments. Don't expect a new type of time-travel laser to come along and solve all of your problems.
 
 Instead, the setting is intended to give a fresh feeling and exciting launching point for a semirealistic simulation of a complicated political and operational situation. If you keep this in mind, you will likely have a much more enjoyable time playing Den of Wolves.
 
-Humanity itself is much the same as today. Similar to how both today and hundreds of years ago, society is/was a mixture of complex, interconnected authorities, powers and factions, with shifting loyalties and different perspectives, the same is true for the setting here. Different played factions in this game have particular perspectives and goals – these will be explained in the Background Guide – otherwise, act how you would act as a person in the modern world.
+Humanity itself is much the same as today. Similar to how both today and hundreds of years ago, society is/was a mixture of complex, interconnected authorities, powers and factions, with shifting loyalties and different perspectives, the same is true for the setting here. Different played factions in this game have particular perspectives and goals – these are explained in the [Background Guide](/background-guide/) – otherwise, act how you would act as a person in the modern world.
 
 ## Game Intent
 
 You will be provided with some objectives in your briefing. You may notice that most of them sound somewhat vague and flexible. This is intentional. Your objectives should give you an idea of the needs, wants, and goals for your character and your team. Use them to inform your choices and your roleplay. With these grander objectives in mind, you can determine your own personal specific goals as the game goes on, and may find them naturally changing throughout the day.
 
-The intent of this game is to create an approximate realistic simulation with an organic shared narrative that everyone contributes to by playing. At the end of the day there will be no scores, rewards or rankings for your objectives. There is no way for any player to ‘win’ or ‘lose’ this game. At the end of the game, you should consider your own performance based on how well you feel you’ve met your objectives.
+The intent of this game is to create an approximate realistic simulation with an organic shared narrative that everyone contributes to by playing. At the end of the day there will be no scores, rewards or rankings for your objectives. There is no way for any player to 'win' or 'lose' this game. At the end of the game, you should consider your own performance based on how well you feel you've met your objectives.
 
 ## Playing the Game
 
-Megagames are huge, chaotic and confusing by nature. This will be the same for everyone, and a feeling of being slightly overwhelmed is completely normal. However, you can’t go far wrong as long as you keep talking to people. Megagames are as much about communication and negotiation as they are about what you do with your resources and units. The game mechanisms are designed to facilitate this communication – however your activities are your own, and as such, the best way to engage with the game is to be proactive, and look for opportunities to talk to others.
+Megagames are huge, chaotic and confusing by nature. This will be the same for everyone, and a feeling of being slightly overwhelmed is completely normal. However, you can't go far wrong as long as you keep talking to people. Megagames are as much about communication and negotiation as they are about what you do with your resources and units. The game mechanisms are designed to facilitate this communication – however your activities are your own, and as such, the best way to engage with the game is to be proactive, and look for opportunities to talk to others.
 
-One other thing that is important to know is that in a megagame, unlike in many types of games, you are not the Hero of the Story. You are just one important part in a giant exercise in collective storytelling – with an emphasis on the ‘collective’. Please keep this in mind, and resist the urge to do things that are disruptive or outrageous purely for the sake of ego. That generally doesn’t end well, or make for an entertaining day for you or the other players.
+One other thing that is important to know is that in a megagame, unlike in many types of games, you are not the Hero of the Story. You are just one important part in a giant exercise in collective storytelling – with an emphasis on the 'collective'. Please keep this in mind, and resist the urge to do things that are disruptive or outrageous purely for the sake of ego. That generally doesn't end well, or make for an entertaining day for you or the other players.
 
 ### Game Structure
 
-There will be an orientation to the game’s venue provided during the initial briefing at the beginning of the event.
+There will be an orientation to the game's venue provided during the initial briefing at the beginning of the event.
 
 ### Honour System
 
-When generating resources or creating new crew or units on ships, players are expected to gather those resources from the table where the resources are held. This does not require the use of a Shuttle as the resources are thematically being generated on the ship itself. This is done on the honour system. There is no incentive to cheat at Megagames, no one “wins” or “loses” these types of games. If you cheat, you’re only making the game less challenging and less fun for yourself.
+When generating resources or creating new crew or units on ships, players are expected to gather those resources from the table where the resources are held. This does not require the use of a Shuttle as the resources are thematically being generated on the ship itself. This is done on the honour system. There is no incentive to cheat at Megagames, no one "wins" or "loses" these types of games. If you cheat, you're only making the game less challenging and less fun for yourself.
 
-> **Note on terminology:** “Damaged” and “Wounded” are essentially the same thing; Squadron Units are Damaged, Crew and On-Foot Units are Wounded, both have similar status indicators as well as mechanics for being repaired/healed. “Vessel” and “Ship” are the same thing. “Turn” and “Round” are somewhat interchangeable, but combat “rounds” have a specific meaning outlined in the section on Combat. These inconsistencies will be changed in future versions of this game. When in doubt about the interpretation of a rule, ask a member of Control.
+<div class="callout important" markdown="1" data-label="Important">
+**There may be traitors among the fleet.**
+
+Some players have objectives that put them at odds with the fleet's survival or the interests of their fellow players. This is a feature of the game, not a bug — and it is disclosed to you now so it doesn't come as an unpleasant surprise.
+
+The honour system applies to *everyone* — traitors included. No player may physically cheat, move another player's components without permission, or otherwise break the rules. What a traitor *can* do is lie, deceive, and work against the fleet through legitimate in-game actions.
+
+Any covert action a traitor wants to take should be run by Control quietly before being carried out. If something feels suspicious, bring it to Control — not to get anyone in trouble, but to make sure it's handled fairly.
+</div>
+
+<div class="callout definition" markdown="1" data-label="TERMINOLOGY">
+**Damaged** and **Wounded** are essentially the same thing; Squadron Units are Damaged, Crew and On-Foot Units are Wounded, both have similar status indicators as well as mechanics for being repaired/healed.
+
+**Turn** and **Round**  are somewhat interchangeable as well, but combat "rounds" have a specific meaning outlined in the section on [Combat](#combat).
+
+When in doubt about the interpretation of a rule, ask a member of Control.
+</div>
 
 ## Sequence of Action
 
@@ -91,7 +107,7 @@ During this phase, Wolf Attacks may happen at any time.
 
 **You must return to your team.**
 
-You will be expected to return to your team’s table except for when there are extreme circumstances that would mean you would not do so (for example, if you were detained on another ship). In all other situations, you must return to your team table and remain there for the duration of this phase. (Feel free to move for calls of nature or any other non-game reason).
+You will be expected to return to your team's table except for when there are extreme circumstances that would mean you would not do so (for example, if you were detained on another ship). In all other situations, you must return to your team table and remain there for the duration of this phase. (Feel free to move for calls of nature or any other non-game reason).
 
 Players catch up on events, plan for the next turn and discuss any internal political issues.
 
@@ -100,42 +116,42 @@ Towards the end of this phase you will hear a News Broadcast from the Media team
 <div class="callout important" markdown="1" data-label="Important">
 **We ask that you give the Media your undivided attention while they are presenting the news.**
 
-This is vital because they will be providing insight into what is happening on a game-wide scale and give you information you may not have heard about during your turn. It may be difficult to hear them if there are other people talking during this.Furthermore, it’s also a tricky job getting in front of a bunch of people, and they deserve your attention and respect for it!
+This is vital because they will be providing insight into what is happening on a game-wide scale and give you information you may not have heard about during your turn. It may be difficult to hear them if there are other people talking during this.Furthermore, it's also a tricky job getting in front of a bunch of people, and they deserve your attention and respect for it!
 
-After the News, you’ll update your Morale Track, and roll for Riots, if necessary.
+After the News, you'll update your Morale Track, and roll for Riots, if necessary.
 </div>
 
 ## Player Roles
 
-Players in this game represent the senior roles in both civilian government and in command of the fleet’s various starships. Note that players are not necessarily limited to the responsibilities detailed here – teams can delegate what they need to. Remember that any role can be of use by seeking out and/or delivering information on the wider situation.
+Players in this game represent the senior roles in both civilian government and in command of the fleet's various starships. Note that players are not necessarily limited to the responsibilities detailed here – teams can delegate what they need to. Remember that any role can be of use by seeking out and/or delivering information on the wider situation.
 
 ### Captain
 
-Each ship has a captain who is responsible for the safety of the ship and those within it. A captain has the final say on all major decisions for their own ship, however they are reliant on the other members of their crew to keep them informed and advise them on important events and issues. They are also responsible for taking command of the ship’s security forces while the First Officer is otherwise indisposed.
+Each ship has a captain who is responsible for the safety of the ship and those within it. A captain has the final say on all major decisions for their own ship, however they are reliant on the other members of their crew to keep them informed and advise them on important events and issues. They are also responsible for taking command of the ship's security forces while the First Officer is otherwise indisposed.
 
 ### First Officer
 
-The first officer on a ship is the captain’s second-in-command, assisting the captain in their duties as necessary, and will take over command of the ship for periods when the captain is absent or incapacitated. The First Officer on civilian ships is also responsible for security, and has direct control over any security forces (and for ships that have them, their Weapon Batteries and Fighter Squadrons). The First Officer is also responsible for the crew (represented by Crew counters) – ensuring they are safe, that the ship has enough of them, and keeping track of any crew moved to other ships.
+The first officer on a ship is the captain's second-in-command, assisting the captain in their duties as necessary, and will take over command of the ship for periods when the captain is absent or incapacitated. The First Officer on civilian ships is also responsible for security, and has direct control over any security forces (and for ships that have them, their Weapon Batteries and Fighter Squadrons). The First Officer is also responsible for the crew (represented by Crew counters) – ensuring they are safe, that the ship has enough of them, and keeping track of any crew moved to other ships.
 
 ### Council Member / Diplomat
 
-The council member represents their nation’s citizens at the Interstellar Council. Council members will be expected to attend the council each turn to discuss larger matters, make decisions and pass laws. Each team has a majority population from a specific nation that they will be representing. These players represent the legislative branch of the government. The Diplomat is a junior member of the Council from the fledgling nation of Helvetii. At the start of the game, they are able to speak at the council but do not get a vote.
+The council member represents their nation's citizens at the Interstellar Council. Council members will be expected to attend the council each turn to discuss larger matters, make decisions and pass laws. Each team has a majority population from a specific nation that they will be representing. These players represent the legislative branch of the government. The Diplomat is a junior member of the Council from the fledgling nation of Helvetii. At the start of the game, they are able to speak at the council but do not get a vote.
 
 ### Chief Engineer
 
-The chief engineer has the important responsibility of keeping the ship running. It is their primary focus that the ship is kept in working condition, and gets all the food, water, fuel and materials it needs to keep running and its people supplied. They are also ultimately responsible for the ship’s shuttle, if they have one.
+The chief engineer has the important responsibility of keeping the ship running. It is their primary focus that the ship is kept in working condition, and gets all the food, water, fuel and materials it needs to keep running and its people supplied. They are also ultimately responsible for the ship's shuttle, if they have one.
 
 ### Chief Surgeon / Scientist / Warden
 
-There are a handful of smaller, specialist ships in the survivor fleet that have smaller teams. These consist of a captain and a role that is suited to the ship’s specialty. Typically the captain will be responsible for the larger decisions whilst the specialist will be responsible for the regular actions in the ship – though responsibilities may be delegated to either based on necessity.
+There are a handful of smaller, specialist ships in the survivor fleet that have smaller teams. These consist of a captain and a role that is suited to the ship's specialty. Typically the captain will be responsible for the larger decisions whilst the specialist will be responsible for the regular actions in the ship – though responsibilities may be delegated to either based on necessity.
 
 ### The Star Alpha
 
-The team on the *Star Alpha* is different to other teams, as it is based on the President’s entourage rather than management of the ship (which is relatively tiny compared to the other ships in the fleet). This team has the President, the Vice President, the Chief of Staff, and the Parliamentarian. They represent the executive branch of the government.
+The team on the *Star Alpha* is different to other teams, as it is based on the President's entourage rather than management of the ship (which is relatively tiny compared to the other ships in the fleet). This team has the President, the Vice President, the Chief of Staff, and the Parliamentarian. They represent the executive branch of the government.
 
 ### The Aegis
 
-The *ICSS Aegis* is a massive military ship and as such it functions differently to the civilian ships of the fleet in a number of ways, including in its team make-up. The Admiral and XO (Executive Officer), function as captain and first officer, respectively. They also have a Comms Officer for communicating with the rest of the fleet, a Logistics Officer for managing the *Aegis*’ requirements and a Commander - Air Group (CAG) who is responsible for all of the *Aegis*’ Fighter squadrons. Finally, they have a Council Liaison who is able to speak on behalf of the Admiral at the Council, but does not have voting power.
+The *ICSS Aegis* is a massive military ship and as such it functions differently to the civilian ships of the fleet in a number of ways, including in its team make-up. The Admiral and XO (Executive Officer), function as captain and first officer, respectively. They also have a Comms Officer for communicating with the rest of the fleet, a Logistics Officer for managing the *Aegis*' requirements and a Commander - Air Group (CAG) who is responsible for all of the *Aegis*' Fighter squadrons. Finally, they have a Council Liaison who is able to speak on behalf of the Admiral at the Council, but does not have voting power.
 
 ### News Media
 
@@ -189,7 +205,7 @@ There are sections on all ship mats outlining the Morale mechanic along with ins
 
 Your Morale Track can also go up or down abruptly if a relevant major event occurs. Control will inform you if this happens.
 
-If a ship’s Morale Track ever reaches zero, then the ship will be in a state of anarchy with all aboard panicking or in open rebellion against the captain. Control will talk with you if this happens.
+If a ship's Morale Track ever reaches zero, then the ship will be in a state of anarchy with all aboard panicking or in open rebellion against the captain. Control will talk with you if this happens.
 
 There may be other modifiers for morale, for example from station effects, action cards or relevant events that occur (Control will advise).
 
@@ -197,7 +213,7 @@ Immediately after making a morale roll, each ship will make a roll for riots, if
 
 ### Fleet Morale
 
-Certain major events will affect ‘Fleet Morale’ as a whole, such as ships being destroyed or separated from the fleet, or major political events. Certain stations and action cards may also affect Fleet Morale. If ‘Fleet Morale’ increases or decreases, this means all ships’ morale tracks will go up or down by that amount.
+Certain major events will affect 'Fleet Morale' as a whole, such as ships being destroyed or separated from the fleet, or major political events. Certain stations and action cards may also affect Fleet Morale. If 'Fleet Morale' increases or decreases, this means all ships' morale tracks will go up or down by that amount.
 
 ## The Interstellar Council
 
@@ -216,12 +232,12 @@ Once a Law is passed and signed, it will be posted near the Council table for pu
 Any type of legislation may be passed, but keep in the mind the following:
 
 **Legislation should be enforceable.**
-If laws are passed that cannot be enforced, it will negatively affect Morale. For example: “All wolves will be executed.” will do nothing to solve the problem if Wolves can’t be identified. The public wants actual solutions, not lip service.
+If laws are passed that cannot be enforced, it will negatively affect Morale. For example: "All wolves will be executed." will do nothing to solve the problem if Wolves can't be identified. The public wants actual solutions, not lip service.
 
 **The Council should make sure their laws are followed.**
-If laws are passed that are not enforced, it will negatively affect Morale rolls. For example: “The Captain of the *Dione* will be detained in the Brig on suspicion of being a Wolf.” is excellent legislation. However, if nobody arrests the Captain and detains them, then the public will begin to doubt the government’s control.
+If laws are passed that are not enforced, it will negatively affect Morale rolls. For example: "The Captain of the *Dione* will be detained in the Brig on suspicion of being a Wolf." is excellent legislation. However, if nobody arrests the Captain and detains them, then the public will begin to doubt the government's control.
 
-While Council members cannot write legislation on their own, once per game each Council member can call for a vote of “no confidence” against the Parliamentarian. If there is a majority, the Parliamentarian is stripped of their office to become a regular Council member, and no further legislation may be proposed until a new Parliamentarian is elected. All Council members are considered to be a candidate for the new Parliamentarian, and a simple plurality is required (the candidate who received the most votes, not necessarily a majority) to become the new Parliamentarian. Council members can also call for a “Snap Election” of a new President. It requires a 5/7ths vote, and can only happen once per game. Unlike other elections, all players are allowed to vote for President from among the current Council members, and a simple plurality wins. The new President then names a new Vice President.
+While Council members cannot write legislation on their own, once per game each Council member can call for a vote of "no confidence" against the Parliamentarian. If there is a majority, the Parliamentarian is stripped of their office to become a regular Council member, and no further legislation may be proposed until a new Parliamentarian is elected. All Council members are considered to be a candidate for the new Parliamentarian, and a simple plurality is required (the candidate who received the most votes, not necessarily a majority) to become the new Parliamentarian. Council members can also call for a "Snap Election" of a new President. It requires a 5/7ths vote, and can only happen once per game. Unlike other elections, all players are allowed to vote for President from among the current Council members, and a simple plurality wins. The new President then names a new Vice President.
 
 Control will adjudicate any role changes that occur due to an election.
 
@@ -235,7 +251,7 @@ The Council meets in closed session and only the News Media may be present durin
 
 The leader of the executive branch. Their duty is to uphold and enforce the Laws of the Council. They are also the civilian leader of the military and the *Aegis* should report to them.
 
-**Special power: Presidential Veto** — The President signs legislation into Law. When Council passes legislation it requires the President’s signature. If the President does not sign it or vetoes it, it does not become Law. A Presidential Veto can be overridden by the Council with a 5/7ths vote.
+**Special power: Presidential Veto** — The President signs legislation into Law. When Council passes legislation it requires the President's signature. If the President does not sign it or vetoes it, it does not become Law. A Presidential Veto can be overridden by the Council with a 5/7ths vote.
 
 #### Vice President
 
@@ -275,7 +291,7 @@ Food is an essential resource for survival. As such, most larger starships were 
 
 ❌
 
-Water isn’t just necessary for drinking, but is also required for basic hygiene – showering, washing and cleaning. The less a ship has, the worse the morale situation becomes. Water is also necessary for the production of food, making it all the more critical to ensure that there’s enough water to go round. Water is represented by blue counters or chips.
+Water isn't just necessary for drinking, but is also required for basic hygiene – showering, washing and cleaning. The less a ship has, the worse the morale situation becomes. Water is also necessary for the production of food, making it all the more critical to ensure that there's enough water to go round. Water is represented by blue counters or chips.
 
 ### Squadrons
 
@@ -285,19 +301,19 @@ Water isn’t just necessary for drinking, but is also required for basic hygien
 
 ❌
 
-There are two types of Squadron – Space Fighter Squadrons and Boarding Squadrons. Space Fighters are often military craft, though some of the larger and more expensive civilian ships in the fleet have a small complement for security. The fleet has no Boarding Squadrons – these are used by the Wolf forces to attack the fleet’s ships from within.
+There are two types of Squadron – Space Fighter Squadrons and Boarding Squadrons. Space Fighters are often military craft, though some of the larger and more expensive civilian ships in the fleet have a small complement for security. The fleet has no Boarding Squadrons – these are used by the Wolf forces to attack the fleet's ships from within.
 
 ### On-Foot Units
 
 ❌
 
-There are many reasons why combat is seen on the decks within a starship, and so all military starships have some number of marines onboard. On civilian ships, especially larger ones or those that perform longer voyages, private security is common. Marines, private security, and boarding parties are all considered to be the same “type” of unit for rules purposes. Units are not Crew and vice versa.
+There are many reasons why combat is seen on the decks within a starship, and so all military starships have some number of marines onboard. On civilian ships, especially larger ones or those that perform longer voyages, private security is common. Marines, private security, and boarding parties are all considered to be the same "type" of unit for rules purposes. Units are not Crew and vice versa.
 
 ### Crew
 
 ❌
 
-In the survivor fleet, everyone is pitching in to keep the fleet going. Crew are needed to operate the stations in all ships. Crew can be moved between ships (using Shuttles), but only if they are not in a ‘used’ state (face down) and if it is allowed explicitly by the ship’s captain (or current commander). Crew counters must always be placed on a specific station on a ship (they cannot be held on a player’s person, or just left on the table in no specific location). For more information on Crew, see the [Stations and Crew](#stations-and-crew) section.
+In the survivor fleet, everyone is pitching in to keep the fleet going. Crew are needed to operate the stations in all ships. Crew can be moved between ships (using Shuttles), but only if they are not in a 'used' state (face down) and if it is allowed explicitly by the ship's captain (or current commander). Crew counters must always be placed on a specific station on a ship (they cannot be held on a player's person, or just left on the table in no specific location). For more information on Crew, see the [Stations and Crew](#stations-and-crew) section.
 
 ❌
 
@@ -313,7 +329,7 @@ The fleet has hundreds of small shuttles that can move individuals around with e
 
 Resources, On-Foot Units, and Crew can only be moved from ship to ship in a Shuttle.
 
-There is no limit on how many journeys a Shuttle can make in a turn. However, keep in mind that by placing resources/units/crew in a Shuttle, or taking them from a Shuttle, the relevant ship would have to dock with it. This doesn’t affect any of the standard game mechanisms – but it might become relevant depending on how events unfold.
+There is no limit on how many journeys a Shuttle can make in a turn. However, keep in mind that by placing resources/units/crew in a Shuttle, or taking them from a Shuttle, the relevant ship would have to dock with it. This doesn't affect any of the standard game mechanisms – but it might become relevant depending on how events unfold.
 
 Legally, Chief Engineers are responsible for Shuttles owned by their ship, as well as the operations of any Shuttles on their ship (regardless of owner). However, for the purposes of the game, there is no restriction on which member of a team is permitted to control the Shuttle.
 
@@ -321,13 +337,19 @@ Legally, Chief Engineers are responsible for Shuttles owned by their ship, as we
 
 ❌
 
-Each ship in the fleet is made up of a number of stations. These are represented on your ship panel by playing-card sized boxes. Each station can be operated by “using” Crew counters (turn the counter face down to represent that it has been used). Note that the effects of some stations, (such as Jump Drives) are time-specific, and so can only be operated if Crew counters were “used” on them at the beginning of the turn. There is reminder text IN RED on these stations to remind you to do this **AT THE START** of the turn. At the beginning of Phase 2 (the Team Phase), all crew return to being unused (are turned face up).
+Each ship in the fleet is made up of a number of stations. These are represented on your ship panel by playing-card sized boxes. Each station can be operated by "using" Crew counters (turn the counter face down to represent that it has been used). Note that the effects of some stations, (such as Jump Drives) are time-specific, and so can only be operated if Crew counters were "used" on them at the beginning of the turn. There is reminder text IN RED on these stations to remind you to do this **AT THE START** of the turn. At the beginning of Phase 2 (the Team Phase), all crew return to being unused (are turned face up).
+
+<div class="callout important" markdown="1" data-label="Jump Drive">
+**To jump at any point during a turn, a crew counter must be placed on the Jump Drive and turned face-down at the very start of that turn — before any other action takes place.**
+
+If no crew is committed to the Jump Drive at the start of the turn, the ship *cannot* jump that turn, even in an emergency. This catches teams off guard more often than almost any other rule. If there is any chance the fleet might jump this turn, commit the crew at the start.
+</div>
 
 ❌
 
-When a ship takes damage, this means that it draws a random Damage Card. Each ship’s Damage card deck is located at that ship’s table. The card is then placed over the station it pertains to (if there are multiple identical stations, determine which one at random). The card will show the effects of the damage – both any instant effects (represented by the exclamation mark symbol) and any ongoing effects (represented by the circular arrow symbol). Instant effects happen a single time, as soon as you draw the card, and won’t have any further effect (unless the station is repaired and then damaged again). Ongoing effects continue until the station is repaired.
+When a ship takes damage, this means that it draws a random Damage Card. Each ship's Damage card deck is located at that ship's table. The card is then placed over the station it pertains to (if there are multiple identical stations, determine which one at random). The card will show the effects of the damage – both any instant effects (represented by the exclamation mark symbol) and any ongoing effects (represented by the circular arrow symbol). Instant effects happen a single time, as soon as you draw the card, and won't have any further effect (unless the station is repaired and then damaged again). Ongoing effects continue until the station is repaired.
 
-Players can look through their own (not another team’s) ship’s Damage Card deck at any time. However, they must then shuffle the deck before it is next used.
+Players can look through their own (not another team's) ship's Damage Card deck at any time. However, they must then shuffle the deck before it is next used.
 
 Unless otherwise stated on the Damage Card, a damaged station is always unable to perform its regular function until it is repaired.
 
@@ -341,7 +363,7 @@ When a station is damaged, all crew (used and unused) located inside it become w
 
 When a crew (trained or untrained) is wounded, this is indicated by drawing a red stripe across it. Red dry erase markers will be provided for this.
 
-Wounded crew *cannot be used*. Wounded crew can be returned to normal using a sickbay station or certain action cards. Whenever a wounded crew is in a situation where they would become wounded again, they are lost permanently instead. When a wounded crew is healed, they are considered used for that turn and can’t be used to activate stations, etc, until the next turn.
+Wounded crew *cannot be used*. Wounded crew can be returned to normal using a sickbay station or certain action cards. Whenever a wounded crew is in a situation where they would become wounded again, they are lost permanently instead. When a wounded crew is healed, they are considered used for that turn and can't be used to activate stations, etc, until the next turn.
 
 ## The Fleet Map
 
@@ -349,33 +371,33 @@ Wounded crew *cannot be used*. Wounded crew can be returned to normal using a si
 
 In the middle of the room there is a map of the survivor fleet. The map represents how the fleet is laid out relative to the *Aegis*, and therefore the *Aegis* is always in the centre. The map is used to represent the tactical positions of both Fighter squadrons and the civilian ships.
 
-The fleet map is separated into 4-6 quadrants (depending on the overall player count) that represent the space around the *Aegis*. Ships and Fighter squadrons can be moved freely on the map during the action phase by the relevant players. For ships this is the captain (or current commander), and for Fighter squadrons this will be the *Aegis*’ CAG and a handful of First Officers from civilian ships with Fighter squadrons.
+The fleet map is separated into 4-6 quadrants (depending on the overall player count) that represent the space around the *Aegis*. Ships and Fighter squadrons can be moved freely on the map during the action phase by the relevant players. For ships this is the captain (or current commander), and for Fighter squadrons this will be the *Aegis*' CAG and a handful of First Officers from civilian ships with Fighter squadrons.
 
 Only players with direct command of ships or Fighter units may approach the fleet map.
 
-Only a certain number of ships can be in any quadrant, however, as indicated on the map itself. Each quadrant has five spaces, and all ships take up either one or two of these spaces. Vessels cannot move into a quadrant where there isn’t room for them.
+Only a certain number of ships can be in any quadrant, however, as indicated on the map itself. Each quadrant has five spaces, and all ships take up either one or two of these spaces. Vessels cannot move into a quadrant where there isn't room for them.
 
-Only which quadrant a ship is in is important – there is no significance to which space a ship occupies within the quadrant itself. Vessels are not allowed to position themselves within a quadrant to block other ships from being able to “fit” in the spaces there – they must move within the quadrant to allow enough spaces if they can.
+Only which quadrant a ship is in is important – there is no significance to which space a ship occupies within the quadrant itself. Vessels are not allowed to position themselves within a quadrant to block other ships from being able to "fit" in the spaces there – they must move within the quadrant to allow enough spaces if they can.
 
 Any disagreements about which quadrants ships will be located in will have to be resolved between players in whatever manner they decide.
 
-Two ships can “swap” places if the commanders are in agreement – there is no need to shift ships around to a third location.
+Two ships can "swap" places if the commanders are in agreement – there is no need to shift ships around to a third location.
 
 Any quadrant can be moved to from any other quadrant – they are all functionally adjacent for movement purposes. Quadrants 5 and 6 are added if using Infinite Domain content.
 
 ❌
 
-Also visible beside the fleet map is the Pursuit Track. This represents how close the majority of the pursuing Wolf naval forces are to reaching the survivor fleet’s current position. This increases by one at the end of each turn. Each time the fleet jumps further away, the track drops by one, two or three for a Short, Medium or Long jump, respectively. Other relevant events may have an effect on the track. The higher the track is, the greater the strength of the Wolf forces involved in any Wolf Attack that appears. Note that the Pursuit Track has no effect on the likelihood of a Wolf Attack – Wolf scouts are everywhere and could discover the Fleet at any time!
+Also visible beside the fleet map is the Pursuit Track. This represents how close the majority of the pursuing Wolf naval forces are to reaching the survivor fleet's current position. This increases by one at the end of each turn. Each time the fleet jumps further away, the track drops by one, two or three for a Short, Medium or Long jump, respectively. Other relevant events may have an effect on the track. The higher the track is, the greater the strength of the Wolf forces involved in any Wolf Attack that appears. Note that the Pursuit Track has no effect on the likelihood of a Wolf Attack – Wolf scouts are everywhere and could discover the Fleet at any time!
 
 ## Wolf Attack
 
-Wolf scouts are searching all over space for the Survivor Fleet, and there is no telling when the Fleet’s exact location will be discovered and the closest elements of the Wolf’s pursuing forces will jump in to attack. Note that the higher the Pursuit Track position, the greater the strength of the Wolf forces that will appear.
+Wolf scouts are searching all over space for the Survivor Fleet, and there is no telling when the Fleet's exact location will be discovered and the closest elements of the Wolf's pursuing forces will jump in to attack. Note that the higher the Pursuit Track position, the greater the strength of the Wolf forces that will appear.
 
 At any time during the action phase, a Wolf Attack may begin. This represents the forward elements of the Wolf naval pursuit forces finding and reaching the survivor fleet.
 
 As soon as a Wolf Attack is announced by Control, all players must immediately cease their movement around the room. Players must remain at whatever table they were currently at (as they are unable to leave the ship whilst the attack is ongoing). During this time, players may communicate between tables using their phones or written messages passed by Control. Players may NOT talk to players on other tables.
 
-The only exceptions to this are players in charge of their ships’ weapon batteries and Fighter Squadrons. All of these players must immediately take all Fighter squadron units previously placed in the Battle Stations section of their ship mat and report to the fleet map to respond to the attack.
+The only exceptions to this are players in charge of their ships' weapon batteries and Fighter Squadrons. All of these players must immediately take all Fighter squadron units previously placed in the Battle Stations section of their ship mat and report to the fleet map to respond to the attack.
 
 For the duration of a Wolf attack players are also immediately forbidden from moving any crew or resources between ships. The only player movement that is allowed is the movement of on-foot units after the first round of combat, as described below.
 
@@ -397,7 +419,7 @@ All other players must remain at the tables they were currently at.
 
 A number of Wolf Fighter Squadrons and Boarding Squadrons will appear in one or more quadrants. (If the pursuit track is particularly high, there is a chance that larger Wolf combat ships may also appear).
 
-The Wolf Attack will then proceed with alternating ‘Fleet’ and ‘Wolf’ rounds, beginning with a Fleet round.
+The Wolf Attack will then proceed with alternating 'Fleet' and 'Wolf' rounds, beginning with a Fleet round.
 
 In Fleet rounds, all Fleet combat units activate, in Wolf rounds, all Wolf combat units activate.
 
@@ -409,7 +431,7 @@ In any Fleet round other than the first, ships can make an FTL jump. If all the 
 
 Each Fleet round, each squadron may either move to another quadrant or attack Wolf units in its own quadrant. If it attacks, roll a D6 (six-sided die) and consult the table to the right.
 
-Whenever a fleet fighter squadron unit is damaged or destroyed, one Pilot-trained crew in the owning ship’s hangar bay becomes wounded – however this wound is not resolved until after the Wolf Attack is finished. *Remember* – if a wounded or damaged unit is wounded or damaged again, they are lost permanently.
+Whenever a fleet fighter squadron unit is damaged or destroyed, one Pilot-trained crew in the owning ship's hangar bay becomes wounded – however this wound is not resolved until after the Wolf Attack is finished. *Remember* – if a wounded or damaged unit is wounded or damaged again, they are lost permanently.
 
 ❌
 
@@ -419,33 +441,43 @@ Deal damage to Wolf units in the same quadrant as the ship that is using the Wea
 
 ### Wolf Fighter Squadrons
 
-Each Wolf round, each squadron will attack a random target in its quadrant. On a roll of 1-5 the squadron attacks one of the civilian ships as indicated on the fleet map (if an empty space is targeted, they attack the *Aegis*). On a 6 they attack the *Aegis*. Each unit immediately does one damage to its target. Use dice or suitable counters to keep track of each ship’s damage during attacks. This damage will be resolved at the ship tables after space combat is complete.
+Each Wolf round, each squadron will attack a random target in its quadrant. On a roll of 1-5 the squadron attacks one of the civilian ships as indicated on the fleet map (if an empty space is targeted, they attack the *Aegis*). On a 6 they attack the *Aegis*. Each unit immediately does one damage to its target. Use dice or suitable counters to keep track of each ship's damage during attacks. This damage will be resolved at the ship tables after space combat is complete.
 
 ### Wolf Boarding Squadrons
 
-In the first Wolf round, any surviving Wolf Boarding Squadrons that were not destroyed by the fleet’s fighter squadrons or weapon batteries will deal 1 damage to the ship they target and then disappear from the map and add one Wolf Boarding Unit to the ship that they target. Game Control will distribute these boarders and place them on the Battle Stations section of the ships they land on.
+In the first Wolf round, any surviving Wolf Boarding Squadrons that were not destroyed by the fleet's fighter squadrons or weapon batteries will deal 1 damage to the ship they target and then disappear from the map and add one Wolf Boarding Unit to the ship that they target. Game Control will distribute these boarders and place them on the Battle Stations section of the ships they land on.
 
 *At this point, the Aegis XO and Javelin XO may return to their ships to help coordinate the shuttling of reinforcements to ships where boarders have landed.*
+
+<div class="callout important" markdown="1" data-label="Important">
+**Boarding damage on landing is unavoidable.**
+
+When a Wolf Boarding Squadron reaches a ship, it deals its 1 damage immediately — your marines do not get to act first. The only way to prevent boarding damage entirely is to destroy the Boarding Squadron before it lands, using Fighter Squadrons or Weapon Batteries.
+</div>
 
 ❌
 
 ### Fleet On-Foot Units
 
-Each Fleet round, each marine or security unit placed in Battle Stations may attack Wolf boarding units in the same ship. Roll a D6 and consult the table to the right. The *Aegis*’ Marine units get a +2 to their attack rolls due to their superior equipment and training.
+Each Fleet round, each marine or security unit placed in Battle Stations may attack Wolf boarding units in the same ship. Roll a D6 and consult the table to the right. The *Aegis*' Marine units get a +2 to their attack rolls due to their superior equipment and training.
 
-**Note:** Units placed in the Ready Room **at the start of the turn** get a +1 bonus to their first die roll against boarders.
+<div class="callout info" markdown="1" data-label="Ready Room">
+Units placed in the **Ready Room at the start of the turn** receive a +1 bonus to their first die roll against boarders that turn. This is on the honour system — units must be assigned to the Ready Room before a Wolf Attack is announced to qualify for the bonus.
+</div>
 
-An On-Foot unit may instead embark in a Shuttle and can travel to another ship to fight there, however, they may not fight until the next Fleet round after they arrive. This means that certain players in charge of their ship’s shuttle (generally, the Chief Engineer) may move about the room for this purpose.
+An On-Foot unit may instead embark in a Shuttle and can travel to another ship to fight there, however, they may not fight until the next Fleet round after they arrive. This means that certain players in charge of their ship's shuttle (generally, the Chief Engineer) may move about the room for this purpose.
 
 ### Wolf Boarding Units
 
-Each Wolf round, each Boarding unit deals 1 damage to the ship they are on. You can either use dice or suitable counters to keep track of each ship’s damage during attacks, or draw cards from the Damage Deck and keep them face down until after the attack is over.
+Each Wolf round, each Boarding unit deals 1 damage to the ship they are on. You can either use dice or suitable counters to keep track of each ship's damage during attacks, or draw cards from the Damage Deck and keep them face down until after the attack is over.
 
 ❌
 
 ❌
 
-**Note:** Damaged Units can still fight, but damaged Crew cannot be used until they are healed at a Sickbay or through other means.
+<div class="callout important" markdown="1" data-label="Important">
+**Damaged Units** can still fight, but damaged Crew cannot be used until they are healed at a Sickbay or through other means.
+</div>
 
 Damage to a unit is indicated by drawing a red stripe across it. Red dry erase markers will be provided by Control for this purpose.
 
@@ -453,11 +485,11 @@ Damage to a unit is indicated by drawing a red stripe across it. Red dry erase m
 
 ### Notes on Units
 
-Combat has been somewhat simplified in this version of Den of Wolves. All fleet units use the same damage tables. In older versions of this game, the amounts of damage dealt was different for different units (and weapon batteries), even if they rolled the same die result. This caused confusion for some players and made the game harder to teach.
-
+<div class="callout important" markdown="1" data-label="Important">
 Units cannot be used to activate Stations, only Crew will do that.
+</div>
 
-Units can be used as part of freeform actions and Control will adjudicate this with you. Keep in mind that they still must follow movement rules: they can only be onboard a ship, or in a shuttle. They can’t be put in your pocket or carried in your hand. These are platoon-sized complements of people and equipment and thematically wouldn’t fit in the personal shuttles that players use to move independently between ships.
+Units can be used as part of freeform actions and Control will adjudicate this with you. Keep in mind that they still must follow movement rules: they can only be onboard a ship, or in a shuttle. They can't be put in your pocket or carried in your hand. These are platoon-sized complements of people and equipment and thematically wouldn't fit in the personal shuttles that players use to move independently between ships.
 
 ## FTL Travel
 
@@ -475,25 +507,31 @@ Destination cards are held between turns. However, when the *Aegis* jumps, any t
 
 ### FTL Jumps
 
-At any time during the action phase (with one exception – see the [Wolf Attack](#wolf-attack) section) any ship in the fleet can do an FTL jump. When a ship jumps, its captain (or current commander) must hold up their ‘Jump’ indicator sheet with coordinates written on the back – Control will then resolve the result.
+<div class="callout important" markdown="1" data-label="Reminder">
+**Jump Drive crew must be committed at the very start of the turn.**
 
-If multiple ships choose to jump, and have enough fuel and the same coordinates, they will all arrive at the new location without issue. However, if any of the ships won’t or can’t jump for any reason, they may become separated from the fleet. This could have numerous consequences that will become clear if such an event happens. Similarly, one or more ships can make an FTL jump on their own, without the rest of the fleet. In that case they will also be separated from the rest of the fleet, in the same manner as above.
+A crew counter must be placed on the Jump Drive and turned face-down before any other actions take place that turn. A ship with no crew pre-committed to its Jump Drive cannot jump that turn — no exceptions.
+</div>
+
+At any time during the action phase (with one exception – see the [Wolf Attack](#wolf-attack) section) any ship in the fleet can do an FTL jump. When a ship jumps, its captain (or current commander) must hold up their 'Jump' indicator sheet with coordinates written on the back – Control will then resolve the result.
+
+If multiple ships choose to jump, and have enough fuel and the same coordinates, they will all arrive at the new location without issue. However, if any of the ships won't or can't jump for any reason, they may become separated from the fleet. This could have numerous consequences that will become clear if such an event happens. Similarly, one or more ships can make an FTL jump on their own, without the rest of the fleet. In that case they will also be separated from the rest of the fleet, in the same manner as above.
 
 FTL Jumps can be done without coordinates. If a ship jumps without a specific set of coordinates, then it jumps to a random empty point in space that it can reach.
 
-Rewards from the Destination Card are placed on the Fleet Map and their distribution will be adjudicated by Control at the map. A majority of the fleet’s ships must arrive at the same coordinates in order for Rewards to “spawn”.
+Rewards from the Destination Card are placed on the Fleet Map and their distribution will be adjudicated by Control at the map. A majority of the fleet's ships must arrive at the same coordinates in order for Rewards to "spawn".
 
 ### Emergency Jump
 
-In the event of an emergency where a ship is separated from the *Aegis* or from the main body of the fleet and may not have the required fuel, an FTL Jump can be achieved by re-routing the vast amounts of power required through other systems. This is only used as a desperate measure, as it forces the rest of the ship’s systems to shut down. If a ship does this, none of its other stations besides the Jump Drive can be operated that turn. A number of stations may also be damaged by the jump. Control will adjudicate this with you if it happens.
+In the event of an emergency where a ship is separated from the *Aegis* or from the main body of the fleet and may not have the required fuel, an FTL Jump can be achieved by re-routing the vast amounts of power required through other systems. This is only used as a desperate measure, as it forces the rest of the ship's systems to shut down. If a ship does this, none of its other stations besides the Jump Drive can be operated that turn. A number of stations may also be damaged by the jump. Control will adjudicate this with you if it happens.
 
 ## Vessel Privacy
 
-For the benefit of the game, each ship’s hold and the detailed workings of what kinds of stations each ship has are visible on their ship panel. If players wish, they can keep these details secret by hiding their ship panel from players not on their team (e.g. by covering them with sheets of paper). This would represent your security staff actively preventing people from other ships looking around in most of the ship – so consider the potential impacts of this.
+For the benefit of the game, each ship's hold and the detailed workings of what kinds of stations each ship has are visible on their ship panel. If players wish, they can keep these details secret by hiding their ship panel from players not on their team (e.g. by covering them with sheets of paper). This would represent your security staff actively preventing people from other ships looking around in most of the ship – so consider the potential impacts of this.
 
-Everyone in the fleet is aware of the basic details about every ship – these are given in the Background Guide.
+Everyone in the fleet is aware of the basic details about every ship – these are given in the [Background Guide](/background-guide/).
 
-Each ship’s Storage Hold space on their ship mat is considered to be secure. You may not touch any components in another ship’s Storage Hold. Theft can be part of this game, but must be adjudicated by Control as a freeform action rather than done independently by players.
+Each ship's Storage Hold space on their ship mat is considered to be secure. You may not touch any components in another ship's Storage Hold. Theft can be part of this game, but must be adjudicated by Control as a freeform action rather than done independently by players.
 
 ❌
 
@@ -541,11 +579,11 @@ Remember that even if a riot counter is dispersed, the station cannot operate un
 
 Players are free to move around the room, moving between ship tables as they wish. With two exceptions: 1) The map table can only be approached by captains or players in command of fighter squadrons/weapon batteries. 2) Movement is limited during Wolf Attacks, as explained in the [Wolf Attack](#wolf-attack) section.
 
-However, where each player is located is significant. Any player at a ship’s table is considered to be aboard that ship in-person within the game’s world also. If for any reason you want to go to a location or talk to another player without being there in person in-game, you will have to do this in the real world by using your phone, or writing a message and passing it via Control.
+However, where each player is located is significant. Any player at a ship's table is considered to be aboard that ship in-person within the game's world also. If for any reason you want to go to a location or talk to another player without being there in person in-game, you will have to do this in the real world by using your phone, or writing a message and passing it via Control.
 
 ### Players in Sickbay
 
-It is possible for some events and actions to cause a player to become Wounded. When this happens, the player must immediately go to a ship of their choice that has an undamaged Sickbay station. They must remain at the ship’s table, though they may freely talk to anyone also at the table. Once phase two (team phase) of the turn in which the player arrived is over, the player may move freely again.
+It is possible for some events and actions to cause a player to become Wounded. When this happens, the player must immediately go to a ship of their choice that has an undamaged Sickbay station. They must remain at the ship's table, though they may freely talk to anyone also at the table. Once phase two (team phase) of the turn in which the player arrived is over, the player may move freely again.
 
 Note that a player in a sickbay does not use a medical crew or take up the capacity of the station (it can still be used as normal).
 
@@ -558,9 +596,9 @@ To place another player in the Brig, a player will have to justify how they wish
 **If a player is in the brig:**
 
 - They must stay at the *Aegis* table
-- They cannot interact with the *Aegis*’ ship panel or resources
+- They cannot interact with the *Aegis*' ship panel or resources
 
-Communication in the Brig is limited. In addition to being stuck at the table, players can only talk to other players at the table with the permission of the *Aegis*’ crew, and cannot phone or send messages to other players around the room. There are two exceptions to this rule. A) If there is more than one player in the Brig then they can communicate with each other freely. B) When a player first enters the brig they may choose a single other player who they must be allowed to talk to at any time during their detention. If the chosen player is not at the table, the player in the brig may contact them by phone or by using written notes passed by Control.
+Communication in the Brig is limited. In addition to being stuck at the table, players can only talk to other players at the table with the permission of the *Aegis*' crew, and cannot phone or send messages to other players around the room. There are two exceptions to this rule. A) If there is more than one player in the Brig then they can communicate with each other freely. B) When a player first enters the brig they may choose a single other player who they must be allowed to talk to at any time during their detention. If the chosen player is not at the table, the player in the brig may contact them by phone or by using written notes passed by Control.
 
 Players in the brig will have their game experience negatively impacted if they are left there for long. If a player remains in the brig for a full turn consisting of a full Action Phase and a full Team Phase without having a trial or being dealt with otherwise, they *may* choose to make an escape attempt. Control will adjudicate this with impacted players.
 
