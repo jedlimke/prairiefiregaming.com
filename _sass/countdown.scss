@@ -3,10 +3,9 @@
 // ============================================================================
 
 .countdown {
-	display: grid;
-	grid-template-columns: repeat(4, 1fr);
-	gap: calc(var(--spacing-unit) / 2);
-	margin: var(--spacing-unit) 0;
+	display: flex;
+	justify-content: space-between;
+	margin: 0;
 	font-family: var(--font-headers);
 	font-weight: 900;
 	font-variant-numeric: tabular-nums;
@@ -21,16 +20,16 @@
 	flex-direction: column;
 	align-items: center;
 	gap: 4px;
-	font-size: 3rem;
+	font-size: 4rem;
 	line-height: 1;
 	color: var(--brand-yellow);
 
 	@media screen and (min-width: 600px) {
-		font-size: 4rem;
+		font-size: 5rem;
 	}
 
 	@media screen and (min-width: 800px) {
-		font-size: 5rem;
+		font-size: 6rem;
 	}
 }
 
@@ -46,7 +45,7 @@
 }
 
 .countdown-gameday {
-	grid-column: 1 / -1;
+	width: 100%;
 	text-align: center;
 	font-size: 2rem;
 	line-height: 1;
@@ -58,5 +57,20 @@
 
 	@media screen and (min-width: 800px) {
 		font-size: 4rem;
+	}
+}
+
+.countdown-caption {
+	text-align: center;
+	font-family: var(--font-headers);
+	font-weight: 900;
+	font-size: 0.65rem;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+	color: var(--text-muted);
+	margin-top: calc(var(--spacing-unit) / -3);
+
+	@media screen and (min-width: 600px) {
+		font-size: 0.75rem;
 	}
 }
