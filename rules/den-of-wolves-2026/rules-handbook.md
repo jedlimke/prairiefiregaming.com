@@ -133,18 +133,6 @@ There are a handful of smaller, specialist ships in the survivor fleet that have
 
 The team on the *Star Alpha* is different to other teams, as it is based on the President’s entourage rather than management of the ship (which is relatively tiny compared to the other ships in the fleet). This team has the President, the Vice President, the Chief of Staff, and the Parliamentarian. They represent the executive branch of the government.
 
-### Arbourist
-
-The Arbourist is a solo player who represents the charismatic leader of a new religious movement. They do not have a ship whose crew they are part of. They are welcome to move around the room during team time and sit with whichever ship invites them to.
-
-### Inquisitor
-
-The Inquisitor is a solo player who is the sole survivor of humanity’s judicial system. They have investigatory abilities that help in their mission to root out traitors against humanity. They begin the game stationed on the *Star Alpha* but have broad access to all ships and may spend team time aboard any ship of their choosing.
-
-### Firebrand
-
-The Firebrand is a formerly incarcerated political radical whose sentence is up and has just been released. Their reputation as someone willing to sacrifice everything for what their believe in and who stood up for the common person has been etched in stone during their imprisonment, which many among the fleet believe was unjustified. A polarizing figure, they continue to advocate for the workers and voice their distrust of the current unelected government.
-
 ### The Aegis
 
 The *ICSS Aegis* is a massive military ship and as such it functions differently to the civilian ships of the fleet in a number of ways, including in its team make-up. The Admiral and XO (Executive Officer), function as captain and first officer, respectively. They also have a Comms Officer for communicating with the rest of the fleet, a Logistics Officer for managing the *Aegis*’ requirements and a Commander - Air Group (CAG) who is responsible for all of the *Aegis*’ Fighter squadrons. Finally, they have a Council Liaison who is able to speak on behalf of the Admiral at the Council, but does not have voting power.
@@ -154,6 +142,13 @@ The *ICSS Aegis* is a massive military ship and as such it functions differently
 The media are represented by a News Media team (acting as the Interstellar News Corporation). These players are representing the wider Interstellar news media elements within the fleet as a whole rather than individuals. As such they can move freely in order to gather as much news as possible, and do not have a specific location in the game like other players. The News Media team will put out a broadcast at the end of each turn. As well as the obvious effects of public praise or criticism, this broadcast can have a direct impact on morale.
 
 Note that (non-News Media) players are not allowed to make room-wide announcements – so the ability of the News Media team to broadcast to everyone in the room is significant. If you want to make a room wide announcement, you must work with the News Media team to do so.
+
+<div class="callout info" markdown="1" data-label="WILDCARDS">
+In addition to all of the common roles within the game, a small number of players receive separate **wildcard briefings** and may generally move freely throughout the fleet. 
+
+**You'll know them when you meet them.**
+</div>
+
 
 ## Morale Tracks
 
