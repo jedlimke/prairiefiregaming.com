@@ -7,7 +7,7 @@ nav_order: 2
 
 # Background Guide
 
-It is the 27th Century and thanks to Faster Than Light (FTL) technology, humanity has spread to multiple star systems. Research missions became colonies, colonies became self-sufficient societies, and before too long, these societies became powerful, independent interstellar nations in and of themselves. Many battles were fought over the centuries, but eventually humanity settled into a state of relative peace, as the Old Nations on Earth began to share more power and influence with the New Nations across the void of space.
+It is the 27th Century and thanks to Faster Than Light (FTL) technology, humanity has spread to multiple star systems. Research missions became colonies, colonies became self-sufficient societies, and before too long, these societies became powerful, independent interstellar nations in and of themselves. Many battles were fought over the centuries. Most scars healed with time—though not all—and eventually humanity settled into a state of relative peace, as the Old Nations on Earth began to share more power and influence with the New Nations across the void of space.
 
 And so it was that the Interstellar Council was formed–a government that represented the Old Nations and the New.
 
@@ -32,7 +32,7 @@ On Earth, the birthplace of humanity, there exist three Nations that have been i
       <img src="/assets/megagames/dow--nation--cpa.png" alt="Confederated Peoples of Asia flag" class="nation--cpa">
       <div class="fleet-content">
         <h4>Confederated Peoples of Asia (CPA)</h4>
-        <p>The CPA covers most of the East Asian landmass, and maintains control of its massive population through a strong focus on national identity and working towards the good of the nation. Whilst they are technically old rivals of the FAS, as the centuries went on, they have found they have more and more in common with them, considering the rise of the New Nations. The CPA have long been political enemies of the Wolves–even before the current crisis–as Wolf 1061 was a mostly CPA-held system when the Wolf independence forces took control of it with little mercy shown to the pro-CPA soldiers and citizens there.</p>
+        <p>The CPA covers most of the East Asian landmass, and maintains control of its massive population through a strong focus on national identity and working towards the good of the nation. Whilst they are technically old rivals of the FAS, as the centuries went on, they have found they have more and more in common with them, considering the rise of the New Nations. The CPA have long been the most outspoken enemies of the Wolves–even before the current crisis–as Wolf 1061 was a mostly CPA-held system when Wolf independence forces took control of it, showing little mercy to the CPA soldiers and citizens there. Though the war would eventually draw in all nations, the CPA paid the steepest price, and that debt has never been forgotten.</p>
       </div>
     </div>
   </div>
@@ -97,23 +97,33 @@ As the colonised planets in far off systems gained their independence, their rel
 </div>
 {:/nomarkdown}
 
+Of all the wars of independence that shaped the interstellar order, one refused to be settled so neatly.
+
 ## The Wolves
 
 ![Wolf 1061c](/assets/megagames/dow--wolf-1061c.jpg)
 
 The harsh terrain on **Wolf 1061c** led to a densely-packed urban population. By the time of the rebellion, the CPA had almost complete control, having pushed out all FAS and SAN forces. The Wolf rebellion was incredibly violent, with little mercy shown to CPA soldiers and civilians alike.
 
+What began as a conflict between the Wolves and the CPA quickly escalated into a full-scale war against all of the interstellar nations. Though every nation sent forces, the CPA bore the brunt of the fighting—a wound that has never fully healed.
+
+After years of brutal conflict, an armistice was signed. Wolf 1061c was recognized as sovereign territory, but the Wolves refused a seat at the Interstellar Council and severed nearly all contact with the rest of humanity.
+
+For the next fifty years, humanity heard _nothing_ from the Wolves.
+
+_Absolutely nothing._
+
 ## The Attack
 
 Though the Council was always fraught with heated debate and aggressive negotiation, it played its part in giving all of humanity's nations a place to debate their problems face-to-face rather than waste resources and lives in costly wars. However, the Interstellar Council still felt the need to create and maintain a military force, as pirates and small rebellions needed to be kept in check.
 
-As such, it wasn't too great a concern when in recent decades, the nation of Wolf had become more hostile and reclusive, eventually pulling out of the Council completely. Though there was very little intelligence on what was happening on Wolf, it was generally believed that it would sort itself out internally, and the overwhelming strength of the combined Interstellar Council Service Navy would protect the Council's member nations if Wolf did anything rash.
+As such, the fifty-year silence from the Wolves had long since faded into background noise—an old scar that most had made their peace with. There was very little intelligence on what was happening on Wolf 1061, and it was generally assumed that the armistice would simply hold. The overwhelming strength of the combined Interstellar Council Service Navy was more than enough to handle any trouble if it didn't.
 
 *"The Attack", as it came to be known, took everyone by surprise.*
 
-Announcing their intention to enact the total obliteration of all other nations, the Wolf Navy launched a combined attack on the ICSN and planetary defences across inhabited space. Advanced cyber-attacks managed to knock out automated defence protocols and cut off Command & Control networks. Carefully placed strytium-yield bombs detonated in major munition stockpiles and aboard larger military vessels, and meticulously placed sleeper agents simultaneously performed uncountable assassinations, sabotage and sending of falsified information.
+Announcing their intention to enact the total obliteration of all other nations, the Wolf Navy launched a combined attack on the ICSN and planetary defenses across inhabited space. Advanced cyber-attacks managed to knock out automated defense protocols and cut off Command & Control networks. Carefully placed strytium-yield bombs detonated in major munition stockpiles and aboard larger military vessels, and meticulously placed sleeper agents simultaneously performed uncountable assassinations, sabotage and sending of falsified information.
 
-The entire event was chaos. No-one knows how many lives were lost or how many vessels were destroyed, but the results were catastrophic. Major urban centres were bombarded and any surviving vessels the Wolf Navy found were destroyed without the option of surrender. Except for Wolf, the combined planets of humanity were lost.
+The entire event was chaos. No-one knows how many lives were lost or how many vessels were destroyed, but the results were catastrophic. Major urban centers were bombarded and any surviving vessels the Wolf Navy found were destroyed without the option of surrender. Except for Wolf, the combined planets of humanity were lost.
 
 ## The Survivor Fleet
 
