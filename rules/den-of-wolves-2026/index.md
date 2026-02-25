@@ -1,11 +1,11 @@
 ---
-title: "Den of Wolves: Infinite Domain — Player Resources"
+title: "Den of Wolves: Infinite Domain — Overview"
 link_title: "Overview"
 permalink: /rules/den-of-wolves-2026/
 nav_order: 0
 ---
 
-# ToDo List
+# Overview
 
 We are **so happy you're here!**
 
