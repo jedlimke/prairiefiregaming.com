@@ -35,13 +35,13 @@
 		color: #000;
 
 		&.is-active {
-			text-decoration: underline;
+			border-bottom: solid 2px #000;
 		}
 
 		&:hover,
 		&:focus {
 			color: #000;
-			text-decoration: underline;
+			border-bottom: solid 2px #000;
 		}
 
 		&:focus,
