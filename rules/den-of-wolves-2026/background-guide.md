@@ -5,13 +5,7 @@ permalink: /rules/den-of-wolves-2026/background-guide/
 nav_order: 2
 ---
 
-❌
-
-*A Megagame of Survival, Politics, and Paranoia in the 27th Century*
-
-**Den of Wolves** is designed by John Mizon for South West Megagames. **Infinite Domain** by Chris Perry and Cle Diggins for Portland Megagames. Graphic Overhaul by Chris Perry.
-
-❌
+# Background Guide
 
 It is the 27th Century and thanks to Faster Than Light (FTL) technology, humanity has spread to multiple star systems. Research missions became colonies, colonies became self-sufficient societies, and before too long, these societies became powerful, independent interstellar nations in and of themselves. Many battles were fought over the centuries, but eventually humanity settled into a state of relative peace, as the Old Nations on Earth began to share more power and influence with the New Nations across the void of space.
 
@@ -99,19 +93,15 @@ As the colonised planets in far off systems gained their independence, their rel
         <p>The nation of Helvetii is a young one, the youngest of the New Nations in fact. They were founded after the wars of independence by apolitical refugees that had fled the conflicts. These vagabonds wandered for decades before discovering a previously unknown asteroid cluster with several planetoid-sized bodies and plentiful rare elements, which quickly gained the attention of the other nations. Their constitution swears them to neutrality and they were often called upon to act as an impartial arbiter when international negotiations reached an impasse.</p>
       </div>
     </div>
-  </div>
-
-  <div class="fleet-group">
-    <div class="fleet-nation">
-      <span class="fleet-image-placeholder">❌</span>
-      <div class="fleet-content">
-        <h4>Wolf 1061</h4>
-        <p>The harsh terrain on Wolf 1061C led to a densely-packed urban population. By the time of the rebellion, the CPA had almost complete control, having pushed out all FAS and SAN forces. The Wolf rebellion was incredibly violent, with little mercy shown to CPA soldiers and civilians alike.</p>
-      </div>
-    </div>
-  </div>
+  </div>  
 </div>
 {:/nomarkdown}
+
+## The Wolves
+
+![Wolf 1061c](/assets/megagames/dow--wolf-1061c.jpg)
+
+The harsh terrain on **Wolf 1061c** led to a densely-packed urban population. By the time of the rebellion, the CPA had almost complete control, having pushed out all FAS and SAN forces. The Wolf rebellion was incredibly violent, with little mercy shown to CPA soldiers and civilians alike.
 
 ## The Attack
 
@@ -152,7 +142,7 @@ Though there were some, especially aboard the Aegis, who wanted to turn back and
       <div class="fleet-content">
         <h4>ICSS Aegis <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"></h4>
         <p>The Aegis is a medium-sized military vessel, functioning as both battleship and carrier. As well as having some weapon batteries, it carries a healthy complement of both fighter squadrons and marines.</p>
-        <p><em>Fighters</em> – Fighters are small, one-person craft typically used in close engagements between larger vessels. They are designed to be fast and highly maneuver, but in order to achieve this, they compromise on defence, leaving them very lightly armoured. They are commonly equipped with light, rapid-firing weaponry for dogfighting with other Fighters, but also often have a small complement of high-power ordnance so that they can cause significant damage to larger vessels with a well-aimed strike.</p>
+        <p><em>Fighters</em> – Fighters are small, one-person craft typically used in close engagements between larger vessels. They are designed to be fast and highly maneuver, but in order to achieve this, they compromise on defense, leaving them very lightly armored. They are commonly equipped with light, rapid-firing weaponry for dogfighting with other Fighters, but also often have a small complement of high-power ordnance so that they can cause significant damage to larger vessels with a well-aimed strike.</p>
       </div>
     </div>
     <div class="fleet-vessel">
@@ -166,7 +156,7 @@ Though there were some, especially aboard the Aegis, who wanted to turn back and
       <img src="/assets/megagames/dow--ship--dione.png" alt="The Dione" class="ship--dione">
       <div class="fleet-content">
         <h4>The Dione <img src="/assets/megagames/dow--nation--fas.png" alt="FAS" class="inline-flag"></h4>
-        <p>The Dione is a huge luxury cruiser designed for long-term recreation. In the Survivor fleet it has been re-purposed as the home of the new Interstellar Council, as well as housing the vast majority of the fleet's previously FAS-resident civilians. The Dione still has high-end luxury facilities on board, as well as a small complement of fighter squadrons for personal security.</p>
+        <p>The Dione is a huge luxury cruiser designed for long-term recreation. In the Survivor fleet it has been repurposed as the home of the new Interstellar Council, as well as housing the vast majority of the fleet's previously FAS-resident civilians. The Dione still has high-end luxury facilities on board, as well as a small complement of fighter squadrons for personal security.</p>
       </div>
     </div>
     <div class="fleet-vessel">
@@ -222,7 +212,7 @@ Though there were some, especially aboard the Aegis, who wanted to turn back and
       <img src="/assets/megagames/dow--ship--vulcan.png" alt="The Vulcan" class="ship--vulcan">
       <div class="fleet-content">
         <h4>The Vulcan <img src="/assets/megagames/dow--nation--proxima.png" alt="Proxima" class="inline-flag"></h4>
-        <p>The Vulcan is a long-distance transport for prisoners, originally travelling from Proxima. Though it originally caused some contention when it joined the Survivor Fleet, it eventually proved its worth, thanks to it being the only vessel other than the Aegis to have weapons batteries, as well as being able to provide a wealth of additional labor.</p>
+        <p>The Vulcan is a long-distance transport for prisoners, originally traveling from Proxima. Though it originally caused some contention when it joined the Survivor Fleet, it eventually proved its worth, thanks to it being the only vessel other than the Aegis to have weapons batteries, as well as being able to provide a wealth of additional labor.</p>
       </div>
     </div>
     <div class="fleet-vessel">
@@ -249,3 +239,9 @@ Though there were some, especially aboard the Aegis, who wanted to turn back and
   </div>
 </div>
 {:/nomarkdown}
+
+---
+
+_**Den of Wolves** is one of the most-played megagames of all time and was designed by John Mizon of [SW Megagames](https://www.swmegagames.co.uk/){:target="_blank"}._
+
+_**Den of Wolves: Infinite Domain** is an expansion and re-work of the original rules and was designed by Chris Perry and Clé Diggins of [Portland Megagames](https://discord.gg/eH8Z68eC7v){:target="_blank"}_.

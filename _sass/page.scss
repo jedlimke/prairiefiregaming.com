@@ -180,13 +180,8 @@
 // FLEET GRIDS FOR DEN OF WOLVES 2026
 // ============================================================================
 
-.fleet-group {
-	margin-bottom: calc(var(--spacing-unit)  * 2);
-}
-
 .fleet-group + .fleet-group {
-	border-top: var(--stroke-width) solid var(--brand-grey);
-	padding-top: calc(var(--spacing-unit) * 2);
+	margin-top: calc(var(--spacing-unit) * 2);
 }
 
 .fleet-nation,
