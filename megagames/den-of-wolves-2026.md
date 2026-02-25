@@ -13,6 +13,10 @@ excerpt: "A cooperative megagame about survival under pressure. Humanity is on t
 {: .fancy-text}
 
 {::nomarkdown}
+{%- include countdown.html target="2026-03-07T09:00:00-06:00" -%}
+{:/nomarkdown}
+
+{::nomarkdown}
 <p class="event-meta">
   <span class="event-meta-item">Saturday, March 7th</span>
   <span class="event-meta-item">Fargo, ND</span>

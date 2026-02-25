@@ -1,0 +1,17 @@
+{% comment %}
+  Countdown timer component.
+
+  Required:
+    target          — ISO 8601 date/time string, e.g. "2026-03-07T09:00:00-06:00"
+
+  Optional:
+    gameday_message — text shown when target is reached (default: "GAMEDAY IS TODAY")
+
+  Usage:
+    {%- include countdown.html target="2026-03-07T09:00:00-06:00" -%}
+    {%- include countdown.html target="2026-03-07T09:00:00-06:00" gameday_message="IT'S GAMETIME" -%}
+{% endcomment %}
+
+<div class="countdown"
+     data-target="{{ include.target }}"
+     data-gameday-message="{{ include.gameday_message | default: "GAMEDAY IS TODAY" }}"></div>

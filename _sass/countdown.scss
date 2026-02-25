@@ -1,0 +1,62 @@
+// ============================================================================
+// COUNTDOWN TIMER — .countdown
+// ============================================================================
+
+.countdown {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: calc(var(--spacing-unit) / 2);
+	margin: var(--spacing-unit) 0;
+	font-family: var(--font-headers);
+	font-weight: 900;
+	font-variant-numeric: tabular-nums;
+}
+
+.countdown-sep {
+	display: none;
+}
+
+.countdown-unit {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 4px;
+	font-size: 3rem;
+	line-height: 1;
+	color: var(--brand-yellow);
+
+	@media screen and (min-width: 600px) {
+		font-size: 4rem;
+	}
+
+	@media screen and (min-width: 800px) {
+		font-size: 5rem;
+	}
+}
+
+.countdown-label {
+	font-size: 0.65rem;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+	color: var(--text-muted);
+
+	@media screen and (min-width: 600px) {
+		font-size: 0.75rem;
+	}
+}
+
+.countdown-gameday {
+	grid-column: 1 / -1;
+	text-align: center;
+	font-size: 2rem;
+	line-height: 1;
+	color: var(--brand-yellow);
+
+	@media screen and (min-width: 600px) {
+		font-size: 3rem;
+	}
+
+	@media screen and (min-width: 800px) {
+		font-size: 4rem;
+	}
+}
