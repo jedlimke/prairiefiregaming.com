@@ -10,6 +10,7 @@
 .rules-site {
 
 	--rules-bg: var(--brand-yellow);
+	--rules-table-bg: var(--brand-white);
 	--rules-fg: #000000;
 	--rules-nav-border: solid 2px var(--rules-fg);
 
@@ -80,5 +81,4 @@
 			color: var(--rules-fg);
 		}
 	}
-
 }
