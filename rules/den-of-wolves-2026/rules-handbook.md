@@ -2,7 +2,7 @@
 title: "Full Rules Handbook"
 link_title: "Full Rules Handbook"
 permalink: /rules/den-of-wolves-2026/rules-handbook/
-nav_order: 3
+nav_exclude: true
 ---
 
 # Rules Handbook
@@ -301,35 +301,61 @@ The leader of the legislative branch. Their duty is to maintain control of the C
 
 Resources must be kept in the Storage Hold of a ship, or on a Shuttle – unless specified otherwise, players cannot hold resources on their person (e.g. keeping them in pockets). Depending on the group running the game, these resources may be represented by different components. Game Control will be sure to make it clear what is what.
 
-❌
-
 ### Strytium Ore
 
-Strytium Ore has no practical use on its own, but can be refined into the highly valuable Strytium Fuel. Strytium Ore is represented by red cubes or crystals.
-
-❌
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--strytium-ore.png" alt="Strytium Ore" class="ship--strytium-ore">
+<div class="fleet-content">
+<p>Strytium Ore has no practical use on its own, but can be refined into the highly valuable Strytium Fuel. Strytium Ore is represented by red cubes or crystals.</p>
+</div>
+</div>
 
 ### Strytium Fuel
 
-Strytium fuel is the fuel used in almost all starship FTL drives. It contains a massive amount of chemical energy. A ship will be unable to perform a standard FTL jump if it does not have enough Strytium Fuel for it (though there are other options). Strytium Fuel is represented by red counters or chips.
-
-❌
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--strytium-fuel.png" alt="Strytium Fuel" class="ship--strytium-fuel">
+<div class="fleet-content">
+<p>Strytium fuel is the fuel used in almost all starship FTL drives. It contains a massive amount of chemical energy. A ship will be unable to perform a standard FTL jump if it does not have enough Strytium Fuel for it (though there are other options). Strytium Fuel is represented by red counters or chips.</p>
+</div>
+</div>
 
 ### Food
 
-Food is an essential resource for survival. As such, most larger starships were designed with the capability to grow enough food to sustain their own crew. Unfortunately for the survivor fleet, most of of its ships cannot survive on the food and water they alone produce, as almost all of the ships in the fleet are over their intended passenger capacity after picking up survivors in smaller ships that had to be abandoned. Food is represented by green counters or chips.
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--food.png" alt="Food" class="ship--food">
+<div class="fleet-content">
+<p>Food is an essential resource for survival. As such, most larger starships were designed with the capability to grow enough food to sustain their own crew. Unfortunately for the survivor fleet, most of the fleet's ships cannot survive on the food and water they alone produce, as almost all ships are over their intended passenger capacity after picking up survivors from smaller abandoned vessels. Food is represented by green counters or chips.</p>
+</div>
+</div>
 
 ### Water
 
-❌
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--water.png" alt="Water" class="ship--water">
+<div class="fleet-content">
+<p>Water isn't just necessary for drinking, but is also required for basic hygiene – showering, washing and cleaning. The less a ship has, the worse the morale situation becomes. Water is also necessary for the production of food, making it all the more critical to ensure that there's enough water to go round. Water is represented by blue counters or chips.</p>
+</div>
+</div>
 
-Water isn't just necessary for drinking, but is also required for basic hygiene – showering, washing and cleaning. The less a ship has, the worse the morale situation becomes. Water is also necessary for the production of food, making it all the more critical to ensure that there's enough water to go round. Water is represented by blue counters or chips.
+### Materials
+
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--materials.png" alt="Materials" class="ship--materials">
+<div class="fleet-content">
+<p>High quality materials, including (but not limited to), high-end building materials, rare metals, and high-tech components, are frequently in demand in the survivor fleet. As well as being necessary for most ship repairs, they are required to build new fighters, and for any advanced scientific and engineering projects within the fleet. Materials are represented by yellow counters or chips.</p>
+</div>
+</div>
+
+### Science
+
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--science.png" alt="Science" class="ship--science">
+<div class="fleet-content">
+<p>Represents accumulated observations or specimens, recorded or researched by trained scientists. Required for paying for Science Projects by the Endeavour and Baltar science ship/s. Science is represented by purple counters or chips.</p>
+</div>
+</div>
 
 ### Squadrons
-
-❌
-
-❌
 
 ❌
 
@@ -338,8 +364,15 @@ There are two types of Squadron – Space Fighter Squadrons and Boarding Squadro
 ### On-Foot Units
 
 ❌
+❌
 
-There are many reasons why combat is seen on the decks within a starship, and so all military starships have some number of marines onboard. On civilian ships, especially larger ones or those that perform longer voyages, private security is common. Marines, private security, and boarding parties are all considered to be the same "type" of unit for rules purposes. Units are not Crew and vice versa.
+There are many reasons why combat is seen on the decks within a starship, and so all military starships have some number of marines onboard. On civilian ships, especially larger ones or those that perform longer voyages, private security is common. Marines, private security, and boarding parties are all considered to be the same "type" of unit for rules purposes.
+
+<div class="callout important" markdown="1" data-label="IMPORTANT">
+**Units are not Crew.** As such, Units cannot activate stations or perform other station-related actions.
+
+**Crew are not Units.** As such, Crew cannot fend off [Wolf Boarding] Units or fight hand-to-hand.
+</div>
 
 ### Crew
 
@@ -347,10 +380,10 @@ There are many reasons why combat is seen on the decks within a starship, and so
 
 In the survivor fleet, everyone is pitching in to keep the fleet going. Crew are needed to operate the stations in all ships. Crew can be moved between ships (using Shuttles), but only if they are not in a 'used' state (face down) and if it is allowed explicitly by the ship's captain (or current commander). Crew counters must always be placed on a specific station on a ship (they cannot be held on a player's person, or just left on the table in no specific location). For more information on Crew, see the [Stations and Crew](#stations-and-crew) section.
 
-❌
 
 ### Trained Crew
 
+❌
 Some stations and other game effects require crew with specific training to operate them. This training can be provided by certain ships using action cards. When a crew counter has been successfully trained, the counter is replaced by a new crew counter that bears a symbol related to the specialty of their training.
 
 Trained crew can operate stations that are normally operated by untrained crew.

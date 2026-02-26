@@ -33,8 +33,10 @@
 	<nav class="header-area--nav" aria-label="Rules navigation">
 		<div class="trigger">
 			{%- for rules_page in rules_pages -%}
+			{%- unless rules_page.nav_exclude -%}
 			<a class="page-link{% if rules_page.url == page.url %} is-active{% endif %}" href="{{ rules_page.url | relative_url }}">{{- rules_page.link_title | default: rules_page.title | escape -}}</a>
-			{%- endfor -%}
+			{%- endunless -%}
+		{%- endfor -%}
 		</div>
 	</nav>
 	{%- elsif page_paths -%}
