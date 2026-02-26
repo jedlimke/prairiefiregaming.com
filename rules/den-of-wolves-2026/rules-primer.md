@@ -51,7 +51,26 @@ There is a timer at the front of the room and Control will make announcements wh
 
 **Action Phase** — roughly 20 minutes — You're free to move yourself around the room to talk to other players or Control, but you must be carrying a Shuttle in order to bring resources or units with you. Activate Stations on your ship using Crew and gather resources (explained on this sheet). Council members should be at the Council table within the first few minutes of this phase.
 
-**Team Phase** — roughly 10 minutes — You **must** return to your ship's table to check in with your teammates, discuss your plans, and review what happened last turn. The News will make an announcement and afterwards you'll do a morale roll for your ship (explained on your ship mat).
+**Team Phase** — roughly 10 minutes — You **must** return to your ship's table to check in with your teammates, discuss your plans, and review what happened last turn. The News will make an announcement and afterwards you'll do a morale roll for your ship.
+
+## Morale
+
+![The Morale Track](/assets/megagames/dow--rules--morale-track.svg)
+
+Each ship has a Morale Track on its ship mat. During the Team Phase — after the news broadcast — you roll a D6 and modify it based on what happened that turn. The result moves your track up, down, or leaves it unchanged.
+
+**The biggest drivers:**
+
+- **Food and Water** — the single largest factor, positive or negative, depending on ration levels
+- **Wolf Boarding Parties** — each unit that landed on your ship costs you
+- **Damage** — every point of hull damage taken this turn hurts
+- **News Coverage** — Control will tell you how the News affected you, good _or_ bad
+
+Your ship mat has full info for the roll, the modifiers, and what happens if **riots** break out.
+
+<div class="callout important" markdown="1" data-label="DON'T HIT ZERO">
+If a ship's Morale Track reaches zero, the ship falls into anarchy. Control will come talk to you — **but you won't like it.**
+</div>
 
 ## The Fleet Needs to Trade
 
@@ -77,7 +96,7 @@ If a Station provides resources, go get them from the resource table. **You don'
 
 **Units** have a colored background. Units cannot Activate Stations — they are used to fight Wolf units. They also have other uses outlined in the game components and can be used for freeform actions.
 
-<div class="callout" markdown="1" data-label="NOT THE SAME">
+<div class="callout info" markdown="1" data-label="NOT THE SAME">
 **Units are not Crew** and cannot activate stations or perform other ship-station-related actions.
 
 **Crew are not Units** and cannot fend off boarding units or fight on foot.
