@@ -7,7 +7,7 @@ permalink: /about/for-players/
 
 # Megagame Survival Guide
 
-<div class="callout" markdown="1" data-label="New Here?">
+<div class="callout" markdown="1" data-label="WELCOME TO THE CHAOS">
 ### Don't Worry About "Doing It Right"
 There's no single correct way to play a megagame. Your task is to engage with the game world and have fun. That's it!
 
@@ -16,6 +16,9 @@ Megagames can be overwhelming at first. Take a breath, ask questions, and trust 
 
 ### Trust the Design
 The game is built so players need each other—what you have, someone needs; what you need, someone has. Talk to people, pursue your goals, and the game will reveal itself.
+
+### Play Those Cards. Now.
+If your role comes with special cards, tokens, or abilities, use them early and often. It's tempting to save them for the "perfect" moment—but that moment rarely comes, and you don't want to finish the game with resources you never touched.
 
 ### Make Friends
 You're going to be spending hours with these people. Introduce yourself, be friendly, and remember: everyone else is figuring it out too.
@@ -34,7 +37,7 @@ Things will go wrong. Plans will fall apart. Alliances will betray you. That's n
 - **Read Your Materials** – You'll typically receive your role and rules about a week before the game, but earlier if the game sells out earlier. Take time to read through everything—you don't need to memorize it all, but familiarity helps you hit the ground running.
 
 
-## What to Bring
+### What to Bring
 
 - **Yourself** – The most important component
 - **An open mind** – Be ready to adapt and improvise
@@ -43,12 +46,12 @@ Things will go wrong. Plans will fall apart. Alliances will betray you. That's n
 - **Any required materials** – We'll let you know if you need to bring anything specific
 
 
-## What to Leave at Home
+### What to Leave at Home
 - **Expectations of "winning"** – Megagames are about the journey, the story, and the connections you make
 - **Your phone** (figuratively) – While not banned, stay present in the game
 
 
-## What to Wear
+### What to Wear
 
 Costumes are highly encouraged at megagames to help with immersion and getting into character, but no matter what you wear, definitely... _definitely_ **wear comfortable shoes.**
 
@@ -71,9 +74,9 @@ If you _want_ to, however, we hope you will.
 
 - **Follow Your Role's Interests** - Megagames are designed so that what you need, someone else has—and what you have, someone else needs. You'll find natural allies and adversaries throughout the game. If you're not sure what to do next, pursue your role's goals and see what connections form.
 
-- **Use Your Cards** - If your role comes with special cards, tokens, or abilities, use them early and often. It's tempting to save them for the "perfect" moment—but that moment rarely comes, and you don't want to finish the game with resources you never touched. Play them when they make sense and let them shape the story.
+- **Be Creative** - Your briefing is a starting point, **not a ceiling.** Think about what someone in your role would actually do, and don't be afraid to pursue ideas that aren't explicitly listed in the rules. Gamerunners love it when players bring creative energy—if you have a wild idea that fits the world, ask if you can make it happen.
 
-- **Be Creative** - Your briefing is a starting point, not a ceiling. Think about what someone in your role would actually do, and don't be afraid to pursue ideas that aren't explicitly listed in the rules. Gamerunners love it when players bring creative energy—if you have a wild idea that fits the world, ask if you can make it happen.
+- **Be Flexible** - Plans will fall apart. Objectives will slip out of reach. **That's the game.** When it happens, take a breath, reassess, and find your next move. There is _always_ another option.
 
 - **Ask Questions** - Confused about a rule? Not sure what you should be doing? Find a gamerunner. We're here to help.
 
@@ -82,6 +85,14 @@ If you _want_ to, however, we hope you will.
 - **Stay in Bounds** - Respect the rules, the space, and other players. Review our [Safety Policy](/policies/safety-policy/) before attending.
 
 - **Have Fun** - Seriously. Succeed or fail, the goal is to create memorable stories together.
+
+<div class="callout info" markdown="1" data-label="ALL GOOD THINGS">
+**The game will end before you're ready.**
+
+Don't save anything for later. Use your abilities, spend your resources, take your shot. You'll only regret playing it safe.
+
+_So don't._
+</div>
 
 ## After the Game
 
@@ -94,7 +105,3 @@ If you _want_ to, however, we hope you will.
 - **Give Feedback** - We want to hear what worked and what didn't. Your feedback helps us improve future events. We'll circulate feedback forms at the end of the game.
 
 - **Stay Connected** - Join our social media channels, sign up for our email list, and mark your calendar for the next game.
-
-<div class="callout important" markdown="1" data-label="Bottom Line">
-When in doubt, ask questions. We're here to help you have a great time.
-</div>
