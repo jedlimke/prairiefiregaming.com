@@ -27,7 +27,9 @@ excerpt: "A cooperative megagame about survival under pressure. Humanity is on t
 
 Humanity is on the run.
 
-A catastrophic attack has left you with one warship and a handful of civilian vessels fleeing into deep space. The enemy—the "wolves"—are relentless, closing in from behind. Resources are scarce. Trust is scarcer. And somewhere among your crew... **there might be a traitor.**
+A catastrophic attack has left us with one warship and a handful of civilian vessels fleeing into deep space. The enemy—the "wolves"—are relentless, closing in from behind. Resources are scarce. Trust is scarcer.
+
+And somewhere within our desperate fleet... **there might be a traitor.**
 
 <div class="callout video" data-label="Actual Gameplay">
     <div class="dow-video-embed">

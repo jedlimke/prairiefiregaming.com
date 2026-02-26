@@ -242,6 +242,14 @@
 
 	.countdown-unit {
 		color: white;
+
+		@media screen and (min-width: 600px) {
+			font-size: 6rem;
+		}
+
+		@media screen and (min-width: 800px) {
+			font-size: 8rem;
+		}
 	}
 	.countdown-label {
 		color: black;
