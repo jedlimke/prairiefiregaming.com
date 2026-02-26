@@ -71,6 +71,10 @@ If you _want_ to, however, we hope you will.
 
 - **Follow Your Role's Interests** - Megagames are designed so that what you need, someone else has—and what you have, someone else needs. You'll find natural allies and adversaries throughout the game. If you're not sure what to do next, pursue your role's goals and see what connections form.
 
+- **Use Your Cards** - If your role comes with special cards, tokens, or abilities, use them early and often. It's tempting to save them for the "perfect" moment—but that moment rarely comes, and you don't want to finish the game with resources you never touched. Play them when they make sense and let them shape the story.
+
+- **Be Creative** - Your briefing is a starting point, not a ceiling. Think about what someone in your role would actually do, and don't be afraid to pursue ideas that aren't explicitly listed in the rules. Gamerunners love it when players bring creative energy—if you have a wild idea that fits the world, ask if you can make it happen.
+
 - **Ask Questions** - Confused about a rule? Not sure what you should be doing? Find a gamerunner. We're here to help.
 
 - **Take Breaks** - It's a long day. Use the bathroom, stretch your legs, grab a snack. The game will still be there when you get back. We'll structure some into the game periodically, too.

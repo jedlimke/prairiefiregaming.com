@@ -13,7 +13,7 @@ excerpt: "A cooperative megagame about survival under pressure. Humanity is on t
 {: .fancy-text}
 
 {::nomarkdown}
-{%- include countdown.html target="2026-03-07T09:00:00-06:00" -%}
+{%- include countdown.html target="2026-03-07T09:30:00-06:00" -%}
 {:/nomarkdown}
 
 {::nomarkdown}

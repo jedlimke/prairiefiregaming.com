@@ -2,10 +2,14 @@
 title: "Full Rules Handbook"
 link_title: "Full Rules Handbook"
 permalink: /rules/den-of-wolves-2026/rules-handbook/
-nav_order: 3
+nav_exclude: true
 ---
 
 # Rules Handbook
+
+<div class="callout info" markdown="1" data-label="FOR YOUR CONVENIENCE">
+A **hard copy** of this handbook will be available at every team/ship table.
+</div>
 
 ## Contents
 
@@ -59,7 +63,11 @@ The intent of this game is to create an approximate realistic simulation with an
 
 Megagames are huge, chaotic and confusing by nature. This will be the same for everyone, and a feeling of being slightly overwhelmed is completely normal. However, you can't go far wrong as long as you keep talking to people. Megagames are as much about communication and negotiation as they are about what you do with your resources and units. The game mechanisms are designed to facilitate this communication – however your activities are your own, and as such, the best way to engage with the game is to be proactive, and look for opportunities to talk to others.
 
-One other thing that is important to know is that in a megagame, unlike in many types of games, you are not the Hero of the Story. You are just one important part in a giant exercise in collective storytelling – with an emphasis on the 'collective'. Please keep this in mind, and resist the urge to do things that are disruptive or outrageous purely for the sake of ego. That generally doesn't end well, or make for an entertaining day for you or the other players.
+One other thing that is important to know is that in a megagame, unlike in many types of games, you are not the _Hero of the Story_. You are just one important part in a giant exercise in collective storytelling – with an emphasis on the 'collective'. Please keep this in mind, and resist the urge to do things that are disruptive or outrageous purely for the sake of ego. That generally doesn't end well, or make for an entertaining day for you or the other players.
+
+<div class="callout important" markdown="1" data-label="BOTTOM LINE">
+You're all in this together. **Act like it.**
+</div>
 
 ### Game Structure
 
@@ -74,17 +82,11 @@ When generating resources or creating new crew or units on ships, players are ex
 
 Some players have objectives that put them at odds with the fleet's survival or the interests of their fellow players. This is a feature of the game, not a bug — and it is disclosed to you now so it doesn't come as an unpleasant surprise.
 
-The honour system applies to *everyone* — traitors included. No player may physically cheat, move another player's components without permission, or otherwise break the rules. What a traitor *can* do is lie, deceive, and work against the fleet through legitimate in-game actions.
+**The honour system applies to everyone — traitors included.**
+
+No player may physically cheat, move another player's components without permission, or otherwise break the rules. What a traitor *can* do is lie, deceive, and work against the fleet through legitimate in-game actions.
 
 Any covert action a traitor wants to take should be run by Control quietly before being carried out. If something feels suspicious, bring it to Control — not to get anyone in trouble, but to make sure it's handled fairly.
-</div>
-
-<div class="callout definition" markdown="1" data-label="TERMINOLOGY">
-**Damaged** and **Wounded** are essentially the same thing; Squadron Units are Damaged, Crew and On-Foot Units are Wounded, both have similar status indicators as well as mechanics for being repaired/healed.
-
-**Turn** and **Round**  are somewhat interchangeable as well, but combat "rounds" have a specific meaning outlined in the section on [Combat](#combat).
-
-When in doubt about the interpretation of a rule, ask a member of Control.
 </div>
 
 ## Sequence of Action
@@ -93,7 +95,7 @@ The game will progress in a series of turns. Each turn will take approximately 3
 
 Each turn has two main parts:
 
-![Anatomy of a game turn](/assets/megagames/dow--turn-anatomy.svg)
+![Anatomy of a game turn](/assets/megagames/dow--rules--turn-anatomy.svg)
 
 ### 1. Action Phase *(18-20 minutes)*
 
@@ -147,28 +149,50 @@ There are a handful of smaller, specialist ships in the survivor fleet that have
 
 ### The Star Alpha
 
-The team on the *Star Alpha* is different to other teams, as it is based on the President's entourage rather than management of the ship (which is relatively tiny compared to the other ships in the fleet). This team has the President, the Vice President, the Chief of Staff, and the Parliamentarian. They represent the executive branch of the government.
+The team on the *Star Alpha* is different to other teams, as it is based on the President's entourage rather than management of the ship (which is relatively tiny compared to the other ships in the fleet).
+
+This team consists of:
+- President
+- Vice President
+- Chief of Staff
+- Parliamentarian
+
+They represent the executive branch of the government.
 
 ### The Aegis
 
-The *ICSS Aegis* is a massive military ship and as such it functions differently to the civilian ships of the fleet in a number of ways, including in its team make-up. The Admiral and XO (Executive Officer), function as captain and first officer, respectively. They also have a Comms Officer for communicating with the rest of the fleet, a Logistics Officer for managing the *Aegis*' requirements and a Commander - Air Group (CAG) who is responsible for all of the *Aegis*' Fighter squadrons. Finally, they have a Council Liaison who is able to speak on behalf of the Admiral at the Council, but does not have voting power.
+The *ICSS Aegis* is the fleet's only warship, and its team reflects that. Rather than a civilian crew, the *Aegis* is staffed by military command — and it functions differently from every other ship in the fleet.
+
+This team consists of:
+- Admiral *(functions as Captain)*
+- XO — Executive Officer *(functions as First Officer)*
+- CAG — Commander Air Group *(responsible for all Fighter Squadrons)*
+- Comms Officer
+- Logistics Officer
+- Council Liaison *(can speak at the Council on the Admiral's behalf, but does not hold a vote)*
 
 ### News Media
 
-The media are represented by a News Media team (acting as the Interstellar News Corporation). These players are representing the wider Interstellar news media elements within the fleet as a whole rather than individuals. As such they can move freely in order to gather as much news as possible, and do not have a specific location in the game like other players. The News Media team will put out a broadcast at the end of each turn. As well as the obvious effects of public praise or criticism, this broadcast can have a direct impact on morale.
+The media are represented by a News Media team (acting as the Interstellar News Corporation). These players are representing the wider Interstellar news media elements within the fleet as a whole rather than individuals. As such they can move freely in order to gather as much news as possible, and do not have a specific location in the game like other players.
 
-Note that (non-News Media) players are not allowed to make room-wide announcements – so the ability of the News Media team to broadcast to everyone in the room is significant. If you want to make a room wide announcement, you must work with the News Media team to do so.
+The News Media team will put out a broadcast at the end of each turn. As well as the obvious effects of public praise or criticism, **this broadcast can have a direct impact on morale.**
 
-<div class="callout info" markdown="1" data-label="WILDCARDS">
+<div class="callout info" markdown="1" data-label="THE FOURTH ESTATE">
+**Non-news-media players are not allowed to make room-wide announcements.**
+
+That means the ability of the News Media team to broadcast to everyone in the room is significant. If you want to make a room wide announcement, you must work with the News Media team to do so.
+</div>
+
+### Wildcards 
+
 In addition to all of the common roles within the game, a small number of players receive separate **wildcard briefings** and may generally move freely throughout the fleet. 
 
 **You'll know them when you meet them.**
-</div>
 
 
 ## Morale Tracks
 
-❌
+![The Morale Track](/assets/megagames/dow--rules--morale-track.svg)
 
 Each team has a Morale Track, which represents the happiness, health and stability of the crew and civilians on the ship.
 
@@ -191,7 +215,11 @@ Take the number rolled on the die and modify it based on these factors:
 | −6 | No Food/Water supplied this turn |
 | +/−? | News Coverage from INC (Control will tell you this immediately after each broadcast) |
 
-*(Note that Food and Water supplied are two separate modifiers — a ship on Low Food Rations and Critical Water Rations would take a combined −5 to their roll.)*
+<div class="callout" markdown="1" data-label="FOOD & WATER MODIFIERS">
+**Food and Water supplied are two separate modifiers.**
+
+For example, a ship on _Low Food Rations_ (-1) and _Critical Water Rations_ (-4) would add a combined −5 to their roll.
+</div>
 
 | Roll Result | Effect |
 |---|---|
@@ -217,11 +245,13 @@ Certain major events will affect 'Fleet Morale' as a whole, such as ships being 
 
 ## The Interstellar Council
 
-The Interstellar Council has 7 permanent members and 1 junior member. These include one representative from each of the 6 major interstellar powers – the FAS, the CPA, the SAN, Rosal, Proxima and Gliese – and the Parliamentarian (nominally under the jurisdiction of The President). The Helvetii Diplomat sits with the Council but does not start the game with voting power. This is an issue that their Diplomat would like addressed sooner rather than later.
+The Interstellar Council has 7 permanent members and 1 junior member. These include one representative from each of the 6 major interstellar powers – the FAS, the CPA, the SAN, Rosal, Proxima and Gliese – and the Parliamentarian (nominally under the jurisdiction of The President).
 
-As the civilian government, the council can make, amend and repeal laws for the survivor fleet. These laws are official and legally binding for everyone in the fleet – though of course players have the choice to go against the law. If it is necessary to enforce these laws then how this is done is up to the players (most likely the President and Vice President). The council can also choose to be responsible for making certain major decisions or to debate important topics not related specifically to law-making.
+The Helvetii Diplomat sits with the Council but does not start the game with voting power. This is an issue that their Diplomat would like addressed sooner rather than later.
 
-The President and Vice President serve as the executive branch for the implementation and arbitration of laws. The military, and by extension the Admiral and all those serving aboard the *ICSS Aegis* and *ICSS Javelin*, are legally bound to follow the instruction of the President. As the President is not above the law, they are expected to act as directed by the Council and the laws. However, in extreme and urgent circumstances, where it is deemed reasonable that there would not be time to consult the Council for a decision, the President can give orders directly to the admiral. Improper usage of this power may result in serious legal charges.
+As the civilian government, the Council can make, amend and repeal laws for the survivor fleet. These laws are official and legally binding for everyone in the fleet – though of course players have the choice to go against the law. If it is necessary to enforce these laws then how this is done is up to the players (most likely the President and Vice President). The Council can also choose to be responsible for making certain major decisions or to debate important topics not related specifically to law-making.
+
+The President and Vice President serve as the executive branch for the implementation and arbitration of laws. The military, and by extension the Admiral and all those serving aboard the *ICSS Aegis* and *ICSS Javelin*, are legally bound to follow the instruction of the President. As the President is not above the law, they are expected to act as directed by the Council and the laws. However, in extreme and urgent circumstances, where it is deemed reasonable that there would not be time to consult the Council for a decision, the President can give orders directly to the Admiral. Improper usage of this power may result in serious legal charges.
 
 ### Council Rules
 
@@ -229,6 +259,7 @@ The Parliamentarian is responsible for writing legislation and is also a voting 
 
 Once a Law is passed and signed, it will be posted near the Council table for public review. Afterwards, the Law should be enforced by the relevant parties. If not otherwise specified, Laws are enforced by the President, Vice President, and Chief of Staff. If Laws go unenforced, the citizens of the fleet will begin to think there is no rule of law, which will hurt Morale.
 
+<div class="callout" markdown="1" data-label="ACCOUNTABILITY">
 Any type of legislation may be passed, but keep in the mind the following:
 
 **Legislation should be enforceable.**
@@ -236,6 +267,7 @@ If laws are passed that cannot be enforced, it will negatively affect Morale. Fo
 
 **The Council should make sure their laws are followed.**
 If laws are passed that are not enforced, it will negatively affect Morale rolls. For example: "The Captain of the *Dione* will be detained in the Brig on suspicion of being a Wolf." is excellent legislation. However, if nobody arrests the Captain and detains them, then the public will begin to doubt the government's control.
+</div>
 
 While Council members cannot write legislation on their own, once per game each Council member can call for a vote of "no confidence" against the Parliamentarian. If there is a majority, the Parliamentarian is stripped of their office to become a regular Council member, and no further legislation may be proposed until a new Parliamentarian is elected. All Council members are considered to be a candidate for the new Parliamentarian, and a simple plurality is required (the candidate who received the most votes, not necessarily a majority) to become the new Parliamentarian. Council members can also call for a "Snap Election" of a new President. It requires a 5/7ths vote, and can only happen once per game. Unlike other elections, all players are allowed to vote for President from among the current Council members, and a simple plurality wins. The new President then names a new Vice President.
 
@@ -243,7 +275,7 @@ Control will adjudicate any role changes that occur due to an election.
 
 Under the normal timetable of the Council, there would not be an election for another two and a half years - well after the time frame of the game. However, the situation the survivor fleet finds itself in is not normal circumstances. The vast majority of the Council (including the president) are recent appointees, with the current Council having been set up in a hurry to meet the needs of the crisis. Things are certainly more flexible in the survivor fleet than they were before The Attack. Though players should keep in mind that any sudden or radical political changes risk exacerbating an already difficult situation.
 
-The Council meets in closed session and only the News Media may be present during deliberation. Other players may be present with the permission of the Council. Only the 8 Council members may actually speak at the Council unless given permission by the Council. Players are free to ask questions of the Council members after the meeting has officially ended.
+The Council meets in closed session and only the News Media may be present during deliberation. Other players may be present with the permission of the Council. Only the Council members may actually speak at the Council unless given permission by the Council. Players are free to ask questions of the Council members after the meeting has officially ended.
 
 ### Council Player Abilities
 
@@ -269,35 +301,61 @@ The leader of the legislative branch. Their duty is to maintain control of the C
 
 Resources must be kept in the Storage Hold of a ship, or on a Shuttle – unless specified otherwise, players cannot hold resources on their person (e.g. keeping them in pockets). Depending on the group running the game, these resources may be represented by different components. Game Control will be sure to make it clear what is what.
 
-❌
-
 ### Strytium Ore
 
-Strytium Ore has no practical use on its own, but can be refined into the highly valuable Strytium Fuel. Strytium Ore is represented by red cubes or crystals.
-
-❌
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--strytium-ore.png" alt="Strytium Ore" class="ship--strytium-ore">
+<div class="fleet-content">
+<p>Strytium Ore has no practical use on its own, but can be refined into the highly valuable Strytium Fuel. Strytium Ore is represented by red cubes or crystals.</p>
+</div>
+</div>
 
 ### Strytium Fuel
 
-Strytium fuel is the fuel used in almost all starship FTL drives. It contains a massive amount of chemical energy. A ship will be unable to perform a standard FTL jump if it does not have enough Strytium Fuel for it (though there are other options). Strytium Fuel is represented by red counters or chips.
-
-❌
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--strytium-fuel.png" alt="Strytium Fuel" class="ship--strytium-fuel">
+<div class="fleet-content">
+<p>Strytium fuel is the fuel used in almost all starship FTL drives. It contains a massive amount of chemical energy. A ship will be unable to perform a standard FTL jump if it does not have enough Strytium Fuel for it (though there are other options). Strytium Fuel is represented by red counters or chips.</p>
+</div>
+</div>
 
 ### Food
 
-Food is an essential resource for survival. As such, most larger starships were designed with the capability to grow enough food to sustain their own crew. Unfortunately for the survivor fleet, most of of its ships cannot survive on the food and water they alone produce, as almost all of the ships in the fleet are over their intended passenger capacity after picking up survivors in smaller ships that had to be abandoned. Food is represented by green counters or chips.
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--food.png" alt="Food" class="ship--food">
+<div class="fleet-content">
+<p>Food is an essential resource for survival. As such, most larger starships were designed with the capability to grow enough food to sustain their own crew. Unfortunately for the survivor fleet, most of the fleet's ships cannot survive on the food and water they alone produce, as almost all ships are over their intended passenger capacity after picking up survivors from smaller abandoned vessels. Food is represented by green counters or chips.</p>
+</div>
+</div>
 
 ### Water
 
-❌
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--water.png" alt="Water" class="ship--water">
+<div class="fleet-content">
+<p>Water isn't just necessary for drinking, but is also required for basic hygiene – showering, washing and cleaning. The less a ship has, the worse the morale situation becomes. Water is also necessary for the production of food, making it all the more critical to ensure that there's enough water to go round. Water is represented by blue counters or chips.</p>
+</div>
+</div>
 
-Water isn't just necessary for drinking, but is also required for basic hygiene – showering, washing and cleaning. The less a ship has, the worse the morale situation becomes. Water is also necessary for the production of food, making it all the more critical to ensure that there's enough water to go round. Water is represented by blue counters or chips.
+### Materials
+
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--materials.png" alt="Materials" class="ship--materials">
+<div class="fleet-content">
+<p>High quality materials, including (but not limited to), high-end building materials, rare metals, and high-tech components, are frequently in demand in the survivor fleet. As well as being necessary for most ship repairs, they are required to build new fighters, and for any advanced scientific and engineering projects within the fleet. Materials are represented by yellow counters or chips.</p>
+</div>
+</div>
+
+### Science
+
+<div class="fleet-vessel fleet-vessel-right">
+<img src="/assets/megagames/dow--rules--science.png" alt="Science" class="ship--science">
+<div class="fleet-content">
+<p>Represents accumulated observations or specimens, recorded or researched by trained scientists. Required for paying for Science Projects by the Endeavour and Baltar science ship/s. Science is represented by purple counters or chips.</p>
+</div>
+</div>
 
 ### Squadrons
-
-❌
-
-❌
 
 ❌
 
@@ -306,8 +364,15 @@ There are two types of Squadron – Space Fighter Squadrons and Boarding Squadro
 ### On-Foot Units
 
 ❌
+❌
 
-There are many reasons why combat is seen on the decks within a starship, and so all military starships have some number of marines onboard. On civilian ships, especially larger ones or those that perform longer voyages, private security is common. Marines, private security, and boarding parties are all considered to be the same "type" of unit for rules purposes. Units are not Crew and vice versa.
+There are many reasons why combat is seen on the decks within a starship, and so all military starships have some number of marines onboard. On civilian ships, especially larger ones or those that perform longer voyages, private security is common. Marines, private security, and boarding parties are all considered to be the same "type" of unit for rules purposes.
+
+<div class="callout important" markdown="1" data-label="IMPORTANT">
+**Units are not Crew.** As such, Units cannot activate stations or perform other station-related actions.
+
+**Crew are not Units.** As such, Crew cannot fend off [Wolf Boarding] Units or fight hand-to-hand.
+</div>
 
 ### Crew
 
@@ -315,10 +380,10 @@ There are many reasons why combat is seen on the decks within a starship, and so
 
 In the survivor fleet, everyone is pitching in to keep the fleet going. Crew are needed to operate the stations in all ships. Crew can be moved between ships (using Shuttles), but only if they are not in a 'used' state (face down) and if it is allowed explicitly by the ship's captain (or current commander). Crew counters must always be placed on a specific station on a ship (they cannot be held on a player's person, or just left on the table in no specific location). For more information on Crew, see the [Stations and Crew](#stations-and-crew) section.
 
-❌
 
 ### Trained Crew
 
+❌
 Some stations and other game effects require crew with specific training to operate them. This training can be provided by certain ships using action cards. When a crew counter has been successfully trained, the counter is replaced by a new crew counter that bears a symbol related to the specialty of their training.
 
 Trained crew can operate stations that are normally operated by untrained crew.
@@ -476,6 +541,14 @@ Each Wolf round, each Boarding unit deals 1 damage to the ship they are on. You 
 ❌
 
 ## Combat
+
+<div class="callout definition" markdown="1" data-label="TERMINOLOGY">
+**Damaged** and **Wounded** are essentially the same thing; Squadron Units are Damaged, Crew and On-Foot Units are Wounded. Both have similar status indicators and mechanics for being repaired/healed.
+
+**Turn** and **Round** are somewhat interchangeable, but combat "rounds" have a specific meaning within this section.
+
+When in doubt about the interpretation of a rule, ask a member of Control.
+</div>
 
 <div class="callout important" markdown="1" data-label="Important">
 **Damaged Units** can still fight, but damaged Crew cannot be used until they are healed at a Sickbay or through other means.
