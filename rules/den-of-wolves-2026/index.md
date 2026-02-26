@@ -5,11 +5,11 @@ permalink: /rules/den-of-wolves-2026/
 nav_order: 0
 ---
 
+{::nomarkdown}
+{%- include countdown.html target="2026-03-07T09:30:00-06:00" caption="UNTIL GAMETIME" -%}
+{:/nomarkdown}
+
 # Overview
-
-We are **so happy you're here!**
-
-Thank you again for signing up to play Den of Wolves! It's gonna be a great time.
 
 ## Your ToDo List
 
@@ -28,7 +28,7 @@ We've got a few things we need from you before the game on Saturday, March 7th:
 West Acres, 3902 13th Ave S, Unit 3717, Fargo, ND 58103  
 Doors open at 9:00 AM · Game starts at 9:30 AM
 
-![Map showing event location at West Acres](/assets/megagames/dow--west-acres-event-location.png)
+[![Map showing event location at West Acres](/assets/megagames/dow--west-acres-event-location.png)](https://maps.app.goo.gl/EfF7ceQy6bKqN1Xu9){:target="_blank"}
 
 {::nomarkdown}
 {% include add-to-calendar.html 
