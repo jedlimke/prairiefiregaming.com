@@ -629,7 +629,14 @@ table {
 		--callout-color: var(--brand-blue);
 
 		color: var(--callout-color);
-		border-color: var(--callout-color);
+		border-color: var(--callout-color);	
+
+		&.link-out {
+			background-image: url('/assets/link-out-background.svg');
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: right 5% center;
+		}
 	}
 	
 	// CTA (green) - call to action, get involved
