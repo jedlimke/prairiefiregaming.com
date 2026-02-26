@@ -635,7 +635,12 @@ table {
 			background-image: url('/assets/link-out-background.svg');
 			background-size: contain;
 			background-repeat: no-repeat;
-			background-position: right 5% center;
+			background-position: right max(5%, calc(var(--spacing-unit) / 2)) center;
+			padding-right: 40%;
+		
+			@media screen and (max-width: 600px) {
+				padding-right: 30%;
+			}
 		}
 	}
 	

@@ -53,6 +53,8 @@ Complete the pre-game casting survey **ASAP**.
 
 ### 4. Get a Jump Start on the Game
 
-<a class="callout important" markdown="1" data-label="IMPORTANT" href="/rules/den-of-wolves-2026/">
-Read the rules primer, download the full rules handbook, and consume some of that sweet, sweet Den of Wolves lore.
+Read the rules primer, download the full rules handbook, and consume some of that sweet, sweet _Den of Wolves_ lore before gameday. Knowing which way is up will help you navigate the game world and make sure you're ready to roll.
+
+<a class="callout info link-out" markdown="1" data-label="LET'S DO THIS" href="/rules/den-of-wolves-2026/">
+Jump start your experience now!
 </a>
