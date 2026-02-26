@@ -43,7 +43,7 @@
 
 .countdown-digit {
 	display: inline-block;
-	animation: countdown-tick 100ms ease-out both;
+	animation: countdown-tick 95ms ease-out both;
 
 	@media (prefers-reduced-motion: reduce) {
 		animation: none;
