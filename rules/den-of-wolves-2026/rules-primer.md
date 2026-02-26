@@ -25,14 +25,16 @@ Resources and units are tracked on the honor system. When a station produces foo
 
 That being said, **don't cheat.**
 
-Don't move another player or ship's components without permission. Don't snoop or move stuff around that doesn't belong to you.
+Don't move another player or ship's components without permission. Don't snoop or move stuff around that doesn't belong to you. Don't sneak extra resources, fudge die rolls, or stack the deck.
 
 There's no winning or losing in a megagame. Cheating just makes it less interesting for everyone, including yourself.
 
 Furthermore, if something feels suspicious, bring it to Control — not to get anyone in trouble, but to make sure it's handled fairly.
 
-<div class="callout important" markdown="1" data-label="HONOR AMONG THIEVES">
+<div class="callout" markdown="1" data-label="HONOR AMONG THIEVES">
 **The honor system applies to everyone — traitors included.**
+
+A traitor is a traitor _narratively_, not _mechanically._
 
 What a traitor *can* do is lie, deceive, and work against the fleet through legitimate in-game actions. Furthermore, any covert action a traitor wants to take should be run by Control quietly before being carried out.
 </div>
@@ -49,7 +51,26 @@ There is a timer at the front of the room and Control will make announcements wh
 
 **Action Phase** — roughly 20 minutes — You're free to move yourself around the room to talk to other players or Control, but you must be carrying a Shuttle in order to bring resources or units with you. Activate Stations on your ship using Crew and gather resources (explained on this sheet). Council members should be at the Council table within the first few minutes of this phase.
 
-**Team Phase** — roughly 10 minutes — You should be at your ship's table checking in with your teammates and discussing your plans and what happened last turn. The News will make an announcement and afterwards you'll do a morale roll for your ship (explained on your ship mat).
+**Team Phase** — roughly 10 minutes — You **must** return to your ship's table to check in with your teammates, discuss your plans, and review what happened last turn. The News will make an announcement and afterwards you'll do a morale roll for your ship.
+
+## Morale
+
+![The Morale Track](/assets/megagames/dow--rules--morale-track.svg)
+
+Each ship has a Morale Track on its ship mat. During the Team Phase — after the news broadcast — you roll a D6 and modify it based on what happened that turn. The result moves your track up, down, or leaves it unchanged.
+
+**The biggest drivers:**
+
+- **Food and Water** — the single largest factor, positive or negative, depending on ration levels
+- **Wolf Boarding Parties** — each unit that landed on your ship costs you
+- **Damage** — every point of hull damage taken this turn hurts
+- **News Coverage** — Control will tell you how the News affected you, good _or_ bad
+
+Your ship mat has full info for the roll, the modifiers, and what happens if **riots** break out.
+
+<div class="callout important" markdown="1" data-label="DON'T HIT ZERO">
+If a ship's Morale Track reaches zero, the ship falls into anarchy. Control will come talk to you — **but you won't like it.**
+</div>
 
 ## The Fleet Needs to Trade
 
@@ -85,7 +106,7 @@ When Crew are used, they're turned **face down**. Face-down Crew cannot be activ
 
 ## Wolf Attacks
 
-Control will announce if a Wolf Attack happens. When you hear the announcement, you must immediately sit down at the **CLOSEST** ship table. Some players will be moving around during this time, you will know if you're able to move or not based on what role you're assigned to.
+Control will announce if a Wolf Attack happens. When you hear the announcement, you must immediately sit down at the **CLOSEST** ship table. Some players will be moving around during this time — you'll know if you're able to move or not based on what role you're assigned to.
 
 **Boarding damage is unavoidable once a Boarding Squadron lands.** The only way to prevent it is to destroy the Boarding Squadron first, using Fighter Squadrons or Weapon Batteries. Your marines do not get a free first swing.
 
@@ -93,15 +114,15 @@ Control will announce if a Wolf Attack happens. When you hear the announcement, 
 
 Refer to the Combat Cheat Sheet for instructions on how to resolve combat if needed.
 
-<div class="callout important" markdown="1" data-label="Important">
-**Damaged Units** can still fight, but damaged Crew cannot be used until they are healed at a Sickbay or through other means.
+<div class="callout info" markdown="1" data-label="BUILT DIFFERENT">
+**Damaged Units** can still fight, but **damaged Crew** cannot be used until they are healed at a Sickbay or through other means.
 </div>
 
 ## Jumps
 
 Any ship may do a FTL jump at any time, including during combat (after the Wolves attack once). Jumps are explained on your ship mat.
 
-<div class="callout important" markdown="1" data-label="Jump Drive">
+<div class="callout important" markdown="1" data-label="JUMP INTO ACTION">
 **To jump at any point during a turn, a Crew (of any type) must be placed on the Jump Drive and turned face-down at the very start of that turn — before any other action takes place.**
 
 If no crew is committed to the Jump Drive at the start of the turn, the ship *cannot* jump that turn, even in an emergency. This catches teams off guard more often than almost any other rule. If there is any chance the fleet might jump this turn, commit the crew at the start.
