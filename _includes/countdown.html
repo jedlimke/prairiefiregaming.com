@@ -2,15 +2,15 @@
   Countdown timer component.
 
   Required:
-    target          — ISO 8601 date/time string, e.g. "2026-03-07T09:00:00-06:00"
+    target          — ISO 8601 date/time string, e.g. "2026-03-07T09:30:00-06:00"
 
   Optional:
     gameday_message — text shown when target is reached (default: "GAMEDAY IS TODAY")
     caption         — small label shown below the digits; omit to show nothing
 
   Usage:
-    {%- include countdown.html target="2026-03-07T09:00:00-06:00" -%}
-    {%- include countdown.html target="2026-03-07T09:00:00-06:00" caption="UNTIL THE MEGAGAME" -%}
+    {%- include countdown.html target="2026-03-07T09:30:00-06:00" -%}
+    {%- include countdown.html target="2026-03-07T09:30:00-06:00" caption="UNTIL THE MEGAGAME" -%}
 {% endcomment %}
 
 <div class="countdown"

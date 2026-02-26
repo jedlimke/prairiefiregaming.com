@@ -9,7 +9,7 @@ permalink: /megagames/den-of-wolves-2026/thank-you/
 {: .fancy-text}
 
 {::nomarkdown}
-{%- include countdown.html target="2026-03-07T09:00:00-06:00" caption="...UNTIL THE MEGAGAME" -%}
+{%- include countdown.html target="2026-03-07T09:30:00-06:00" caption="UNTIL GAMETIME" -%}
 {:/nomarkdown}
 
 **Thank you for registering for Den of Wolves: Infinite Domain!**

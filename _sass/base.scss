@@ -584,8 +584,8 @@ table {
 		display: block;
 		
 		&:hover {
-			transform: translateX(0.5em);
-			background-position: right 10% center;
+			transform: translateX(0.5em) !important;
+			background-position: right 10% center !important;
 		}
 		
 		// Safari fallback
