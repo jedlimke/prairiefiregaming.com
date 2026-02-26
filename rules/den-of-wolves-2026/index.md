@@ -15,7 +15,7 @@ Thank you again for signing up to play Den of Wolves! It's gonna be a great time
 
 We've got a few things we need from you before the game on Saturday, March 7th:
 
-1. If you haven't done so already, fill out the [pre-game casting survey](https://docs.google.com/forms/d/1SUsCjyXTrlmdbVzFcHvWyB8tdYZuerfZqmnuvBLetHc/) ASAP so we can assign roles and get you in touch with your shipmates.
+1. If you haven't done so already, fill out the [pre-game casting survey ↗](https://docs.google.com/forms/d/1SUsCjyXTrlmdbVzFcHvWyB8tdYZuerfZqmnuvBLetHc/) ASAP so we can assign roles and get you in touch with your shipmates.
 2. Read the [rules primer](rules-primer).
 3. Read the [background guide](background-guide) to learn about the game universe, its history, and how you fit in.
 4. If you're feeling ambitious, read the [full rules handbook](rules-handbook).

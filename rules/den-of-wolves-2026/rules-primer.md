@@ -21,7 +21,7 @@ The hallmark of Megagames. If you have an idea of something you think you'd be a
 
 There is a timer at the front of the room and Control will make announcements when phases change.
 
-![Anatomy of a game turn](/assets/megagames/dow--turn-anatomy.svg)
+![Anatomy of a game turn](/assets/megagames/dow--rules--turn-anatomy.svg)
 
 **Action Phase** — roughly 20 minutes — You're free to move yourself around the room to talk to other players or Control, but you must be carrying a Shuttle in order to bring resources or units with you. Activate Stations on your ship using Crew and gather resources (explained on this sheet). Council members should be at the Council table within the first few minutes of this phase.
 
