@@ -3,9 +3,42 @@
     return String(n).padStart(2, '0');
   }
 
+  function makeDigit(char) {
+    var span = document.createElement('span');
+    span.className = 'countdown-digit';
+    span.textContent = char;
+    return span;
+  }
+
   function initCountdown(el) {
     var target  = new Date(el.dataset.target);
     var message = el.dataset.gamedayMessage || 'GAMEDAY IS TODAY';
+    var labels  = ['Days', 'Hours', 'Minutes', 'Seconds'];
+
+    // Build the full DOM structure once — labels never get touched again
+    var unitEls  = [];   // the 4 .countdown-unit spans
+    var digitEls = [];   // [4][2] — tens and units digit node for each unit
+    var prev     = [[-1, -1], [-1, -1], [-1, -1], [-1, -1]];
+
+    for (var i = 0; i < 4; i++) {
+      var unitSpan  = document.createElement('span');
+      unitSpan.className = 'countdown-unit';
+
+      var tensSpan  = makeDigit('0');
+      var unitsSpan = makeDigit('0');
+
+      var labelSpan = document.createElement('span');
+      labelSpan.className = 'countdown-label';
+      labelSpan.textContent = labels[i];
+
+      unitSpan.appendChild(tensSpan);
+      unitSpan.appendChild(unitsSpan);
+      unitSpan.appendChild(labelSpan);
+      el.appendChild(unitSpan);
+
+      unitEls.push(unitSpan);
+      digitEls.push([tensSpan, unitsSpan]);
+    }
 
     function tick() {
       var diff = target - new Date();
@@ -15,17 +48,33 @@
         return;
       }
 
-      var total   = Math.floor(diff / 1000);
-      var days    = Math.floor(total / 86400);
-      var hours   = Math.floor((total % 86400) / 3600);
-      var minutes = Math.floor((total % 3600) / 60);
-      var seconds = total % 60;
+      var total = Math.floor(diff / 1000);
+      var vals  = [
+        Math.floor(total / 86400),
+        Math.floor((total % 86400) / 3600),
+        Math.floor((total % 3600) / 60),
+        total % 60
+      ];
 
-      el.innerHTML =
-        '<span class="countdown-unit">' + pad(days)    + '<span class="countdown-label">Days</span></span>' +
-        '<span class="countdown-unit">' + pad(hours)   + '<span class="countdown-label">Hours</span></span>' +
-        '<span class="countdown-unit">' + pad(minutes) + '<span class="countdown-label">Minutes</span></span>' +
-        '<span class="countdown-unit">' + pad(seconds) + '<span class="countdown-label">Seconds</span></span>';
+      for (var i = 0; i < 4; i++) {
+        var padded = pad(vals[i]);
+
+        // Tens digit
+        if (padded[0] !== prev[i][0]) {
+          var newTens = makeDigit(padded[0]);
+          unitEls[i].replaceChild(newTens, digitEls[i][0]);
+          digitEls[i][0] = newTens;
+          prev[i][0] = padded[0];
+        }
+
+        // Units digit
+        if (padded[1] !== prev[i][1]) {
+          var newUnits = makeDigit(padded[1]);
+          unitEls[i].replaceChild(newUnits, digitEls[i][1]);
+          digitEls[i][1] = newUnits;
+          prev[i][1] = padded[1];
+        }
+      }
 
       setTimeout(tick, 1000);
     }
