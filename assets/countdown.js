@@ -21,22 +21,26 @@
     var prev     = [[-1, -1], [-1, -1], [-1, -1], [-1, -1]];
 
     for (var i = 0; i < 4; i++) {
-      var unitSpan  = document.createElement('span');
+      var unitSpan    = document.createElement('span');
       unitSpan.className = 'countdown-unit';
 
-      var tensSpan  = makeDigit('0');
-      var unitsSpan = makeDigit('0');
+      var digitsWrap  = document.createElement('span');
+      digitsWrap.className = 'countdown-digits';
 
-      var labelSpan = document.createElement('span');
+      var tensSpan    = makeDigit('0');
+      var unitsSpan   = makeDigit('0');
+
+      var labelSpan   = document.createElement('span');
       labelSpan.className = 'countdown-label';
       labelSpan.textContent = labels[i];
 
-      unitSpan.appendChild(tensSpan);
-      unitSpan.appendChild(unitsSpan);
+      digitsWrap.appendChild(tensSpan);
+      digitsWrap.appendChild(unitsSpan);
+      unitSpan.appendChild(digitsWrap);
       unitSpan.appendChild(labelSpan);
       el.appendChild(unitSpan);
 
-      unitEls.push(unitSpan);
+      unitEls.push(digitsWrap);       // replaceChild targets the wrapper
       digitEls.push([tensSpan, unitsSpan]);
     }
 
