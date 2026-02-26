@@ -11,6 +11,10 @@
 	font-variant-numeric: tabular-nums;
 }
 
+.countdown + .event-meta {
+	margin-top: unset;
+}
+
 .countdown-sep {
 	display: none;
 }
@@ -20,27 +24,49 @@
 	flex-direction: column;
 	align-items: center;
 	gap: 4px;
-	font-size: 4rem;
+	font-size: 3rem;
 	line-height: 1;
 	color: var(--brand-yellow);
 
 	@media screen and (min-width: 600px) {
-		font-size: 5rem;
+		font-size: 4rem;
 	}
 
 	@media screen and (min-width: 800px) {
-		font-size: 6rem;
+		font-size: 5rem;
+	}
+}
+
+.countdown-digits {
+	display: block;
+}
+
+.countdown-digit {
+	display: inline-block;
+	animation: countdown-tick 95ms ease-out both;
+
+	@media (prefers-reduced-motion: reduce) {
+		animation: none;
+	}
+}
+
+@keyframes countdown-tick {
+	from {
+		transform: rotateX(45deg);
+	}
+	to {
+		transform: rotateX(0deg);
 	}
 }
 
 .countdown-label {
-	font-size: 0.65rem;
+	font-size: 0.6rem;
 	letter-spacing: 0.12em;
 	text-transform: uppercase;
 	color: var(--text-muted);
 
 	@media screen and (min-width: 600px) {
-		font-size: 0.75rem;
+		font-size: 0.8rem;
 	}
 }
 
