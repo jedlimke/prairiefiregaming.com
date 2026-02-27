@@ -11,7 +11,7 @@ roles:
   - name: Admiral
     team: Aegis
     logo-path: ""
-    brief: |
+    role-brief: |
       You command the ICSS Aegis - the fleet's sole battleship and the backbone
       of its military power. Your job is high-level: strategic decisions, key
       diplomacy, and close liaison with the President. You control the ship's
@@ -23,7 +23,7 @@ roles:
   - name: XO
     team: Aegis
     logo-path: ""
-    brief: |
+    role-brief: |
       Second-in-command of the Aegis. You have direct control of the ship's
       Marine squads and are functionally captain whenever the Admiral is away
       (which is often). During Wolf attacks you coordinate Marine deployment
@@ -33,7 +33,7 @@ roles:
   - name: FWCO
     team: Aegis
     logo-path: ""
-    brief: |
+    role-brief: |
       Fighter Wing Commander/Officer - you control the Aegis' nine fighter
       squadrons. You manage pilot assignments, positioning, and maintenance
       between engagements, and you personally direct the fighters during Wolf
@@ -43,7 +43,7 @@ roles:
   - name: Comms Officer
     team: Aegis
     logo-path: ""
-    brief: |
+    role-brief: |
       You are the Aegis' ears and voice across the fleet - gathering
       intelligence for the Admiral and pushing critical information out to
       other ships. You are third-in-command if the Admiral and XO are both
@@ -53,7 +53,7 @@ roles:
   - name: Logs Officer
     team: Aegis
     logo-path: ""
-    brief: |
+    role-brief: |
       Logistics Officer - responsible for keeping the Aegis stocked with food,
       water, fuel, and materials. You also oversee the ship's transport
       shuttles (though you can delegate that). You can play a wider role by
@@ -63,7 +63,7 @@ roles:
   - name: Council Liaison
     team: Aegis
     logo-path: ""
-    brief: |
+    role-brief: |
       You are the Admiral's authorized voice in the Interstellar Council
       chambers - you may speak but cannot vote. Your job is a two-way street:
       represent Aegis interests in political discussions, and keep the crew
@@ -77,7 +77,7 @@ roles:
   - name: President
     team: Star Alpha
     logo-path: ""
-    brief: |
+    role-brief: |
       You are humanity's head of state - the last in line of succession after
       the Attack. You lead the Interstellar Council, sign laws passed by it,
       and serve as Commander in Chief of the military (meaning the Admiral
@@ -88,7 +88,7 @@ roles:
   - name: Vice President
     team: Star Alpha
     logo-path: ""
-    brief: |
+    role-brief: |
       The President's eyes and ears across the fleet. Your job is to get out
       of the Star Alpha and into the room - talking to ships, taking the
       temperature of the nations, staying tight with the Admiral. You cast
@@ -98,7 +98,7 @@ roles:
   - name: Chief of Staff
     team: Star Alpha
     logo-path: ""
-    brief: |
+    role-brief: |
       You run the Star Alpha's day-to-day operations: food, water, fuel,
       materials, and security. You also support the President and VP on law
       enforcement matters when needed. The administrative engine of the
@@ -108,7 +108,7 @@ roles:
   - name: Parliamentarian
     team: Star Alpha
     logo-path: ""
-    brief: |
+    role-brief: |
       You draft the language of proposed laws and bring them before the
       Council to vote on. You are yourself a voting member of the Council.
       In a fleet with no surviving legal infrastructure, the precision of
@@ -122,7 +122,7 @@ roles:
   - name: Captain
     team: Dione
     logo-path: ""
-    brief: |
+    role-brief: |
       You command the largest civilian vessel in the fleet and the home of
       the Interstellar Council. The Dione carries ~10,000 FAS citizens and
       produces almost nothing - your ship needs the rest of the fleet to
@@ -133,7 +133,7 @@ roles:
   - name: First Officer
     team: Dione
     logo-path: ""
-    brief: |
+    role-brief: |
       Second-in-command of the Dione. You take the helm when the Captain is
       away. During Wolf attacks you must report to the Fleet Map to direct
       the Dione's two fighter squadrons. Keep the ship running and the
@@ -142,7 +142,7 @@ roles:
   - name: Chief Engineer
     team: Dione
     logo-path: ""
-    brief: |
+    role-brief: |
       You keep the Dione's considerable systems running. A ship of this size
       and civilian population demands constant attention. Coordinate with
       other engineers in the fleet to share knowledge and fill gaps in
@@ -151,7 +151,7 @@ roles:
   - name: Council Member
     team: Dione
     logo-path: ""
-    brief: |
+    role-brief: |
       FAS representative on the Interstellar Council. You vote on all
       legislation. Defend Old Nation interests, keep Rosal in check, and
       maintain the coalition with the CPA and SAN. The Council is physically
@@ -165,7 +165,7 @@ roles:
   - name: Captain
     team: Shepherd
     logo-path: ""
-    brief: |
+    role-brief: |
       You command the ship that feeds the fleet. Without the Shepherd's food
       production, people starve - and you know it. Use that leverage firmly
       but wisely. You represent Rosal's proud tradition of self-determination
@@ -175,7 +175,7 @@ roles:
   - name: First Officer
     team: Shepherd
     logo-path: ""
-    brief: |
+    role-brief: |
       Second-in-command of the Shepherd. Keep ship operations running
       smoothly when the Captain is in Council or off-ship. Support food
       production and security, and reinforce Rosal's values in every
@@ -184,7 +184,7 @@ roles:
   - name: Chief Engineer
     team: Shepherd
     logo-path: ""
-    brief: |
+    role-brief: |
       You maintain the Shepherd's food production systems - the biological
       and mechanical infrastructure that literally keeps the fleet fed.
       Breakdowns here are fleet emergencies. Coordinate with other engineers
@@ -193,7 +193,7 @@ roles:
   - name: Council Member
     team: Shepherd
     logo-path: ""
-    brief: |
+    role-brief: |
       Rosal representative on the Interstellar Council. You vote on
       legislation and advocate loudly for New Nation rights. You may spend
       the Team Phase at either the Shepherd or the Endeavour. Push back
@@ -206,7 +206,7 @@ roles:
   - name: Captain
     team: Lucas
     logo-path: ""
-    brief: |
+    role-brief: |
       You command the fleet's main water supplier. The Lucas' distillation
       units provide most of the fleet's fresh water - an existential
       resource. Protect the ship and shuttle at all costs. SAN's reputation
@@ -215,7 +215,7 @@ roles:
   - name: First Officer
     team: Lucas
     logo-path: ""
-    brief: |
+    role-brief: |
       Second-in-command of the Lucas. Keep operations tight when the Captain
       is away. Help manage water distribution negotiations and support the
       engineering training programs the SAN faculty are running.
@@ -223,7 +223,7 @@ roles:
   - name: Chief Engineer
     team: Lucas
     logo-path: ""
-    brief: |
+    role-brief: |
       You maintain the water distillation systems and the SAN university
       faculty aboard. The Lucas has the remnants of SAN's Engineering
       University - you are uniquely placed to train engineers fleet-wide.
@@ -233,7 +233,7 @@ roles:
   - name: Council Member
     team: Lucas
     logo-path: ""
-    brief: |
+    role-brief: |
       SAN representative on the Interstellar Council. You vote on
       legislation. You may spend the Team Phase at the Lucas or the Salvador.
       Maintain Old Nation alliances (especially with the CPA), figure out
@@ -247,7 +247,7 @@ roles:
   - name: Captain
     team: Icebreaker
     logo-path: ""
-    brief: |
+    role-brief: |
       You command the fleet's primary mining ship - the main source of
       materials and strytium ore. The CPA lost more than anyone in the
       Attack; your people's grief is real and sharp. Maintain production,
@@ -257,7 +257,7 @@ roles:
   - name: First Officer
     team: Icebreaker
     logo-path: ""
-    brief: |
+    role-brief: |
       Second-in-command of the Icebreaker. Take command when the Captain
       is off-ship. During Wolf attacks, report to the Fleet Map to direct
       the Icebreaker's fighter squadrons. Keep the mining drones operational
@@ -266,7 +266,7 @@ roles:
   - name: Chief Engineer
     team: Icebreaker
     logo-path: ""
-    brief: |
+    role-brief: |
       You maintain the Icebreaker's mining drones and industrial systems.
       The drone arrays are effective but labor-intensive - uptime is
       everything. Work with the fleet's other engineers to solve problems
@@ -275,7 +275,7 @@ roles:
   - name: Council Member
     team: Icebreaker
     logo-path: ""
-    brief: |
+    role-brief: |
       CPA representative on the Interstellar Council. You vote on
       legislation. Defend Old Nation alliances and make sure the fleet never
       becomes sympathetic to the Wolves. Push for surveillance and proactive
@@ -288,7 +288,7 @@ roles:
   - name: Captain
     team: Refinery 124
     logo-path: ""
-    brief: |
+    role-brief: |
       You command the ship that keeps the fleet moving. Refinery 124
       processes strytium ore into the fuel every vessel needs to survive.
       Gliese's strength has always been quiet, industrial, essential - you
@@ -298,7 +298,7 @@ roles:
   - name: First Officer
     team: Refinery 124
     logo-path: ""
-    brief: |
+    role-brief: |
       Second-in-command of Refinery 124. Keep the refinery running when the
       Captain is in negotiations or away. Support the crew, protect the
       production schedule, and represent Gliese's no-nonsense work ethic.
@@ -306,7 +306,7 @@ roles:
   - name: Chief Engineer
     team: Refinery 124
     logo-path: ""
-    brief: |
+    role-brief: |
       You are responsible for the refinery operations themselves - the
       processing of ore into usable strytium fuel. This is the most
       technically demanding job on the ship. Downtime here is a fleet
@@ -315,7 +315,7 @@ roles:
   - name: Council Member
     team: Refinery 124
     logo-path: ""
-    brief: |
+    role-brief: |
       Gliese representative on the Interstellar Council. You vote on
       legislation. Gliese prefers soft power to loud rhetoric - let the fuel
       tap speak. Ally with Rosal on New Nation issues, advocate for workers'
@@ -329,7 +329,7 @@ roles:
   - name: Captain
     team: Quellon
     logo-path: ""
-    brief: |
+    role-brief: |
       You command Proxima's primary vessel - a significant water producer
       and fighter carrier. Proxima's identity is self-sufficiency; live it.
       Protect Proximan interests, keep your fighters ready, and never let
@@ -338,7 +338,7 @@ roles:
   - name: First Officer
     team: Quellon
     logo-path: ""
-    brief: |
+    role-brief: |
       Second-in-command of the Quellon. Take command when the Captain is
       away. During Wolf attacks, report to the Fleet Map to control the
       Quellon's fighters. Keep water production and ship security running
@@ -347,7 +347,7 @@ roles:
   - name: Chief Engineer
     team: Quellon
     logo-path: ""
-    brief: |
+    role-brief: |
       You maintain the Quellon's water production systems and ship
       engineering. Proxima prides itself on not needing hand-outs; your
       job is to make sure the Quellon never has to ask for one.
@@ -355,7 +355,7 @@ roles:
   - name: Council Member
     team: Quellon
     logo-path: ""
-    brief: |
+    role-brief: |
       Proxima representative on the Interstellar Council. You vote on
       legislation. You may spend the Team Phase at the Quellon or the Vulcan.
       Advocate hard for Proximan self-sufficiency and redundancy fleet-wide.
@@ -369,7 +369,7 @@ roles:
   - name: Captain
     team: Endeavor
     logo-path: ""
-    brief: |
+    role-brief: |
       You command the most scientifically important ship in the fleet. The
       Endeavor carries the majority of humanity's surviving scientists - if
       something can be figured out, it gets figured out here. Protect your
@@ -380,7 +380,7 @@ roles:
   - name: Chief Scientist
     team: Endeavor
     logo-path: ""
-    brief: |
+    role-brief: |
       You lead humanity's last surviving research faculty. Your team develops
       upgrades and technical solutions for all fleet vessels. Science
       projects can be proposed to Control freely - be creative. Reach out to
@@ -394,7 +394,7 @@ roles:
   - name: Captain
     team: Salvador
     logo-path: ""
-    brief: |
+    role-brief: |
       You command the only dedicated medical vessel in the fleet. The
       Salvador is small but indispensable. Your job is to make sure medical
       services run, your crew is supported, and the SAN's voice is heard
@@ -404,7 +404,7 @@ roles:
   - name: Head Surgeon
     team: Salvador
     logo-path: ""
-    brief: |
+    role-brief: |
       You are the most experienced doctor alive. Treat the wounded, train
       more doctors, and advocate for medical staffing across the fleet.
       You have some creative pharmaceutical ideas worth exploring - the
@@ -418,7 +418,7 @@ roles:
   - name: Captain
     team: Vulcan
     logo-path: ""
-    brief: |
+    role-brief: |
       You command the only non-Aegis vessel with weapon batteries. The
       Vulcan carries ~413 prisoners and 45 Proximan guards, and its arrival
       in the fleet was controversial. Prove its worth. During Wolf attacks
@@ -428,7 +428,7 @@ roles:
   - name: Warden
     team: Vulcan
     logo-path: ""
-    brief: |
+    role-brief: |
       You manage the prison population - a source of labor the fleet needs
       but the fleet doesn't fully trust. Keep the prisoners productive, keep
       them under control, and resist the Salvador's insinuations that your
@@ -442,7 +442,7 @@ roles:
   - name: Editor
     team: Press
     logo-path: ""
-    brief: |
+    role-brief: |
       You lead the news media team - the only organization in the fleet with
       unrestricted freedom of movement. Oversee editorial direction, manage
       the broadcast schedule (one report per game turn, ~4 minutes), and
@@ -453,7 +453,7 @@ roles:
   - name: Ace Reporter
     team: Press
     logo-path: ""
-    brief: |
+    role-brief: |
       You chase the big story. You have the instincts and source network to
       get information others can't. Cultivate relationships with key
       players, break the most important stories of the game, and always
@@ -463,7 +463,7 @@ roles:
   - name: Fleet Correspondent
     team: Press
     logo-path: ""
-    brief: |
+    role-brief: |
       You cover the fleet's day-to-day pulse - ship operations, civilian
       conditions, inter-vessel relationships. You are the generalist on the
       team, circulating widely and building relationships across all ships.
@@ -472,7 +472,7 @@ roles:
   - name: Military Correspondent
     team: Press
     logo-path: ""
-    brief: |
+    role-brief: |
       You cover the military side of the fleet - the Aegis, the Javelin,
       the Vulcan, and tactical events during Wolf attacks. Build trust with
       the Admiral and military leadership to get access, while retaining
@@ -482,7 +482,7 @@ roles:
   - name: Political Correspondent
     team: Press
     logo-path: ""
-    brief: |
+    role-brief: |
       You cover the Council, the Presidency, and the political maneuvering
       between nations. You are allowed to observe Council proceedings - a
       rare privilege. Track legislation, alliances, vote tallies, and the
@@ -493,7 +493,7 @@ roles:
   - name: Arborist
     team: Solo Roles
     logo-path: ""
-    brief: |
+    role-brief: |
       You are the Prophet of the Universal Arbour - a rapidly growing new
       religion built on the belief that the Universe is a sentient, knowing
       entity that speaks to you personally through visions. Weeks ago you
@@ -505,7 +505,7 @@ roles:
   - name: Inquisitor
     team: Solo Roles
     logo-path: ""
-    brief: |
+    role-brief: |
       You are the last Inquisitor General in the fleet - Proxima's surviving
       judicial authority, and the only judicial authority of any kind. You
       are judge, jury, and prosecutor. Your power is technically unlimited
@@ -516,7 +516,7 @@ roles:
   - name: Firebrand
     team: Solo Roles
     logo-path: ""
-    brief: |
+    role-brief: |
       You are a Gliese political prisoner - populist, charismatic, and just
       released after a decade of imprisonment for anti-FAS activism. A
       stencil of your face is a symbol of resistance across what's left of
@@ -533,7 +533,7 @@ roles:
   - name: Captain
     team: Hephaestus
     logo-path: ""
-    brief: |
+    role-brief: |
       You command a jury-rigged industrial jack-of-all-trades crewed by
       reformed criminals newly arrived in the Helvetii rehabilitation
       program. They're rowdy but capable. Your ship has prospecting lasers,
@@ -544,7 +544,7 @@ roles:
   - name: First Officer
     team: Hephaestus
     logo-path: ""
-    brief: |
+    role-brief: |
       Second-in-command of the Hephaestus. Your job is managing both the
       ship's operations and its challenging workforce. Help the Captain
       keep order, keep the industrial systems running, and ensure the Riot
@@ -553,7 +553,7 @@ roles:
   - name: Chief Engineer
     team: Hephaestus
     logo-path: ""
-    brief: |
+    role-brief: |
       You maintain the Hephaestus' patchwork systems - a ship so heavily
       modified its original designers wouldn't recognize it. You have also
       cracked how to alloy scrap metal into military-grade armor plating.
@@ -563,7 +563,7 @@ roles:
   - name: Diplomat (Council Member)
     team: Hephaestus
     logo-path: ""
-    brief: |
+    role-brief: |
       Helvetii representative in the Interstellar Council - junior member
       status, which means you may speak but cannot vote (yet). You may
       spend the Team Phase at either Helvetii vessel. Push for full Council
@@ -576,7 +576,7 @@ roles:
   - name: Captain
     team: Baltar
     logo-path: ""
-    brief: |
+    role-brief: |
       You command Helvetii's state-of-the-art research ship, purpose-built
       for long-range scanning and resource prospecting. Your crew is
       multinational and doesn't feel tightly bound to Helvetii neutrality.
@@ -586,7 +586,7 @@ roles:
   - name: Chief Scientist
     team: Baltar
     logo-path: ""
-    brief: |
+    role-brief: |
       You lead a multinational science team in physical and material
       sciences, long-range observation, and resource prospecting. Reach
       out to the Endeavor - your research overlaps with theirs in important
@@ -600,7 +600,7 @@ roles:
   - name: Captain
     team: Javelin
     logo-path: ""
-    brief: |
+    role-brief: |
       You command the ICS' newest missile boat - still on its shakedown
       cruise when the Attack happened. Your crew is green but furious. You
       watched Old Earth burn from Jupiter orbit. Your anti-ship missiles are
@@ -612,7 +612,7 @@ roles:
   - name: XO
     team: Javelin
     logo-path: ""
-    brief: |
+    role-brief: |
       Second-in-command of the Javelin and direct commander of its Marine
       squads. When the Captain is directing weapons at the Fleet Map, you
       coordinate Marine defense against boarders. You must also report to
@@ -622,7 +622,7 @@ roles:
   - name: Chief Engineer
     team: Javelin
     logo-path: ""
-    brief: |
+    role-brief: |
       You maintain the Javelin's systems, including the prototype missile
       launchers - which are finicky and temperamental. No onboard food or
       water synthesizers means resupply is constant. Keep the ship battle-
@@ -631,7 +631,7 @@ roles:
   - name: Staff Sergeant
     team: Javelin
     logo-path: ""
-    brief: |
+    role-brief: |
       The ICS Marines might take orders from the XO, but they listen to you.
       You are battle-hardened and your soldiers know it. You have special
       combat abilities that give you an edge in a fight. Keep your people
@@ -645,7 +645,7 @@ roles:
   - name: Captain
     team: Fuerza Leon
     logo-path: ""
-    brief: |
+    role-brief: |
       You command a CPA bulk hauler whose cargo was partially jettisoned
       during emergency jumps. The remaining cargo is disorganized, the
       manifest is scrambled, and several highly skilled CPA specialists are
@@ -656,7 +656,7 @@ roles:
   - name: First Officer
     team: Fuerza Leon
     logo-path: ""
-    brief: |
+    role-brief: |
       Second-in-command of the Fuerza Leon. With a minimal permanent crew
       and a roster of specialist passengers, your job is keeping everyone
       organized and the ship operational. Help the Captain navigate CPA
