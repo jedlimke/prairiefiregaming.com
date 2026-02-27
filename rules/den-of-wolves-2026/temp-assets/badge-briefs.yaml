@@ -630,7 +630,7 @@ briefs:
     team: Javelin
     logo-path: ""
     role-brief: |
-      The Marines take orders from the XO, but they listen to you. Battle-hardened and respected. Keep your people alive, execute the XO's tactical orders, and make sure the Javelin's ground forces hit harder than anything the Wolves expect.
+      The Marines take orders from the XO, but they **listen** to you. Battle-hardened and respected. Keep your people alive, execute the XO's tactical orders, and make sure the Javelin's ground forces hit harder than anything the Wolves expect.
 
     duty-brief:
       $ref: "#/duties/staff-sergeant"
