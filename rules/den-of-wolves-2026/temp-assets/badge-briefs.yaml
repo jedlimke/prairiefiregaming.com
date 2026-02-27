@@ -840,42 +840,72 @@ nations:
   FAS:
     display-name: Federated Atlantic Syndicate (FAS)
     logo-path: ""
+    nation-brief: |
+      The FAS long defined itself by financial power and a relentless need to demonstrate its own superiority. Whatever financial infrastructure backed that power is now ash. But the FAS's talent for diplomacy and political maneuvering—honed over centuries—translates readily to the new Council chambers aboard the _Dione_, which is itself a former FAS vessel now repurposed as the seat of government. Old habits die hard, and old grudges die harder: the FAS resentment toward Rosal, the first colony to break free, hasn't faded just because the world has ended.
 
   CPA:
     display-name: Confederated Peoples of Asia (CPA)
     logo-path: ""
+    nation-brief: |
+      The CPA was the government of most of the East Asian landmass, built on a strong emphasis on national identity and collective purpose. Long rivals of the FAS, the centuries had pulled the two into an uneasy alignment as the New Nations rose. But the CPA's defining wound predates all of that: Wolf 1061 was a mostly CPA-held system when the Wolf War of Independence (WWI) broke out—and the Wolves showed little mercy to her soldiers and citizens there.
+      
+      Though WWI eventually drew in every nation, the CPA paid the steepest price... and the Attack has ripped that old scar wide open.
+      
+      For the CPA survivors now aboard the _Icebreaker_ and _Fuerza Leon_, grief and fury are never far from the surface.
 
   SAN:
     display-name: South American Nations (SAN)
     logo-path: ""
+    nation-brief: |
+      The historic nations of Central and South America combined to form the SAN, and were long-standing political allies of the CPA, bound together by a common wariness of the FAS. As the New Nations rose, that old solidarity faded, and the SAN found itself more focused on simply having a voice among louder, more powerful neighbors. In the Survivor Fleet, SAN civilians are concentrated aboard the _Lucas_ and the _Salvador_—a water-supply vessel and a hospital ship. Quieter than the others in the old politics, the SAN now finds its people doing some of the most essential work in the fleet.
 
   Rosal:
     display-name: Rosal
     logo-path: ""
+    nation-brief: |
+      One of the earliest planets to be colonized, Rosal was also the first to win independence—through a violent war against FAS rule, followed by treaties with the CPA and SAN that formalized their sovereignty in exchange for economic concessions. They've never let anyone forget it. Rosal is loud in the Council, unafraid to challenge Old or New Nations alike when they believe a wrong is being done. In the Survivor Fleet, Rosal's civilians are concentrated aboard the _Shepherd_ and the _Endeavour_. That independent streak—the one that started a war of liberation centuries ago—is still very much alive.
 
   Proxima:
     display-name: Proxima
     logo-path: ""
+    nation-brief: |
+      Settlement on Proxima B began around the same time as Rosal, but independence came much later and with far less bloodshed—primarily a sweeping political change driven by garrison forces who saw themselves as Proximans first. That individualistic streak runs deep and has always created friction with more diplomatically minded nations. In the Survivor Fleet, Proxima's people are aboard the _Quellon_ and the _Vulcan_—the latter a prison transport whose arrival caused no shortage of controversy. Proxima's self-reliance can be an asset in a crisis. Whether it translates to coöperation is another question.
 
   Gliese:
     display-name: Gliese
     logo-path: ""
+    nation-brief: |
+      Gliese's history has always been defined by what lies beneath its surface. The planet of Gliese 832C was quickly recognized by early scouts as a rich source of rare minerals, and it became one of the largest providers of strytium ore in known space. Independence came through a combination of violence and industrial action—Gliese didn't just fight for sovereignty, it fought for control of its own destiny. In the Survivor Fleet, that expertise is essential: _Refinery 124_, crewed by Gliese workers, is the fleet's primary source of the strytium fuel that keeps it ahead of the Wolf Navy. 
+      
+      **Without Gliese, the fleet stops moving.**
 
   Helvetii:
     display-name: Helvetii
     logo-path: ""
+    nation-brief: |
+      The youngest of the New Nations, Helvetii was founded not through rebellion but through wandering—apolitical refugees from the wars of independence who drifted for decades before discovering an uncharted asteroid cluster rich in rare elements. Their constitution is built around neutrality, and they were regularly called upon to mediate when Council negotiations reached an impasse. In the Survivor Fleet, Helvetii's people crew the _Hephaestus_ and the _Baltar_. Their neutrality is now the most complicated position in the fleet: when everything and everyone has been attacked, what does it mean to take no side?
 
   ISC:
     display-name: Interstellar Council
     logo-path: ""
+    nation-brief: |
+      The Interstellar Council is the civilian government of the Survivor Fleet—the fragile framework holding together what's left of human civilization. Born from Old Earth's diplomatic apparatus, the Council represents all seven voting nations and mediates between competing interests with the authority of law, treaty, and necessity. The President leads, the Parliamentarian legislates, and the Council votes. For now, that's enough to keep the fleet from tearing itself apart. Whether it stays enough is the question every session asks.
 
   ICSS:
-    display-name: Interstellar Navy
+    display-name: ICSS
     logo-path: ""
+    nation-brief: |
+      The ICSS—the military arm of the Council—are what stands between the Survivor Fleet and annihilation. The _Aegis_ and the _Javelin_ are the only warships humanity has left, crewed by personnel who swore an oath to serve the Council above any nation. They're the shield, the sword, and the last line of defense. The Admiral answers to the President, but when the Wolves attack, command decisions are measured in seconds—not political debates.
+      
+      **The ICSS keeps the fleet alive.**
 
   INC:
-    display-name: Interstellar News Corporation (INC)
+    display-name: Interstellar News Corp.
     logo-path: ""
+    nation-brief: |
+      INC is the only independent press outlet in the Survivor Fleet—and they're great at it. Granted a mandate by the Council to operate free of political interference, INC reporters constantly move around the fleet to chase down leads and report on the truth.
+      
+      **Whether anyone in power actually likes what they report is another matter entirely.**
 
 
 # Den of Wolves 2026 - Duty Briefs
