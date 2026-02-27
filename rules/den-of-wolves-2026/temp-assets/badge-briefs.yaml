@@ -17,7 +17,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/admiral"
     nation-brief:
-      $ref: "#/nations/ICSS"
+      $ref: "#/nations/ICSS/brief"
   - name: XO
     team: Aegis
     role-brief: |
@@ -28,7 +28,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/xo"
     nation-brief:
-      $ref: "#/nations/ICSS"
+      $ref: "#/nations/ICSS/brief"
   - name: CAG
     team: Aegis
     role-brief: |
@@ -37,7 +37,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/cag"
     nation-brief:
-      $ref: "#/nations/ICSS"
+      $ref: "#/nations/ICSS/brief"
   - name: Comms Officer
     team: Aegis
     role-brief: |
@@ -48,7 +48,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/comms-officer"
     nation-brief:
-      $ref: "#/nations/ICSS"
+      $ref: "#/nations/ICSS/brief"
   - name: Logistics Officer
     team: Aegis
     role-brief: |
@@ -59,7 +59,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/logs-officer"
     nation-brief:
-      $ref: "#/nations/ICSS"
+      $ref: "#/nations/ICSS/brief"
   - name: Council Liaison
     team: Aegis
     role-brief: |
@@ -70,7 +70,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/council-liaison"
     nation-brief:
-      $ref: "#/nations/ICSS"
+      $ref: "#/nations/ICSS/brief"
   # ─── STAR ALPHA ───────────────────────────────────────────────────────────
   # The Presidential vessel. A small repurposed luxury ship that is the seat
   # of Executive power - and the last real government humanity has.
@@ -87,7 +87,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/president"
     nation-brief:
-      $ref: "#/nations/ISC"
+      $ref: "#/nations/ISC/brief"
   - name: Vice President
     team: Star Alpha
     role-brief: |
@@ -98,7 +98,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/vice-president"
     nation-brief:
-      $ref: "#/nations/ISC"
+      $ref: "#/nations/ISC/brief"
   - name: Chief of Staff
     team: Star Alpha
     role-brief: |
@@ -109,7 +109,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-of-staff"
     nation-brief:
-      $ref: "#/nations/ISC"
+      $ref: "#/nations/ISC/brief"
   - name: Parliamentarian
     team: Star Alpha
     role-brief: |
@@ -122,7 +122,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/parliamentarian"
     nation-brief:
-      $ref: "#/nations/ISC"
+      $ref: "#/nations/ISC/brief"
   # ─── THE DIONE (FAS) ──────────────────────────────────────────────────────
   # Luxury cruiser repurposed as home to 10,000 FAS civilians and the
   # Interstellar Council itself. The political heart of the fleet.
@@ -139,7 +139,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/FAS"
+      $ref: "#/nations/FAS/brief"
   - name: First Officer
     team: Dione
     role-brief: |
@@ -152,7 +152,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/first-officer"
     nation-brief:
-      $ref: "#/nations/FAS"
+      $ref: "#/nations/FAS/brief"
   - name: Chief Engineer
     team: Dione
     role-brief: |
@@ -161,7 +161,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-engineer"
     nation-brief:
-      $ref: "#/nations/FAS"
+      $ref: "#/nations/FAS/brief"
   - name: Council Member
     team: Dione
     role-brief: |
@@ -174,7 +174,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/council-member"
     nation-brief:
-      $ref: "#/nations/FAS"
+      $ref: "#/nations/FAS/brief"
   # ─── THE SHEPHERD (ROSAL) ─────────────────────────────────────────────────
   # The fleet's primary food production vessel. Rosal's independent spirit
   # is as important as the calories it grows.
@@ -191,7 +191,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/Rosal"
+      $ref: "#/nations/Rosal/brief"
   - name: First Officer
     team: Shepherd
     role-brief: |
@@ -202,7 +202,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/first-officer"
     nation-brief:
-      $ref: "#/nations/Rosal"
+      $ref: "#/nations/Rosal/brief"
   - name: Chief Engineer
     team: Shepherd
     role-brief: |
@@ -213,7 +213,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-engineer"
     nation-brief:
-      $ref: "#/nations/Rosal"
+      $ref: "#/nations/Rosal/brief"
   - name: Council Member
     team: Shepherd
     role-brief: |
@@ -226,7 +226,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/council-member"
     nation-brief:
-      $ref: "#/nations/Rosal"
+      $ref: "#/nations/Rosal/brief"
   # ─── THE LUCAS (SAN) ──────────────────────────────────────────────────────
   # Primary water supply vessel and home to SAN engineering expertise.
 
@@ -242,7 +242,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/SAN"
+      $ref: "#/nations/SAN/brief"
   - name: First Officer
     team: Lucas
     role-brief: |
@@ -253,7 +253,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/first-officer"
     nation-brief:
-      $ref: "#/nations/SAN"
+      $ref: "#/nations/SAN/brief"
   - name: Chief Engineer
     team: Lucas
     role-brief: |
@@ -266,7 +266,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-engineer"
     nation-brief:
-      $ref: "#/nations/SAN"
+      $ref: "#/nations/SAN/brief"
   - name: Council Member
     team: Lucas
     role-brief: |
@@ -277,7 +277,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/council-member"
     nation-brief:
-      $ref: "#/nations/SAN"
+      $ref: "#/nations/SAN/brief"
   # ─── THE ICEBREAKER (CPA) ─────────────────────────────────────────────────
   # Large CPA mining vessel - the fleet's main source of materials and ore.
   # Crewed by survivors with raw grief and a vendetta against the Wolves.
@@ -294,7 +294,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/CPA"
+      $ref: "#/nations/CPA/brief"
   - name: First Officer
     team: Icebreaker
     role-brief: |
@@ -307,7 +307,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/first-officer"
     nation-brief:
-      $ref: "#/nations/CPA"
+      $ref: "#/nations/CPA/brief"
   - name: Chief Engineer
     team: Icebreaker
     role-brief: |
@@ -316,7 +316,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-engineer"
     nation-brief:
-      $ref: "#/nations/CPA"
+      $ref: "#/nations/CPA/brief"
   - name: Council Member
     team: Icebreaker
     role-brief: |
@@ -329,7 +329,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/council-member"
     nation-brief:
-      $ref: "#/nations/CPA"
+      $ref: "#/nations/CPA/brief"
   # ─── REFINERY 124 (GLIESE) ────────────────────────────────────────────────
   # The fleet's fuel source. Without strytium, the fleet stops running.
 
@@ -341,7 +341,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/Gliese"
+      $ref: "#/nations/Gliese/brief"
   - name: First Officer
     team: Refinery 124
     role-brief: |
@@ -354,7 +354,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/first-officer"
     nation-brief:
-      $ref: "#/nations/Gliese"
+      $ref: "#/nations/Gliese/brief"
   - name: Chief Engineer
     team: Refinery 124
     role-brief: |
@@ -363,7 +363,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-engineer"
     nation-brief:
-      $ref: "#/nations/Gliese"
+      $ref: "#/nations/Gliese/brief"
   - name: Council Member
     team: Refinery 124
     role-brief: |
@@ -376,7 +376,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/council-member"
     nation-brief:
-      $ref: "#/nations/Gliese"
+      $ref: "#/nations/Gliese/brief"
   # ─── THE QUELLON (PROXIMA) ────────────────────────────────────────────────
   # Proxima's operations vessel - water supply, fighter squadrons,
   # and fierce self-reliance.
@@ -393,7 +393,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/Proxima"
+      $ref: "#/nations/Proxima/brief"
   - name: First Officer
     team: Quellon
     role-brief: |
@@ -402,7 +402,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/first-officer"
     nation-brief:
-      $ref: "#/nations/Proxima"
+      $ref: "#/nations/Proxima/brief"
   - name: Chief Engineer
     team: Quellon
     role-brief: |
@@ -411,7 +411,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-engineer"
     nation-brief:
-      $ref: "#/nations/Proxima"
+      $ref: "#/nations/Proxima/brief"
   - name: Council Member
     team: Quellon
     role-brief: |
@@ -424,7 +424,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/council-member"
     nation-brief:
-      $ref: "#/nations/Proxima"
+      $ref: "#/nations/Proxima/brief"
   # ─── THE ENDEAVOR (ROSAL) ─────────────────────────────────────────────────
   # A small research vessel - home to most of humanity's remaining scientists,
   # one golden retriever, and one chimpanzee.
@@ -441,7 +441,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/Rosal"
+      $ref: "#/nations/Rosal/brief"
   - name: Chief Scientist
     team: Endeavor
     role-brief: |
@@ -454,7 +454,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-scientist"
     nation-brief:
-      $ref: "#/nations/Rosal"
+      $ref: "#/nations/Rosal/brief"
   # ─── THE SALVADOR (SAN) ───────────────────────────────────────────────────
   # The fleet's only hospital ship.
 
@@ -470,7 +470,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/SAN"
+      $ref: "#/nations/SAN/brief"
   - name: Head Surgeon
     team: Salvador
     role-brief: |
@@ -483,7 +483,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/head-surgeon"
     nation-brief:
-      $ref: "#/nations/SAN"
+      $ref: "#/nations/SAN/brief"
   # ─── THE VULCAN (PROXIMA) ─────────────────────────────────────────────────
   # A prison transport that earned its place in the fleet through firepower
   # and labor.
@@ -496,7 +496,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/Proxima"
+      $ref: "#/nations/Proxima/brief"
   - name: Warden
     team: Vulcan
     role-brief: |
@@ -509,7 +509,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/warden"
     nation-brief:
-      $ref: "#/nations/Proxima"
+      $ref: "#/nations/Proxima/brief"
   # ─── PRESS ────────────────────────────────────────────────────────────────
   # The fleet's news media - information brokers, morale shapers, and the
   # closest thing to accountability this remnant of humanity has.
@@ -526,7 +526,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/editor-in-chief"
     nation-brief:
-      $ref: "#/nations/INC"
+      $ref: "#/nations/INC/brief"
   - name: Lead Anchor
     team: INC
     role-brief: |
@@ -539,7 +539,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/lead-anchor"
     nation-brief:
-      $ref: "#/nations/INC"
+      $ref: "#/nations/INC/brief"
   - name: Fleet Correspondent
     team: INC
     role-brief: |
@@ -548,7 +548,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/fleet-correspondent"
     nation-brief:
-      $ref: "#/nations/INC"
+      $ref: "#/nations/INC/brief"
   - name: Military Correspondent
     team: INC
     role-brief: |
@@ -561,7 +561,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/military-correspondent"
     nation-brief:
-      $ref: "#/nations/INC"
+      $ref: "#/nations/INC/brief"
   - name: Political Correspondent
     team: INC
     role-brief: |
@@ -572,7 +572,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/political-correspondent"
     nation-brief:
-      $ref: "#/nations/INC"
+      $ref: "#/nations/INC/brief"
   # ─── SOLO ROLES ───────────────────────────────────────────────────────────
 
   - name: Arbourist
@@ -622,7 +622,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/Helvetii"
+      $ref: "#/nations/Helvetii/brief"
   - name: First Officer
     team: Hephaestus
     role-brief: |
@@ -633,7 +633,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/first-officer"
     nation-brief:
-      $ref: "#/nations/Helvetii"
+      $ref: "#/nations/Helvetii/brief"
   - name: Chief Engineer
     team: Hephaestus
     role-brief: |
@@ -646,7 +646,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-engineer"
     nation-brief:
-      $ref: "#/nations/Helvetii"
+      $ref: "#/nations/Helvetii/brief"
   - name: Diplomat (Council Member)
     team: Hephaestus
     role-brief: |
@@ -659,7 +659,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/diplomat"
     nation-brief:
-      $ref: "#/nations/Helvetii"
+      $ref: "#/nations/Helvetii/brief"
   # ─── THE BALTAR (HELVETII) ────────────────────────────────────────────────
   # A cutting-edge Helvetii research vessel with a multinational science crew.
 
@@ -772,7 +772,7 @@ nations:
   FAS:
     display-name: Federated Atlantic Syndicate (FAS)
     logo-path: dow--nation--fas.png
-    nation-brief: |
+    brief: |
       The FAS long defined itself by financial power and a relentless need to demonstrate its own superiority. Whatever financial infrastructure backed that power is now ash.
       
       But the FAS's talent for diplomacy and political maneuvering—honed over centuries—translates readily to the new Council chambers aboard the _Dione_, which is itself a former FAS vessel now repurposed as the seat of government.
@@ -782,7 +782,7 @@ nations:
   CPA:
     display-name: Confederated Peoples of Asia (CPA)
     logo-path: dow--nation--cpa.png
-    nation-brief: |
+    brief: |
       The CPA was the government of most of the East Asian landmass, built on a strong emphasis on national identity and collective purpose. Long rivals of the FAS, the centuries had pulled the two into an uneasy alignment as the New Nations rose. But the CPA's defining wound predates all of that: Wolf 1061 was a mostly CPA-held system when the Wolf War of Independence (WWI) broke out—and the Wolves showed little mercy to her soldiers and citizens there.
       
       Though WWI eventually drew in every nation, the CPA paid the steepest price... and the Attack has ripped that old scar wide open.
@@ -792,7 +792,7 @@ nations:
   SAN:
     display-name: South American Nations (SAN)
     logo-path: dow--nation--san.png
-    nation-brief: |
+    brief: |
       The historic nations of Central and South America combined to form the SAN, and were long-standing political allies of the CPA, bound together by a common wariness of the FAS. As the New Nations rose, that old solidarity faded, and the SAN found itself more focused on simply having a voice among louder, more powerful neighbors.
       
       In the Survivor Fleet, SAN civilians are concentrated aboard the _Lucas_ and the _Salvador_—a water-supply vessel and a hospital ship.
@@ -801,7 +801,7 @@ nations:
   Rosal:
     display-name: Rosal
     logo-path: dow--nation--rosal.png
-    nation-brief: |
+    brief: |
       One of the earliest planets to be colonized, Rosal was also the first to win independence—through a violent war against FAS rule, followed by treaties with the CPA and SAN that formalized their sovereignty in exchange for economic concessions. They've never let anyone forget it. Rosal is loud in the Council, unafraid to challenge Old or New Nations alike when they believe a wrong is being done. 
       
       In the Survivor Fleet, Rosal's civilians are concentrated aboard the _Shepherd_ and the _Endeavour_.
@@ -811,7 +811,7 @@ nations:
   Proxima:
     display-name: Proxima
     logo-path: dow--nation--proxima.png
-    nation-brief: |
+    brief: |
       Settlement on Proxima B began around the same time as Rosal, but independence came much later and with far less bloodshed—primarily a sweeping political change driven by garrison forces who saw themselves as Proximans first. That individualistic streak runs deep and has always created friction with more diplomatically minded nations. 
       
       In the Survivor Fleet, Proxima's people are aboard the _Quellon_ and the _Vulcan_—the latter a prison transport whose arrival caused no shortage of controversy. Proxima's self-reliance can be an asset in a crisis.
@@ -821,7 +821,7 @@ nations:
   Gliese:
     display-name: Gliese
     logo-path: dow--nation--gliese.png
-    nation-brief: |
+    brief: |
       Gliese's history has always been defined by what lies beneath its surface. The planet of Gliese 832C was quickly recognized by early scouts as a rich source of rare minerals, and it became one of the largest providers of strytium ore in known space. Independence came through a combination of violence and industrial action—Gliese didn't just fight for sovereignty, it fought for control of its own destiny.
       
       In the Survivor Fleet, that expertise is essential: _Refinery 124_, crewed by Gliese workers, is the fleet's primary source of the strytium fuel that keeps it ahead of the Wolf Navy. 
@@ -831,7 +831,7 @@ nations:
   Helvetii:
     display-name: Helvetii
     logo-path: dow--nation--helvetii.png
-    nation-brief: |
+    brief: |
       The youngest of the New Nations, Helvetii was founded not through rebellion but through wandering—apolitical refugees from the wars of independence who drifted for decades before discovering an uncharted asteroid cluster rich in rare elements.
 
       Their constitution is built around neutrality, and they were regularly called upon to mediate when Council negotiations reached an impasse.
@@ -843,7 +843,7 @@ nations:
   ISC:
     display-name: Interstellar Council
     logo-path: dow--nation--isc.png
-    nation-brief: |
+    brief: |
       The Interstellar Council is the civilian government of the Survivor Fleet—the fragile framework holding together what's left of human civilization.
       
       Born from Old Earth's diplomatic apparatus, the Council represents all seven voting nations and mediates between competing interests with the authority of law, treaty, and necessity.
@@ -855,7 +855,7 @@ nations:
   ICSS:
     display-name: ICSS
     logo-path: dow--nation--icss.png
-    nation-brief: |
+    brief: |
       The ICSS—the military arm of the Council—are what stands between the Survivor Fleet and annihilation. The _Aegis_ and the _Javelin_ are the only warships humanity has left, crewed by personnel who swore an oath to serve the Council above any nation. They're the shield, the sword, and the last line of defense.
       
       The Admiral answers to the President, but when the Wolves attack, command decisions are measured in seconds—not political debates.
@@ -865,7 +865,7 @@ nations:
   INC:
     display-name: Interstellar News Corp.
     logo-path: dow--nation--inc.png
-    nation-brief: |
+    brief: |
       INC is the only independent press outlet in the Survivor Fleet—and they're great at it. Granted a mandate by the Council to operate free of political interference, INC reporters constantly move around the fleet to chase down leads and report on the truth.
       
       **Whether anyone in power actually likes what they report is another matter entirely.**
