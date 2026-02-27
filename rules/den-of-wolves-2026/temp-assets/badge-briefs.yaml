@@ -130,7 +130,7 @@ briefs:
     team: Dione
     logo-path: ""
     role-brief: |
-      Second-in-command of the Dione. You take the helm when the Captain is away. During Wolf attacks you must report to the Fleet Map to direct the Dione's two fighter squadrons. Keep the ship running and the civilians calm.
+      The Captain's right hand on the largest civilian ship in the fleet. Keep ~10,000 FAS citizens calm and the Council's home ship running smoothly. Balance operational demands with FAS political expectations.
 
     duty-brief:
       $ref: "#/duties/first-officer"
@@ -140,7 +140,7 @@ briefs:
     team: Dione
     logo-path: ""
     role-brief: |
-      You keep the Dione's considerable systems running. A ship of this size and civilian population demands constant attention. Coordinate with other engineers in the fleet to share knowledge and fill gaps in repair capacity.
+      Keeping a luxury cruiser operational with 10,000 civilians aboard and no industrial capacity of its own. The Dione is elegant but fragile - and politically, it can't afford to look weak.
 
     duty-brief:
       $ref: "#/duties/chief-engineer"
@@ -174,7 +174,7 @@ briefs:
     team: Shepherd
     logo-path: ""
     role-brief: |
-      Second-in-command of the Shepherd. Keep ship operations running smoothly when the Captain is in Council or off-ship. Support food production and security, and reinforce Rosal's values in every interaction.
+      You keep the ship that feeds the fleet operational. The Shepherd's leverage is absolute - but so is the responsibility. Embody Rosal's independent spirit and never back down to Old Nation pressure.
 
     duty-brief:
       $ref: "#/duties/first-officer"
@@ -184,7 +184,7 @@ briefs:
     team: Shepherd
     logo-path: ""
     role-brief: |
-      You maintain the Shepherd's food production systems - the biological and mechanical infrastructure that literally keeps the fleet fed. Breakdowns here are fleet emergencies. Coordinate with other engineers for parts and upgrades.
+      The biological and mechanical systems you maintain literally keep the fleet fed. Breakdowns here are fleet emergencies - which gives you serious political weight. Don't be shy about using it.
 
     duty-brief:
       $ref: "#/duties/chief-engineer"
@@ -217,7 +217,7 @@ briefs:
     team: Lucas
     logo-path: ""
     role-brief: |
-      Second-in-command of the Lucas. Keep operations tight when the Captain is away. Help manage water distribution negotiations and support the engineering training programs the SAN faculty are running.
+      The Lucas supplies most of the fleet's water and hosts the remnants of SAN's engineering university. Keep operations tight and support the training programs - SAN's technical reputation is a strategic asset.
 
     duty-brief:
       $ref: "#/duties/first-officer"
@@ -261,7 +261,7 @@ briefs:
     team: Icebreaker
     logo-path: ""
     role-brief: |
-      Second-in-command of the Icebreaker. Take command when the Captain is off-ship. During Wolf attacks, report to the Fleet Map to direct the Icebreaker's fighter squadrons. Keep the mining drones operational and the civilian population stable.
+      The CPA lost more than any other nation in the Wolf Attack. Your crew's grief is real and sharp. Keep mining operations running and the civilian population stable - but never forget what was taken from you.
 
     duty-brief:
       $ref: "#/duties/first-officer"
@@ -271,7 +271,7 @@ briefs:
     team: Icebreaker
     logo-path: ""
     role-brief: |
-      You maintain the Icebreaker's mining drones and industrial systems. The drone arrays are effective but labor-intensive - uptime is everything. Work with the fleet's other engineers to solve problems quickly, and keep ore flowing to the refineries.
+      The Icebreaker's mining drones are the fleet's industrial backbone. Keep them operational no matter what - and remember that every piece of ore you extract is a small victory over the Wolves who tried to destroy everything.
 
     duty-brief:
       $ref: "#/duties/chief-engineer"
@@ -304,7 +304,7 @@ briefs:
     team: Refinery 124
     logo-path: ""
     role-brief: |
-      Second-in-command of Refinery 124. Keep the refinery running when the Captain is in negotiations or away. Support the crew, protect the production schedule, and represent Gliese's no-nonsense work ethic.
+      Without strytium fuel, the fleet stops moving. Your ship produces it. Gliese has always been quiet, essential, and underestimated - embody that. Soft power beats loud rhetoric every time.
 
     duty-brief:
       $ref: "#/duties/first-officer"
@@ -314,7 +314,7 @@ briefs:
     team: Refinery 124
     logo-path: ""
     role-brief: |
-      You are responsible for the refinery operations themselves - the processing of ore into usable strytium fuel. This is the most technically demanding job on the ship. Downtime here is a fleet emergency. Coordinate with Icebreaker and Hephaestus on ore supply.
+      The refinery operations you run are the most technically demanding in the fleet. Downtime here is a fleet-wide emergency - which makes you one of the most strategically critical engineers alive.
 
     duty-brief:
       $ref: "#/duties/chief-engineer"
@@ -348,7 +348,7 @@ briefs:
     team: Quellon
     logo-path: ""
     role-brief: |
-      Second-in-command of the Quellon. Take command when the Captain is away. During Wolf attacks, report to the Fleet Map to control the Quellon's fighters. Keep water production and ship security running smoothly.
+      Proxima's pride is self-sufficiency. The Quellon produces water and fields fighters - proof you don't need anyone's charity. Keep operations tight and never give the Old Nations an excuse to condescend.
 
     duty-brief:
       $ref: "#/duties/first-officer"
@@ -358,7 +358,7 @@ briefs:
     team: Quellon
     logo-path: ""
     role-brief: |
-      You maintain the Quellon's water production systems and ship engineering. Proxima prides itself on not needing hand-outs; your job is to make sure the Quellon never has to ask for one.
+      Proxima doesn't ask for hand-outs. Your job is to make sure the Quellon never has to. Self-sufficiency isn't just politics - it's engineering discipline.
 
     duty-brief:
       $ref: "#/duties/chief-engineer"
@@ -429,7 +429,7 @@ briefs:
     team: Vulcan
     logo-path: ""
     role-brief: |
-      You command the only non-ICSS vessel with weapon batteries. The Vulcan carries ~413 prisoners and 45 Proximan guards, and its arrival in the fleet was controversial. Prove its worth. During Wolf attacks you must be at the Fleet Map directing the weapon batteries. Keep Proximan vessels prioritized for defense.
+      A prison transport with weapon batteries and 413 prisoners - your ship's arrival in the fleet was controversial. Prove the Vulcan's worth through firepower and labor. Defend Proximan interests and don't apologize for what you are.
 
     duty-brief:
       $ref: "#/duties/captain"
@@ -543,7 +543,7 @@ briefs:
     team: Hephaestus
     logo-path: ""
     role-brief: |
-      Second-in-command of the Hephaestus. Your job is managing both the ship's operations and its challenging workforce. Help the Captain keep order, keep the industrial systems running, and ensure the Riot Police are deployed only when necessary.
+      Managing a crew of reformed criminals is your daily reality. They're capable but volatile. Balance operational discipline with Helvetii's rehabilitation philosophy - and know when the Riot Police are the answer.
 
     duty-brief:
       $ref: "#/duties/first-officer"
@@ -553,7 +553,7 @@ briefs:
     team: Hephaestus
     logo-path: ""
     role-brief: |
-      You maintain the Hephaestus' patchwork systems - a ship so heavily modified its original designers wouldn't recognize it. You have also cracked how to alloy scrap metal into military-grade armor plating. Use this to help protect fleet vessels from Wolf attack damage. An ounce of prevention is worth a pound of cure.
+      A ship so heavily modified its original designers wouldn't recognize it - and you've made it work. Your breakthrough: alloying scrap metal into military-grade armor plating. That innovation could save lives fleet-wide.
 
     duty-brief:
       $ref: "#/duties/chief-engineer"
@@ -600,7 +600,7 @@ briefs:
     team: Javelin
     logo-path: ""
     role-brief: |
-      You command the ICS' newest missile boat - still on its shakedown cruise when the Attack happened. Your crew is green but furious. You watched Old Earth burn from Jupiter orbit. Your anti-ship missiles are prototype weapons: powerful, accurate, and expensive. During Wolf attacks you must be at the Fleet Map directing weapons and missiles. You answer to the Admiral, but if there's a shot at the Wolf war machine, you take it.
+      Still on shakedown cruise when the Attack happened. Your crew watched Old Earth burn from Jupiter orbit - they're green, but they're furious. The Javelin's prototype missiles are powerful and expensive. You answer to the Admiral, but if there's a clear shot at the Wolves, you'll take it.
 
     duty-brief:
       $ref: "#/duties/captain"
@@ -610,7 +610,7 @@ briefs:
     team: Javelin
     logo-path: ""
     role-brief: |
-      Second-in-command of the Javelin and direct commander of its Marine squads. When the Captain is directing weapons at the Fleet Map, you coordinate Marine defense against boarders. You must also report to the Fleet Map during Wolf attacks to co-direct the Javelin's systems. ICS Marines get +2 in combat - keep them sharp.
+      You command the Javelin's Marines and co-direct the ship's systems during Wolf attacks. When the Captain is at the Fleet Map, you're coordinating defense against boarders. Your Marines are sharp and motivated - keep them that way.
 
     duty-brief:
       $ref: "#/duties/xo"
@@ -620,7 +620,7 @@ briefs:
     team: Javelin
     logo-path: ""
     role-brief: |
-      You maintain the Javelin's systems, including the prototype missile launchers - which are finicky and temperamental. No onboard food or water synthesizers means resupply is constant. Keep the ship battle- ready and make sure the missiles are operational when they're needed.
+      Prototype missile launchers that are finicky and temperamental. No food or water synthesizers means constant resupply from other ships. Keep the Javelin battle-ready despite being the fleet's newest - and least self-sufficient - warship.
 
     duty-brief:
       $ref: "#/duties/chief-engineer"
@@ -630,7 +630,7 @@ briefs:
     team: Javelin
     logo-path: ""
     role-brief: |
-      The ICS Marines might take orders from the XO, but they listen to you. You are battle-hardened and your soldiers know it. You have special combat abilities that give you an edge in a fight. Keep your people alive, follow the XO's tactical orders, and remember that ICS Marines get +2 in all combat against on-foot units.
+      The Marines take orders from the XO, but they listen to you. Battle-hardened and respected. Keep your people alive, execute the XO's tactical orders, and make sure the Javelin's ground forces hit harder than anything the Wolves expect.
 
     duty-brief:
       $ref: "#/duties/staff-sergeant"
@@ -654,7 +654,7 @@ briefs:
     team: Fuerza Leon
     logo-path: ""
     role-brief: |
-      Second-in-command of the Fuerza Leon. With a minimal permanent crew and a roster of specialist passengers, your job is keeping everyone organized and the ship operational. Help the Captain navigate CPA politics and figure out what to do with those cargo bays.
+      Minimal permanent crew, a scrambled manifest, and a roster of CPA specialist passengers who outrank you in expertise. Keep everyone organized, the ship operational, and help the Captain turn chaos into opportunity.
 
     duty-brief:
       $ref: "#/duties/first-officer"
