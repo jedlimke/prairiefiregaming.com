@@ -2,7 +2,7 @@
 # Ultra-brief per-role reference sheet.
 # logo-path fields are placeholders pending asset assignments.
 
-roles:
+briefs:
 
   # ─── ICSS AEGIS ───────────────────────────────────────────────────────────
   # The fleet's only battleship. Loyal to the Council; the shield that keeps
@@ -490,7 +490,7 @@ roles:
 
   # ─── SOLO ROLES ───────────────────────────────────────────────────────────
 
-  - name: Arborist
+  - name: Arbourist
     team: Solo Roles
     logo-path: ""
     role-brief: |
@@ -664,32 +664,40 @@ roles:
 
 nations:
 
-  - name: FAS
+  FAS:
     display-name: Federated Atlantic Syndicate (FAS)
     logo-path: ""
 
-  - name: CPA
+  CPA:
     display-name: Confederated Peoples of Asia (CPA)
     logo-path: ""
 
-  - name: SAN
+  SAN:
     display-name: South American Nations (SAN)
     logo-path: ""
 
-  - name: Rosal
+  Rosal:
     display-name: Rosal
     logo-path: ""
 
-  - name: Proxima
+  Proxima:
     display-name: Proxima
     logo-path: ""
 
-  - name: Gliese
+  Gliese:
     display-name: Gliese
     logo-path: ""
 
-  - name: Helvetii
+  Helvetii:
     display-name: Helvetii
+    logo-path: ""
+
+  ICS:
+    display-name: Interstellar Council Service (ICS)
+    logo-path: ""
+
+  INC:
+    display-name: Interstellar News Corporation (INC)
     logo-path: ""
 
 

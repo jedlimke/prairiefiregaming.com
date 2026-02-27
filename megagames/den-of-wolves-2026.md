@@ -86,9 +86,9 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 <div class="fleet-groups">  
   <div class="fleet-group">
 	<div class="fleet-nation">
-		<img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council flag" class="nation--isc">
+		<img src="/assets/megagames/dow--nation--ics.png" alt="Interstellar Council flag" class="nation--isc">
 		<div class="fleet-content">
-		<h4>Interstellar Council (ISC)</h4>
+		<h4>Interstellar Council (ICS)</h4>
 		<p>The governing body of humanity—or what's left of it. The Council convenes aboard the <em>Dione</em> to debate policy, pass legislation, and argue over who is to blame for everything. Old Nations and New Nations share the table but rarely share a vision. The President holds the chair. Whether they hold the room is up to them.</p>
 		</div>
 	</div>
@@ -96,7 +96,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--star-alpha.png" alt="Star Alpha" class="ship--star-alpha">
 		<div class="fleet-content">
-		<h4>Star Alpha <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
+		<h4>Star Alpha <img src="/assets/megagames/dow--nation--ics.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
 		<p>The President's residence. A small luxury vessel that now serves as the seat of emergency government.</p>
 		</div>
 	</div>
@@ -104,7 +104,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--aegis.png" alt="ICSS Aegis" class="ship--aegis">
 		<div class="fleet-content">
-		<h4>ICSS Aegis <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 6</small></h4>
+		<h4>ICSS Aegis <img src="/assets/megagames/dow--nation--ics.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 6</small></h4>
 		<p>The fleet's only battleship. Military command, fighter squadrons, Marines, and the responsibility of protecting everyone.</p>
 		</div>
 	</div>
@@ -112,7 +112,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 	<div class="fleet-vessel">
 		<img src="/assets/megagames/dow--ship--javelin.png" alt="ICSS Javelin" class="ship--javelin">
 		<div class="fleet-content">
-		<h4>ICSS Javelin <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
+		<h4>ICSS Javelin <img src="/assets/megagames/dow--nation--ics.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
 		<p>A missile boat with powerful but unpredictable prototype weapons. Green crew, eager for payback.</p>
 		</div>
 	</div>
