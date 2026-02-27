@@ -11,7 +11,7 @@ briefs:
   - name: Admiral
     team: Aegis
     role-brief: |
-      As Admiral and commander of the only battleship in the fleet, you carry humanity's remaining military power in your hands. Strategic command. High-stakes diplomacy. Direct liaison with the President herself.
+      As Admiral and commander of the only battleship in the fleet, you carry humanity's remaining military power in your hands. Strategic command. High-stakes diplomacy. Direct liaison with the President.
 
       You answer to the Council—but when seconds matter and lives are on the line, **act first… and answer for it afterward.**
     duty-brief:
@@ -718,9 +718,9 @@ briefs:
     role-brief: |
       Not only are you saddled with overall ship maintenance, you also maintain the Javelin's **prototype missile launchers**—finicky and temperamental doesn't come close to describing them.
       
-      Keep the Javelin battle-ready at all times—she might not be as strong as the Aegis, but she is well-armored and punches way above her weight.
+      Keep the Javelin battle-ready at all times—it might not be as strong as the Aegis, but it's well-armored and punches way above its weight.
       
-      **Keep her that way.**
+      **Keep it that way.**
 
     duty-brief:
       $ref: "#/duties/chief-engineer"
@@ -783,7 +783,7 @@ nations:
     display-name: Confederated Peoples of Asia (CPA)
     logo-path: dow--nation--cpa.png
     brief: |
-      The CPA was the government of most of the East Asian landmass, built on a strong emphasis on national identity and collective purpose. Long rivals of the FAS, the centuries had pulled the two into an uneasy alignment as the New Nations rose. But the CPA's defining wound predates all of that: Wolf 1061 was a mostly CPA-held system when the Wolf War of Independence (WWI) broke out—and the Wolves showed little mercy to her soldiers and citizens there.
+      The CPA was the government of most of the East Asian landmass, built on a strong emphasis on national identity and collective purpose. Long rivals of the FAS, the centuries had pulled the two into an uneasy alignment as the New Nations rose. But the CPA's defining wound predates all of that: Wolf 1061 was a mostly CPA-held system when the Wolf War of Independence (WWI) broke out—and the Wolves showed little mercy to its soldiers and citizens there.
       
       Though WWI eventually drew in every nation, the CPA paid the steepest price... and the Attack has ripped that old scar wide open.
       
