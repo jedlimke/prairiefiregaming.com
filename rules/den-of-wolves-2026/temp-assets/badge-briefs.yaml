@@ -20,6 +20,10 @@ briefs:
       You serve the Council, but if a crisis demands immediate action before
       orders arrive, act - then answer for it afterward.
 
+    duty-brief:
+      $ref: "#/duties/admiral"
+    nation-brief:
+      $ref: "#/nations/ICS"
   - name: XO
     team: Aegis
     logo-path: ""
@@ -30,6 +34,10 @@ briefs:
       to other ships that need boots on the ground. If both the Admiral and
       XO are off the Aegis, Comms takes command.
 
+    duty-brief:
+      $ref: "#/duties/xo"
+    nation-brief:
+      $ref: "#/nations/ICS"
   - name: FWCO
     team: Aegis
     logo-path: ""
@@ -40,6 +48,10 @@ briefs:
       attacks at the Fleet Map. The Aegis' air superiority lives or dies by
       how well you manage those squadrons.
 
+    duty-brief:
+      $ref: "#/duties/fwco"
+    nation-brief:
+      $ref: "#/nations/ICS"
   - name: Comms Officer
     team: Aegis
     logo-path: ""
@@ -50,6 +62,10 @@ briefs:
       away. Stay mobile, stay informed, and make sure the right people always
       know what they need to know.
 
+    duty-brief:
+      $ref: "#/duties/comms-officer"
+    nation-brief:
+      $ref: "#/nations/ICS"
   - name: Logs Officer
     team: Aegis
     logo-path: ""
@@ -60,6 +76,10 @@ briefs:
       helping other fleet vessels secure critical resources. Nothing moves
       without you making it possible.
 
+    duty-brief:
+      $ref: "#/duties/logs-officer"
+    nation-brief:
+      $ref: "#/nations/ICS"
   - name: Council Liaison
     team: Aegis
     logo-path: ""
@@ -70,6 +90,10 @@ briefs:
       briefed on everything happening in the civilian government. You are the
       bridge between the military and the politicians.
 
+    duty-brief:
+      $ref: "#/duties/council-liaison"
+    nation-brief:
+      $ref: "#/nations/ICS"
   # ─── STAR ALPHA ───────────────────────────────────────────────────────────
   # The Presidential vessel. A small repurposed luxury ship that is the seat
   # of Executive power - and the last real government humanity has.
@@ -85,6 +109,10 @@ briefs:
       demands neutrality - and the fleet is watching. Keep the government
       strong, keep the Admiral in line, and keep the fleet together.
 
+    duty-brief:
+      $ref: "#/duties/president"
+    nation-brief:
+      $ref: "#/nations/ICS"
   - name: Vice President
     team: Star Alpha
     logo-path: ""
@@ -95,6 +123,10 @@ briefs:
       the tie-breaking vote whenever the Council is deadlocked. If something
       goes wrong with the President, you're next.
 
+    duty-brief:
+      $ref: "#/duties/vice-president"
+    nation-brief:
+      $ref: "#/nations/ICS"
   - name: Chief of Staff
     team: Star Alpha
     logo-path: ""
@@ -105,6 +137,10 @@ briefs:
       Presidency runs through you - if politics is the face, you are the
       spine.
 
+    duty-brief:
+      $ref: "#/duties/chief-of-staff"
+    nation-brief:
+      $ref: "#/nations/ICS"
   - name: Parliamentarian
     team: Star Alpha
     logo-path: ""
@@ -115,6 +151,10 @@ briefs:
       what gets written matters enormously. You are the architect of
       whatever new laws this remnant of humanity will live by.
 
+    duty-brief:
+      $ref: "#/duties/parliamentarian"
+    nation-brief:
+      $ref: "#/nations/ICS"
   # ─── THE DIONE (FAS) ──────────────────────────────────────────────────────
   # Luxury cruiser repurposed as home to 10,000 FAS civilians and the
   # Interstellar Council itself. The political heart of the fleet.
@@ -130,6 +170,10 @@ briefs:
       prestige, protect the Council's home on your ship, and do not let
       Rosal undermine you.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/FAS"
   - name: First Officer
     team: Dione
     logo-path: ""
@@ -139,6 +183,10 @@ briefs:
       the Dione's two fighter squadrons. Keep the ship running and the
       civilians calm.
 
+    duty-brief:
+      $ref: "#/duties/first-officer"
+    nation-brief:
+      $ref: "#/nations/FAS"
   - name: Chief Engineer
     team: Dione
     logo-path: ""
@@ -148,6 +196,10 @@ briefs:
       other engineers in the fleet to share knowledge and fill gaps in
       repair capacity.
 
+    duty-brief:
+      $ref: "#/duties/chief-engineer"
+    nation-brief:
+      $ref: "#/nations/FAS"
   - name: Council Member
     team: Dione
     logo-path: ""
@@ -158,6 +210,10 @@ briefs:
       on your ship - use that home-field advantage. Oppose any move to
       relocate it.
 
+    duty-brief:
+      $ref: "#/duties/council-member"
+    nation-brief:
+      $ref: "#/nations/FAS"
   # ─── THE SHEPHERD (ROSAL) ─────────────────────────────────────────────────
   # The fleet's primary food production vessel. Rosal's independent spirit
   # is as important as the calories it grows.
@@ -172,6 +228,10 @@ briefs:
       and standing up to Old Nation dominance. Keep the food flowing and
       Rosal relevant.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/Rosal"
   - name: First Officer
     team: Shepherd
     logo-path: ""
@@ -181,6 +241,10 @@ briefs:
       production and security, and reinforce Rosal's values in every
       interaction.
 
+    duty-brief:
+      $ref: "#/duties/first-officer"
+    nation-brief:
+      $ref: "#/nations/Rosal"
   - name: Chief Engineer
     team: Shepherd
     logo-path: ""
@@ -190,6 +254,10 @@ briefs:
       Breakdowns here are fleet emergencies. Coordinate with other engineers
       for parts and upgrades.
 
+    duty-brief:
+      $ref: "#/duties/chief-engineer"
+    nation-brief:
+      $ref: "#/nations/Rosal"
   - name: Council Member
     team: Shepherd
     logo-path: ""
@@ -200,6 +268,10 @@ briefs:
       against Old Nation power, keep the FAS honest, and build coalition
       with Gliese and Helvetii.
 
+    duty-brief:
+      $ref: "#/duties/council-member"
+    nation-brief:
+      $ref: "#/nations/Rosal"
   # ─── THE LUCAS (SAN) ──────────────────────────────────────────────────────
   # Primary water supply vessel and home to SAN engineering expertise.
 
@@ -212,6 +284,10 @@ briefs:
       resource. Protect the ship and shuttle at all costs. SAN's reputation
       as an engineering and technical powerhouse lives on here; use it.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/SAN"
   - name: First Officer
     team: Lucas
     logo-path: ""
@@ -220,6 +296,10 @@ briefs:
       is away. Help manage water distribution negotiations and support the
       engineering training programs the SAN faculty are running.
 
+    duty-brief:
+      $ref: "#/duties/first-officer"
+    nation-brief:
+      $ref: "#/nations/SAN"
   - name: Chief Engineer
     team: Lucas
     logo-path: ""
@@ -230,6 +310,10 @@ briefs:
       That capability makes you one of the most strategically important
       engineers in the entire fleet.
 
+    duty-brief:
+      $ref: "#/duties/chief-engineer"
+    nation-brief:
+      $ref: "#/nations/SAN"
   - name: Council Member
     team: Lucas
     logo-path: ""
@@ -240,6 +324,10 @@ briefs:
       why the CPA has gone so quiet lately, and make sure the fleet knows
       water comes from you.
 
+    duty-brief:
+      $ref: "#/duties/council-member"
+    nation-brief:
+      $ref: "#/nations/SAN"
   # ─── THE ICEBREAKER (CPA) ─────────────────────────────────────────────────
   # Large CPA mining vessel - the fleet's main source of materials and ore.
   # Crewed by survivors with raw grief and a vendetta against the Wolves.
@@ -254,6 +342,10 @@ briefs:
       protect the fleet's industrial backbone, and make sure no one forgets
       what the Wolves did.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/CPA"
   - name: First Officer
     team: Icebreaker
     logo-path: ""
@@ -263,6 +355,10 @@ briefs:
       the Icebreaker's fighter squadrons. Keep the mining drones operational
       and the civilian population stable.
 
+    duty-brief:
+      $ref: "#/duties/first-officer"
+    nation-brief:
+      $ref: "#/nations/CPA"
   - name: Chief Engineer
     team: Icebreaker
     logo-path: ""
@@ -272,6 +368,10 @@ briefs:
       everything. Work with the fleet's other engineers to solve problems
       quickly, and keep ore flowing to the refineries.
 
+    duty-brief:
+      $ref: "#/duties/chief-engineer"
+    nation-brief:
+      $ref: "#/nations/CPA"
   - name: Council Member
     team: Icebreaker
     logo-path: ""
@@ -282,6 +382,10 @@ briefs:
       anti-Wolf measures. The CPA paid the highest price in the Attack -
       make sure that sacrifice carries political weight.
 
+    duty-brief:
+      $ref: "#/duties/council-member"
+    nation-brief:
+      $ref: "#/nations/CPA"
   # ─── REFINERY 124 (GLIESE) ────────────────────────────────────────────────
   # The fleet's fuel source. Without strytium, the fleet stops running.
 
@@ -295,6 +399,10 @@ briefs:
       embody that. Use your resource leverage as soft power in the Council
       and ensure workers' rights are never an afterthought.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/Gliese"
   - name: First Officer
     team: Refinery 124
     logo-path: ""
@@ -303,6 +411,10 @@ briefs:
       Captain is in negotiations or away. Support the crew, protect the
       production schedule, and represent Gliese's no-nonsense work ethic.
 
+    duty-brief:
+      $ref: "#/duties/first-officer"
+    nation-brief:
+      $ref: "#/nations/Gliese"
   - name: Chief Engineer
     team: Refinery 124
     logo-path: ""
@@ -312,6 +424,10 @@ briefs:
       technically demanding job on the ship. Downtime here is a fleet
       emergency. Coordinate with Icebreaker and Hephaestus on ore supply.
 
+    duty-brief:
+      $ref: "#/duties/chief-engineer"
+    nation-brief:
+      $ref: "#/nations/Gliese"
   - name: Council Member
     team: Refinery 124
     logo-path: ""
@@ -322,6 +438,10 @@ briefs:
       rights and efficient resource policy, and call out inefficiency
       wherever you find it.
 
+    duty-brief:
+      $ref: "#/duties/council-member"
+    nation-brief:
+      $ref: "#/nations/Gliese"
   # ─── THE QUELLON (PROXIMA) ────────────────────────────────────────────────
   # Proxima's operations vessel - water supply, fighter squadrons,
   # and fierce self-reliance.
@@ -335,6 +455,10 @@ briefs:
       Protect Proximan interests, keep your fighters ready, and never let
       anyone tell you Proxima needs to depend on others to survive.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/Proxima"
   - name: First Officer
     team: Quellon
     logo-path: ""
@@ -344,6 +468,10 @@ briefs:
       Quellon's fighters. Keep water production and ship security running
       smoothly.
 
+    duty-brief:
+      $ref: "#/duties/first-officer"
+    nation-brief:
+      $ref: "#/nations/Proxima"
   - name: Chief Engineer
     team: Quellon
     logo-path: ""
@@ -352,6 +480,10 @@ briefs:
       engineering. Proxima prides itself on not needing hand-outs; your
       job is to make sure the Quellon never has to ask for one.
 
+    duty-brief:
+      $ref: "#/duties/chief-engineer"
+    nation-brief:
+      $ref: "#/nations/Proxima"
   - name: Council Member
     team: Quellon
     logo-path: ""
@@ -362,6 +494,10 @@ briefs:
       Push back against Old Nation dominance. Keep close ties with the Vulcan
       crew.
 
+    duty-brief:
+      $ref: "#/duties/council-member"
+    nation-brief:
+      $ref: "#/nations/Proxima"
   # ─── THE ENDEAVOR (ROSAL) ─────────────────────────────────────────────────
   # A small research vessel - home to most of humanity's remaining scientists,
   # one golden retriever, and one chimpanzee.
@@ -377,6 +513,10 @@ briefs:
       pragmatism, and make sure the scientists stay focused on keeping
       the fleet alive.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/Rosal"
   - name: Chief Scientist
     team: Endeavor
     logo-path: ""
@@ -388,6 +528,10 @@ briefs:
       interference with scientific progress, and remember that the fleet
       survives on human ingenuity.
 
+    duty-brief:
+      $ref: "#/duties/chief-scientist"
+    nation-brief:
+      $ref: "#/nations/Rosal"
   # ─── THE SALVADOR (SAN) ───────────────────────────────────────────────────
   # The fleet's only hospital ship.
 
@@ -401,6 +545,10 @@ briefs:
       through the Lucas Council member. Keep close ties with the Lucas, and
       do not let anyone overlook the Salvador's role in keeping people alive.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/SAN"
   - name: Head Surgeon
     team: Salvador
     logo-path: ""
@@ -411,6 +559,10 @@ briefs:
       Endeavor's scientists may be useful partners. You are also concerned
       about the health and welfare of the prisoners on the Vulcan.
 
+    duty-brief:
+      $ref: "#/duties/head-surgeon"
+    nation-brief:
+      $ref: "#/nations/SAN"
   # ─── THE VULCAN (PROXIMA) ─────────────────────────────────────────────────
   # A prison transport that earned its place in the fleet through firepower
   # and labor.
@@ -425,6 +577,10 @@ briefs:
       you must be at the Fleet Map directing the weapon batteries. Keep
       Proximan vessels prioritized for defense.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/Proxima"
   - name: Warden
     team: Vulcan
     logo-path: ""
@@ -435,6 +591,10 @@ briefs:
       crew mistreats them. Your labor pool and the Vulcan's weapons are
       Proxima's biggest contributions to fleet survival.
 
+    duty-brief:
+      $ref: "#/duties/warden"
+    nation-brief:
+      $ref: "#/nations/Proxima"
   # ─── PRESS ────────────────────────────────────────────────────────────────
   # The fleet's news media - information brokers, morale shapers, and the
   # closest thing to accountability this remnant of humanity has.
@@ -450,6 +610,10 @@ briefs:
       the fleet: positive coverage helps ships, negative coverage hurts.
       Broadcast power is real power - use it seriously, not sensationally.
 
+    duty-brief:
+      $ref: "#/duties/editor-in-chief"
+    nation-brief:
+      $ref: "#/nations/INC"
   - name: Lead Anchor
     team: INC
     logo-path: ""
@@ -460,6 +624,10 @@ briefs:
       know more than you let on. You have freedom of movement - use it to
       be in the right room at the right moment.
 
+    duty-brief:
+      $ref: "#/duties/lead-anchor"
+    nation-brief:
+      $ref: "#/nations/INC"
   - name: Fleet Correspondent
     team: INC
     logo-path: ""
@@ -469,6 +637,10 @@ briefs:
       team, circulating widely and building relationships across all ships.
       Look for the human stories that shape morale.
 
+    duty-brief:
+      $ref: "#/duties/fleet-correspondent"
+    nation-brief:
+      $ref: "#/nations/INC"
   - name: Military Correspondent
     team: INC
     logo-path: ""
@@ -479,6 +651,10 @@ briefs:
       editorial independence. Report on battles, readiness, and the human
       cost of the war.
 
+    duty-brief:
+      $ref: "#/duties/military-correspondent"
+    nation-brief:
+      $ref: "#/nations/INC"
   - name: Political Correspondent
     team: INC
     logo-path: ""
@@ -488,6 +664,10 @@ briefs:
       rare privilege. Track legislation, alliances, vote tallies, and the
       gap between what politicians say publicly and what they do privately.
 
+    duty-brief:
+      $ref: "#/duties/political-correspondent"
+    nation-brief:
+      $ref: "#/nations/INC"
   # ─── SOLO ROLES ───────────────────────────────────────────────────────────
 
   - name: Arbourist
@@ -502,6 +682,8 @@ briefs:
       decide what kind of prophet you want to be: shepherd, demagogue, or
       revolutionary. This role is freeform and roleplay-heavy.
 
+    duty-brief:
+      $ref: "#/duties/arbourist"
   - name: Inquisitor
     team: Solo Roles
     logo-path: ""
@@ -513,6 +695,8 @@ briefs:
       Investigate traitors, root out Wolf agents, and keep an independent
       judiciary alive. You start aboard the Star Alpha and can move freely.
 
+    duty-brief:
+      $ref: "#/duties/inquisitor"
   - name: Firebrand
     team: Solo Roles
     logo-path: ""
@@ -526,6 +710,8 @@ briefs:
       You have strong support among workers and prisoners. Use it - or
       decide what it means that you have it.
 
+    duty-brief:
+      $ref: "#/duties/firebrand"
   # ─── THE HEPHAESTUS (HELVETII) ────────────────────────────────────────────
   # A patchwork industrial vessel crewed entirely by pardoned former criminals
   # on a Helvetii rehabilitation program.
@@ -541,6 +727,10 @@ briefs:
       when the crew gets out of hand. Maintain neutrality, push for free
       trade, and prove Helvetii belongs at the table.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/Helvetii"
   - name: First Officer
     team: Hephaestus
     logo-path: ""
@@ -550,6 +740,10 @@ briefs:
       keep order, keep the industrial systems running, and ensure the Riot
       Police are deployed only when necessary.
 
+    duty-brief:
+      $ref: "#/duties/first-officer"
+    nation-brief:
+      $ref: "#/nations/Helvetii"
   - name: Chief Engineer
     team: Hephaestus
     logo-path: ""
@@ -560,6 +754,10 @@ briefs:
       Use this to help protect fleet vessels from Wolf attack damage. An
       ounce of prevention is worth a pound of cure.
 
+    duty-brief:
+      $ref: "#/duties/chief-engineer"
+    nation-brief:
+      $ref: "#/nations/Helvetii"
   - name: Diplomat (Council Member)
     team: Hephaestus
     logo-path: ""
@@ -570,6 +768,10 @@ briefs:
       membership, advocate for free trade and neutral arbitration, and
       consider whether the role of Parliamentarian might one day be yours.
 
+    duty-brief:
+      $ref: "#/duties/diplomat"
+    nation-brief:
+      $ref: "#/nations/Helvetii"
   # ─── THE BALTAR (HELVETII) ────────────────────────────────────────────────
   # A cutting-edge Helvetii research vessel with a multinational science crew.
 
@@ -583,6 +785,10 @@ briefs:
       Find asteroids, find resources, find opportunities - and forge your
       own political identity distinct from the Hephaestus' orthodoxy.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/Helvetii"
   - name: Chief Scientist
     team: Baltar
     logo-path: ""
@@ -593,6 +799,10 @@ briefs:
       ways, and collaboration could benefit the whole fleet. Your team's
       independence from Helvetii neutrality is a feature, not a bug.
 
+    duty-brief:
+      $ref: "#/duties/chief-scientist"
+    nation-brief:
+      $ref: "#/nations/Helvetii"
   # ─── ICSS JAVELIN ─────────────────────────────────────────────────────────
   # The fleet's newest missile boat - green crew, prototype weapons, and a
   # burning desire to hit back.
@@ -609,6 +819,10 @@ briefs:
       You answer to the Admiral, but if there's a shot at the Wolf war
       machine, you take it.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/ICS"
   - name: XO
     team: Javelin
     logo-path: ""
@@ -619,6 +833,10 @@ briefs:
       the Fleet Map during Wolf attacks to co-direct the Javelin's systems.
       ICS Marines get +2 in combat - keep them sharp.
 
+    duty-brief:
+      $ref: "#/duties/xo"
+    nation-brief:
+      $ref: "#/nations/ICS"
   - name: Chief Engineer
     team: Javelin
     logo-path: ""
@@ -628,6 +846,10 @@ briefs:
       water synthesizers means resupply is constant. Keep the ship battle-
       ready and make sure the missiles are operational when they're needed.
 
+    duty-brief:
+      $ref: "#/duties/chief-engineer"
+    nation-brief:
+      $ref: "#/nations/ICS"
   - name: Staff Sergeant
     team: Javelin
     logo-path: ""
@@ -638,6 +860,10 @@ briefs:
       alive, follow the XO's tactical orders, and remember that ICS Marines
       get +2 in all combat against on-foot units.
 
+    duty-brief:
+      $ref: "#/duties/staff-sergeant"
+    nation-brief:
+      $ref: "#/nations/ICS"
   # ─── THE FUERZA LEON (CPA) ────────────────────────────────────────────────
   # A CPA bulk hauler with vast, disorganized cargo bays and a crew of
   # skilled specialists traveling aboard as passengers.
@@ -653,6 +879,10 @@ briefs:
       with your Council member to use them as bargaining chips. Your empty
       bays could be converted into anything the fleet needs.
 
+    duty-brief:
+      $ref: "#/duties/captain"
+    nation-brief:
+      $ref: "#/nations/CPA"
   - name: First Officer
     team: Fuerza Leon
     logo-path: ""
@@ -662,6 +892,10 @@ briefs:
       organized and the ship operational. Help the Captain navigate CPA
       politics and figure out what to do with those cargo bays.
 
+    duty-brief:
+      $ref: "#/duties/first-officer"
+    nation-brief:
+      $ref: "#/nations/CPA"
 nations:
 
   FAS:
