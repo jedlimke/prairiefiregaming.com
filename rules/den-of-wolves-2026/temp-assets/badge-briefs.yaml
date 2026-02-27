@@ -583,9 +583,6 @@ briefs:
       Weeks ago you had dozens of followers. Now you have hundreds, and growing. You roam the entire fleet freely.
       
       Gain followers. Gain political influence. **Decide what kind of prophet you want to be: shepherd, demagogue, or revolutionary.**
-
-    duty-brief:
-      $ref: "#/duties/arbourist"
   - name: Inquisitor
     team: wildcard
     role-brief: |
@@ -596,9 +593,6 @@ briefs:
       Investigate traitors. Root out Wolf agents. Keep an independent judiciary alive.
 
       **Do what needs to be done.**
-
-    duty-brief:
-      $ref: "#/duties/inquisitor"
   - name: Firebrand
     team: wildcard
     role-brief: |
@@ -610,8 +604,6 @@ briefs:
       
       **Use it—or decide what it means that you have it.**
 
-    duty-brief:
-      $ref: "#/duties/firebrand"
   # ─── THE HEPHAESTUS (HELVETII) ────────────────────────────────────────────
   # A patchwork industrial vessel crewed entirely by pardoned former criminals
   # on a Helvetii rehabilitation program.
@@ -779,7 +771,7 @@ nations:
 
   FAS:
     display-name: Federated Atlantic Syndicate (FAS)
-    logo-path: ""
+    logo-path: dow--nation--fas.png
     nation-brief: |
       The FAS long defined itself by financial power and a relentless need to demonstrate its own superiority. Whatever financial infrastructure backed that power is now ash.
       
@@ -789,7 +781,7 @@ nations:
 
   CPA:
     display-name: Confederated Peoples of Asia (CPA)
-    logo-path: ""
+    logo-path: dow--nation--cpa.png
     nation-brief: |
       The CPA was the government of most of the East Asian landmass, built on a strong emphasis on national identity and collective purpose. Long rivals of the FAS, the centuries had pulled the two into an uneasy alignment as the New Nations rose. But the CPA's defining wound predates all of that: Wolf 1061 was a mostly CPA-held system when the Wolf War of Independence (WWI) broke out—and the Wolves showed little mercy to her soldiers and citizens there.
       
@@ -799,7 +791,7 @@ nations:
 
   SAN:
     display-name: South American Nations (SAN)
-    logo-path: ""
+    logo-path: dow--nation--san.png
     nation-brief: |
       The historic nations of Central and South America combined to form the SAN, and were long-standing political allies of the CPA, bound together by a common wariness of the FAS. As the New Nations rose, that old solidarity faded, and the SAN found itself more focused on simply having a voice among louder, more powerful neighbors.
       
@@ -808,7 +800,7 @@ nations:
       Quieter than the others—but no less formidable—the SAN now finds its people doing some of the most essential work in the fleet.
   Rosal:
     display-name: Rosal
-    logo-path: ""
+    logo-path: dow--nation--rosal.png
     nation-brief: |
       One of the earliest planets to be colonized, Rosal was also the first to win independence—through a violent war against FAS rule, followed by treaties with the CPA and SAN that formalized their sovereignty in exchange for economic concessions. They've never let anyone forget it. Rosal is loud in the Council, unafraid to challenge Old or New Nations alike when they believe a wrong is being done. 
       
@@ -818,7 +810,7 @@ nations:
 
   Proxima:
     display-name: Proxima
-    logo-path: ""
+    logo-path: dow--nation--proxima.png
     nation-brief: |
       Settlement on Proxima B began around the same time as Rosal, but independence came much later and with far less bloodshed—primarily a sweeping political change driven by garrison forces who saw themselves as Proximans first. That individualistic streak runs deep and has always created friction with more diplomatically minded nations. 
       
@@ -828,7 +820,7 @@ nations:
 
   Gliese:
     display-name: Gliese
-    logo-path: ""
+    logo-path: dow--nation--gliese.png
     nation-brief: |
       Gliese's history has always been defined by what lies beneath its surface. The planet of Gliese 832C was quickly recognized by early scouts as a rich source of rare minerals, and it became one of the largest providers of strytium ore in known space. Independence came through a combination of violence and industrial action—Gliese didn't just fight for sovereignty, it fought for control of its own destiny.
       
@@ -838,7 +830,7 @@ nations:
 
   Helvetii:
     display-name: Helvetii
-    logo-path: ""
+    logo-path: dow--nation--helvetii.png
     nation-brief: |
       The youngest of the New Nations, Helvetii was founded not through rebellion but through wandering—apolitical refugees from the wars of independence who drifted for decades before discovering an uncharted asteroid cluster rich in rare elements.
 
@@ -850,7 +842,7 @@ nations:
 
   ISC:
     display-name: Interstellar Council
-    logo-path: ""
+    logo-path: dow--nation--isc.png
     nation-brief: |
       The Interstellar Council is the civilian government of the Survivor Fleet—the fragile framework holding together what's left of human civilization.
       
@@ -862,7 +854,7 @@ nations:
 
   ICSS:
     display-name: ICSS
-    logo-path: ""
+    logo-path: dow--nation--icss.png
     nation-brief: |
       The ICSS—the military arm of the Council—are what stands between the Survivor Fleet and annihilation. The _Aegis_ and the _Javelin_ are the only warships humanity has left, crewed by personnel who swore an oath to serve the Council above any nation. They're the shield, the sword, and the last line of defense.
       
@@ -872,7 +864,7 @@ nations:
 
   INC:
     display-name: Interstellar News Corp.
-    logo-path: ""
+    logo-path: dow--nation--inc.png
     nation-brief: |
       INC is the only independent press outlet in the Survivor Fleet—and they're great at it. Granted a mandate by the Council to operate free of political interference, INC reporters constantly move around the fleet to chase down leads and report on the truth.
       
@@ -998,11 +990,3 @@ duties:
 
   political-correspondent: |
     Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. News Media are the only non-Council players permitted to observe Council sessions without explicit Council invitation. Other players cannot make room-wide announcements without working through the Media team.
-
-  # --- SOLO / WILDCARD ROLES ---
-
-  arbourist: TBD
-
-  inquisitor: TBD
-
-  firebrand: TBD
