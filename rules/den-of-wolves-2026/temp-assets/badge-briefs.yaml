@@ -429,7 +429,7 @@ briefs:
     team: Vulcan
     logo-path: ""
     role-brief: |
-      You command the only non-Aegis vessel with weapon batteries. The Vulcan carries ~413 prisoners and 45 Proximan guards, and its arrival in the fleet was controversial. Prove its worth. During Wolf attacks you must be at the Fleet Map directing the weapon batteries. Keep Proximan vessels prioritized for defense.
+      You command the only non-ICSS vessel with weapon batteries. The Vulcan carries ~413 prisoners and 45 Proximan guards, and its arrival in the fleet was controversial. Prove its worth. During Wolf attacks you must be at the Fleet Map directing the weapon batteries. Keep Proximan vessels prioritized for defense.
 
     duty-brief:
       $ref: "#/duties/captain"
