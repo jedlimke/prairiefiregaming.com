@@ -18,7 +18,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/admiral"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ICSS"
   - name: XO
     team: Aegis
     logo-path: ""
@@ -30,7 +30,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/xo"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ICSS"
   - name: CAG
     team: Aegis
     logo-path: ""
@@ -38,9 +38,9 @@ briefs:
       As the CAG (Commander: Air Group), you control the Aegis' **fighter squadrons**. Pilot assignments, positioning, maintenance, and tactical deployment. The fleet's military superiority lives or dies by how well you manage those squadrons. Every pilot lost is a hole that's hard to fill.
 
     duty-brief:
-      $ref: "#/duties/fwco"
+      $ref: "#/duties/cag"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ICSS"
   - name: Comms Officer
     team: Aegis
     logo-path: ""
@@ -52,7 +52,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/comms-officer"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ICSS"
   - name: Logistics Officer
     team: Aegis
     logo-path: ""
@@ -64,7 +64,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/logs-officer"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ICSS"
   - name: Council Liaison
     team: Aegis
     logo-path: ""
@@ -76,7 +76,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/council-liaison"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ICSS"
   # ─── STAR ALPHA ───────────────────────────────────────────────────────────
   # The Presidential vessel. A small repurposed luxury ship that is the seat
   # of Executive power - and the last real government humanity has.
@@ -94,7 +94,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/president"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ISC"
   - name: Vice President
     team: Star Alpha
     logo-path: ""
@@ -106,7 +106,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/vice-president"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ISC"
   - name: Chief of Staff
     team: Star Alpha
     logo-path: ""
@@ -118,7 +118,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-of-staff"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ISC"
   - name: Parliamentarian
     team: Star Alpha
     logo-path: ""
@@ -132,7 +132,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/parliamentarian"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ISC"
   # ─── THE DIONE (FAS) ──────────────────────────────────────────────────────
   # Luxury cruiser repurposed as home to 10,000 FAS civilians and the
   # Interstellar Council itself. The political heart of the fleet.
@@ -764,7 +764,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ICSS"
   - name: XO
     team: Javelin
     logo-path: ""
@@ -776,7 +776,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/xo"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ICSS"
   - name: Chief Engineer
     team: Javelin
     logo-path: ""
@@ -790,7 +790,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-engineer"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ICSS"
   - name: Staff Sergeant
     team: Javelin
     logo-path: ""
@@ -802,7 +802,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/staff-sergeant"
     nation-brief:
-      $ref: "#/nations/ICS"
+      $ref: "#/nations/ICSS"
   # ─── THE FUERZA LEON (CPA) ────────────────────────────────────────────────
   # A CPA bulk hauler with vast, disorganized cargo bays and a crew of
   # skilled specialists traveling aboard as passengers.
@@ -865,8 +865,12 @@ nations:
     display-name: Helvetii
     logo-path: ""
 
-  ICS:
-    display-name: Interstellar Council Service (ICS)
+  ISC:
+    display-name: Interstellar Council
+    logo-path: ""
+
+  ICSS:
+    display-name: Interstellar Navy
     logo-path: ""
 
   INC:
@@ -932,7 +936,7 @@ duties:
 
     ICS Marines get +2 to all combat rolls against on-foot units. This bonus does not apply to dispersing riots.
 
-  fwco: |
+  cag: |
     Commander Air Group — you have direct control of all Aegis fighter squadrons. You manage pilot assignments, positioning, and maintenance between engagements.
 
     Wolf Attack: report to the Fleet Map to direct the Aegis fighters each round. Each squadron may either move to another quadrant or attack Wolf units in its current quadrant. When a fleet fighter squadron is damaged or destroyed, one Pilot crew in your hangar bay becomes wounded (resolved after the attack).

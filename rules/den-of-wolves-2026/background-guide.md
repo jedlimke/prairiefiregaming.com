@@ -145,14 +145,14 @@ The independent worlds that broke from Old Earth over the past centuries each br
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--star-alpha.png" alt="Star Alpha" class="ship--star-alpha">
       <div class="fleet-content">
-        <h4>Star Alpha <img src="/assets/megagames/dow--nation--ics.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
+        <h4>Star Alpha <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
         <p>The <em>Star Alpha</em> is the name given to the vessel transporting the President of the Council–in the Survivor Fleet, this is also functionally the President's permanent residence. This is a repurposed luxury vessel, and very small compared to the other vessels in the Fleet.</p>
       </div>
     </div>
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--aegis.png" alt="ICSS Aegis" class="ship--aegis">
       <div class="fleet-content">
-        <h4>ICSS Aegis <img src="/assets/megagames/dow--nation--ics.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 6</small></h4>
+        <h4>ICSS Aegis <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 6</small></h4>
         <p>The <em>Aegis</em> is a medium-sized military vessel, functioning as both battleship and carrier. As well as having some weapon batteries, it carries a healthy complement of both fighter squadrons and marines.</p>
         <p><strong>Fighters</strong> – Fighters are small, one-person craft typically used in close engagements between larger vessels. They are designed to be fast and highly maneuver, but in order to achieve this, they compromise on defense, leaving them very lightly armored. They are commonly equipped with light, rapid-firing weaponry for dogfighting with other Fighters, but also often have a small complement of high-power ordnance so that they can cause significant damage to larger vessels with a well-aimed strike.</p>
       </div>
@@ -160,7 +160,7 @@ The independent worlds that broke from Old Earth over the past centuries each br
     <div class="fleet-vessel">
       <img src="/assets/megagames/dow--ship--javelin.png" alt="ICSS Javelin" class="ship--javelin">
       <div class="fleet-content">
-        <h4>ICSS Javelin <img src="/assets/megagames/dow--nation--ics.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
+        <h4>ICSS Javelin <img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council" class="inline-flag"> <small>Crew of 4</small></h4>
         <p>The <em>Javelin</em> is one of the newest generation of missile boats commissioned and built for the ICS. It was on a shakedown trip when the Attack happened, and its crew is green but eager for payback against the Wolves. Its guided anti-ship missiles are powerful but costly to produce, and as prototypes, can be unpredictable. It also has cannon batteries and a shuttle. As a smaller vessel, the <em>Javelin</em> is reliant on resupply for its crew's needs; there are no onboard food or water synthesizers.</p>
       </div>
     </div>
