@@ -673,7 +673,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/Helvetii"
+      $ref: "#/nations/Helvetii/brief"
   - name: Chief Scientist
     team: Baltar
     role-brief: |
@@ -684,7 +684,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-scientist"
     nation-brief:
-      $ref: "#/nations/Helvetii"
+      $ref: "#/nations/Helvetii/brief"
   # ─── ICSS JAVELIN ─────────────────────────────────────────────────────────
   # The fleet's newest missile boat - green crew, prototype weapons, and a
   # burning desire to hit back.
@@ -701,7 +701,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/ICSS"
+      $ref: "#/nations/ICSS/brief"
   - name: XO
     team: Javelin
     role-brief: |
@@ -712,7 +712,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/xo"
     nation-brief:
-      $ref: "#/nations/ICSS"
+      $ref: "#/nations/ICSS/brief"
   - name: Chief Engineer
     team: Javelin
     role-brief: |
@@ -725,7 +725,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/chief-engineer"
     nation-brief:
-      $ref: "#/nations/ICSS"
+      $ref: "#/nations/ICSS/brief"
   - name: Staff Sergeant
     team: Javelin
     role-brief: |
@@ -736,7 +736,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/staff-sergeant"
     nation-brief:
-      $ref: "#/nations/ICSS"
+      $ref: "#/nations/ICSS/brief"
   # ─── THE FUERZA LEON (CPA) ────────────────────────────────────────────────
   # A CPA bulk hauler with vast, disorganized cargo bays and a crew of
   # skilled specialists traveling aboard as passengers.
@@ -753,7 +753,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
-      $ref: "#/nations/CPA"
+      $ref: "#/nations/CPA/brief"
   - name: First Officer
     team: Fuerza Leon
     role-brief: |
@@ -766,7 +766,7 @@ briefs:
     duty-brief:
       $ref: "#/duties/first-officer"
     nation-brief:
-      $ref: "#/nations/CPA"
+      $ref: "#/nations/CPA/brief"
 nations:
 
   FAS:
