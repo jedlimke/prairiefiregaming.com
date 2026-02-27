@@ -439,8 +439,8 @@ roles:
   # The fleet's news media - information brokers, morale shapers, and the
   # closest thing to accountability this remnant of humanity has.
 
-  - name: Editor
-    team: Press
+  - name: Editor-in-Chief
+    team: INC
     logo-path: ""
     role-brief: |
       You lead the news media team - the only organization in the fleet with
@@ -450,8 +450,8 @@ roles:
       the fleet: positive coverage helps ships, negative coverage hurts.
       Broadcast power is real power - use it seriously, not sensationally.
 
-  - name: Ace Reporter
-    team: Press
+  - name: Lead Anchor
+    team: INC
     logo-path: ""
     role-brief: |
       You chase the big story. You have the instincts and source network to
@@ -461,7 +461,7 @@ roles:
       be in the right room at the right moment.
 
   - name: Fleet Correspondent
-    team: Press
+    team: INC
     logo-path: ""
     role-brief: |
       You cover the fleet's day-to-day pulse - ship operations, civilian
@@ -470,7 +470,7 @@ roles:
       Look for the human stories that shape morale.
 
   - name: Military Correspondent
-    team: Press
+    team: INC
     logo-path: ""
     role-brief: |
       You cover the military side of the fleet - the Aegis, the Javelin,
@@ -480,7 +480,7 @@ roles:
       cost of the war.
 
   - name: Political Correspondent
-    team: Press
+    team: INC
     logo-path: ""
     role-brief: |
       You cover the Council, the Presidency, and the political maneuvering
@@ -661,3 +661,162 @@ roles:
       and a roster of specialist passengers, your job is keeping everyone
       organized and the ship operational. Help the Captain navigate CPA
       politics and figure out what to do with those cargo bays.
+
+nations:
+
+  - name: FAS
+    display-name: Federated Atlantic Syndicate (FAS)
+    logo-path: ""
+
+  - name: CPA
+    display-name: Confederated Peoples of Asia (CPA)
+    logo-path: ""
+
+  - name: SAN
+    display-name: South American Nations (SAN)
+    logo-path: ""
+
+  - name: Rosal
+    display-name: Rosal
+    logo-path: ""
+
+  - name: Proxima
+    display-name: Proxima
+    logo-path: ""
+
+  - name: Gliese
+    display-name: Gliese
+    logo-path: ""
+
+  - name: Helvetii
+    display-name: Helvetii
+    logo-path: ""
+
+
+# Den of Wolves 2026 - Duty Briefs
+# Mechanical duty summaries by role, for badge backs.
+# Wildcard solo roles are marked TBD pending separate briefings.
+
+duties:
+
+  # --- COMMON SHIP ROLES ---
+
+  captain: |
+    Final authority on all major decisions for your ship. You are responsible for the safety of the ship and everyone aboard. When your First Officer is indisposed, you assume direct command of security forces.
+
+    If your ship has weapon batteries (Vulcan, Javelin), you must report to the Fleet Map when a Wolf Attack is announced to direct them.
+
+  first-officer: |
+    Second-in-command. You take full command when the Captain is absent or incapacitated.
+
+    On civilian ships you are responsible for security and have direct control over any security forces, weapon batteries, and fighter squadrons your ship carries. You are also responsible for crew counters: maintaining adequate crew levels and tracking any crew moved between ships.
+
+    If your ship has fighter squadrons (Dione, Icebreaker, Quellon), you must report to the Fleet Map when a Wolf Attack is announced to direct them.
+
+  chief-engineer: |
+    You keep the ship operational. Your primary responsibility is repairs and ensuring the ship has the food, water, fuel, and materials it needs. You are also responsible for the ship's shuttle, if it has one, and are accountable for all shuttle operations on your ship regardless of who is piloting.
+
+  council-member: |
+    You represent your nation at the Interstellar Council. You attend Council each turn to debate and vote on legislation. Council meets in closed session — only Council members, the President, Vice President, the Aegis Liaison, and News Media may be present.
+
+    Once per game you may call a vote of no confidence against the Parliamentarian (majority needed to remove them). You may also participate in a Snap Election for a new President (requires 5/7ths Council vote; only once per game; all players vote from among current Council members).
+
+  diplomat: |
+    Junior Helvetii representative to the Interstellar Council. You may speak at Council but do not hold a vote at game start. You may spend the Team Phase at either Helvetii vessel.
+
+  # --- SPECIALIST SHIP ROLES ---
+
+  chief-scientist: |
+    You run the day-to-day research operations of your vessel. You spend Science resources to execute Science Projects, producing upgrades and new capabilities for the fleet. Starter project cards are provided, but you may propose new ideas to Control at any time.
+
+  head-surgeon: |
+    You manage the Salvador's medical operations. Wounded crew can be healed at the Sickbay station. Players who are Wounded in-game must report to a ship with an undamaged Sickbay; they do not consume station capacity and the station remains usable. Advocate for training additional doctors fleet-wide.
+
+  warden: |
+    You manage the Vulcan's prison population — the ship's primary labor pool. Prison labor can be assigned to tasks as delegated by the Captain. Units follow standard movement rules and cannot activate stations. Watch for unrest; the prisoner population is a riot risk.
+
+  # --- AEGIS CREW ---
+
+  admiral: |
+    You command the fleet's only warship, functioning as its Captain with full command authority. The Aegis is legally bound to serve the President as Commander in Chief. In urgent situations without time to consult, you may act independently but will be held accountable afterward.
+
+    Wolf Attack: report to the Fleet Map to direct the Aegis' weapon batteries and shield projector. The shield projector can protect one quadrant at the start of a Wolf Attack, absorbing incoming damage from other ships in that quadrant onto the Aegis.
+
+    Note: Aegis takes morale penalties per 3 damage taken per turn (not per 1 like other ships).
+
+  xo: |
+    Second-in-command of the ship. You have direct control over the ship's Marine squads and take full command when the Captain/Admiral is off-ship.
+
+    Wolf Attack: report to the Fleet Map when the attack is announced. After the first round of combat, you may return to your ship to coordinate Marine reinforcements to vessels where boarders have landed.
+
+    ICS Marines get +2 to all combat rolls against on-foot units. This bonus does not apply to dispersing riots.
+
+  fwco: |
+    Commander Air Group — you have direct control of all Aegis fighter squadrons. You manage pilot assignments, positioning, and maintenance between engagements.
+
+    Wolf Attack: report to the Fleet Map to direct the Aegis fighters each round. Each squadron may either move to another quadrant or attack Wolf units in its current quadrant. When a fleet fighter squadron is damaged or destroyed, one Pilot crew in your hangar bay becomes wounded (resolved after the attack).
+
+  comms-officer: |
+    You manage fleet-wide communications for the Aegis — relaying information to and from the Admiral and other ships. You are third-in-command of the Aegis if both the Admiral and XO are off-ship or indisposed.
+
+  logs-officer: |
+    You ensure the Aegis has the food, water, fuel, and materials it needs. You are ultimately responsible for the ship's transport shuttles, though you may delegate day-to-day operations. You may assist other fleet vessels in sourcing critical resources.
+
+  council-liaison: |
+    You are authorized to speak at the Interstellar Council on the Admiral's behalf, but you do not hold a vote. Represent Aegis interests in Council discussions and keep the crew briefed on political developments from the chambers.
+
+  # --- STAR ALPHA CREW ---
+
+  president: |
+    Head of the executive branch. You sign all Council legislation into Law — without your signature it does not become Law. You are Commander in Chief; the Admiral and all military personnel are legally bound to follow your orders. Laws are enforced by you, the Vice President, and the Chief of Staff by default.
+
+    Special power — Presidential Veto: You may refuse to sign or veto any legislation. A veto can be overridden by a 5/7ths Council vote.
+
+    In extreme time-critical situations you may give direct orders to the Admiral without Council consultation, but improper use may result in serious legal charges.
+
+  vice-president: |
+    Second-in-command of the executive branch. You uphold and enforce the laws of the Council alongside the President. You become President if the current President is killed, incapacitated, or unable to serve. Laws are enforced by you, the President, and the Chief of Staff by default.
+
+    Special power — Tiebreaker: You do not vote in Council under normal circumstances. You cast the deciding vote only when the Council is tied.
+
+  chief-of-staff: |
+    You manage the day-to-day operations of the Star Alpha: food, water, fuel, materials, and internal security. You support the President and Vice President in law enforcement as needed. Laws not otherwise assigned are enforced by you, the President, and Vice President.
+
+  parliamentarian: |
+    Leader of the legislative branch and a voting Council member.
+
+    Special power — Legislative Control: You are the only player who can write legislation and bring it to a vote. You control the language of all proposed laws. Legislation requires a Council majority vote and the President's signature to become Law.
+
+    A majority Council vote of no confidence can strip you of this role. If removed, no new legislation can be proposed until a new Parliamentarian is elected by plurality from among all Council members.
+
+  # --- JAVELIN CREW ---
+
+  staff-sergeant: |
+    You command the Javelin's Marine squads on the ground. Marines take orders from the XO in the chain of command, but they answer to you in the field. You have special combat abilities that provide an edge in close-quarters fighting.
+
+    ICS Marines get +2 to all combat rolls against on-foot units. This bonus does not apply to dispersing riots.
+
+  # --- NEWS MEDIA ---
+
+  editor-in-chief: |
+    Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. News Media are the only non-Council players permitted to observe Council sessions without explicit Council invitation. Other players cannot make room-wide announcements without working through the Media team.
+
+  lead-anchor: |
+    Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. News Media are the only non-Council players permitted to observe Council sessions without explicit Council invitation. Other players cannot make room-wide announcements without working through the Media team.
+
+  fleet-correspondent: |
+    Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. News Media are the only non-Council players permitted to observe Council sessions without explicit Council invitation. Other players cannot make room-wide announcements without working through the Media team.
+
+  military-correspondent: |
+    Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. News Media are the only non-Council players permitted to observe Council sessions without explicit Council invitation. Other players cannot make room-wide announcements without working through the Media team.
+
+  political-correspondent: |
+    Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. News Media are the only non-Council players permitted to observe Council sessions without explicit Council invitation. Other players cannot make room-wide announcements without working through the Media team.
+
+  # --- SOLO / WILDCARD ROLES ---
+
+  arbourist: TBD
+
+  inquisitor: TBD
+
+  firebrand: TBD

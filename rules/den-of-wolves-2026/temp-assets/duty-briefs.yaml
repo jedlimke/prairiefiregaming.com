@@ -103,12 +103,24 @@ duties:
 
   # --- NEWS MEDIA ---
 
-  reporter: |
-    Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. Other players cannot make room-wide announcements without working through the Media team.
-    
+  editor-in-chief: |
+    Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. News Media are the only non-Council players permitted to observe Council sessions without explicit Council invitation. Other players cannot make room-wide announcements without working through the Media team.
+
+  lead-anchor: |
+    Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. News Media are the only non-Council players permitted to observe Council sessions without explicit Council invitation. Other players cannot make room-wide announcements without working through the Media team.
+
+  fleet-correspondent: |
+    Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. News Media are the only non-Council players permitted to observe Council sessions without explicit Council invitation. Other players cannot make room-wide announcements without working through the Media team.
+
+  military-correspondent: |
+    Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. News Media are the only non-Council players permitted to observe Council sessions without explicit Council invitation. Other players cannot make room-wide announcements without working through the Media team.
+
+  political-correspondent: |
+    Full News Media freedom of movement — no ship table restrictions. Part of the broadcast team producing one ~4-minute report per turn with direct mechanical effects on fleet morale. News Media are the only non-Council players permitted to observe Council sessions without explicit Council invitation. Other players cannot make room-wide announcements without working through the Media team.
+
   # --- SOLO / WILDCARD ROLES ---
 
-  arborist: TBD
+  arbourist: TBD
 
   inquisitor: TBD
 
