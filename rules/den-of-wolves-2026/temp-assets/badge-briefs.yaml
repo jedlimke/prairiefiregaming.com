@@ -595,16 +595,16 @@ briefs:
     logo-path:
       $ref: "#/nations/Proxima/logo-path"
     ship-path: dow--ship--quellon--black.png
-  # ─── THE ENDEAVOR (ROSAL) ─────────────────────────────────────────────────
+  # ─── THE ENDEAVOUR (ROSAL) ─────────────────────────────────────────────────
   # A small research vessel - home to most of humanity's remaining scientists,
   # one golden retriever, and one chimpanzee.
 
   - name: Captain
-    team: Endeavor
+    team: Endeavour
     display-name:
       $ref: "#/nations/Rosal/display-name"
     role-brief: |
-      You command the most **scientifically important ship in the fleet**. The Endeavor carries the majority of humanity's surviving scientists—if something can be figured out, it gets figured out here.
+      You command the most **scientifically important ship in the fleet**. The Endeavour carries the majority of humanity's surviving scientists—if something can be figured out, it gets figured out here.
       
       Protect your crew. Manage the politics between Rosal idealism and scientific pragmatism.
       
@@ -616,9 +616,9 @@ briefs:
       $ref: "#/nations/Rosal/brief"
     logo-path:
       $ref: "#/nations/Rosal/logo-path"
-    ship-path: dow--ship--endeavor--black.png
+    ship-path: dow--ship--endeavour--black.png
   - name: Chief Scientist
-    team: Endeavor
+    team: Endeavour
     display-name:
       $ref: "#/nations/Rosal/display-name"
     role-brief: |
@@ -634,7 +634,7 @@ briefs:
       $ref: "#/nations/Rosal/brief"
     logo-path:
       $ref: "#/nations/Rosal/logo-path"
-    ship-path: dow--ship--endeavor--black.png
+    ship-path: dow--ship--endeavour--black.png
   # ─── THE SALVADOR (SAN) ───────────────────────────────────────────────────
   # The fleet's only hospital ship.
 
@@ -663,7 +663,7 @@ briefs:
     role-brief: |
       As the **most experienced doctor alive**—practically the only one—you treat the wounded, train more doctors, and advocate for medical staffing across the fleet.
       
-      You have some creative pharmaceutical ideas worth exploring—the Endeavor's scientists may be useful partners.
+      You have some creative pharmaceutical ideas worth exploring—the Endeavour's scientists may be useful partners.
       
       You're also deeply concerned about the prisoners on the Vulcan. **What you do about that concern is up to you.**
 
@@ -918,7 +918,7 @@ briefs:
     display-name:
       $ref: "#/nations/Helvetii/display-name"
     role-brief: |
-      You lead a **multinational science team** in physical and material sciences, long-range observation, and resource prospecting. Reach out to the Endeavor—your research overlaps with theirs in important ways, and collaboration could benefit the whole fleet.
+      You lead a **multinational science team** in physical and material sciences, long-range observation, and resource prospecting. Reach out to the Endeavour—your research overlaps with theirs in important ways, and collaboration could benefit the whole fleet.
       
       **Your team's independence from Helvetii neutrality is a feature, not a bug.**
 
