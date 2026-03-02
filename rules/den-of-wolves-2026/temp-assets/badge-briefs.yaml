@@ -22,6 +22,7 @@ briefs:
       $ref: "#/nations/ICSS/brief"
     logo-path:
       $ref: "#/nations/ICSS/logo-path"
+    ship-path: dow--ship--aegis--black.png
   - name: XO
     team: ICSS Aegis
     display-name:
@@ -37,6 +38,7 @@ briefs:
       $ref: "#/nations/ICSS/brief"
     logo-path:
       $ref: "#/nations/ICSS/logo-path"
+    ship-path: dow--ship--aegis--black.png
   - name: CAG
     team: ICSS Aegis
     display-name:
@@ -50,6 +52,7 @@ briefs:
       $ref: "#/nations/ICSS/brief"
     logo-path:
       $ref: "#/nations/ICSS/logo-path"
+    ship-path: dow--ship--aegis--black.png
   - name: Comms Officer
     team: ICSS Aegis
     display-name:
@@ -65,6 +68,7 @@ briefs:
       $ref: "#/nations/ICSS/brief"
     logo-path:
       $ref: "#/nations/ICSS/logo-path"
+    ship-path: dow--ship--aegis--black.png
   - name: Logistics Officer
     team: ICSS Aegis
     display-name:
@@ -80,6 +84,7 @@ briefs:
       $ref: "#/nations/ICSS/brief"
     logo-path:
       $ref: "#/nations/ICSS/logo-path"
+    ship-path: dow--ship--aegis--black.png
   - name: Council Liaison
     team: ICSS Aegis
     display-name:
@@ -95,6 +100,7 @@ briefs:
       $ref: "#/nations/ICSS/brief"
     logo-path:
       $ref: "#/nations/ICSS/logo-path"
+    ship-path: dow--ship--aegis--black.png
   # ─── STAR ALPHA ───────────────────────────────────────────────────────────
   # The Presidential vessel. A small repurposed luxury ship that is the seat
   # of Executive power - and the last real government humanity has.
@@ -116,6 +122,7 @@ briefs:
       $ref: "#/nations/ISC/brief"
     logo-path:
       $ref: "#/nations/ISC/logo-path"
+    ship-path: dow--ship--star-alpha--black.png
   - name: Vice President
     team: Star Alpha
     display-name:
@@ -131,6 +138,7 @@ briefs:
       $ref: "#/nations/ISC/brief"
     logo-path:
       $ref: "#/nations/ISC/logo-path"
+    ship-path: dow--ship--star-alpha--black.png
   - name: Chief of Staff
     team: Star Alpha
     display-name:
@@ -146,6 +154,7 @@ briefs:
       $ref: "#/nations/ISC/brief"
     logo-path:
       $ref: "#/nations/ISC/logo-path"
+    ship-path: dow--ship--star-alpha--black.png
   - name: Parliamentarian
     team: Star Alpha
     display-name:
@@ -163,6 +172,7 @@ briefs:
       $ref: "#/nations/ISC/brief"
     logo-path:
       $ref: "#/nations/ISC/logo-path"
+    ship-path: dow--ship--star-alpha--black.png
   # ─── THE DIONE (FAS) ──────────────────────────────────────────────────────
   # Luxury cruiser repurposed as home to 10,000 FAS civilians and the
   # Interstellar Council itself. The political heart of the fleet.
@@ -184,6 +194,7 @@ briefs:
       $ref: "#/nations/FAS/brief"
     logo-path:
       $ref: "#/nations/FAS/logo-path"
+    ship-path: dow--ship--dione--black.png
   - name: First Officer
     team: Dione
     display-name:
@@ -201,6 +212,7 @@ briefs:
       $ref: "#/nations/FAS/brief"
     logo-path:
       $ref: "#/nations/FAS/logo-path"
+    ship-path: dow--ship--dione--black.png
   - name: Chief Engineer
     team: Dione
     display-name:
@@ -214,6 +226,7 @@ briefs:
       $ref: "#/nations/FAS/brief"
     logo-path:
       $ref: "#/nations/FAS/logo-path"
+    ship-path: dow--ship--dione--black.png
   - name: Council Member
     team: Dione
     display-name:
@@ -231,6 +244,7 @@ briefs:
       $ref: "#/nations/FAS/brief"
     logo-path:
       $ref: "#/nations/FAS/logo-path"
+    ship-path: dow--ship--dione--black.png
   # ─── THE SHEPHERD (ROSAL) ─────────────────────────────────────────────────
   # The fleet's primary food production vessel. Rosal's independent spirit
   # is as important as the calories it grows.
@@ -252,6 +266,7 @@ briefs:
       $ref: "#/nations/Rosal/brief"
     logo-path:
       $ref: "#/nations/Rosal/logo-path"
+    ship-path: dow--ship--shepherd--black.png
   - name: First Officer
     team: Shepherd
     display-name:
@@ -267,6 +282,7 @@ briefs:
       $ref: "#/nations/Rosal/brief"
     logo-path:
       $ref: "#/nations/Rosal/logo-path"
+    ship-path: dow--ship--shepherd--black.png
   - name: Chief Engineer
     team: Shepherd
     display-name:
@@ -282,6 +298,7 @@ briefs:
       $ref: "#/nations/Rosal/brief"
     logo-path:
       $ref: "#/nations/Rosal/logo-path"
+    ship-path: dow--ship--shepherd--black.png
   - name: Council Member
     team: Shepherd
     display-name:
@@ -299,6 +316,7 @@ briefs:
       $ref: "#/nations/Rosal/brief"
     logo-path:
       $ref: "#/nations/Rosal/logo-path"
+    ship-path: dow--ship--shepherd--black.png
   # ─── THE LUCAS (SAN) ──────────────────────────────────────────────────────
   # Primary water supply vessel and home to SAN engineering expertise.
 
@@ -319,6 +337,7 @@ briefs:
       $ref: "#/nations/SAN/brief"
     logo-path:
       $ref: "#/nations/SAN/logo-path"
+    ship-path: dow--ship--lucas--black.png
   - name: First Officer
     team: Lucas
     display-name:
@@ -334,6 +353,7 @@ briefs:
       $ref: "#/nations/SAN/brief"
     logo-path:
       $ref: "#/nations/SAN/logo-path"
+    ship-path: dow--ship--lucas--black.png
   - name: Chief Engineer
     team: Lucas
     display-name:
@@ -351,6 +371,7 @@ briefs:
       $ref: "#/nations/SAN/brief"
     logo-path:
       $ref: "#/nations/SAN/logo-path"
+    ship-path: dow--ship--lucas--black.png
   - name: Council Member
     team: Lucas
     display-name:
@@ -366,6 +387,7 @@ briefs:
       $ref: "#/nations/SAN/brief"
     logo-path:
       $ref: "#/nations/SAN/logo-path"
+    ship-path: dow--ship--lucas--black.png
   # ─── THE ICEBREAKER (CPA) ─────────────────────────────────────────────────
   # Large CPA mining vessel - the fleet's main source of materials and ore.
   # Crewed by survivors with raw grief and a vendetta against the Wolves.
@@ -387,6 +409,7 @@ briefs:
       $ref: "#/nations/CPA/brief"
     logo-path:
       $ref: "#/nations/CPA/logo-path"
+    ship-path: dow--ship--icebreaker--black.png
   - name: First Officer
     team: Icebreaker
     display-name:
@@ -404,6 +427,7 @@ briefs:
       $ref: "#/nations/CPA/brief"
     logo-path:
       $ref: "#/nations/CPA/logo-path"
+    ship-path: dow--ship--icebreaker--black.png
   - name: Chief Engineer
     team: Icebreaker
     display-name:
@@ -417,6 +441,7 @@ briefs:
       $ref: "#/nations/CPA/brief"
     logo-path:
       $ref: "#/nations/CPA/logo-path"
+    ship-path: dow--ship--icebreaker--black.png
   - name: Council Member
     team: Icebreaker
     display-name:
@@ -434,6 +459,7 @@ briefs:
       $ref: "#/nations/CPA/brief"
     logo-path:
       $ref: "#/nations/CPA/logo-path"
+    ship-path: dow--ship--icebreaker--black.png
   # ─── REFINERY 124 (GLIESE) ────────────────────────────────────────────────
   # The fleet's fuel source. Without strytium, the fleet stops running.
 
@@ -450,6 +476,7 @@ briefs:
       $ref: "#/nations/Gliese/brief"
     logo-path:
       $ref: "#/nations/Gliese/logo-path"
+    ship-path: dow--ship--refinery-124--black.png
   - name: First Officer
     team: Refinery 124
     display-name:
@@ -467,6 +494,7 @@ briefs:
       $ref: "#/nations/Gliese/brief"
     logo-path:
       $ref: "#/nations/Gliese/logo-path"
+    ship-path: dow--ship--refinery-124--black.png
   - name: Chief Engineer
     team: Refinery 124
     display-name:
@@ -480,6 +508,7 @@ briefs:
       $ref: "#/nations/Gliese/brief"
     logo-path:
       $ref: "#/nations/Gliese/logo-path"
+    ship-path: dow--ship--refinery-124--black.png
   - name: Council Member
     team: Refinery 124
     display-name:
@@ -497,6 +526,7 @@ briefs:
       $ref: "#/nations/Gliese/brief"
     logo-path:
       $ref: "#/nations/Gliese/logo-path"
+    ship-path: dow--ship--refinery-124--black.png
   # ─── THE QUELLON (PROXIMA) ────────────────────────────────────────────────
   # Proxima's operations vessel - water supply, fighter squadrons,
   # and fierce self-reliance.
@@ -518,6 +548,7 @@ briefs:
       $ref: "#/nations/Proxima/brief"
     logo-path:
       $ref: "#/nations/Proxima/logo-path"
+    ship-path: dow--ship--quellon--black.png
   - name: First Officer
     team: Quellon
     display-name:
@@ -531,6 +562,7 @@ briefs:
       $ref: "#/nations/Proxima/brief"
     logo-path:
       $ref: "#/nations/Proxima/logo-path"
+    ship-path: dow--ship--quellon--black.png
   - name: Chief Engineer
     team: Quellon
     display-name:
@@ -544,6 +576,7 @@ briefs:
       $ref: "#/nations/Proxima/brief"
     logo-path:
       $ref: "#/nations/Proxima/logo-path"
+    ship-path: dow--ship--quellon--black.png
   - name: Council Member
     team: Quellon
     display-name:
@@ -561,6 +594,7 @@ briefs:
       $ref: "#/nations/Proxima/brief"
     logo-path:
       $ref: "#/nations/Proxima/logo-path"
+    ship-path: dow--ship--quellon--black.png
   # ─── THE ENDEAVOR (ROSAL) ─────────────────────────────────────────────────
   # A small research vessel - home to most of humanity's remaining scientists,
   # one golden retriever, and one chimpanzee.
@@ -582,6 +616,7 @@ briefs:
       $ref: "#/nations/Rosal/brief"
     logo-path:
       $ref: "#/nations/Rosal/logo-path"
+    ship-path: dow--ship--endeavor--black.png
   - name: Chief Scientist
     team: Endeavor
     display-name:
@@ -599,6 +634,7 @@ briefs:
       $ref: "#/nations/Rosal/brief"
     logo-path:
       $ref: "#/nations/Rosal/logo-path"
+    ship-path: dow--ship--endeavor--black.png
   # ─── THE SALVADOR (SAN) ───────────────────────────────────────────────────
   # The fleet's only hospital ship.
 
@@ -619,6 +655,7 @@ briefs:
       $ref: "#/nations/SAN/brief"
     logo-path:
       $ref: "#/nations/SAN/logo-path"
+    ship-path: dow--ship--salvador--black.png
   - name: Head Surgeon
     team: Salvador
     display-name:
@@ -636,6 +673,7 @@ briefs:
       $ref: "#/nations/SAN/brief"
     logo-path:
       $ref: "#/nations/SAN/logo-path"
+    ship-path: dow--ship--salvador--black.png
   # ─── THE VULCAN (PROXIMA) ─────────────────────────────────────────────────
   # A prison transport that earned its place in the fleet through firepower
   # and labor.
@@ -653,6 +691,7 @@ briefs:
       $ref: "#/nations/Proxima/brief"
     logo-path:
       $ref: "#/nations/Proxima/logo-path"
+    ship-path: dow--ship--vulcan--black.png
   - name: Warden
     team: Vulcan
     display-name:
@@ -670,6 +709,7 @@ briefs:
       $ref: "#/nations/Proxima/brief"
     logo-path:
       $ref: "#/nations/Proxima/logo-path"
+    ship-path: dow--ship--vulcan--black.png
   # ─── PRESS ────────────────────────────────────────────────────────────────
   # The fleet's news media - information brokers, morale shapers, and the
   # closest thing to accountability this remnant of humanity has.
@@ -801,6 +841,7 @@ briefs:
       $ref: "#/nations/Helvetii/brief"
     logo-path:
       $ref: "#/nations/Helvetii/logo-path"
+    ship-path: dow--ship--hephaestus--black.png
   - name: First Officer
     team: Hephaestus
     display-name:
@@ -816,6 +857,7 @@ briefs:
       $ref: "#/nations/Helvetii/brief"
     logo-path:
       $ref: "#/nations/Helvetii/logo-path"
+    ship-path: dow--ship--hephaestus--black.png
   - name: Chief Engineer
     team: Hephaestus
     display-name:
@@ -833,6 +875,7 @@ briefs:
       $ref: "#/nations/Helvetii/brief"
     logo-path:
       $ref: "#/nations/Helvetii/logo-path"
+    ship-path: dow--ship--hephaestus--black.png
   - name: Diplomat (Council Member)
     team: Hephaestus
     display-name:
@@ -850,6 +893,7 @@ briefs:
       $ref: "#/nations/Helvetii/brief"
     logo-path:
       $ref: "#/nations/Helvetii/logo-path"
+    ship-path: dow--ship--hephaestus--black.png
   # ─── THE BALTAR (HELVETII) ────────────────────────────────────────────────
   # A cutting-edge Helvetii research vessel with a multinational science crew.
 
@@ -868,6 +912,7 @@ briefs:
       $ref: "#/nations/Helvetii/brief"
     logo-path:
       $ref: "#/nations/Helvetii/logo-path"
+    ship-path: dow--ship--baltar--black.png
   - name: Chief Scientist
     team: Baltar
     display-name:
@@ -883,6 +928,7 @@ briefs:
       $ref: "#/nations/Helvetii/brief"
     logo-path:
       $ref: "#/nations/Helvetii/logo-path"
+    ship-path: dow--ship--baltar--black.png
   # ─── ICSS JAVELIN ─────────────────────────────────────────────────────────
   # The fleet's newest missile boat - green crew, prototype weapons, and a
   # burning desire to hit back.
@@ -904,6 +950,7 @@ briefs:
       $ref: "#/nations/ICSS/brief"
     logo-path:
       $ref: "#/nations/ICSS/logo-path"
+    ship-path: dow--ship--javelin--black.png
   - name: XO
     team: ICSS Javelin
     display-name:
@@ -919,6 +966,7 @@ briefs:
       $ref: "#/nations/ICSS/brief"
     logo-path:
       $ref: "#/nations/ICSS/logo-path"
+    ship-path: dow--ship--javelin--black.png
   - name: Chief Engineer
     team: ICSS Javelin
     display-name:
@@ -936,6 +984,7 @@ briefs:
       $ref: "#/nations/ICSS/brief"
     logo-path:
       $ref: "#/nations/ICSS/logo-path"
+    ship-path: dow--ship--javelin--black.png
   - name: Staff Sergeant
     team: ICSS Javelin
     display-name:
@@ -951,6 +1000,7 @@ briefs:
       $ref: "#/nations/ICSS/brief"
     logo-path:
       $ref: "#/nations/ICSS/logo-path"
+    ship-path: dow--ship--javelin--black.png
   # ─── THE FUERZA LEON (CPA) ────────────────────────────────────────────────
   # A CPA bulk hauler with vast, disorganized cargo bays and a crew of
   # skilled specialists traveling aboard as passengers.
@@ -972,6 +1022,7 @@ briefs:
       $ref: "#/nations/CPA/brief"
     logo-path:
       $ref: "#/nations/CPA/logo-path"
+    ship-path: dow--ship--fuerza-leon--black.png
   - name: First Officer
     team: Fuerza Leon
     display-name:
@@ -989,6 +1040,7 @@ briefs:
       $ref: "#/nations/CPA/brief"
     logo-path:
       $ref: "#/nations/CPA/logo-path"
+    ship-path: dow--ship--fuerza-leon--black.png
 nations:
 
   FAS:
