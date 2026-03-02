@@ -1172,22 +1172,28 @@ duties:
   council-member: |
     The **Council Member** serves as their nation's representative to the Interstellar Council and is required to attend Council proceedings each turn to debate and vote on legislation. Council sessions are closed — attendance is restricted to Council Members, the President, Vice President, the Aegis Liaison, and accredited News Media personnel.
 
+    **Legislation**
+    The Parliamentarian is responsible for drafting legislation and presenting it to the Council for debate and voting. Passing legislation requires an absolute majority (50%, rounded up) of voting Council Members, and the Vice President may break ties if necessary. Once passed, the President must sign legislation to make it into Law. If the President does not sign the legislation or vetoes it, the Council may override the veto with a supermajority (2/3rds, rounded up) vote.
+
     **Vote of No Confidence**
-    Once per game, any Council Member may call a vote of no confidence against the sitting Parliamentarian. Removal requires a supermajority (2/3rds, rounded up) of voting Council Members.
+    Once per game, any Council Member may call a vote of no confidence against the sitting Parliamentarian and remove them with an absolute majority vote, just like passing legislation. If removed, the Parliamentarian is replaced by a Council Member via a simple plurality vote among the Council.
 
     **Snap Election**
-    A Snap Election for a new President may be called once per game overall, requiring a supermajority Council vote to initiate. If called, a simple plurality vote is held among the entire population of the fleet, with the new President naming a new Vice President upon taking office.
+    A Snap Election for a new President may be called once per game overall, requiring a supermajority (2/3rds, rounded up) Council vote to initiate. If called, a simple plurality vote is held among the entire population of the fleet, with the new President naming a new Vice President upon taking office.
 
   diplomat: |
-    The **Diplomat** serves as the junior Helvetii representative to the Interstellar Council. From game start, the Diplomat may speak during Council proceedings but does not hold voting rights, cannot call votes of no confidence, and cannot initiate snap elections.
+    The **Diplomat** serves as the junior Helvetii representative to the Interstellar Council. From game start, the Diplomat may speak during Council proceedings but does not hold voting rights, does not vote on legislation, cannot call votes of no confidence, and cannot initiate snap elections.
     
-    During Team Phase, the Diplomat may be stationed at any Helvetii vessel.
+    _During Team Phase, the Diplomat may be stationed at any Helvetii vessel._
+
+    **Legislation**
+    The Parliamentarian is responsible for drafting legislation and presenting it to the Council for debate and voting. Passing legislation requires an absolute majority (50%, rounded up) of voting Council Members, and the Vice President may break ties if necessary. Once passed, the President must sign legislation to make it into Law. If the President does not sign the legislation or vetoes it, the Council may override the veto with a supermajority (2/3rds, rounded up) vote.
 
     **Vote of No Confidence**
-    Once per game, any Council Member may call a vote of no confidence against the sitting Parliamentarian. Removal requires a supermajority (2/3rds, rounded up) of voting Council Members.
+    Once per game, any Council Member may call a vote of no confidence against the sitting Parliamentarian and remove them with an absolute majority vote, just like passing legislation. If removed, the Parliamentarian is replaced by a Council Member via a simple plurality vote among the Council.
 
     **Snap Election**
-    A Snap Election for a new President may be called once per game overall, requiring a supermajority Council vote to initiate. If called, a simple plurality vote is held among the entire population of the fleet, with the new President naming a new Vice President upon taking office.
+    A Snap Election for a new President may be called once per game overall, requiring a supermajority (2/3rds, rounded up) Council vote to initiate. If called, a simple plurality vote is held among the entire population of the fleet, with the new President naming a new Vice President upon taking office.
 
   # --- SPECIALIST SHIP ROLES ---
 
@@ -1243,7 +1249,7 @@ duties:
     The **Logistics Officer** is responsible for ensuring the Aegis maintains adequate supplies of food, water, fuel, and materials. The Logistics Officer holds ultimate responsibility for the ship's transport shuttles, though day-to-day shuttle operations may be delegated. The Logistics Officer may additionally assist other fleet vessels in sourcing critical resources.
 
   council-liaison: |
-    The **Council Liaison** is authorized to speak at the Interstellar Council on behalf of the Admiral but does not hold a vote. The Liaison represents Aegis interests in Council discussions and is responsible for keeping the crew briefed on political developments from the chambers.
+    The **Council Liaison** is authorized to speak at the Interstellar Council on behalf of the Admiral but does not hold a vote. The Liaison represents Aegis interests in Council discussions and is responsible for keeping the crew briefed on political developments from the Council chambers.
 
   # --- STAR ALPHA CREW ---
 
@@ -1253,13 +1259,13 @@ duties:
     In time-critical emergency scenarios, the President may issue direct orders to the Admiral without prior Council consultation. Improper authorization or misuse of this authority may result in significant legal liability.
 
     **Presidential Veto**
-    The President may refuse to sign or may formally veto any legislation passed by the Council. A veto may be overridden by a Council vote of 50% + 1, rounded up.
+    The President may refuse to sign or may formally veto any legislation passed by the Council. A veto may be overridden by a supermajority Council vote (2/3rds, rounded up).
 
   vice-president: |
     The **Vice President** serves as second-in-command of the executive branch and is responsible for upholding and enforcing all laws enacted by the Council, shared by default with the President and the Chief of Staff. The Vice President succeeds to the Presidency if the current President is killed, incapacitated, or otherwise unable to serve.
 
     **Tiebreaker**
-    The Vice President does not vote in Council under normal circumstances. When a Council vote is tied, the Vice President casts the deciding vote.
+    The Vice President does not vote in Council under normal circumstances. When _any_ Council vote is tied, however, the Vice President casts the deciding vote.
 
   chief-of-staff: |
     The **Chief of Staff** manages the day-to-day operations of the Star Alpha, including food, water, fuel, materials, and internal security. The Chief of Staff supports the President and Vice President in law enforcement as required. Laws not specifically assigned to another office are enforced by default by the Chief of Staff, the President, and the Vice President.
