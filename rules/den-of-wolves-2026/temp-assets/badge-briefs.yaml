@@ -130,7 +130,7 @@ briefs:
     role-brief: |
       As the President's **eyes and ears** across the fleet—and the tiebreaker when Council deadlocks—your job is to get off the Star Alpha and onto other ships. Talk to people, take the temperature of the nations, stay tight with the Admiral.
       
-      **If something goes wrong with the President, you're next in line.**
+      **If something happens to the President, you're next in line.**
 
     duty-brief:
       $ref: "#/duties/vice-president"
@@ -1170,7 +1170,7 @@ duties:
     The **Chief Engineer** is responsible for maintaining the operational status of the vessel. Primary duties include conducting repairs and ensuring adequate supplies of food, water, fuel, and materials. The Chief Engineer is additionally responsible for the ship's shuttle, if equipped, and is accountable for all shuttle operations regardless of who is piloting.
 
   council-member: |
-    The **Council Member** serves as their nation's representative to the Interstellar Council and is required to attend Council proceedings each turn to debate and vote on legislation. Council sessions are closed — attendance is restricted to Council Members, the President, Vice President, the Aegis Liaison, and accredited News Media personnel.
+    _Council sessions are **closed** — attendance is restricted to Council Members, the President, Vice President, the Aegis Liaison, and accredited News Media personnel._
 
     **Legislation**
     The Parliamentarian is responsible for drafting legislation and presenting it to the Council for debate and voting. Passing legislation requires an absolute majority (50%, rounded up) of voting Council Members, and the Vice President may break ties if necessary. Once passed, the President must sign legislation to make it into Law. If the President does not sign the legislation or vetoes it, the Council may override the veto with a supermajority (2/3rds, rounded up) vote.
@@ -1257,9 +1257,6 @@ duties:
     The **President** functions as the head of the executive branch. The President serves as Commander-in-Chief; all military personnel, including the Admiral, are legally obligated to comply with presidential directives. Legal enforcement responsibilities are shared by default with the Vice President and the Chief of Staff.
 
     In time-critical emergency scenarios, the President may issue direct orders to the Admiral without prior Council consultation. Improper authorization or misuse of this authority may result in significant legal liability.
-
-    **Legislation**
-    Once the Council passes legislation by absolute majority (50%, rounded up), the President must sign it to make it into Law. Legislation lacking presidential signature does not attain legal status.
 
     **Presidential Veto**
     The President may refuse to sign or may formally veto any legislation passed by the Council. The Council may override a veto with a supermajority (2/3rds, rounded up) vote.
