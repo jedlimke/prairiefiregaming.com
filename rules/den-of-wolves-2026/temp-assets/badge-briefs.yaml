@@ -1170,16 +1170,16 @@ duties:
     The **Chief Engineer** is responsible for maintaining the operational status of the vessel. Primary duties include conducting repairs and ensuring adequate supplies of food, water, fuel, and materials. The Chief Engineer is additionally responsible for the ship's shuttle, if equipped, and is accountable for all shuttle operations regardless of who is piloting.
 
   council-member: |
-    _Council sessions are **closed** — attendance is restricted to Council Members, the President, Vice President, the Aegis Liaison, and accredited News Media personnel._
+    _Council sessions are **closed** — Council Members, the President, Vice President, Aegis Liaison, and News Media only._
 
     **Legislation**
-    The Parliamentarian is responsible for drafting legislation and presenting it to the Council for debate and voting. Passing legislation requires an absolute majority (50%, rounded up) of voting Council Members, and the Vice President may break ties if necessary. Once passed, the President must sign legislation to make it into Law. If the President does not sign the legislation or vetoes it, the Council may override the veto with a supermajority (2/3rds, rounded up) vote.
+    The Parliamentarian drafts and presents all legislation. Passage requires an absolute majority (50%, rounded up) of voting Council Members; the Vice President may break ties. The President must sign passed legislation to enact it. If vetoed or unsigned, the Council may override with a supermajority (2/3rds, rounded up) vote.
 
     **Vote of No Confidence**
-    Once per game, any Council Member may call a vote of no confidence against the sitting Parliamentarian and remove them with an absolute majority vote, just like passing legislation. If removed, the Parliamentarian is replaced by a Council Member via a simple plurality vote among the Council.
+    Once per game, any Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority, as with legislation. If removed, a replacement is elected by simple plurality among the Council.
 
     **Snap Election**
-    A Snap Election for a new President may be called once per game overall, requiring a supermajority (2/3rds, rounded up) Council vote to initiate. If called, a simple plurality vote is held among the entire population of the fleet, with the new President naming a new Vice President upon taking office.
+    Once per game overall, a supermajority (2/3rds, rounded up) Council vote may initiate a Snap Election. If called, the new President is chosen by simple plurality of the entire fleet population and names a new Vice President upon taking office.
 
   diplomat: |
     The **Diplomat** serves as the junior Helvetii representative to the Interstellar Council. From game start, the Diplomat may speak during Council proceedings but does not hold voting rights, does not vote on legislation, cannot call votes of no confidence, and cannot initiate snap elections.
@@ -1187,13 +1187,13 @@ duties:
     _During Team Phase, the Diplomat may be stationed at any Helvetii vessel._
 
     **Legislation**
-    The Parliamentarian is responsible for drafting legislation and presenting it to the Council for debate and voting. Passing legislation requires an absolute majority (50%, rounded up) of voting Council Members, and the Vice President may break ties if necessary. Once passed, the President must sign legislation to make it into Law. If the President does not sign the legislation or vetoes it, the Council may override the veto with a supermajority (2/3rds, rounded up) vote.
+    The Parliamentarian drafts and presents all legislation. Passage requires an absolute majority (50%, rounded up) of voting Council Members; the Vice President may break ties. The President must sign passed legislation to enact it. If vetoed or unsigned, the Council may override with a supermajority (2/3rds, rounded up) vote.
 
     **Vote of No Confidence**
-    Once per game, any Council Member may call a vote of no confidence against the sitting Parliamentarian and remove them with an absolute majority vote, just like passing legislation. If removed, the Parliamentarian is replaced by a Council Member via a simple plurality vote among the Council.
+    Once per game, any Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority, as with legislation. If removed, a replacement is elected by simple plurality among the Council.
 
     **Snap Election**
-    A Snap Election for a new President may be called once per game overall, requiring a supermajority (2/3rds, rounded up) Council vote to initiate. If called, a simple plurality vote is held among the entire population of the fleet, with the new President naming a new Vice President upon taking office.
+    Once per game overall, a supermajority (2/3rds, rounded up) Council vote may initiate a Snap Election. If called, the new President is chosen by simple plurality of the entire fleet population and names a new Vice President upon taking office.
 
   # --- SPECIALIST SHIP ROLES ---
 
