@@ -876,7 +876,7 @@ briefs:
     logo-path:
       $ref: "#/nations/Helvetii/logo-path"
     ship-path: dow--ship--hephaestus--black.png
-  - name: Diplomat (Council Member)
+  - name: Diplomat
     team: Hephaestus
     display-name:
       $ref: "#/nations/Helvetii/display-name"
@@ -1156,7 +1156,7 @@ duties:
     The **Captain** holds final authority over all major decisions aboard their vessel and bears ultimate responsibility for the safety of the ship and all personnel aboard. In the absence or incapacitation of the First Officer, the Captain assumes direct command of all security forces.
 
     **Weapon Battery Operations**
-    Captains of vessels equipped with weapon batteries (Vulcan, Javelin) must report to the Fleet Map when a Wolf Attack is announced to direct fire.
+    Captains of vessels equipped with weapon batteries must report to the Fleet Map when a Wolf Attack is announced to direct fire.
 
   first-officer: |
     The **First Officer** serves as second-in-command and assumes full command of the vessel when the Captain is absent or incapacitated.
@@ -1164,7 +1164,7 @@ duties:
     On civilian vessels, the First Officer is responsible for internal security and maintains direct control over all security forces, weapon batteries, and fighter squadrons assigned to the ship. The First Officer is additionally responsible for crew counter management, including maintaining adequate crew levels and tracking personnel transfers between vessels.
 
     **Fighter Squadron Operations**
-    First Officers of vessels carrying fighter squadrons (Dione, Icebreaker, Quellon) must report to the Fleet Map when a Wolf Attack is announced to direct squadron deployment.
+    First Officers of vessels carrying fighter squadrons must report to the Fleet Map when a Wolf Attack is announced to direct squadron deployment.
 
   chief-engineer: |
     The **Chief Engineer** is responsible for maintaining the operational status of the vessel. Primary duties include conducting repairs and ensuring adequate supplies of food, water, fuel, and materials. The Chief Engineer is additionally responsible for the ship's shuttle, if equipped, and is accountable for all shuttle operations regardless of who is piloting.
@@ -1173,21 +1173,33 @@ duties:
     The **Council Member** serves as their nation's representative to the Interstellar Council and is required to attend Council proceedings each turn to debate and vote on legislation. Council sessions are closed — attendance is restricted to Council Members, the President, Vice President, the Aegis Liaison, and accredited News Media personnel.
 
     **Vote of No Confidence**
-    Once per game, any Council Member may call a vote of no confidence against the sitting Parliamentarian. Removal requires a simple majority of voting Council Members.
+    Once per game, any Council Member may call a vote of no confidence against the sitting Parliamentarian. Removal requires a supermajority (2/3rds, rounded up) of voting Council Members.
 
     **Snap Election**
-    A Snap Election for a new President may be called once per game, requiring a 5/7ths Council vote to initiate. If called, all players vote from among current Council Members.
+    A Snap Election for a new President may be called once per game overall, requiring a supermajority Council vote to initiate. If called, a simple plurality vote is held among the entire population of the fleet, with the new President naming a new Vice President upon taking office.
 
   diplomat: |
-    The **Diplomat** serves as the junior Helvetii representative to the Interstellar Council. The Diplomat may speak during Council proceedings but does not hold voting rights at game start. During Team Phase, the Diplomat may be stationed at either Helvetii vessel.
+    The **Diplomat** serves as the junior Helvetii representative to the Interstellar Council. From game start, the Diplomat may speak during Council proceedings but does not hold voting rights, cannot call votes of no confidence, and cannot initiate snap elections.
+    
+    During Team Phase, the Diplomat may be stationed at any Helvetii vessel.
+
+    **Vote of No Confidence**
+    Once per game, any Council Member may call a vote of no confidence against the sitting Parliamentarian. Removal requires a supermajority (2/3rds, rounded up) of voting Council Members.
+
+    **Snap Election**
+    A Snap Election for a new President may be called once per game overall, requiring a supermajority Council vote to initiate. If called, a simple plurality vote is held among the entire population of the fleet, with the new President naming a new Vice President upon taking office.
 
   # --- SPECIALIST SHIP ROLES ---
 
   chief-scientist: |
-    The **Chief Scientist** oversees the day-to-day research operations of their vessel. Science resources are allocated and spent to execute Science Projects, which produce upgrades and new capabilities for the fleet. Starter project cards are provided at game start; additional projects may be proposed to Control at any time.
+    The **Chief Scientist** oversees the day-to-day research operations of their vessel. Science resources are allocated and spent to execute Science Projects, which produce upgrades and new capabilities for the fleet.
+    
+    Starter project cards are provided at game start; additional projects may be proposed to Control at any time.
 
   head-surgeon: |
-    The **Head Surgeon** manages all medical operations aboard the Salvador. Wounded crew may be healed at any undamaged Sickbay station. Players who sustain Wounded status in-game must report to a ship with an undamaged Sickbay; Wounded players do not consume station capacity and the station remains usable by other personnel. The Head Surgeon is encouraged to advocate for the training of additional medical personnel fleet-wide.
+    The **Head Surgeon** manages all medical operations aboard the Salvador. Wounded crew may be healed at any undamaged Sickbay station. Players who sustain Wounded status in-game must report to a ship with an undamaged Sickbay; Wounded players do not consume station capacity and the station remains usable by other personnel.
+    
+    The Head Surgeon is encouraged to advocate for the training of additional medical personnel fleet-wide.
 
   warden: |
     The **Warden** is responsible for the management of the Vulcan's prison population, which constitutes the ship's primary labor pool. Prison labor units may be assigned to tasks as delegated by the Captain. These units follow standard movement rules but are prohibited from activating stations. The prisoner population carries an inherent riot risk; unrest conditions should be monitored closely.
@@ -1195,7 +1207,7 @@ duties:
   # --- AEGIS CREW ---
 
   admiral: |
-    The **Admiral** commands the fleet's only battleship and functions as its Captain, holding full command authority over the vessel. The Aegis is legally bound to serve the President in their capacity as Commander in Chief. In urgent situations where consultation is not feasible, the Admiral may act independently but will be held accountable for such decisions afterward.
+    The **Admiral** commands the fleet's only battleship and functions as its Captain, holding full command authority over the vessel. The Aegis is legally bound to serve the President in their capacity as Commander-in-Chief. In urgent situations where consultation is not feasible, the Admiral may act independently but will be held accountable for such decisions afterward.
 
     **Wolf Attack Response**
     When a Wolf Attack is announced, the Admiral must report to the Fleet Map to direct the Aegis' weapon batteries and shield projector.
@@ -1204,16 +1216,16 @@ duties:
     The shield projector may be activated at the start of a Wolf Attack to protect one quadrant of the fleet, absorbing incoming damage from other ships in that quadrant onto the Aegis.
 
     **Morale Threshold**
-    The Aegis sustains morale penalties per 3 points of damage taken per turn, rather than the standard rate of 1.
+    The Aegis sustains morale penalties per 3 points of damage taken per turn, rather than the standard rate of 1 for vessels.
 
   xo: |
-    The **XO (Executive Officer)** serves as second-in-command of the ship and assumes full command when the Captain or Admiral is off-ship. The XO maintains direct command authority over the ship's Marine squads.
+    The **XO (Executive Officer)** serves as second-in-command of the ship and assumes full command when their commanding officer is off-ship. The XO maintains direct command authority over the ship's Marine squads.
 
     **Wolf Attack Response**
     When a Wolf Attack is announced, the XO must report to the Fleet Map. After the first round of combat, the XO may return to their ship to coordinate Marine reinforcements to vessels where boarders have landed.
 
     **Marine Combat Modifier**
-    ICS Marines receive a +2 bonus to all combat rolls against on-foot enemy units. This bonus does not apply to riot dispersal actions.
+    ICS Marines receive a +2 bonus to all combat rolls against on-foot enemy units. This bonus does **not** apply to riot dispersal actions.
 
   cag: |
     The **CAG (Commander: Air Group)** maintains direct command authority over all Aegis fighter squadrons, including pilot assignments, positioning, and maintenance between engagements.
