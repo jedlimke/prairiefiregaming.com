@@ -28,7 +28,7 @@ briefs:
     display-name:
       $ref: "#/nations/ICSS/display-name"
     role-brief: |
-      As second-in-command of the Aegis and direct commander of its **Marine squads**, you're in charge whenever the Admiral is away (which is often). When the Wolves attack, you coordinate Marine deployment across the entire fleet.
+      As second-in-command of the _Aegis_ and direct commander of its **Marine squads**, you're in charge whenever the Admiral is away (which is often). When the Wolves attack, you coordinate Marine deployment across the entire fleet.
       
       **Keep the crew sharp.**
 
@@ -44,7 +44,7 @@ briefs:
     display-name:
       $ref: "#/nations/ICSS/display-name"
     role-brief: |
-      As the CAG (Commander: Air Group), you control the Aegis' **fighter squadrons**. Pilot assignments, positioning, maintenance, and tactical deployment. The fleet's military superiority lives or dies by how well you manage those squadrons. Every pilot lost is a hole that's hard to fill.
+      As the CAG (Commander: Air Group), you control the _Aegis'_ **fighter squadrons**. Pilot assignments, positioning, maintenance, and tactical deployment. The fleet's military superiority lives or dies by how well you manage those squadrons. Every pilot lost is a hole that's hard to fill.
 
     duty-brief:
       $ref: "#/duties/cag"
@@ -74,7 +74,7 @@ briefs:
     display-name:
       $ref: "#/nations/ICSS/display-name"
     role-brief: |
-      You keep the Aegis stocked with food, water, fuel, and materials—and may assist other vessels in also obtaining these critical resources, as **any ship that can't move is a tomb**. Furthermore, you oversee the ship's transport shuttles.
+      You keep the _Aegis_ stocked with food, water, fuel, and materials—and may assist other vessels in also obtaining these critical resources, as **any ship that can't move is a tomb**. Furthermore, you oversee the ship's transport shuttles.
       
       **Nothing moves without you.**
 
@@ -92,7 +92,7 @@ briefs:
     role-brief: |
       As the Admiral's **authorized voice** in the Interstellar Council chambers—you may speak but cannot vote—you're the bridge between the military and the politicians.
       
-      Your role is a two-way street: represent the Aegis' interests in political discussions while **keeping the crew briefed** on everything happening in civilian government.
+      Your role is a two-way street: represent the _Aegis'_ interests in political discussions while **keeping the crew briefed** on everything happening in civilian government.
 
     duty-brief:
       $ref: "#/duties/council-liaison"
@@ -128,7 +128,7 @@ briefs:
     display-name:
       $ref: "#/nations/ISC/display-name"
     role-brief: |
-      As the President's **eyes and ears** across the fleet—and the tiebreaker when Council deadlocks—your job is to get off the Star Alpha and onto other ships. Talk to people, take the temperature of the nations, stay tight with the Admiral.
+      As the President's **eyes and ears** across the fleet—and the tiebreaker when Council deadlocks—your job is to get off the _Star Alpha_ and onto other ships. Talk to people, take the temperature of the nations, stay tight with the Admiral.
       
       **If something happens to the President, you're next in line.**
 
@@ -144,7 +144,7 @@ briefs:
     display-name:
       $ref: "#/nations/ISC/display-name"
     role-brief: |
-      You run the Star Alpha's day-to-day operations: food, water, fuel, materials, security. You also support the President and VP on law enforcement when needed.
+      You run the _Star Alpha_'s day-to-day operations: food, water, fuel, materials, security. You also support the President and VP on law enforcement when needed.
       
       The **administrative engine of the Presidency** runs through you—if politics is the face, **you're the spine.**
 
@@ -186,7 +186,7 @@ briefs:
       
       This population represents the greatest hope for mankind's continuation. Your ship needs the fleet's support to keep the human race alive—**remind them of this, loudly and often.**
       
-      Protect the Council's home on your ship. Do not let Rosal undermine you.
+      The Council meets on your ship—**make sure they remember whose hospitality makes their work possible.** _Especially_ New Nation instigators like Rosal.
 
     duty-brief:
       $ref: "#/duties/captain"
@@ -204,7 +204,7 @@ briefs:
       
       Keep them safe, keep them calm, keep them alive.
       
-      The Council meets on your ship—**make sure they remember whose hospitality makes their work possible.**
+      The Council meets on your ship—**make sure they remember whose hospitality makes their work possible.** _Especially_ New Nation instigators like Rosal.
 
     duty-brief:
       $ref: "#/duties/first-officer"
@@ -218,7 +218,9 @@ briefs:
     display-name:
       $ref: "#/nations/FAS/display-name"
     role-brief: |
-      You're keeping a **luxury cruiser** operational with ten thousand refugees aboard - the largest surviving population anywhere. The Dione wasn't built for this, but it's what humanity has. Every system you maintain keeps the future of the human race alive. That's not a burden. That's the most important engineering job in the fleet.
+      You're keeping a **luxury cruiser** operational with ten thousand refugees aboard - the largest surviving population anywhere. The Dione wasn't built for this, but it's what humanity has. Every system you maintain keeps the future of the human race alive. That's not a burden.
+      
+      **That's the most important engineering job in the fleet.**
 
     duty-brief:
       $ref: "#/duties/chief-engineer"
@@ -236,7 +238,7 @@ briefs:
       
       Defend Old Nation interests, keep Rosal in check, and maintain the coalition with CPA and SAN.
       
-      The Council meets on your ship because the Dione is the **political heart of the fleet**—that's not an accident. **It should stay that way.**
+      The Council meets on your ship because the _Dione_ is the **political heart of the fleet**—that's not an accident. **It must stay that way.**
 
     duty-brief:
       $ref: "#/duties/council-member"
@@ -254,7 +256,7 @@ briefs:
     display-name:
       $ref: "#/nations/Rosal/display-name"
     role-brief: |
-      You command the **ship that feeds the fleet**. Without the Shepherd's food production, people starve—and you know it.
+      You command the **ship that feeds the fleet**. Without the _Shepherd's_ food production, people starve—and you know it.
       
       Use that leverage firmly but wisely. You represent Rosal's proud tradition of self-determination and standing up to Old Nation dominance.
       
@@ -272,9 +274,9 @@ briefs:
     display-name:
       $ref: "#/nations/Rosal/display-name"
     role-brief: |
-      You keep the **ship that feeds the fleet** running. The Shepherd's leverage is absolute—but so is the weight on your shoulders.
+      You keep the **ship that feeds the fleet** running. The _Shepherd's_ leverage is absolute—but so is the weight on your shoulders.
       
-      Embody Rosal's independent spirit. **Never back down to Old Nation pressure. Not once.**
+      Embody Rosal's independent spirit. **Never back down to Old Nation pressure. Not even once.**
 
     duty-brief:
       $ref: "#/duties/first-officer"
@@ -306,9 +308,9 @@ briefs:
     role-brief: |
       As **Rosal's voice** on the Interstellar Council—speaking for the ship that feeds the fleet—you vote on legislation with the leverage of starvation behind every word.
       
-      Advocate loudly for New Nation rights. You may spend Team Phase at either the Shepherd or the Endeavour.
+      Advocate loudly for New Nation rights. You may spend Team Phase at either the _Shepherd_ or the _Endeavour_.
       
-      **Push back against Old Nation power. Keep the FAS honest.** Build coalition with Gliese and Helvetii.
+      Build coalition with Gliese and Helvetii. **Push back against Old Nation power and Keep the FAS honest.** 
 
     duty-brief:
       $ref: "#/duties/council-member"
@@ -325,7 +327,7 @@ briefs:
     display-name:
       $ref: "#/nations/SAN/display-name"
     role-brief: |
-      You command the fleet's **main water supplier**. The Lucas' distillation units provide most of the fleet's fresh water—an existential resource.
+      You command the fleet's **main water supplier**. The _Lucas'_ distillation units provide most of the fleet's fresh water—an existential resource.
       
       Protect the ship and shuttle at all costs. SAN's reputation as an engineering and technical powerhouse lives on here.
       
@@ -343,7 +345,7 @@ briefs:
     display-name:
       $ref: "#/nations/SAN/display-name"
     role-brief: |
-      The Lucas supplies **most of the fleet's water** and hosts what's left of SAN's engineering university. Keep operations tight. Support the training programs.
+      The _Lucas_ supplies **most of the fleet's water** and hosts what's left of SAN's engineering university. Keep operations tight. Support the training programs.
       
       SAN's reputation as the technical powerhouse is your nation's strongest card—**play it well.**
 
@@ -377,7 +379,7 @@ briefs:
     display-name:
       $ref: "#/nations/SAN/display-name"
     role-brief: |
-      As **SAN's representative** on the Interstellar Council—backed by the technical expertise and water supply the fleet depends on—you vote on legislation with quiet authority. You may spend Team Phase at the Lucas or Salvador.
+      As **SAN's representative** on the Interstellar Council—backed by the technical expertise and water supply the fleet depends on—you vote on legislation with quiet authority. You may spend Team Phase at the _Lucas_ or _Salvador_.
       
       Maintain Old Nation alliances (especially with the CPA), figure out why the CPA has gone so quiet lately, and **make sure the fleet knows water comes from you.**
 
@@ -468,7 +470,9 @@ briefs:
     display-name:
       $ref: "#/nations/Gliese/display-name"
     role-brief: |
-      You command the ship that **keeps the fleet moving**. Refinery 124 processes strytium ore into fuel every vessel needs to survive. Gliese's strength has always been quiet, industrial, essential - you embody that. Use your resource leverage as soft power in Council. Ensure workers' rights are never an afterthought.
+      You command the ship that **keeps the fleet moving**. Refinery 124 processes strytium ore into fuel every vessel needs to survive. Gliese's strength has always been quiet, industrial, essential—you embody that. Use your resource leverage as soft power in Council.
+      
+      **Ensure workers' rights are never an afterthought.**
 
     duty-brief:
       $ref: "#/duties/captain"
@@ -554,7 +558,7 @@ briefs:
     display-name:
       $ref: "#/nations/Proxima/display-name"
     role-brief: |
-      Proxima's pride is **self-sufficiency**. The Quellon produces water and fields fighters - living proof you don't need anyone's charity. Keep operations tight. Never give the Old Nations an excuse to condescend. Not even once.
+      Proxima's pride is **self-sufficiency**. The _Quellon_ produces water and fields fighters—living proof you don't need anyone's charity. Keep operations tight. Never give the Old Nations an excuse to condescend. Not even once.
 
     duty-brief:
       $ref: "#/duties/first-officer"
@@ -568,7 +572,7 @@ briefs:
     display-name:
       $ref: "#/nations/Proxima/display-name"
     role-brief: |
-      Proxima doesn't ask for hand-outs. Your job is to make sure the Quellon **never has to**. Self-sufficiency isn't just politics - it's engineering discipline. Live it.
+      Proxima doesn't ask for hand-outs. Your job is to make sure the _Quellon_ **never has to**. Self-sufficiency isn't just politics—it's engineering discipline. Live it.
 
     duty-brief:
       $ref: "#/duties/chief-engineer"
@@ -582,12 +586,11 @@ briefs:
     display-name:
       $ref: "#/nations/Proxima/display-name"
     role-brief: |
-      As **Proxima's representative** on the Interstellar Council—voice of a nation that refuses to beg—you vote on legislation with fierce independence. You may spend Team Phase at the Quellon or the Vulcan.
+      As **Proxima's representative** on the Interstellar Council—voice of a nation that refuses to beg—you vote on legislation with fierce independence. You may spend Team Phase at the _Quellon_ or the _Vulcan_.
       
       Advocate hard for Proximan self-sufficiency and redundancy fleet-wide. Push back against Old Nation dominance.
       
-      **Keep close ties with the Vulcan crew.**
-
+      **Keep close ties with the _Vulcan_ crew.**
     duty-brief:
       $ref: "#/duties/council-member"
     nation-brief:
@@ -622,7 +625,7 @@ briefs:
     display-name:
       $ref: "#/nations/Rosal/display-name"
     role-brief: |
-      You lead **humanity's last surviving research faculty**. Your team develops upgrades and technical solutions for all fleet vessels. Be creative—propose ambitious projects. Reach out to the Baltar for collaboration.
+      You lead **humanity's last surviving research faculty**. Your team develops upgrades and technical solutions for all fleet vessels. Be creative—propose ambitious projects. Reach out to the _Baltar_ for collaboration.
       
       Watch for religious or political interference with scientific progress.
       
@@ -643,12 +646,11 @@ briefs:
     display-name:
       $ref: "#/nations/SAN/display-name"
     role-brief: |
-      You command the **only dedicated medical vessel in the fleet**. The Salvador is indispensable—people live or die based on what you do here.
+      You command the **only dedicated medical vessel in the fleet**. The _Salvador_ is indispensable—people live or die based on what you do here.
       
-      Make sure medical services run, your crew is supported, and SAN's voice is heard through the Lucas Council member. Keep close ties with the Lucas.
+      Make sure medical services run, your crew is supported, and SAN's voice is heard through the _Lucas_ Council member. Keep close ties with the _Lucas_.
       
-      **Never let anyone overlook the Salvador's role in keeping people alive.**
-
+      **Never let anyone overlook the _Salvador_'s role in keeping people alive.**
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
@@ -663,9 +665,9 @@ briefs:
     role-brief: |
       As the **most experienced doctor alive**—practically the only one—you treat the wounded, train more doctors, and advocate for medical staffing across the fleet.
       
-      You have some creative pharmaceutical ideas worth exploring—the Endeavour's scientists may be useful partners.
+      You have some creative pharmaceutical ideas worth exploring—the _Endeavour's_ scientists may be useful partners.
       
-      You're also deeply concerned about the prisoners on the Vulcan. **What you do about that concern is up to you.**
+      You're also deeply concerned about the prisoners on the _Vulcan_. **What you do about that concern is up to you.**
 
     duty-brief:
       $ref: "#/duties/head-surgeon"
@@ -683,7 +685,7 @@ briefs:
     display-name:
       $ref: "#/nations/Proxima/display-name"
     role-brief: |
-      You command a **prison transport** with weapon batteries and 413 prisoners. Your arrival in the fleet was controversial. Prove the Vulcan's worth through firepower and labor. Defend Proximan interests. Don't apologize for what you are.
+      You command a **prison transport** with weapon batteries and 413 prisoners. Your arrival in the fleet was controversial. Prove the _Vulcan_'s worth through firepower and labor. Defend Proximan interests. Don't apologize for what you are.
 
     duty-brief:
       $ref: "#/duties/captain"
@@ -701,8 +703,7 @@ briefs:
       
       Resist any insinuations that your crew mistreats them.
       
-      **Your labor pool and the Vulcan's weapons are Proxima's biggest contributions to fleet survival.**
-
+      **Your labor pool and the _Vulcan_'s weapons are Proxima's biggest contributions to fleet survival.**
     duty-brief:
       $ref: "#/duties/warden"
     nation-brief:
@@ -749,7 +750,7 @@ briefs:
     display-name:
       $ref: "#/nations/INC/display-name"
     role-brief: |
-      You cover the **fleet's day-to-day pulse** - ship operations, civilian conditions, inter-vessel relationships. You're the generalist on the team, circulating widely and building relationships across all ships. Look for the human stories that shape morale.
+      You cover the **fleet's day-to-day pulse**—ship operations, civilian conditions, inter-vessel relationships. You're the generalist on the team, circulating widely and building relationships across all ships. Look for the human stories that shape morale.
 
     duty-brief:
       $ref: "#/duties/fleet-correspondent"
@@ -760,7 +761,7 @@ briefs:
     display-name:
       $ref: "#/nations/INC/display-name"
     role-brief: |
-      You cover the **military side of the fleet**—the Aegis, the Javelin, the Vulcan, and tactical events during Wolf attacks.
+      You cover the **military side of the fleet**—the _Aegis_, the _Javelin_, the _Vulcan_, and tactical events during Wolf attacks.
       
       Build trust with the Admiral and military leadership to get access while retaining editorial independence.
       
@@ -812,7 +813,7 @@ briefs:
     role-brief: |
       You're a **political prisoner from Gilese**—populist, charismatic, and just released after a decade of imprisonment for anti-FAS activism. A stencil of your face is a symbol of resistance across what's left of human space.
       
-      You were on the Vulcan when the Attack happened, your sentence was illegally extended, and you're now being held on the Aegis.
+      You were on the _Vulcan_ when the Attack happened, your sentence was illegally extended, and you're now being held on the _Aegis_.
       
       Once free, your voice could reshape the fleet's politics. You have strong support among workers and prisoners.
       
@@ -904,7 +905,7 @@ briefs:
     role-brief: |
       You command Helvetii's **state-of-the-art research ship**, purpose-built for long-range scanning and resource prospecting. Your crew is multinational and doesn't feel tightly bound to Helvetii neutrality, though _you_ may.
       
-      Find asteroids. Find resources. Find opportunities—and **forge your own political identity distinct from the Hephaestus' orthodoxy.**
+      Find asteroids. Find resources. Find opportunities—and **forge your own political identity distinct from the _Hephaestus'_ orthodoxy.**
 
     duty-brief:
       $ref: "#/duties/captain"
@@ -918,7 +919,7 @@ briefs:
     display-name:
       $ref: "#/nations/Helvetii/display-name"
     role-brief: |
-      You lead a **multinational science team** in physical and material sciences, long-range observation, and resource prospecting. Reach out to the Endeavour—your research overlaps with theirs in important ways, and collaboration could benefit the whole fleet.
+      You lead a **multinational science team** in physical and material sciences, long-range observation, and resource prospecting. Reach out to the _Endeavour_—your research overlaps with theirs in important ways, and collaboration could benefit the whole fleet.
       
       **Your team's independence from Helvetii neutrality is a feature, not a bug.**
 
@@ -940,7 +941,7 @@ briefs:
     role-brief: |
       You were still on **shakedown cruise** when the Attack happened. Your crew watched Old Earth burn from Jupiter orbit—they're green, but they're furious.
       
-      The Javelin's prototype missiles are powerful and expensive. You answer to the Admiral.
+      The _Javelin's_ prototype missiles are powerful and expensive. You answer to the Admiral.
       
       **But if there's a clear shot at the Wolves? You'll take it.**
 
@@ -956,7 +957,7 @@ briefs:
     display-name:
       $ref: "#/nations/ICSS/display-name"
     role-brief: |
-      You command the Javelin's **Marines** and serve as the Captain's second-in-command. The Javelin's crew is green, but they're furious. They want to hit back at the Wolves—and they want to hit hard.
+      You command the _Javelin's_ **Marines** and serve as the Captain's second-in-command. The _Javelin's_ crew is green, but they're furious. They want to hit back at the Wolves—and they want to hit hard.
       
       **Stay vigilant.**
 
@@ -972,9 +973,9 @@ briefs:
     display-name:
       $ref: "#/nations/ICSS/display-name"
     role-brief: |
-      Not only are you saddled with overall ship maintenance, you also maintain the Javelin's **prototype missile launchers**—finicky and temperamental doesn't come close to describing them.
+      Not only are you saddled with overall ship maintenance, you also maintain the _Javelin's_ **prototype missile launchers**—finicky and temperamental doesn't come close to describing them.
       
-      Keep the Javelin battle-ready at all times—it might not be as strong as the Aegis, but it's well-armored and punches way above its weight.
+      Keep the _Javelin_ battle-ready at all times—it might not be as strong as the _Aegis_, but it's well-armored and punches way above its weight.
       
       **Keep it that way.**
 
@@ -990,7 +991,7 @@ briefs:
     display-name:
       $ref: "#/nations/ICSS/display-name"
     role-brief: |
-      The Marines take orders from the XO, but they **listen** to you. Battle-hardened and respected. Keep your people alive, execute the XO's tactical orders, and make sure the Javelin's ground forces hit harder than anything the Wolves expect.
+      The Marines take orders from the XO, but they **listen** to you. Battle-hardened and respected. Keep your people alive, execute the XO's tactical orders, and make sure the _Javelin's_ ground forces hit harder than anything the Wolves expect.
       
       **Lead them well.**
 
@@ -1200,26 +1201,26 @@ duties:
     Starter project cards are provided at game start; additional projects may be proposed to Control at any time.
 
   head-surgeon: |
-    The **Head Surgeon** manages all medical operations aboard the Salvador. Wounded crew may be healed at any undamaged Sickbay station. Players who sustain Wounded status in-game must report to a ship with an undamaged Sickbay; Wounded players do not consume station capacity and the station remains usable by other personnel.
+    The **Head Surgeon** manages all medical operations aboard the _Salvador_. Wounded crew may be healed at any undamaged Sickbay station. Players who sustain Wounded status in-game must report to a ship with an undamaged Sickbay; Wounded players do not consume station capacity and the station remains usable by other personnel.
     
     The Head Surgeon is encouraged to advocate for the training of additional medical personnel fleet-wide.
 
   warden: |
-    The **Warden** is responsible for the management of the Vulcan's prison population, which constitutes the ship's primary labor pool. Prison labor units may be assigned to tasks as delegated by the Captain. These units follow standard movement rules but are prohibited from activating stations. The prisoner population carries an inherent riot risk; unrest conditions should be monitored closely.
+    The **Warden** is responsible for the management of the _Vulcan_'s prison population, which constitutes the ship's primary labor pool. Prison labor units may be assigned to tasks as delegated by the Captain. These units follow standard movement rules but are prohibited from activating stations. The prisoner population carries an inherent riot risk; unrest conditions should be monitored closely.
 
   # --- AEGIS CREW ---
 
   admiral: |
-    The **Admiral** commands the fleet's only battleship and functions as its Captain, holding full command authority over the vessel. The Aegis is legally bound to serve the President in their capacity as Commander-in-Chief. In urgent situations where consultation is not feasible, the Admiral may act independently but will be held accountable for such decisions afterward.
+    The **Admiral** commands the fleet's only battleship and functions as its Captain, holding full command authority over the vessel. The _Aegis_ is legally bound to serve the President in their capacity as Commander-in-Chief. In urgent situations where consultation is not feasible, the Admiral may act independently but will be held accountable for such decisions afterward.
 
     **Wolf Attack Response**
-    When a Wolf Attack is announced, the Admiral must report to the Fleet Map to direct the Aegis' weapon batteries and shield projector.
+    When a Wolf Attack is announced, the Admiral must report to the Fleet Map to direct the _Aegis'_ weapon batteries and shield projector.
 
     **Shield Projector**
-    The shield projector may be activated at the start of a Wolf Attack to protect one quadrant of the fleet, absorbing incoming damage from other ships in that quadrant onto the Aegis.
+    The shield projector may be activated at the start of a Wolf Attack to protect one quadrant of the fleet, absorbing incoming damage from other ships in that quadrant onto the _Aegis_.
 
     **Morale Threshold**
-    The Aegis sustains morale penalties per 3 points of damage taken per turn, rather than the standard rate of 1 for vessels.
+    The _Aegis_ sustains morale penalties per 3 points of damage taken per turn, rather than the standard rate of 1 for vessels.
 
   xo: |
     The **XO (Executive Officer)** serves as second-in-command of the ship and assumes full command when their commanding officer is off-ship. The XO maintains direct command authority over the ship's Marine squads.
@@ -1240,13 +1241,13 @@ duties:
     When a fleet fighter squadron is damaged or destroyed, one Pilot crew member in the hangar bay sustains Wounded status. Casualties are resolved after the attack concludes.
 
   comms-officer: |
-    The **Comms Officer** manages fleet-wide communications for the Aegis, responsible for relaying information to and from the Admiral and coordinating with other vessels. The Comms Officer is third in the chain-of-command and assumes authority over the Aegis if both the Admiral and XO are off-ship or incapacitated.
+    The **Comms Officer** manages fleet-wide communications for the _Aegis_, responsible for relaying information to and from the Admiral and coordinating with other vessels. The Comms Officer is third in the chain-of-command and assumes authority over the _Aegis_ if both the Admiral and XO are off-ship or incapacitated.
 
   logs-officer: |
-    The **Logistics Officer** is responsible for ensuring the Aegis maintains adequate supplies of food, water, fuel, and materials. The Logistics Officer holds ultimate responsibility for the ship's transport shuttles, though day-to-day shuttle operations may be delegated. The Logistics Officer may additionally assist other fleet vessels in sourcing critical resources.
+    The **Logistics Officer** is responsible for ensuring the _Aegis_ maintains adequate supplies of food, water, fuel, and materials. The Logistics Officer holds ultimate responsibility for the ship's transport shuttles, though day-to-day shuttle operations may be delegated. The Logistics Officer may additionally assist other fleet vessels in sourcing critical resources.
 
   council-liaison: |
-    The **Council Liaison** is authorized to speak at the Interstellar Council on behalf of the Admiral but does not hold a vote. The Liaison represents Aegis interests in Council discussions and is responsible for keeping the crew briefed on political developments from the Council chambers.
+    The **Council Liaison** is authorized to speak at the Interstellar Council on behalf of the Admiral but does not hold a vote. The Liaison represents _Aegis_ interests in Council discussions and is responsible for keeping the crew briefed on political developments from the Council chambers.
 
   # --- STAR ALPHA CREW ---
 
@@ -1271,7 +1272,7 @@ duties:
     If a Snap Election is called and succeeds, the new President names a new Vice President upon taking office. The previous Vice President does not automatically succeed.
 
   chief-of-staff: |
-    The **Chief of Staff** manages the day-to-day operations of the Star Alpha, including food, water, fuel, materials, and internal security. The Chief of Staff supports the President and Vice President in law enforcement as required. Laws not specifically assigned to another office are enforced by default by the Chief of Staff, the President, and the Vice President.
+    The **Chief of Staff** manages the day-to-day operations of the _Star Alpha_, including food, water, fuel, materials, and internal security. The Chief of Staff supports the President and Vice President in law enforcement as required. Laws not specifically assigned to another office are enforced by default by the Chief of Staff, the President, and the Vice President.
 
   parliamentarian: |
     The **Parliamentarian** leads the legislative branch and holds a voting seat on the Interstellar Council.
@@ -1285,7 +1286,7 @@ duties:
   # --- JAVELIN CREW ---
 
   staff-sergeant: |
-    The **Staff Sergeant** commands the Javelin's Marine squads in ground operations. Within the chain-of-command, Marines report to the XO; in the field, they answer to the Staff Sergeant. The Staff Sergeant possesses specialized combat capabilities that provide tactical advantages in close-quarters engagements.
+    The **Staff Sergeant** commands the _Javelin's_ Marine squads in ground operations. Within the chain-of-command, Marines report to the XO; in the field, they answer to the Staff Sergeant. The Staff Sergeant possesses specialized combat capabilities that provide tactical advantages in close-quarters engagements.
 
     **Marine Combat Modifier**
     ICS Marines receive a +2 bonus to all combat rolls against on-foot enemy units. This bonus does not apply to riot dispersal actions.
