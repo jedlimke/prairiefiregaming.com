@@ -1220,7 +1220,7 @@ duties:
     The shield projector may be activated at the start of a Wolf Attack to protect one quadrant of the fleet, absorbing incoming damage from other ships in that quadrant onto the _Aegis_.
 
     **Morale Threshold**
-    The _Aegis_ sustains morale penalties per 3 points of damage taken per turn, rather than the standard rate of 1 for vessels.
+    The _Aegis_ sustains morale penalties per 3 points of damage taken per turn, rather than the standard rate of 1 for other vessels.
 
   xo: |
     The **XO (Executive Officer)** serves as second-in-command of the ship and assumes full command when their commanding officer is off-ship. The XO maintains direct command authority over the ship's Marine squads.
@@ -1269,7 +1269,7 @@ duties:
     The Vice President does not vote in Council under normal circumstances. When _any_ Council vote is tied, the Vice President casts the deciding vote.
 
     **Snap Election**
-    If a Snap Election is called and succeeds, the new President names a new Vice President upon taking office. The previous Vice President does not automatically succeed.
+    If a Snap Election succeeds, the new President names a new Vice President upon taking office—the previous Vice President does not automatically succeed.
 
   chief-of-staff: |
     The **Chief of Staff** manages the day-to-day operations of the _Star Alpha_, including food, water, fuel, materials, and internal security. The Chief of Staff supports the President and Vice President in law enforcement as required. Laws not specifically assigned to another office are enforced by default by the Chief of Staff, the President, and the Vice President.
@@ -1277,11 +1277,13 @@ duties:
   parliamentarian: |
     The **Parliamentarian** leads the legislative branch and holds a voting seat on the Interstellar Council.
 
-    **Legislative Authority**
-    The Parliamentarian is the sole individual authorized to draft legislation and bring it before the Council for a vote. The Parliamentarian controls the language of all proposed laws. Passing legislation requires an absolute majority (50%, rounded up) of voting Council Members, and the Vice President may break ties if necessary. Once passed, the President must sign the legislation to make it into Law. If the President vetoes, the Council may override with a supermajority (2/3rds, rounded up) vote.
+    **Legislative Control**
+    The Parliamentarian is the sole individual authorized to draft legislation and bring it before the Council for a vote. The Parliamentarian controls the language of all proposed laws.
+    
+    Passage requires an absolute majority (50%, rounded up) of voting Council Members; the Vice President may break ties. The President must sign passed legislation to enact it. If vetoed or unsigned, the Council may override with a supermajority (2/3rds, rounded up) vote.
 
     **Vote of No Confidence**
-    Once per game, any Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority vote, just like passing legislation. If removed, no new legislation may be proposed until a replacement Parliamentarian is elected by simple plurality vote among the Council.
+    Once per game, any voting Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority, as with legislation. If removed, a replacement is elected by simple plurality among the Council.
 
   # --- JAVELIN CREW ---
 
