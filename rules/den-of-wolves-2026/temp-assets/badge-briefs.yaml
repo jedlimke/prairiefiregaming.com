@@ -1176,13 +1176,13 @@ duties:
     The Parliamentarian drafts and presents all legislation. Passage requires an absolute majority (50%, rounded up) of voting Council Members; the Vice President may break ties. The President must sign passed legislation to enact it. If vetoed or unsigned, the Council may override with a supermajority (2/3rds, rounded up) vote.
 
     **Vote of No Confidence**
-    Once per game, any Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority, as with legislation. If removed, a replacement is elected by simple plurality among the Council.
+    Once per game, any voting Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority, as with legislation. If removed, a replacement is elected by simple plurality among the Council.
 
     **Snap Election**
     Once per game overall, a supermajority (2/3rds, rounded up) Council vote may initiate a Snap Election. If called, the new President is chosen by simple plurality of the entire fleet population and names a new Vice President upon taking office.
 
   diplomat: |
-    The **Diplomat** serves as the junior Helvetii representative to the Interstellar Council. From game start, the Diplomat may speak during Council proceedings but does not hold voting rights, does not vote on legislation, cannot call votes of no confidence, and cannot initiate snap elections.
+    From game start, the **Diplomat** may speak during Council proceedings but does not hold voting rights, cannot call for votes of no confidence, and cannot initiate snap elections.
     
     _During Team Phase, the Diplomat may be stationed at any Helvetii vessel._
 
@@ -1190,7 +1190,7 @@ duties:
     The Parliamentarian drafts and presents all legislation. Passage requires an absolute majority (50%, rounded up) of voting Council Members; the Vice President may break ties. The President must sign passed legislation to enact it. If vetoed or unsigned, the Council may override with a supermajority (2/3rds, rounded up) vote.
 
     **Vote of No Confidence**
-    Once per game, any Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority, as with legislation. If removed, a replacement is elected by simple plurality among the Council.
+    Once per game, any voting Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority, as with legislation. If removed, a replacement is elected by simple plurality among the Council.
 
   # --- SPECIALIST SHIP ROLES ---
 
