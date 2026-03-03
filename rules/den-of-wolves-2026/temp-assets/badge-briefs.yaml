@@ -1012,9 +1012,9 @@ briefs:
     role-brief: |
       You command a **CPA bulk hauler** with vast cargo capacity and several highly skilled CPA specialists aboard as passengers. Emergency jumps scattered your manifest and jettisoned some cargo—but that means you have **flexibility**.
       
-      Those specialists are valuable. Your empty bays can become anything the fleet needs. You can leverage both.
+      Those specialists are valuable. Your empty bays can become anything the fleet needs.
       
-      **The CPA needs wins—deliver them.**
+      **Turn the chaos into leverage.**
 
     duty-brief:
       $ref: "#/duties/captain"
@@ -1032,7 +1032,7 @@ briefs:
       
       Keep everyone organized. Keep the ship operational. Help the Captain turn potential into leverage.
       
-      **The CPA needs wins.**
+      **Make every asset count.**
 
     duty-brief:
       $ref: "#/duties/first-officer"
@@ -1170,7 +1170,7 @@ duties:
     The **Chief Engineer** is responsible for maintaining the operational status of the vessel. Primary duties include conducting repairs and ensuring adequate supplies of food, water, fuel, and materials. The Chief Engineer is additionally responsible for the ship's shuttle, if equipped, and is accountable for all shuttle operations regardless of who is piloting.
 
   council-member: |
-    _Council sessions are **closed** — Council Members, the President, Vice President, Aegis Liaison, and News Media only._
+    _Council sessions are **closed**—Council Members, the President, Vice President, Aegis Liaison, and News Media only._
 
     **Legislation**
     The Parliamentarian drafts and presents all legislation. Passage requires an absolute majority (50%, rounded up) of voting Council Members; the Vice President may break ties. The President must sign passed legislation to enact it. If vetoed or unsigned, the Council may override with a supermajority (2/3rds, rounded up) vote.
@@ -1191,9 +1191,6 @@ duties:
 
     **Vote of No Confidence**
     Once per game, any Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority, as with legislation. If removed, a replacement is elected by simple plurality among the Council.
-
-    **Snap Election**
-    Once per game overall, a supermajority (2/3rds, rounded up) Council vote may initiate a Snap Election. If called, the new President is chosen by simple plurality of the entire fleet population and names a new Vice President upon taking office.
 
   # --- SPECIALIST SHIP ROLES ---
 
@@ -1296,16 +1293,16 @@ duties:
   # --- NEWS MEDIA ---
 
   editor-in-chief: |
-    All **News Media** personnel are granted unrestricted freedom of movement across the fleet — no ship table restrictions apply. The News Media team collectively produces one broadcast report per turn, approximately four minutes in length, which carries direct mechanical effects on fleet morale. News Media are the only non-Council personnel permitted to observe Council sessions without an explicit Council invitation. Fleet-wide announcements by non-Media players must be coordinated through the News Media team.
+    All **News Media** personnel are granted unrestricted freedom of movement across the fleet—no ship table restrictions apply. The News Media team collectively produces one broadcast report per turn, approximately four minutes in length, which carries direct mechanical effects on fleet morale. News Media are the only non-Council personnel permitted to observe Council sessions without an explicit Council invitation. Fleet-wide announcements by non-Media players must be coordinated through the News Media team.
 
   lead-anchor: |
-    All **News Media** personnel are granted unrestricted freedom of movement across the fleet — no ship table restrictions apply. The News Media team collectively produces one broadcast report per turn, approximately four minutes in length, which carries direct mechanical effects on fleet morale. News Media are the only non-Council personnel permitted to observe Council sessions without an explicit Council invitation. Fleet-wide announcements by non-Media players must be coordinated through the News Media team.
+    All **News Media** personnel are granted unrestricted freedom of movement across the fleet—no ship table restrictions apply. The News Media team collectively produces one broadcast report per turn, approximately four minutes in length, which carries direct mechanical effects on fleet morale. News Media are the only non-Council personnel permitted to observe Council sessions without an explicit Council invitation. Fleet-wide announcements by non-Media players must be coordinated through the News Media team.
 
   fleet-correspondent: |
-    All **News Media** personnel are granted unrestricted freedom of movement across the fleet — no ship table restrictions apply. The News Media team collectively produces one broadcast report per turn, approximately four minutes in length, which carries direct mechanical effects on fleet morale. News Media are the only non-Council personnel permitted to observe Council sessions without an explicit Council invitation. Fleet-wide announcements by non-Media players must be coordinated through the News Media team.
+    All **News Media** personnel are granted unrestricted freedom of movement across the fleet—no ship table restrictions apply. The News Media team collectively produces one broadcast report per turn, approximately four minutes in length, which carries direct mechanical effects on fleet morale. News Media are the only non-Council personnel permitted to observe Council sessions without an explicit Council invitation. Fleet-wide announcements by non-Media players must be coordinated through the News Media team.
 
   military-correspondent: |
-    All **News Media** personnel are granted unrestricted freedom of movement across the fleet — no ship table restrictions apply. The News Media team collectively produces one broadcast report per turn, approximately four minutes in length, which carries direct mechanical effects on fleet morale. News Media are the only non-Council personnel permitted to observe Council sessions without an explicit Council invitation. Fleet-wide announcements by non-Media players must be coordinated through the News Media team.
+    All **News Media** personnel are granted unrestricted freedom of movement across the fleet—no ship table restrictions apply. The News Media team collectively produces one broadcast report per turn, approximately four minutes in length, which carries direct mechanical effects on fleet morale. News Media are the only non-Council personnel permitted to observe Council sessions without an explicit Council invitation. Fleet-wide announcements by non-Media players must be coordinated through the News Media team.
 
   political-correspondent: |
-    All **News Media** personnel are granted unrestricted freedom of movement across the fleet — no ship table restrictions apply. The News Media team collectively produces one broadcast report per turn, approximately four minutes in length, which carries direct mechanical effects on fleet morale. News Media are the only non-Council personnel permitted to observe Council sessions without an explicit Council invitation. Fleet-wide announcements by non-Media players must be coordinated through the News Media team.
+    All **News Media** personnel are granted unrestricted freedom of movement across the fleet—no ship table restrictions apply. The News Media team collectively produces one broadcast report per turn, approximately four minutes in length, which carries direct mechanical effects on fleet morale. News Media are the only non-Council personnel permitted to observe Council sessions without an explicit Council invitation. Fleet-wide announcements by non-Media players must be coordinated through the News Media team.
