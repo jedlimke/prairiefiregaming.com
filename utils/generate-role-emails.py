@@ -620,7 +620,7 @@ def build_email(team, hex_mapping):
         discord_section = f"""\
     <div class="discord-box">
         <h2 style="margin: 0 0 10px 0;"><strong>Join the PFG Discord Server</strong></h2>
-        <p>This is where we'll coordinate before game day. There, you can message <strong>Jed (@coppergearbox)</strong>—I'll answer any questions you have right away.</p>
+        <p>This is where we'll coordinate before game day. There, you can message me—<strong>Jed (@coppergearbox)</strong>—and I'll answer any questions you have asap.</p>
         <p style="font-size: 13px; color: #777;">Even if you're not a Discord regular, it takes 30 seconds to join and it's the easiest way for us to stay connected. That said, all your essential materials are linked below—you won't miss anything critical.</p>
         <p style="text-align: center;"><a href="{DISCORD_INVITE}" class="discord-btn">JOIN THE SERVER ►</a></p>
     </div>
@@ -629,7 +629,7 @@ def build_email(team, hex_mapping):
         discord_section = f"""\
     <div class="discord-box">
         <h2 style="margin: 0 0 10px 0;"><strong>Join the PFG Discord Server</strong></h2>
-        <p>This is where {"your team" if is_press else "your crew"} will coordinate before game day. Join the server and send a DM to <strong>Jed (@coppergearbox)</strong>—{discord_channel_text} so you can start planning together.</p>
+        <p>This is where {"your team" if is_press else "your crew"} will coordinate before game day. Join the server and send a DM to me—<strong>Jed (@coppergearbox)</strong>—{discord_channel_text} so I can get you in a private room together so you can plan and discuss!</p>
         <p style="font-size: 13px; color: #777;">Even if you're not a Discord regular, it takes 30 seconds to join and it's the easiest way for {"your team" if is_press else "your crew"} to stay connected. That said, all your essential materials are linked below—you won't miss anything critical.</p>
         <p style="text-align: center;"><a href="{DISCORD_INVITE}" class="discord-btn">JOIN THE SERVER ►</a></p>
     </div>
