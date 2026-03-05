@@ -16,6 +16,8 @@ briefs:
       As Admiral and commander of the only battleship in the fleet, you carry humanity's remaining military power in your hands. Strategic command. High-stakes diplomacy. Direct liaison with the President.
 
       You answer to the Council—but when seconds matter and lives are on the line, **act first… and answer for it afterward.**
+
+      **The fleet's survival depends on you.**
     duty-brief:
       $ref: "#/duties/admiral"
     nation-brief:
@@ -44,7 +46,9 @@ briefs:
     display-name:
       $ref: "#/nations/ICSS/display-name"
     role-brief: |
-      As the CAG (Commander: Air Group), you control the _Aegis'_ **fighter squadrons**. Pilot assignments, positioning, maintenance, and tactical deployment. The fleet's military superiority lives or dies by how well you manage those squadrons. Every pilot lost is a hole that's hard to fill.
+      As the CAG (Commander: Air Group), you control the Aegis' **fighter squadrons**. Pilot assignments, positioning, maintenance, and tactical deployment. The fleet's military superiority lives or dies by how well you manage those squadrons.
+      
+      **Every pilot lost is a hole that's hard to fill.**
 
     duty-brief:
       $ref: "#/duties/cag"
@@ -110,11 +114,11 @@ briefs:
     display-name:
       $ref: "#/nations/ISC/display-name"
     role-brief: |
-      As **humanity's head of state**—the last in succession after the Attack—you lead the Interstellar Council, sign laws passed by it, and serve as Commander-in-Chief of the military (the Admiral answers to you).
+      As **humanity's head of state**—the last in succession after the Attack—you lead the Interstellar Council, sign laws passed by it, and serve as Commander-in-Chief of the military. **The Admiral answers to you.**
       
-      Your political roots are FAS, but the law demands neutrality—and the fleet is watching.
+      While your political roots are FAS, the law demands neutrality—and the fleet is watching.
       
-      **Keep the government strong. Keep the Admiral in line. Keep the fleet together.**
+      **Keep the government strong, the Admiral in line, and the fleet together.**
 
     duty-brief:
       $ref: "#/duties/president"
@@ -144,7 +148,7 @@ briefs:
     display-name:
       $ref: "#/nations/ISC/display-name"
     role-brief: |
-      You run the _Star Alpha_'s day-to-day operations: food, water, fuel, materials, security. You also support the President and VP on law enforcement when needed.
+      You run the _Star Alpha's_ day-to-day operations: food, water, fuel, materials, security. You also support the President and VP on law enforcement when needed.
       
       The **administrative engine of the Presidency** runs through you—if politics is the face, **you're the spine.**
 
@@ -160,11 +164,9 @@ briefs:
     display-name:
       $ref: "#/nations/ISC/display-name"
     role-brief: |
-      You draft the language of proposed laws and bring them before Council to vote on. You're also a voting Council member yourself. In a fleet with **no surviving legal infrastructure**, the precision of what gets written matters enormously.
+      You draft the language of proposed laws and bring them before Council to vote on. You're also a voting Council member yourself. In a fleet with **no surviving legal infrastructure**, the precision of what gets written matters enormously. As such, **you** are the architect of whatever new laws this remnant of humanity will live by.
       
-      You're the architect of whatever new laws this remnant of humanity will live by.
-      
-      **Build a world worth living in.**
+      **Create a world worth living in.**
 
     duty-brief:
       $ref: "#/duties/parliamentarian"
@@ -290,9 +292,11 @@ briefs:
     display-name:
       $ref: "#/nations/Rosal/display-name"
     role-brief: |
-      The biological and mechanical systems you maintain **literally keep the fleet fed**. A breakdown here is a fleet emergency—which gives you serious political weight.
+      The biological and mechanical systems you maintain **literally keep the fleet fed**. Without them—without **you**—people will starve.
       
-      **Use it.** Rosal didn't get this far by being polite.
+      A breakdown on the _Shepherd_ is a fleet emergency—which gives you serious political weight. **Use it.**
+      
+      **Rosal didn't get this far by being polite.**
 
     duty-brief:
       $ref: "#/duties/chief-engineer"
@@ -648,9 +652,9 @@ briefs:
     role-brief: |
       You command the **only dedicated medical vessel in the fleet**. The _Salvador_ is indispensable—people live or die based on what you do here.
       
-      Make sure medical services run, your crew is supported, and SAN's voice is heard through the _Lucas_ Council member. Keep close ties with the _Lucas_.
+      Make sure medical services run, your crew is supported, and not only the _Salvador's_ voice, but the voice of **SAN** overall is heard in Council. Your voice can only be heard in Council via the _Lucas'_ representative, so **build a strong relationship with them.**
       
-      **Never let anyone overlook the _Salvador_'s role in keeping people alive.**
+      **Never let anyone overlook the _Salvador's_ role in keeping people alive.**
     duty-brief:
       $ref: "#/duties/captain"
     nation-brief:
@@ -667,7 +671,9 @@ briefs:
       
       You have some creative pharmaceutical ideas worth exploring—the _Endeavour's_ scientists may be useful partners.
       
-      You're also deeply concerned about the prisoners on the _Vulcan_. **What you do about that concern is up to you.**
+      You're also deeply concerned about the prisoners on the _Vulcan_.
+      
+      **What you do about that concern is up to you.**
 
     duty-brief:
       $ref: "#/duties/head-surgeon"
@@ -685,7 +691,7 @@ briefs:
     display-name:
       $ref: "#/nations/Proxima/display-name"
     role-brief: |
-      You command a **prison transport** with weapon batteries and 413 prisoners. Your arrival in the fleet was controversial. Prove the _Vulcan_'s worth through firepower and labor. Defend Proximan interests. Don't apologize for what you are.
+      You command a **prison transport** with weapon batteries and 413 prisoners. Your arrival in the fleet was controversial. Prove the _Vulcan's_ worth through firepower and labor. Defend Proximan interests. Don't apologize for what you are.
 
     duty-brief:
       $ref: "#/duties/captain"
@@ -703,7 +709,7 @@ briefs:
       
       Resist any insinuations that your crew mistreats them.
       
-      **Your labor pool and the _Vulcan_'s weapons are Proxima's biggest contributions to fleet survival.**
+      **Your labor pool and the _Vulcan's_ weapons are Proxima's biggest contributions to fleet survival.**
     duty-brief:
       $ref: "#/duties/warden"
     nation-brief:
@@ -1171,27 +1177,32 @@ duties:
     The **Chief Engineer** is responsible for maintaining the operational status of the vessel. Primary duties include conducting repairs and ensuring adequate supplies of food, water, fuel, and materials. The Chief Engineer is additionally responsible for the ship's shuttle, if equipped, and is accountable for all shuttle operations regardless of who is piloting.
 
   council-member: |
-    _Council sessions are **closed**—Council Members, the President, Vice President, Aegis Liaison, and News Media only._
-
-    **Legislation**
-    The Parliamentarian drafts and presents all legislation. Passage requires an absolute majority (50%, rounded up) of voting Council Members; the Vice President may break ties. The President must sign passed legislation to enact it. If vetoed or unsigned, the Council may override with a supermajority (2/3rds, rounded up) vote.
+    **Parliamentarian's Role**
+    The Parliamentarian drafts and presents all legislation and, as such, holds significant influence over the legislative agenda.
 
     **Vote of No Confidence**
-    Once per game, any voting Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority, as with legislation. If removed, a replacement is elected by simple plurality among the Council.
+    Once per game, any voting Council Member may call a vote of no confidence against the Parliamentarian.
 
     **Snap Election**
-    Once per game overall, a supermajority (2/3rds, rounded up) Council vote may initiate a Snap Election. If called, the new President is chosen by simple plurality of the entire fleet population and names a new Vice President upon taking office.
+    Once per game overall, a supermajority Council vote may initiate a Snap Election. If called, the new President is chosen by simple plurality of the entire fleet population and names a new Vice President upon taking office.
+
+    _Consult the rulebook for full legislative procedures._
 
   diplomat: |
-    From game start, the **Diplomat** may speak during Council proceedings but does not hold voting rights, cannot call for votes of no confidence, and cannot initiate snap elections.
-    
     _During Team Phase, the Diplomat may be stationed at any Helvetii vessel._
 
-    **Legislation**
-    The Parliamentarian drafts and presents all legislation. Passage requires an absolute majority (50%, rounded up) of voting Council Members; the Vice President may break ties. The President must sign passed legislation to enact it. If vetoed or unsigned, the Council may override with a supermajority (2/3rds, rounded up) vote.
+    While in chambers, consider the following:
+
+    **Parliamentarian's Role**
+    The Parliamentarian drafts and presents all legislation and, as such, holds significant influence over the legislative agenda.
 
     **Vote of No Confidence**
-    Once per game, any voting Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority, as with legislation. If removed, a replacement is elected by simple plurality among the Council.
+    Once per game, any voting Council Member may call a vote of no confidence against the Parliamentarian.
+
+    **Snap Election**
+    Once per game overall, a supermajority Council vote may initiate a Snap Election. If called, the new President is chosen by simple plurality of the entire fleet population and names a new Vice President upon taking office.
+
+    _Consult the rulebook for full legislative procedures._
 
   # --- SPECIALIST SHIP ROLES ---
 
@@ -1206,13 +1217,11 @@ duties:
     The Head Surgeon is encouraged to advocate for the training of additional medical personnel fleet-wide.
 
   warden: |
-    The **Warden** is responsible for the management of the _Vulcan_'s prison population, which constitutes the ship's primary labor pool. Prison labor units may be assigned to tasks as delegated by the Captain. These units follow standard movement rules but are prohibited from activating stations. The prisoner population carries an inherent riot risk; unrest conditions should be monitored closely.
+    The **Warden** is responsible for the management of the _Vulcan's_ prison population, which constitutes the ship's primary labor pool. Prison labor units may be assigned to tasks as delegated by the Captain. These units follow standard movement rules but are prohibited from activating stations. The prisoner population carries an inherent riot risk; unrest conditions should be monitored closely.
 
   # --- AEGIS CREW ---
 
   admiral: |
-    The **Admiral** commands the fleet's only battleship and functions as its Captain, holding full command authority over the vessel. The _Aegis_ is legally bound to serve the President in their capacity as Commander-in-Chief. In urgent situations where consultation is not feasible, the Admiral may act independently but will be held accountable for such decisions afterward.
-
     **Wolf Attack Response**
     When a Wolf Attack is announced, the Admiral must report to the Fleet Map to direct the _Aegis'_ weapon batteries and shield projector.
 
@@ -1223,8 +1232,6 @@ duties:
     The _Aegis_ sustains morale penalties per 3 points of damage taken per turn, rather than the standard rate of 1 for other vessels.
 
   xo: |
-    The **XO (Executive Officer)** serves as second-in-command of the ship and assumes full command when their commanding officer is off-ship. The XO maintains direct command authority over the ship's Marine squads.
-
     **Wolf Attack Response**
     When a Wolf Attack is announced, the XO must report to the Fleet Map. After the first round of combat, the XO may return to their ship to coordinate Marine reinforcements to vessels where boarders have landed.
 
@@ -1232,32 +1239,27 @@ duties:
     ICS Marines receive a +2 bonus to all combat rolls against on-foot enemy units. This bonus does **not** apply to riot dispersal actions.
 
   cag: |
-    The **CAG (Commander: Air Group)** maintains direct command authority over all Aegis fighter squadrons, including pilot assignments, positioning, and maintenance between engagements.
-
     **Wolf Attack Response**
     When a Wolf Attack is announced, the CAG must report to the Fleet Map to direct fighter operations each round. Each squadron may either move to another quadrant or engage Wolf units in its current quadrant.
 
     **Pilot Casualties**
     When a fleet fighter squadron is damaged or destroyed, one Pilot crew member in the hangar bay sustains Wounded status. Casualties are resolved after the attack concludes.
 
-  comms-officer: |
-    The **Comms Officer** manages fleet-wide communications for the _Aegis_, responsible for relaying information to and from the Admiral and coordinating with other vessels. The Comms Officer is third in the chain-of-command and assumes authority over the _Aegis_ if both the Admiral and XO are off-ship or incapacitated.
+  comms-officer:
 
-  logs-officer: |
-    The **Logistics Officer** is responsible for ensuring the _Aegis_ maintains adequate supplies of food, water, fuel, and materials. The Logistics Officer holds ultimate responsibility for the ship's transport shuttles, though day-to-day shuttle operations may be delegated. The Logistics Officer may additionally assist other fleet vessels in sourcing critical resources.
-
-  council-liaison: |
-    The **Council Liaison** is authorized to speak at the Interstellar Council on behalf of the Admiral but does not hold a vote. The Liaison represents _Aegis_ interests in Council discussions and is responsible for keeping the crew briefed on political developments from the Council chambers.
+  logs-officer: 
+  
+  council-liaison: 
 
   # --- STAR ALPHA CREW ---
 
   president: |
-    The **President** functions as the head of the executive branch. The President serves as Commander-in-Chief; all military personnel, including the Admiral, are legally obligated to comply with presidential directives. Legal enforcement responsibilities are shared by default with the Vice President and the Chief of Staff.
+    The **President** functions as the head of the executive branch. The President serves as Commander-in-Chief; **all** military personnel are legally obligated to comply with presidential directives. Enforcement duties are shared by default with the Vice President and Chief of Staff.
 
-    In time-critical emergency scenarios, the President may issue direct orders to the Admiral without prior Council consultation. Improper authorization or misuse of this authority may result in significant legal liability.
+    In time-critical emergency scenarios, the President may issue direct orders to the Admiral without prior Council consultation.
 
     **Presidential Veto**
-    The President may refuse to sign or may formally veto any legislation passed by the Council. The Council may override a veto with a supermajority (2/3rds, rounded up) vote.
+    The President may refuse or formally veto any legislation passed by the Council. The Council may override a veto via supermajority vote.
 
     **Snap Election**
     A Snap Election removes the sitting President. If a Snap Election is called and succeeds, the President is replaced immediately. The new President names a new Vice President upon taking office.
@@ -1279,11 +1281,14 @@ duties:
 
     **Legislative Control**
     The Parliamentarian is the sole individual authorized to draft legislation and bring it before the Council for a vote. The Parliamentarian controls the language of all proposed laws.
-    
-    Passage requires an absolute majority (50%, rounded up) of voting Council Members; the Vice President may break ties. The President must sign passed legislation to enact it. If vetoed or unsigned, the Council may override with a supermajority (2/3rds, rounded up) vote.
 
     **Vote of No Confidence**
-    Once per game, any voting Council Member may call a vote of no confidence against the Parliamentarian. Removal requires an absolute majority, as with legislation. If removed, a replacement is elected by simple plurality among the Council.
+    Once per game, any voting Council Member may call a vote of no confidence against the Parliamentarian.
+
+    **Snap Election**
+    Once per game overall, a supermajority Council vote may initiate a Snap Election. If called, the new President is chosen by simple plurality of the entire fleet population and names a new Vice President upon taking office.
+
+    _Consult the rulebook for full legislative procedures._
 
   # --- JAVELIN CREW ---
 
