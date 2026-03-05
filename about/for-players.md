@@ -55,13 +55,13 @@ Things will go wrong. Plans will fall apart. Alliances will betray you. That's n
 
 Costumes are highly encouraged at megagames to help with immersion and getting into character, but no matter what you wear, definitely... _definitely_ **wear comfortable shoes.**
 
-Check our [Safety Policy](/policies/safety-policy/) to learn more about general costume guidelines.
-
 <div class="callout info" markdown="1" data-label="COSPLAY IS ALWAYS OPTIONAL">
 You **never** _have_ to cosplay for a megagame.
 
 If you _want_ to, however, we hope you will.
 </div>
+
+Check our [Safety Policy](/policies/safety-policy/) to learn more about general costume guidelines.
 
 
 ## During the Game
@@ -86,10 +86,10 @@ If you _want_ to, however, we hope you will.
 
 - **Have Fun** - Seriously. Succeed or fail, the goal is to create memorable stories together.
 
-<div class="callout info" markdown="1" data-label="ALL GOOD THINGS">
+<div class="callout" markdown="1" data-label="ALL GOOD THINGS">
 **The game will end before you're ready.**
 
-Don't save anything for later. Use your abilities, spend your resources, take your shot. You'll only regret playing it safe.
+Don't save anything for later. Use your abilities, spend your resources, take your shot. You'll only _regret_ playing it safe.
 
 _So don't._
 </div>

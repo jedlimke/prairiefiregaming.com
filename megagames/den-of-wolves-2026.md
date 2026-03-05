@@ -88,7 +88,7 @@ You might be a ship captain coordinating with engineers to keep the lights on. Y
 	<div class="fleet-nation">
 		<img src="/assets/megagames/dow--nation--isc.png" alt="Interstellar Council flag" class="nation--isc">
 		<div class="fleet-content">
-		<h4>Interstellar Council (ISC)</h4>
+		<h4>Interstellar Council (ICS)</h4>
 		<p>The governing body of humanity—or what's left of it. The Council convenes aboard the <em>Dione</em> to debate policy, pass legislation, and argue over who is to blame for everything. Old Nations and New Nations share the table but rarely share a vision. The President holds the chair. Whether they hold the room is up to them.</p>
 		</div>
 	</div>

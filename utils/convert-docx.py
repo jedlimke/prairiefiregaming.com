@@ -1,13 +1,35 @@
 """
-Temporary one-shot converter: docx → markdown stubs.
-Delete this file after use.
+Converts all .docx files in rules/den-of-wolves-2026/temp-assets to markdown.
+Smart/curly quotes are normalized to straight ASCII quotes.
 """
 from docx import Document
 from docx.oxml.ns import qn
-import re, os
+import re, os, glob
 
 IMAGE_PLACEHOLDER = "❌"
-BASE = os.path.dirname(__file__) + "/rules/den-of-wolves-2026"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+TEMP_ASSETS = os.path.join(SCRIPT_DIR, "..", "rules", "den-of-wolves-2026", "temp-assets")
+
+
+QUOTE_MAP = {
+    "\u2018": "'",   # left single quotation mark
+    "\u2019": "'",   # right single quotation mark  (apostrophe too)
+    "\u201a": "'",   # single low-9 quotation mark
+    "\u201b": "'",   # single high-reversed-9 quotation mark
+    "\u201c": '"',   # left double quotation mark
+    "\u201d": '"',   # right double quotation mark
+    "\u201e": '"',   # double low-9 quotation mark
+    "\u201f": '"',   # double high-reversed-9 quotation mark
+    "\u2032": "'",   # prime
+    "\u2033": '"',   # double prime
+    "\u02bc": "'",   # modifier letter apostrophe
+}
+
+
+def normalize_quotes(text):
+    for src, dst in QUOTE_MAP.items():
+        text = text.replace(src, dst)
+    return text
 
 
 def has_image(para):
@@ -31,7 +53,7 @@ def para_to_md(para):
 
     parts = []
     for run in para.runs:
-        text = run.text
+        text = normalize_quotes(run.text)
         if not text:
             if run_has_image(run):
                 parts.append(IMAGE_PLACEHOLDER)
@@ -79,36 +101,19 @@ def docx_to_body(path):
     return "\n".join(lines)
 
 
-CONVERSIONS = [
-    (
-        f"{BASE}/Background Guide.docx",
-        f"{BASE}/background-guide.md",
-        "Background Guide",
-        "/rules/den-of-wolves-2026/background-guide/",
-        2,
-    ),
-    (
-        f"{BASE}/Rules Handbook.docx",
-        f"{BASE}/rules-handbook.md",
-        "Full Rules Handbook",
-        "/rules/den-of-wolves-2026/rules-handbook/",
-        3,
-    ),
-]
+docx_files = sorted(glob.glob(os.path.join(TEMP_ASSETS, "*.docx")))
 
-for docx_path, md_path, title, permalink, nav_order in CONVERSIONS:
-    print(f"Converting {docx_path} ...")
-    body = docx_to_body(docx_path)
-    frontmatter = (
-        f'---\n'
-        f'title: "{title}"\n'
-        f'link_title: "{title}"\n'
-        f'permalink: {permalink}\n'
-        f'nav_order: {nav_order}\n'
-        f'---\n\n'
-    )
-    with open(md_path, "w", encoding="utf-8") as f:
-        f.write(frontmatter + body + "\n")
-    print(f"  → wrote {md_path}")
+if not docx_files:
+    print(f"No .docx files found in {TEMP_ASSETS}")
+else:
+    for docx_path in docx_files:
+        stem = os.path.splitext(os.path.basename(docx_path))[0]
+        md_filename = stem.lower().replace(" ", "-") + ".md"
+        md_path = os.path.join(TEMP_ASSETS, md_filename)
+        print(f"Converting {os.path.basename(docx_path)} ...")
+        body = docx_to_body(docx_path)
+        with open(md_path, "w", encoding="utf-8") as f:
+            f.write(body + "\n")
+        print(f"  -> wrote {md_filename}")
 
 print("Done.")

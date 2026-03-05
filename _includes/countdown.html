@@ -7,13 +7,17 @@
   Optional:
     gameday_message — text shown when target is reached (default: "GAMEDAY IS TODAY")
     caption         — small label shown below the digits; omit to show nothing
+    word_days       — if set to any truthy value, the days unit is shown as a
+                      word (e.g. EIGHT) for 0–20, falling back to digits above 20
 
   Usage:
     {%- include countdown.html target="2026-03-07T09:30:00-06:00" -%}
     {%- include countdown.html target="2026-03-07T09:30:00-06:00" caption="UNTIL THE MEGAGAME" -%}
+    {%- include countdown.html target="2026-03-07T09:30:00-06:00" word_days=true -%}
 {% endcomment %}
 
 <div class="countdown"
      data-target="{{ include.target }}"
-     data-gameday-message="{{ include.gameday_message | default: "GAMEDAY IS TODAY" }}"></div>
+     data-gameday-message="{{ include.gameday_message | default: "GAMEDAY IS TODAY" }}"
+     {% if include.word_days %}data-word-days="true"{% endif %}></div>
 {% if include.caption %}<p class="countdown-caption">{{ include.caption }}</p>{% endif %}
