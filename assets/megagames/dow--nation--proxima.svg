@@ -7,9 +7,9 @@
    id="svg840"
    sodipodi:docname="dow--nation--proxima.svg"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
-   inkscape:export-filename="/Users/jedlimke/Documents/Megagames/DEN-OF-WOLVES-MARCH-2026/Den of Wolves - Infinite Domain/Den of Wolves - Infinite Domain v1.0/Materials/Image Assets/jed-flags/dow--nation--cpa.png"
-   inkscape:export-xdpi="72"
-   inkscape:export-ydpi="72"
+   inkscape:export-filename="/Users/jedlimke/code/prairiefiregaming.com/assets/megagames/dow--nation--proxima.png"
+   inkscape:export-xdpi="36"
+   inkscape:export-ydpi="36"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -32,20 +32,20 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:zoom="0.08730469"
-     inkscape:cx="2033.1096"
-     inkscape:cy="3224.34"
-     inkscape:window-width="1920"
-     inkscape:window-height="1147"
-     inkscape:window-x="1728"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.17460938"
+     inkscape:cx="140.3132"
+     inkscape:cy="2041.7002"
+     inkscape:window-width="1296"
+     inkscape:window-height="969"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg840"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid3972"
@@ -63,12 +63,15 @@
   <path
      id="rect1109-7"
      style="fill:#4aa35b;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round"
-     d="M 0 0 L 0 3200 L 1200 3200 L 2400 3200 L 2400 1983.502 A 197.94194 197.94194 0 0 1 2204.2051 2153.7363 A 197.94194 197.94194 0 0 1 2006.2637 1955.7949 A 197.94194 197.94194 0 0 1 2204.2051 1757.8516 A 197.94194 197.94194 0 0 1 2400 1927.0117 L 2400 0 L 0 0 z "
+     d="M 0 0 L 0 3200 L 1200 3200 L 2400 3200 L 2400 2650 A 1050 1050 0 0 1 1350 1600 A 1050 1050 0 0 1 2400 550 L 2400 0 L 0 0 z "
      transform="scale(0.75)" />
-  <circle
+  <path
+     id="path1927-87"
+     style="fill:#4aa35b;fill-opacity:1;stroke-width:40;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2400 550 L 2400 1075 A 525 525 0 0 1 2925 1600 A 525 525 0 0 1 2400 2125 L 2400 2650 A 1050 1050 0 0 0 3450 1600 A 1050 1050 0 0 0 2400 550 z "
+     transform="scale(0.75)" />
+  <path
+     id="path1927-8-1"
      style="fill:#4aa35b;fill-opacity:1;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
-     id="path1927"
-     cx="2064.6982"
-     cy="1054.4967"
-     r="266.30872" />
+     d="m 1800,806.25 v 787.5 A 393.75,393.75 0 0 1 1406.25,1200 393.75,393.75 0 0 1 1800,806.25 Z" />
 </svg>
