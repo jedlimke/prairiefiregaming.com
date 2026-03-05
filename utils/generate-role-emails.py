@@ -393,6 +393,8 @@ STYLES = """\
         }
         .flag-banner {
             margin: 0 0 20px 0;
+            border-radius: 4px;
+            border: thin solid #CCC;
         }
         .callout {
             background-color: #FFCC00;
@@ -506,6 +508,11 @@ def build_flag_banner_html(team):
     flag = team.get("flag_img")
     if not flag:
         return ""
+    # INC logo gets a dark background treatment
+    if team.get("type") == "press":
+        return f"""\
+    <img src="{ASSETS_URL}/{flag}" alt="{team['nation']}" class="flag-banner" style="padding: 50px 50px 50px 30px; background-color: #222; box-sizing: border-box;">
+"""
     return f"""\
     <img src="{ASSETS_URL}/{flag}" alt="{team['nation']}" class="flag-banner">
 """
@@ -524,13 +531,13 @@ def build_ship_image_html(team):
 
 
 def build_roster_table(roles):
-    """Build the crew roster table with placeholder names."""
+    """Build the crew roster table with placeholder names stacked over email."""
     rows = ""
     for role in roles:
         rows += f"""\
             <tr>
                 <td>{role}</td>
-                <td style="color: #999;"><em>[Player Name]</em></td>
+                <td><em style="color: #999;">[Player Name]</em><br><span style="color: #bbb; font-size: 13px;">[email@address]</span></td>
             </tr>
 """
     return f"""\
@@ -609,11 +616,21 @@ def build_email(team, hex_mapping):
     else:
         discord_channel_text = f"I'll get you assigned to the <strong>{ship_name} private channel</strong> right away"
 
-    discord_section = f"""\
+    if is_wildcard:
+        discord_section = f"""\
     <div class="discord-box">
         <h2 style="margin: 0 0 10px 0;"><strong>Join the PFG Discord Server</strong></h2>
-        <p>This is where {"your team" if is_press else "your crew" if not is_wildcard else "we'll"} {"" if is_wildcard else "will "}coordinate before game day. Join the server and send a DM to <strong>Jed (@coppergearbox)</strong>—{discord_channel_text} so you can start planning{"" if is_wildcard else " together"}.</p>
-        <p style="font-size: 13px; color: #777;">Even if you're not a Discord regular, it takes 30 seconds to join and it's the easiest way for {"your team" if is_press else "your crew" if not is_wildcard else "us"} to stay connected. That said, all your essential materials are linked below—you won't miss anything critical.</p>
+        <p>This is where we'll coordinate before game day. There, you can message <strong>Jed (@coppergearbox)</strong>—I'll answer any questions you have right away.</p>
+        <p style="font-size: 13px; color: #777;">Even if you're not a Discord regular, it takes 30 seconds to join and it's the easiest way for us to stay connected. That said, all your essential materials are linked below—you won't miss anything critical.</p>
+        <p style="text-align: center;"><a href="{DISCORD_INVITE}" class="discord-btn">JOIN THE SERVER ►</a></p>
+    </div>
+"""
+    else:
+        discord_section = f"""\
+    <div class="discord-box">
+        <h2 style="margin: 0 0 10px 0;"><strong>Join the PFG Discord Server</strong></h2>
+        <p>This is where {"your team" if is_press else "your crew"} will coordinate before game day. Join the server and send a DM to <strong>Jed (@coppergearbox)</strong>—{discord_channel_text} so you can start planning together.</p>
+        <p style="font-size: 13px; color: #777;">Even if you're not a Discord regular, it takes 30 seconds to join and it's the easiest way for {"your team" if is_press else "your crew"} to stay connected. That said, all your essential materials are linked below—you won't miss anything critical.</p>
         <p style="text-align: center;"><a href="{DISCORD_INVITE}" class="discord-btn">JOIN THE SERVER ►</a></p>
     </div>
 """
@@ -699,7 +716,7 @@ def build_email(team, hex_mapping):
 {STYLES}
     </style>
 </head>
-<body>
+<body style="max-width: 600px;">
     <a href="{BASE_URL}/megagames/den-of-wolves-2026/">
         <img src="{ASSETS_URL}/dow--hero-banner-3.png" alt="Den of Wolves: Infinite Domain" class="hero">
     </a>
