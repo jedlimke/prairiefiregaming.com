@@ -9,19 +9,19 @@ body_class: home
 We host and create **megagames**—massive, immersive events where dozens (and sometimes hundreds) of players come together for hours of strategy, diplomacy, and unforgettable chaos. Most people haven't heard of megagames before, but once you experience one, you'll never forget it.
 
 <div class="pull-quotes-grid">
-	<a class="pull-quote" href="/news/2017/12/02/watch-the-skies">
+	<a class="pull-quote" href="/news/2026/03/07/den-of-wolves">
   		<p>So. Much. Fun!</p>
 		<cite>(Ex-)Galactic President<span class="game-title">Den of Wolves: Infinite Domain</span></cite>
 	</a>
-	<a class="pull-quote" href="/news/2017/12/02/watch-the-skies">
+	<a class="pull-quote" href="/news/2026/03/07/den-of-wolves">
   		<p>That was so fun! I walked in so confused and I had a blast! Not gonna lie, I'm happy I played!</p>
 		<cite>FAS Representative to the Interstellar Council<span class="game-title">Den of Wolves: Infinite Domain</span></cite>
 	</a>
-	<a class="pull-quote" href="/news/2019/06/08/sickle">
+	<a class="pull-quote" href="/news/2026/03/07/den-of-wolves">
 		<p>Had a great time with minimal casualties! Hope to play with y'all again one day. Glory to Helvetii!</p>
 		<cite>Captain of the Hephaestus<span class="game-title">Den of Wolves: Infinite Domain</span></cite>
 	</a>
-	<a class="pull-quote" href="/news/2017/12/02/watch-the-skies">
+	<a class="pull-quote" href="/news/2026/03/07/den-of-wolves">
   		<p>Had a great time—would do it again in a heartbeat.</p>
 		<cite>Field Correspondent, Interstellar News Corporation<span class="game-title">Den of Wolves: Infinite Domain</span></cite>
 	</a>
