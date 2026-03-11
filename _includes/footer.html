@@ -33,10 +33,10 @@
 	{%- comment -%} Contact info {%- endcomment -%}
 	<div class="footer-contact">
 		{%- if site.discord_url -%}
-		<a href="{{ site.discord_url | escape }}">Discord</a>
+		<a href="{{ site.discord_url | escape }}" target="_blank">Discord</a>
 		{%- endif -%}
 		{%- if site.facebook_username -%}
-		<a href="https://www.facebook.com/{{ site.facebook_username | cgi_escape | escape }}">Facebook</a>
+		<a href="https://www.facebook.com/{{ site.facebook_username | cgi_escape | escape }}" target="_blank">Facebook</a>
 		{%- endif -%}
 		{%- if site.email -%}
 		<a href="mailto:{{ site.email }}">{{ site.email }}</a>
