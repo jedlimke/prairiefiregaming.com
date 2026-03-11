@@ -64,9 +64,9 @@ If you're still curious about what makes megagames so special, check out this vi
 {:/nomarkdown}
 
 For more insights, we recommend:
-- [7 Habits of Highly Effective Megagamers](https://www.beckybeckyblogs.com/geek-culture/7-habits-highly-effective-megagamers/) by BeckyBecky Campbell-Ladley—great tips for getting the most out of your first (or fiftieth) megagame
-- [Megagame Coalition](https://megagamecoalition.com/)—we're proud members of this community dedicated to growing and supporting megagames worldwide
+- [7 Habits of Highly Effective Megagamers](https://www.beckybeckyblogs.com/geek-culture/7-habits-highly-effective-megagamers/){:target="_blank"} by BeckyBecky Campbell-Ladley—great tips for getting the most out of your first (or fiftieth) megagame
+- [Megagame Coalition](https://megagamecoalition.com/){:target="_blank"}—we're proud members of this community dedicated to growing and supporting megagames worldwide
 
 ## Stay Connected
 
-Join our community on [Discord]({{ site.discord_url }}) or follow us on [Facebook @{{ site.facebook_username }}]({{ site.facebook_url }}) for updates on upcoming events and megagame news.
+Join our community on [Discord]({{ site.discord_url }}){:target="_blank"} or follow us on [Facebook @{{ site.facebook_username }}]({{ site.facebook_url }}){:target="_blank"} for updates on upcoming events and megagame news.
