@@ -34,7 +34,9 @@ exclude:
 # Social Links
 # Used by custom social.html include
 # =============================================================================
-facebook_username: prairiefiregaming
+discord_url: https://discord.gg/jKqZpdRQVW
+facebook_username: PrairieFireGaming
+facebook_url: https://www.facebook.com/PrairieFireGaming
 
 # Contact email (shows in footer)
 email: info@prairiefiregaming.com
@@ -44,7 +46,7 @@ show_excerpts: true
 
 # Only show these pages in the top navigation
 header_pages:
-  - megagames/den-of-wolves-2026.md
+  # - megagames/den-of-wolves-2026.md
   - megagames/index.md
   - about/for-players.md
   - about/faq.md
