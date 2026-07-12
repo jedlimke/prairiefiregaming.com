@@ -50,7 +50,7 @@ This lets us tailor the rules to the actual structure of the game you'll be play
 
 ## When is your next game?
 
-Check out our [Megagames page](../megagames/) for upcoming events! We announce new games via email, our social media channels, and on this website.
+Check out our [Megagames page](/megagames/) for upcoming events! We announce new games via email, our social media channels, and on this website.
 
 ## How can I get involved in helping run games?
 
